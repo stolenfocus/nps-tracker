@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/nps-tracker/_next/static/chunks/0_22_5zmjd89f.js","/nps-tracker/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[97367,["/nps-tracker/_next/static/chunks/0_22_5zmjd89f.js","/nps-tracker/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"max-w-[1200px] mx-auto px-4 py-6","children":[["$","p",null,{"className":"text-slate-400","children":"해당 날짜의 데이터가 없습니다."}],["$","$L2",null,{"href":"/feed","className":"text-blue-400 text-sm mt-2 inline-block","children":"← 피드 목록"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"to9ZJZeSxC7rypEyCm_mP"}
+5:null

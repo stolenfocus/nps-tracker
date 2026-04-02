@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T23:18:52.866280",
+  "count": 4,
+  "summary": {
+    "감소": 2,
+    "신규": 2
+  },
+  "highlights": [
+    "대주전자재료",
+    "효성티앤씨",
+    "코오롱인더"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "대주전자재료",
+      "stock_code": "078600",
+      "change_type": "신규",
+      "stake_pct": "10.04",
+      "stake_change": "10.04",
+      "stake_prev_pct": null,
+      "price": 118000,
+      "per": 88.39,
+      "pbr": 7.04,
+      "eps": 1335,
+      "sector": "전기·전자",
+      "volume": 350870,
+      "change_pct": -7.6,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002442"
+    },
+    {
+      "stock_name": "효성티앤씨",
+      "stock_code": "298020",
+      "change_type": "신규",
+      "stake_pct": "10.02",
+      "stake_change": "10.02",
+      "stake_prev_pct": null,
+      "price": 366500,
+      "per": 146.66,
+      "pbr": 1.01,
+      "eps": 2499,
+      "sector": "화학",
+      "volume": 34317,
+      "change_pct": -8.38,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002422"
+    },
+    {
+      "stock_name": "코오롱인더",
+      "stock_code": "120110",
+      "change_type": "감소",
+      "stake_pct": "8.62",
+      "stake_change": "-0.63",
+      "stake_prev_pct": 9.25,
+      "price": 79300,
+      "per": 24.36,
+      "pbr": 0.66,
+      "eps": 3256,
+      "sector": "화학",
+      "volume": 398548,
+      "change_pct": -4.46,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002458"
+    },
+    {
+      "stock_name": "효성티앤씨",
+      "stock_code": "298020",
+      "change_type": "감소",
+      "stake_pct": "9.91",
+      "stake_change": "-0.11",
+      "stake_prev_pct": 10.02,
+      "price": 366500,
+      "per": 146.66,
+      "pbr": 1.01,
+      "eps": 2499,
+      "sector": "화학",
+      "volume": 34317,
+      "change_pct": -8.38,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002469"
+    }
+  ]
+}
