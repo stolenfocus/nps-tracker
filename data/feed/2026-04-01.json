@@ -118,10 +118,71 @@
       "ceo": "성도경",
       "homepage": "www.vina.co.kr",
       "established": "19990726",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260105",
+          "stock_type": "11",
+          "shares_before": 335366,
+          "shares_change": 112108,
+          "shares_after": 447474,
+          "unit_price": 116700,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260127",
+          "stock_type": "11",
+          "shares_before": 447474,
+          "shares_change": 72346,
+          "shares_after": 519820,
+          "unit_price": 116700,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260203",
+          "stock_type": "11",
+          "shares_before": 519820,
+          "shares_change": 80977,
+          "shares_after": 600797,
+          "unit_price": 116700,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260224",
+          "stock_type": "11",
+          "shares_before": 600797,
+          "shares_change": 77866,
+          "shares_after": 678663,
+          "unit_price": 116700,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260325",
+          "stock_type": "11",
+          "shares_before": 678663,
+          "shares_change": -58716,
+          "shares_after": 619947,
+          "unit_price": 116700,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 40062759900,
+      "total_sell_amount": 6852157200,
+      "net_amount": 33210602700,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004654"
     },
     {
@@ -230,10 +291,47 @@
       "ceo": "김민덕",
       "homepage": "www.handsome.co.kr",
       "established": "19870525",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260205",
+          "stock_type": "11",
+          "shares_before": 1411652,
+          "shares_change": 236965,
+          "shares_after": 1648617,
+          "unit_price": 23100,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260224",
+          "stock_type": "11",
+          "shares_before": 1648617,
+          "shares_change": 268187,
+          "shares_after": 1916804,
+          "unit_price": 23100,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260311",
+          "stock_type": "11",
+          "shares_before": 1916804,
+          "shares_change": 225138,
+          "shares_after": 2141942,
+          "unit_price": 23100,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 16869699000,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 16869699000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004456"
     },
     {
@@ -342,10 +440,35 @@
       "ceo": "최우형, 임종필 (각자 대표이사)",
       "homepage": "www.vmsemi.com",
       "established": "20020222",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260303",
+          "stock_type": "11",
+          "shares_before": 1310438,
+          "shares_change": 260394,
+          "shares_after": 1570832,
+          "unit_price": 40650,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260311",
+          "stock_type": "11",
+          "shares_before": 1570832,
+          "shares_change": 260617,
+          "shares_after": 1831449,
+          "unit_price": 40650,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 21179097150,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 21179097150,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004562"
     },
     {
@@ -454,10 +577,23 @@
       "ceo": "윤요현, 박서영",
       "homepage": "www.hanmiparsons.com",
       "established": "19960618",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260323",
+          "stock_type": "11",
+          "shares_before": 670133,
+          "shares_change": 175404,
+          "shares_after": 845537,
+          "unit_price": 29000,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 5086716000,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 5086716000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004518"
     },
     {
@@ -566,10 +702,23 @@
       "ceo": "유재권, 전영택",
       "homepage": "www.samchully.co.kr",
       "established": "19660707",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260331",
+          "stock_type": "11",
+          "shares_before": 203626,
+          "shares_change": 32638,
+          "shares_after": 236264,
+          "unit_price": 136900,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 4468142200,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 4468142200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004859"
     },
     {
@@ -678,10 +827,23 @@
       "ceo": "카나이 켄이치, 오창민(각자대표)",
       "homepage": "www.tck.co.kr",
       "established": "19960807",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260312",
+          "stock_type": "11",
+          "shares_before": 703560,
+          "shares_change": 107701,
+          "shares_after": 811261,
+          "unit_price": 215500,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 23209565500,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 23209565500,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004537"
     },
     {
@@ -790,10 +952,23 @@
       "ceo": "서경배, 이상목",
       "homepage": "www.apgroup.com",
       "established": "19590306",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260212",
+          "stock_type": "11",
+          "shares_before": 4822889,
+          "shares_change": 721832,
+          "shares_after": 5544721,
+          "unit_price": 27650,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 19958654800,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 19958654800,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004849"
     },
     {
@@ -902,10 +1077,23 @@
       "ceo": "한정욱",
       "homepage": "wimco.co.kr",
       "established": "20061204",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260325",
+          "stock_type": "11",
+          "shares_before": 1089402,
+          "shares_change": 142262,
+          "shares_after": 1231664,
+          "unit_price": 40100,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 5704706200,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 5704706200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004616"
     },
     {
@@ -1014,10 +1202,23 @@
       "ceo": "김정남, 정종표",
       "homepage": "www.idbins.com",
       "established": "19681101",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260330",
+          "stock_type": "11",
+          "shares_before": 5101571,
+          "shares_change": 355290,
+          "shares_after": 5456861,
+          "unit_price": 162200,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 57628038000,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 57628038000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004830"
     },
     {
@@ -1126,10 +1327,23 @@
       "ceo": "이우일, 김상배",
       "homepage": "www.unid.co.kr",
       "established": "19800510",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260202",
+          "stock_type": "11",
+          "shares_before": 400608,
+          "shares_change": 75699,
+          "shares_after": 476307,
+          "unit_price": 80200,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 6071059800,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 6071059800,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004449"
     },
     {
@@ -1238,10 +1452,23 @@
       "ceo": "문휴건, 문창환 각자대표이사",
       "homepage": "www.hy-lok.com",
       "established": "19780318",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260320",
+          "stock_type": "11",
+          "shares_before": 602014,
+          "shares_change": 127545,
+          "shares_after": 729559,
+          "unit_price": 35450,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 4521470250,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 4521470250,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004423"
     },
     {
@@ -1350,10 +1577,23 @@
       "ceo": "윤성수, 윤준수(공동대표이사)",
       "homepage": "www.jinsungtec.com",
       "established": "19820428",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260114",
+          "stock_type": "11",
+          "shares_before": 1569340,
+          "shares_change": 235646,
+          "shares_after": 1804986,
+          "unit_price": 15500,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 3652513000,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 3652513000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004505"
     },
     {
@@ -1462,10 +1702,23 @@
       "ceo": "Sung Moo-je",
       "homepage": "www.stpharm.co.kr",
       "established": "20080818",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260219",
+          "stock_type": "11",
+          "shares_before": 1039449,
+          "shares_change": 220474,
+          "shares_after": 1259923,
+          "unit_price": 143200,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 31571876800,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 31571876800,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004707"
     },
     {
@@ -1574,10 +1827,23 @@
       "ceo": "이재호, 주재영 (각자 대표이사)",
       "homepage": "www.hites.co.kr",
       "established": "20020919",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260102",
+          "stock_type": "11",
+          "shares_before": 1665753,
+          "shares_change": 161710,
+          "shares_after": 1827463,
+          "unit_price": 58700,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 9492377000,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 9492377000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004600"
     },
     {
@@ -1686,10 +1952,23 @@
       "ceo": "이재원, 김한철 각자대표",
       "homepage": "www.suprema.co.kr",
       "established": "20151231",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260205",
+          "stock_type": "11",
+          "shares_before": 0,
+          "shares_change": 366747,
+          "shares_after": 366747,
+          "unit_price": 44800,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 16430265600,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 16430265600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004814"
     },
     {
@@ -1798,10 +2077,23 @@
       "ceo": "박권일",
       "homepage": "www.dcf.co.kr",
       "established": "19810101",
-      "trades": [],
-      "total_buy_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260330",
+          "stock_type": "11",
+          "shares_before": 0,
+          "shares_change": 1410625,
+          "shares_after": 1410625,
+          "unit_price": 6650,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 9380656250,
       "total_sell_amount": 0,
-      "net_amount": 0,
+      "net_amount": 9380656250,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004783"
     },
     {
@@ -1910,10 +2202,59 @@
       "ceo": "최영식",
       "homepage": "www.bhe.co.kr",
       "established": "19990310",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260102",
+          "stock_type": "11",
+          "shares_before": 2515263,
+          "shares_change": -414935,
+          "shares_after": 2100328,
+          "unit_price": 21250,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260113",
+          "stock_type": "11",
+          "shares_before": 2100328,
+          "shares_change": -380259,
+          "shares_after": 1720069,
+          "unit_price": 21250,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260316",
+          "stock_type": "11",
+          "shares_before": 1720069,
+          "shares_change": 371747,
+          "shares_after": 2091816,
+          "unit_price": 21250,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260325",
+          "stock_type": "11",
+          "shares_before": 2091816,
+          "shares_change": 426876,
+          "shares_after": 2518692,
+          "unit_price": 21250,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 16970738750,
+      "total_sell_amount": 16897872500,
+      "net_amount": 72866250,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004578"
     },
     {
@@ -2022,10 +2363,59 @@
       "ceo": "이수훈, 이범성(각자대표이사)",
       "homepage": "www.dsneolux.co.kr",
       "established": "20141231",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260119",
+          "stock_type": "11",
+          "shares_before": 1960771,
+          "shares_change": -271740,
+          "shares_after": 1689031,
+          "unit_price": 44500,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260130",
+          "stock_type": "11",
+          "shares_before": 1689031,
+          "shares_change": -253632,
+          "shares_after": 1435399,
+          "unit_price": 44500,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260323",
+          "stock_type": "11",
+          "shares_before": 1435399,
+          "shares_change": 253957,
+          "shares_after": 1689356,
+          "unit_price": 44500,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260327",
+          "stock_type": "11",
+          "shares_before": 1689356,
+          "shares_change": 285095,
+          "shares_after": 1974451,
+          "unit_price": 44500,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 23987814000,
+      "total_sell_amount": 23379054000,
+      "net_amount": 608760000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004689"
     },
     {
@@ -2134,10 +2524,35 @@
       "ceo": "최영식",
       "homepage": "www.haesungds.com",
       "established": "20140306",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260129",
+          "stock_type": "11",
+          "shares_before": 1222939,
+          "shares_change": 177513,
+          "shares_after": 1400452,
+          "unit_price": 52300,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260316",
+          "stock_type": "11",
+          "shares_before": 1400452,
+          "shares_change": -171297,
+          "shares_after": 1229155,
+          "unit_price": 52300,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 9283929900,
+      "total_sell_amount": 8958833100,
+      "net_amount": 325096800,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004679"
     },
     {
@@ -2215,10 +2630,23 @@
       "ceo": "조영철, 오승현",
       "homepage": "www.hd-infracore.com",
       "established": "20001023",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260102",
+          "stock_type": "11",
+          "shares_before": 25733062,
+          "shares_change": -25733062,
+          "shares_after": 0,
+          "unit_price": 13800,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 355116255600,
+      "net_amount": -355116255600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004886"
     },
     {
@@ -2327,10 +2755,47 @@
       "ceo": "- 이강수 - 지용구",
       "homepage": "www.douzone.com",
       "established": "19770820",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260223",
+          "stock_type": "11",
+          "shares_before": 2496136,
+          "shares_change": -515114,
+          "shares_after": 1981022,
+          "unit_price": 119400,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260316",
+          "stock_type": "11",
+          "shares_before": 1981022,
+          "shares_change": -336353,
+          "shares_after": 1644669,
+          "unit_price": 119400,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260326",
+          "stock_type": "11",
+          "shares_before": 1644669,
+          "shares_change": -1358869,
+          "shares_after": 285800,
+          "unit_price": 119400,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 263914118400,
+      "net_amount": -263914118400,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004872"
     },
     {
@@ -2439,10 +2904,47 @@
       "ceo": "양호근, 최동규 (각자 대표이사)",
       "homepage": "www.kctech.co.kr",
       "established": "20171101",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260107",
+          "stock_type": "11",
+          "shares_before": 1556513,
+          "shares_change": -217051,
+          "shares_after": 1339462,
+          "unit_price": 43150,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260119",
+          "stock_type": "11",
+          "shares_before": 1339462,
+          "shares_change": -209495,
+          "shares_after": 1129967,
+          "unit_price": 43150,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260331",
+          "stock_type": "11",
+          "shares_before": 1129967,
+          "shares_change": -214785,
+          "shares_after": 915182,
+          "unit_price": 43150,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 27673432650,
+      "net_amount": -27673432650,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004735"
     },
     {
@@ -2551,10 +3053,35 @@
       "ceo": "김정렬 (단독 대표이사)",
       "homepage": "isc21.kr",
       "established": "20010222",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260211",
+          "stock_type": "11",
+          "shares_before": 1306425,
+          "shares_change": -221722,
+          "shares_after": 1084703,
+          "unit_price": 236000,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260330",
+          "stock_type": "11",
+          "shares_before": 1084703,
+          "shares_change": -214956,
+          "shares_after": 869747,
+          "unit_price": 236000,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 103056008000,
+      "net_amount": -103056008000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004587"
     },
     {
@@ -2663,10 +3190,47 @@
       "ceo": "엄평용, 신승우 (각자 대표이사)",
       "homepage": "www.eugenetech.co.kr",
       "established": "20000105",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260121",
+          "stock_type": "11",
+          "shares_before": 1379355,
+          "shares_change": -238300,
+          "shares_after": 1141055,
+          "unit_price": 125500,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260130",
+          "stock_type": "11",
+          "shares_before": 1141055,
+          "shares_change": 12626,
+          "shares_after": 1153681,
+          "unit_price": 125500,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260311",
+          "stock_type": "11",
+          "shares_before": 1153681,
+          "shares_change": -242296,
+          "shares_after": 911385,
+          "unit_price": 125500,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 1584563000,
+      "total_sell_amount": 60314798000,
+      "net_amount": -58730235000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004550"
     },
     {
@@ -2775,10 +3339,23 @@
       "ceo": "설윤석, 박민수(각자대표)",
       "homepage": "www.taihanfiber.com",
       "established": "19740902",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260106",
+          "stock_type": "11",
+          "shares_before": 6741993,
+          "shares_change": -1510543,
+          "shares_after": 5231450,
+          "unit_price": 10120,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 15286695160,
+      "net_amount": -15286695160,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004407"
     },
     {
@@ -2887,10 +3464,35 @@
       "ceo": "조덕수",
       "homepage": "www.rfhic.com",
       "established": "20150414",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260122",
+          "stock_type": "11",
+          "shares_before": 1619296,
+          "shares_change": -335320,
+          "shares_after": 1283976,
+          "unit_price": 86400,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260130",
+          "stock_type": "11",
+          "shares_before": 1283976,
+          "shares_change": 42347,
+          "shares_after": 1326323,
+          "unit_price": 86400,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 3658780800,
+      "total_sell_amount": 28971648000,
+      "net_amount": -25312867200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004698"
     },
     {
@@ -2999,10 +3601,23 @@
       "ceo": "윤원식, 윤준식",
       "homepage": "www.tkbend.co.kr",
       "established": "19820901",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260309",
+          "stock_type": "11",
+          "shares_before": 1762123,
+          "shares_change": -327072,
+          "shares_after": 1435051,
+          "unit_price": 37750,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 12346968000,
+      "net_amount": -12346968000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004468"
     },
     {
@@ -3111,10 +3726,23 @@
       "ceo": "이상근, 이정길(공동대표)",
       "homepage": "www.ubiquoss.com",
       "established": "20170302",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260325",
+          "stock_type": "11",
+          "shares_before": 733633,
+          "shares_change": -158285,
+          "shares_after": 575348,
+          "unit_price": 15110,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 2391686350,
+      "net_amount": -2391686350,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004716"
     },
     {
@@ -3217,10 +3845,23 @@
       "ceo": "서상덕",
       "homepage": "s2w.inc/",
       "established": "20180917",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260109",
+          "stock_type": "11",
+          "shares_before": 576027,
+          "shares_change": -110778,
+          "shares_after": 465249,
+          "unit_price": 14230,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 1576370940,
+      "net_amount": -1576370940,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004761"
     },
     {
@@ -3329,10 +3970,23 @@
       "ceo": "안 재 일",
       "homepage": "www.skbend.com",
       "established": "19800223",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260105",
+          "stock_type": "11",
+          "shares_before": 1414742,
+          "shares_change": -337164,
+          "shares_after": 1077578,
+          "unit_price": 36200,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 12205336800,
+      "net_amount": -12205336800,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004431"
     },
     {
@@ -3441,10 +4095,23 @@
       "ceo": "이상훈",
       "homepage": "www.ablbio.com",
       "established": "20160216",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260204",
+          "stock_type": "11",
+          "shares_before": 2704242,
+          "shares_change": -480155,
+          "shares_after": 2224087,
+          "unit_price": 159800,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 76728769000,
+      "net_amount": -76728769000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004749"
     },
     {
@@ -3553,10 +4220,23 @@
       "ceo": "방문신",
       "homepage": "www.sbs.co.kr",
       "established": "19901114",
-      "trades": [],
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260129",
+          "stock_type": "11",
+          "shares_before": 2137493,
+          "shares_change": -186493,
+          "shares_after": 1951000,
+          "unit_price": 15190,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
       "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "total_sell_amount": 2832828670,
+      "net_amount": -2832828670,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004483"
     },
     {
@@ -3665,10 +4345,35 @@
       "ceo": "김익환, 김경, 김동녕",
       "homepage": "www.hansae.com",
       "established": "20090106",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260107",
+          "stock_type": "11",
+          "shares_before": 2440202,
+          "shares_change": 447058,
+          "shares_after": 2887260,
+          "unit_price": 10940,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260213",
+          "stock_type": "11",
+          "shares_before": 2887260,
+          "shares_change": -568386,
+          "shares_after": 2318874,
+          "unit_price": 10940,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 4890814520,
+      "total_sell_amount": 6218142840,
+      "net_amount": -1327328320,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004627"
     },
     {
@@ -3777,10 +4482,59 @@
       "ceo": "김윤건, 조훈",
       "homepage": "www.tesna.co.kr",
       "established": "20020906",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260109",
+          "stock_type": "11",
+          "shares_before": 995900,
+          "shares_change": -195123,
+          "shares_after": 800777,
+          "unit_price": 97200,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260122",
+          "stock_type": "11",
+          "shares_before": 800777,
+          "shares_change": 180071,
+          "shares_after": 980848,
+          "unit_price": 97200,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260312",
+          "stock_type": "11",
+          "shares_before": 980848,
+          "shares_change": 204307,
+          "shares_after": 1185155,
+          "unit_price": 97200,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260320",
+          "stock_type": "11",
+          "shares_before": 1185155,
+          "shares_change": -228163,
+          "shares_after": 956992,
+          "unit_price": 97200,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 37361541600,
+      "total_sell_amount": 41143399200,
+      "net_amount": -3781857600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004668"
     },
     {
@@ -3889,10 +4643,35 @@
       "ceo": "양민석 (단독대표이사)",
       "homepage": "www.ygfamily.com",
       "established": "19980224",
-      "trades": [],
-      "total_buy_amount": 0,
-      "total_sell_amount": 0,
-      "net_amount": 0,
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260116",
+          "stock_type": "11",
+          "shares_before": 950507,
+          "shares_change": 202858,
+          "shares_after": 1153365,
+          "unit_price": 50800,
+          "estimated": true,
+          "note": "-"
+        },
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260323",
+          "stock_type": "11",
+          "shares_before": 1153365,
+          "shares_change": -209972,
+          "shares_after": 943393,
+          "unit_price": 50800,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 10305186400,
+      "total_sell_amount": 10666577600,
+      "net_amount": -361391200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004635"
     }
   ]
