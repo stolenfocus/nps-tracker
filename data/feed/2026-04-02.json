@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-03T00:40:35.546873",
+  "generated_at": "2026-04-03T00:53:16.994682",
   "count": 4,
   "summary": {
     "감소": 2,
@@ -112,6 +112,12 @@
           "eva": 64.0
         }
       ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "DaejooElectronicMaterialsCo.,Ltd.",
+      "ceo": "임일지,임중규(각자대표)",
+      "homepage": "www.daejoo.co.kr",
+      "established": "19810706",
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002442"
     },
     {
@@ -214,6 +220,12 @@
           "eva": 9698.0
         }
       ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Hyosung TNC Corporation",
+      "ceo": "이창황, 유영환",
+      "homepage": "www.hyosungtnc.com",
+      "established": "20180604",
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002422"
     },
     {
@@ -316,6 +328,12 @@
           "eva": -1660.0
         }
       ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "KOLON INDUSTRIES, INC.",
+      "ceo": "허성, 김민태",
+      "homepage": "www.kolonindustries.com/",
+      "established": "20100105",
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002458"
     },
     {
@@ -418,6 +436,12 @@
           "eva": 9698.0
         }
       ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Hyosung TNC Corporation",
+      "ceo": "이창황, 유영환",
+      "homepage": "www.hyosungtnc.com",
+      "established": "20180604",
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002469"
     }
   ]
