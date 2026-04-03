@@ -160,7 +160,10 @@
       "total_sell_amount": 2758218040,
       "net_amount": 1255956594,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002442",
-      "obligation_date": "20260401"
+      "obligation_date": "20260401",
+      "fx_rate": 1503.33,
+      "ref_price_usd": 78.49,
+      "net_amount_usd": 835450
     },
     {
       "stock_name": "효성티앤씨",
@@ -310,7 +313,10 @@
       "total_sell_amount": 487849329,
       "net_amount": 667980715,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002422",
-      "obligation_date": "20260331"
+      "obligation_date": "20260331",
+      "fx_rate": 1516.13,
+      "ref_price_usd": 241.73,
+      "net_amount_usd": 440583
     },
     {
       "stock_name": "코오롱인더",
@@ -460,7 +466,10 @@
       "total_sell_amount": 1315340572,
       "net_amount": -1302863072,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002458",
-      "obligation_date": "20260401"
+      "obligation_date": "20260401",
+      "fx_rate": 1503.33,
+      "ref_price_usd": 52.75,
+      "net_amount_usd": -866651
     },
     {
       "stock_name": "효성티앤씨",
@@ -598,7 +607,11 @@
       "total_sell_amount": 2315677588,
       "net_amount": -1686540888,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002469",
-      "obligation_date": "20260401"
+      "obligation_date": "20260401",
+      "fx_rate": 1503.33,
+      "ref_price_usd": 243.79,
+      "net_amount_usd": -1121870
     }
-  ]
+  ],
+  "fx_rate": 1512.09
 }

@@ -185,7 +185,10 @@
       "net_amount": 28326187700,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004654",
       "obligation_date": "20260325",
-      "est_close_price": 117600
+      "est_close_price": 117600,
+      "fx_rate": 1497.31,
+      "ref_price_usd": 77.94,
+      "net_amount_usd": 18918052
     },
     {
       "stock_name": "한섬",
@@ -336,7 +339,10 @@
       "net_amount": 15765154550,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004456",
       "obligation_date": "20260311",
-      "est_close_price": 22150
+      "est_close_price": 22150,
+      "fx_rate": 1472.78,
+      "ref_price_usd": 15.68,
+      "net_amount_usd": 10704351
     },
     {
       "stock_name": "브이엠",
@@ -475,7 +481,10 @@
       "net_amount": 20436829300,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004562",
       "obligation_date": "20260311",
-      "est_close_price": 41100
+      "est_close_price": 41100,
+      "fx_rate": 1472.78,
+      "ref_price_usd": 27.6,
+      "net_amount_usd": 13876363
     },
     {
       "stock_name": "한미글로벌",
@@ -602,7 +611,10 @@
       "net_amount": 4744678200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004518",
       "obligation_date": "20260323",
-      "est_close_price": 29650
+      "est_close_price": 29650,
+      "fx_rate": 1504.21,
+      "ref_price_usd": 19.28,
+      "net_amount_usd": 3154266
     },
     {
       "stock_name": "삼천리",
@@ -729,7 +741,10 @@
       "net_amount": 4536682000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004859",
       "obligation_date": "20260331",
-      "est_close_price": 137800
+      "est_close_price": 137800,
+      "fx_rate": 1516.13,
+      "ref_price_usd": 90.3,
+      "net_amount_usd": 2992278
     },
     {
       "stock_name": "티씨케이",
@@ -856,7 +871,10 @@
       "net_amount": 24071173500,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004537",
       "obligation_date": "20260312",
-      "est_close_price": 209500
+      "est_close_price": 209500,
+      "fx_rate": 1475.34,
+      "ref_price_usd": 146.07,
+      "net_amount_usd": 16315679
     },
     {
       "stock_name": "아모레퍼시픽홀딩스",
@@ -983,7 +1001,10 @@
       "net_amount": 24794929200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004849",
       "obligation_date": "20260212",
-      "est_close_price": 27550
+      "est_close_price": 27550,
+      "fx_rate": 1444.19,
+      "ref_price_usd": 19.15,
+      "net_amount_usd": 17168745
     },
     {
       "stock_name": "원익머트리얼즈",
@@ -1110,7 +1131,10 @@
       "net_amount": 6458694800,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004616",
       "obligation_date": "20260325",
-      "est_close_price": 39300
+      "est_close_price": 39300,
+      "fx_rate": 1497.31,
+      "ref_price_usd": 26.78,
+      "net_amount_usd": 4313532
     },
     {
       "stock_name": "DB손해보험",
@@ -1237,7 +1261,10 @@
       "net_amount": 58338618000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004830",
       "obligation_date": "20260330",
-      "est_close_price": 163700
+      "est_close_price": 163700,
+      "fx_rate": 1507.02,
+      "ref_price_usd": 107.63,
+      "net_amount_usd": 38711243
     },
     {
       "stock_name": "유니드",
@@ -1364,7 +1391,10 @@
       "net_amount": 6010500600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004449",
       "obligation_date": "20260202",
-      "est_close_price": 82400
+      "est_close_price": 82400,
+      "fx_rate": 1448.8,
+      "ref_price_usd": 55.36,
+      "net_amount_usd": 4148606
     },
     {
       "stock_name": "하이록코리아",
@@ -1491,7 +1521,10 @@
       "net_amount": 4846710000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004423",
       "obligation_date": "20260320",
-      "est_close_price": 37800
+      "est_close_price": 37800,
+      "fx_rate": 1489.84,
+      "ref_price_usd": 23.79,
+      "net_amount_usd": 3253175
     },
     {
       "stock_name": "진성티이씨",
@@ -1618,7 +1651,10 @@
       "net_amount": 3381520100,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004505",
       "obligation_date": "20260114",
-      "est_close_price": 16340
+      "est_close_price": 16340,
+      "fx_rate": 1473.01,
+      "ref_price_usd": 10.52,
+      "net_amount_usd": 2295653
     },
     {
       "stock_name": "에스티팜",
@@ -1745,7 +1781,10 @@
       "net_amount": 33842759000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004707",
       "obligation_date": "20260219",
-      "est_close_price": 139100
+      "est_close_price": 139100,
+      "fx_rate": 1440.16,
+      "ref_price_usd": 99.43,
+      "net_amount_usd": 23499305
     },
     {
       "stock_name": "테스",
@@ -1872,7 +1911,10 @@
       "net_amount": 8602972000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004600",
       "obligation_date": "20260102",
-      "est_close_price": 60200
+      "est_close_price": 60200,
+      "fx_rate": 1443.64,
+      "ref_price_usd": 40.66,
+      "net_amount_usd": 5959223
     },
     {
       "stock_name": "슈프리마",
@@ -1999,7 +2041,10 @@
       "net_amount": 16925374050,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004814",
       "obligation_date": "20260205",
-      "est_close_price": 44950
+      "est_close_price": 44950,
+      "fx_rate": 1460.11,
+      "ref_price_usd": 30.68,
+      "net_amount_usd": 11591849
     },
     {
       "stock_name": "대창단조",
@@ -2126,7 +2171,10 @@
       "net_amount": 9507612500,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004783",
       "obligation_date": "20260330",
-      "est_close_price": 6670
+      "est_close_price": 6670,
+      "fx_rate": 1507.02,
+      "ref_price_usd": 4.41,
+      "net_amount_usd": 6308883
     },
     {
       "stock_name": "비에이치",
@@ -2289,7 +2337,10 @@
       "net_amount": 3638628690,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004578",
       "obligation_date": "20260325",
-      "est_close_price": 23000
+      "est_close_price": 23000,
+      "fx_rate": 1497.31,
+      "ref_price_usd": 14.19,
+      "net_amount_usd": 2430110
     },
     {
       "stock_name": "덕산네오룩스",
@@ -2452,7 +2503,10 @@
       "net_amount": 8079654900,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004689",
       "obligation_date": "20260327",
-      "est_close_price": 44550
+      "est_close_price": 44550,
+      "fx_rate": 1508.36,
+      "ref_price_usd": 29.5,
+      "net_amount_usd": 5356583
     },
     {
       "stock_name": "해성디에스",
@@ -2591,7 +2645,10 @@
       "net_amount": 1841416500,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004679",
       "obligation_date": "20260316",
-      "est_close_price": 52500
+      "est_close_price": 52500,
+      "fx_rate": 1501.75,
+      "ref_price_usd": 34.83,
+      "net_amount_usd": 1226180
     },
     {
       "stock_name": "에이치디현대인프라코어",
@@ -2688,7 +2745,10 @@
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004886",
       "obligation_date": "20260102",
       "est_close_price": 13800,
-      "trading_halted": true
+      "trading_halted": true,
+      "fx_rate": 1443.64,
+      "ref_price_usd": 9.56,
+      "net_amount_usd": -245986711
     },
     {
       "stock_name": "더존비즈온",
@@ -2839,7 +2899,10 @@
       "net_amount": -262483548300,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004872",
       "obligation_date": "20260326",
-      "est_close_price": 119400
+      "est_close_price": 119400,
+      "fx_rate": 1500.97,
+      "ref_price_usd": 79.55,
+      "net_amount_usd": -174875946
     },
     {
       "stock_name": "케이씨텍",
@@ -2990,7 +3053,10 @@
       "net_amount": -27256247000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004735",
       "obligation_date": "20260331",
-      "est_close_price": 42950
+      "est_close_price": 42950,
+      "fx_rate": 1516.13,
+      "ref_price_usd": 28.46,
+      "net_amount_usd": -17977513
     },
     {
       "stock_name": "ISC",
@@ -3129,7 +3195,10 @@
       "net_amount": -90805661200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004587",
       "obligation_date": "20260330",
-      "est_close_price": 239500
+      "est_close_price": 239500,
+      "fx_rate": 1507.02,
+      "ref_price_usd": 156.6,
+      "net_amount_usd": -60255114
     },
     {
       "stock_name": "유진테크",
@@ -3280,7 +3349,10 @@
       "net_amount": -47255247200,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004550",
       "obligation_date": "20260311",
-      "est_close_price": 119000
+      "est_close_price": 119000,
+      "fx_rate": 1472.78,
+      "ref_price_usd": 85.21,
+      "net_amount_usd": -32085747
     },
     {
       "stock_name": "대한광통신",
@@ -3407,7 +3479,10 @@
       "net_amount": -4289942120,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004407",
       "obligation_date": "20260106",
-      "est_close_price": 12480
+      "est_close_price": 12480,
+      "fx_rate": 1445.56,
+      "ref_price_usd": 7.0,
+      "net_amount_usd": -2967668
     },
     {
       "stock_name": "RFHIC",
@@ -3546,7 +3621,10 @@
       "net_amount": -9542236050,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004698",
       "obligation_date": "20260130",
-      "est_close_price": 89300
+      "est_close_price": 89300,
+      "fx_rate": 1428.76,
+      "ref_price_usd": 60.47,
+      "net_amount_usd": -6678684
     },
     {
       "stock_name": "태광",
@@ -3673,7 +3751,10 @@
       "net_amount": -9550502400,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004468",
       "obligation_date": "20260309",
-      "est_close_price": 42150
+      "est_close_price": 42150,
+      "fx_rate": 1483.89,
+      "ref_price_usd": 25.44,
+      "net_amount_usd": -6436126
     },
     {
       "stock_name": "유비쿼스",
@@ -3800,7 +3881,10 @@
       "net_amount": -2603788250,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004716",
       "obligation_date": "20260325",
-      "est_close_price": 15540
+      "est_close_price": 15540,
+      "fx_rate": 1497.31,
+      "ref_price_usd": 10.09,
+      "net_amount_usd": -1738977
     },
     {
       "stock_name": "에스투더블유",
@@ -3921,7 +4005,10 @@
       "net_amount": -2952233700,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004761",
       "obligation_date": "20260109",
-      "est_close_price": 13920
+      "est_close_price": 13920,
+      "fx_rate": 1450.08,
+      "ref_price_usd": 9.81,
+      "net_amount_usd": -2035911
     },
     {
       "stock_name": "성광벤드",
@@ -4048,7 +4135,10 @@
       "net_amount": -8732547600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004431",
       "obligation_date": "20260105",
-      "est_close_price": 39800
+      "est_close_price": 39800,
+      "fx_rate": 1440.48,
+      "ref_price_usd": 25.13,
+      "net_amount_usd": -6062248
     },
     {
       "stock_name": "에이비엘바이오",
@@ -4175,7 +4265,10 @@
       "net_amount": -92477853000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004749",
       "obligation_date": "20260204",
-      "est_close_price": 157400
+      "est_close_price": 157400,
+      "fx_rate": 1446.68,
+      "ref_price_usd": 110.46,
+      "net_amount_usd": -63924194
     },
     {
       "stock_name": "SBS",
@@ -4302,7 +4395,10 @@
       "net_amount": -3494878820,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004483",
       "obligation_date": "20260129",
-      "est_close_price": 15060
+      "est_close_price": 15060,
+      "fx_rate": 1429.27,
+      "ref_price_usd": 10.63,
+      "net_amount_usd": -2445219
     },
     {
       "stock_name": "한세실업",
@@ -4441,7 +4537,10 @@
       "net_amount": -954837080,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004627",
       "obligation_date": "20260213",
-      "est_close_price": 11110
+      "est_close_price": 11110,
+      "fx_rate": 1440.9,
+      "ref_price_usd": 7.59,
+      "net_amount_usd": -662667
     },
     {
       "stock_name": "두산테스나",
@@ -4604,7 +4703,10 @@
       "net_amount": -10235494400,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004668",
       "obligation_date": "20260320",
-      "est_close_price": 93100
+      "est_close_price": 93100,
+      "fx_rate": 1489.84,
+      "ref_price_usd": 65.24,
+      "net_amount_usd": -6870197
     },
     {
       "stock_name": "와이지엔터테인먼트",
@@ -4743,7 +4845,11 @@
       "net_amount": 2618142400,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004635",
       "obligation_date": "20260323",
-      "est_close_price": 51200
+      "est_close_price": 51200,
+      "fx_rate": 1504.21,
+      "ref_price_usd": 33.77,
+      "net_amount_usd": 1740543
     }
-  ]
+  ],
+  "fx_rate": 1503.33
 }
