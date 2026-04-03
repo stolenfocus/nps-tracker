@@ -3396,14 +3396,14 @@
           "shares_before": 6741993,
           "shares_change": -1510543,
           "shares_after": 5231450,
-          "unit_price": 2721,
+          "unit_price": 2840,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 4110187503,
-      "net_amount": -4110187503,
+      "total_sell_amount": 4289942120,
+      "net_amount": -4289942120,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004407",
       "obligation_date": "20260106",
       "est_close_price": 12480

@@ -127,6 +127,7 @@
           "shares_change": 1544734,
           "shares_after": 1544734,
           "unit_price": 0,
+          "estimated": false,
           "note": "기존보유",
           "reason_text": "신규보고(+)"
         },
@@ -138,6 +139,7 @@
           "shares_change": 30893,
           "shares_after": 1575627,
           "unit_price": 129938,
+          "estimated": false,
           "note": "장내매수(+) 10%이상",
           "reason_text": "신규주요주주(+)"
         },
@@ -149,6 +151,7 @@
           "shares_change": -21220,
           "shares_after": 1554407,
           "unit_price": 129982,
+          "estimated": false,
           "note": "-",
           "reason_text": "장내매도(-)"
         }
@@ -156,7 +159,8 @@
       "total_buy_amount": 4014174634,
       "total_sell_amount": 2758218040,
       "net_amount": 1255956594,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002442"
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002442",
+      "obligation_date": "20260401"
     },
     {
       "stock_name": "효성티앤씨",
@@ -273,6 +277,7 @@
           "shares_change": 431807,
           "shares_after": 431807,
           "unit_price": 0,
+          "estimated": false,
           "note": "기존보유",
           "reason_text": "신규보고(+)"
         },
@@ -284,6 +289,7 @@
           "shares_change": 2854,
           "shares_after": 434661,
           "unit_price": 404986,
+          "estimated": false,
           "note": "장내매수(+) 10%이상",
           "reason_text": "신규주요주주(+)"
         },
@@ -295,6 +301,7 @@
           "shares_change": -1221,
           "shares_after": 433440,
           "unit_price": 399549,
+          "estimated": false,
           "note": "-",
           "reason_text": "장내매도(-)"
         }
@@ -302,7 +309,8 @@
       "total_buy_amount": 1155830044,
       "total_sell_amount": 487849329,
       "net_amount": 667980715,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002422"
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002422",
+      "obligation_date": "20260331"
     },
     {
       "stock_name": "코오롱인더",
@@ -419,6 +427,7 @@
           "shares_change": 35890,
           "shares_after": 2831799,
           "unit_price": 0,
+          "estimated": false,
           "note": "기타(+)",
           "reason_text": "기타(+)"
         },
@@ -430,6 +439,7 @@
           "shares_change": 161,
           "shares_after": 2831960,
           "unit_price": 77500,
+          "estimated": false,
           "note": "-",
           "reason_text": "장내매수(+)"
         },
@@ -441,6 +451,7 @@
           "shares_change": -17228,
           "shares_after": 2814732,
           "unit_price": 76349,
+          "estimated": false,
           "note": "10%미만",
           "reason_text": "장내매도(-)"
         }
@@ -448,7 +459,8 @@
       "total_buy_amount": 12477500,
       "total_sell_amount": 1315340572,
       "net_amount": -1302863072,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002458"
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002458",
+      "obligation_date": "20260401"
     },
     {
       "stock_name": "효성티앤씨",
@@ -565,6 +577,7 @@
           "shares_change": 1675,
           "shares_after": 435115,
           "unit_price": 375604,
+          "estimated": false,
           "note": "-",
           "reason_text": "장내매수(+)"
         },
@@ -576,6 +589,7 @@
           "shares_change": -6146,
           "shares_after": 428969,
           "unit_price": 376778,
+          "estimated": false,
           "note": "10%미만",
           "reason_text": "장내매도(-)"
         }
@@ -583,7 +597,8 @@
       "total_buy_amount": 629136700,
       "total_sell_amount": 2315677588,
       "net_amount": -1686540888,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002469"
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260402002469",
+      "obligation_date": "20260401"
     }
   ]
 }
