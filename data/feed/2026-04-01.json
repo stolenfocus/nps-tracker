@@ -2687,7 +2687,8 @@
       "net_amount": -355116255600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004886",
       "obligation_date": "20260102",
-      "est_close_price": 13800
+      "est_close_price": 13800,
+      "trading_halted": true
     },
     {
       "stock_name": "더존비즈온",
