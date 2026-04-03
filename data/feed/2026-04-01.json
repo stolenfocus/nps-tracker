@@ -121,54 +121,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260105",
-          "stock_type": "11",
-          "shares_before": 335366,
-          "shares_change": 112108,
-          "shares_after": 447474,
-          "unit_price": 117600,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260127",
-          "stock_type": "11",
-          "shares_before": 447474,
-          "shares_change": 72346,
-          "shares_after": 519820,
-          "unit_price": 117600,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260203",
-          "stock_type": "11",
-          "shares_before": 519820,
-          "shares_change": 80977,
-          "shares_after": 600797,
-          "unit_price": 117600,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260224",
-          "stock_type": "11",
-          "shares_before": 600797,
-          "shares_change": 77866,
-          "shares_after": 678663,
-          "unit_price": 117600,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Sell",
           "trade_date": "20260325",
           "stock_type": "11",
@@ -180,9 +132,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 40371727200,
+      "total_buy_amount": 0,
       "total_sell_amount": 6905001600,
-      "net_amount": 33466725600,
+      "net_amount": -6905001600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004654",
       "obligation_date": "20260325",
       "est_close_price": 117600
@@ -297,30 +249,6 @@
         {
           "reason": "",
           "reason_text": "Buy",
-          "trade_date": "20260205",
-          "stock_type": "11",
-          "shares_before": 1411652,
-          "shares_change": 236965,
-          "shares_after": 1648617,
-          "unit_price": 22150,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260224",
-          "stock_type": "11",
-          "shares_before": 1648617,
-          "shares_change": 268187,
-          "shares_after": 1916804,
-          "unit_price": 22150,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
           "trade_date": "20260311",
           "stock_type": "11",
           "shares_before": 1916804,
@@ -331,9 +259,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 16175923500,
+      "total_buy_amount": 4986806700,
       "total_sell_amount": 0,
-      "net_amount": 16175923500,
+      "net_amount": 4986806700,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004456",
       "obligation_date": "20260311",
       "est_close_price": 22150
@@ -448,18 +376,6 @@
         {
           "reason": "",
           "reason_text": "Buy",
-          "trade_date": "20260303",
-          "stock_type": "11",
-          "shares_before": 1310438,
-          "shares_change": 260394,
-          "shares_after": 1570832,
-          "unit_price": 41100,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
           "trade_date": "20260311",
           "stock_type": "11",
           "shares_before": 1570832,
@@ -470,9 +386,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 21413552100,
+      "total_buy_amount": 10711358700,
       "total_sell_amount": 0,
-      "net_amount": 21413552100,
+      "net_amount": 10711358700,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004562",
       "obligation_date": "20260311",
       "est_close_price": 41100
@@ -2237,42 +2153,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260102",
-          "stock_type": "11",
-          "shares_before": 2515263,
-          "shares_change": -414935,
-          "shares_after": 2100328,
-          "unit_price": 23000,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260113",
-          "stock_type": "11",
-          "shares_before": 2100328,
-          "shares_change": -380259,
-          "shares_after": 1720069,
-          "unit_price": 23000,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260316",
-          "stock_type": "11",
-          "shares_before": 1720069,
-          "shares_change": 371747,
-          "shares_after": 2091816,
-          "unit_price": 23000,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Buy",
           "trade_date": "20260325",
           "stock_type": "11",
@@ -2284,9 +2164,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 18368329000,
-      "total_sell_amount": 18289462000,
-      "net_amount": 78867000,
+      "total_buy_amount": 9818148000,
+      "total_sell_amount": 0,
+      "net_amount": 9818148000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004578",
       "obligation_date": "20260325",
       "est_close_price": 23000
@@ -2400,42 +2280,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260119",
-          "stock_type": "11",
-          "shares_before": 1960771,
-          "shares_change": -271740,
-          "shares_after": 1689031,
-          "unit_price": 44550,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260130",
-          "stock_type": "11",
-          "shares_before": 1689031,
-          "shares_change": -253632,
-          "shares_after": 1435399,
-          "unit_price": 44550,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260323",
-          "stock_type": "11",
-          "shares_before": 1435399,
-          "shares_change": 253957,
-          "shares_after": 1689356,
-          "unit_price": 44550,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Buy",
           "trade_date": "20260327",
           "stock_type": "11",
@@ -2447,9 +2291,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 24014766600,
-      "total_sell_amount": 23405322600,
-      "net_amount": 609444000,
+      "total_buy_amount": 12700982250,
+      "total_sell_amount": 0,
+      "net_amount": 12700982250,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004689",
       "obligation_date": "20260327",
       "est_close_price": 44550
@@ -2563,18 +2407,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260129",
-          "stock_type": "11",
-          "shares_before": 1222939,
-          "shares_change": 177513,
-          "shares_after": 1400452,
-          "unit_price": 52500,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Sell",
           "trade_date": "20260316",
           "stock_type": "11",
@@ -2586,9 +2418,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 9319432500,
+      "total_buy_amount": 0,
       "total_sell_amount": 8993092500,
-      "net_amount": 326340000,
+      "net_amount": -8993092500,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004679",
       "obligation_date": "20260316",
       "est_close_price": 52500
@@ -2799,30 +2631,6 @@
         {
           "reason": "",
           "reason_text": "Sell",
-          "trade_date": "20260223",
-          "stock_type": "11",
-          "shares_before": 2496136,
-          "shares_change": -515114,
-          "shares_after": 1981022,
-          "unit_price": 119400,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260316",
-          "stock_type": "11",
-          "shares_before": 1981022,
-          "shares_change": -336353,
-          "shares_after": 1644669,
-          "unit_price": 119400,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
           "trade_date": "20260326",
           "stock_type": "11",
           "shares_before": 1644669,
@@ -2834,8 +2642,8 @@
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 263914118400,
-      "net_amount": -263914118400,
+      "total_sell_amount": 162248958600,
+      "net_amount": -162248958600,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004872",
       "obligation_date": "20260326",
       "est_close_price": 119400
@@ -2950,30 +2758,6 @@
         {
           "reason": "",
           "reason_text": "Sell",
-          "trade_date": "20260107",
-          "stock_type": "11",
-          "shares_before": 1556513,
-          "shares_change": -217051,
-          "shares_after": 1339462,
-          "unit_price": 42950,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260119",
-          "stock_type": "11",
-          "shares_before": 1339462,
-          "shares_change": -209495,
-          "shares_after": 1129967,
-          "unit_price": 42950,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
           "trade_date": "20260331",
           "stock_type": "11",
           "shares_before": 1129967,
@@ -2985,8 +2769,8 @@
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 27545166450,
-      "net_amount": -27545166450,
+      "total_sell_amount": 9225015750,
+      "net_amount": -9225015750,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004735",
       "obligation_date": "20260331",
       "est_close_price": 42950
@@ -3101,18 +2885,6 @@
         {
           "reason": "",
           "reason_text": "Sell",
-          "trade_date": "20260211",
-          "stock_type": "11",
-          "shares_before": 1306425,
-          "shares_change": -221722,
-          "shares_after": 1084703,
-          "unit_price": 239500,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
           "trade_date": "20260330",
           "stock_type": "11",
           "shares_before": 1084703,
@@ -3124,8 +2896,8 @@
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 104584381000,
-      "net_amount": -104584381000,
+      "total_sell_amount": 51481962000,
+      "net_amount": -51481962000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004587",
       "obligation_date": "20260330",
       "est_close_price": 239500
@@ -3240,30 +3012,6 @@
         {
           "reason": "",
           "reason_text": "Sell",
-          "trade_date": "20260121",
-          "stock_type": "11",
-          "shares_before": 1379355,
-          "shares_change": -238300,
-          "shares_after": 1141055,
-          "unit_price": 119000,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260130",
-          "stock_type": "11",
-          "shares_before": 1141055,
-          "shares_change": 12626,
-          "shares_after": 1153681,
-          "unit_price": 119000,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
           "trade_date": "20260311",
           "stock_type": "11",
           "shares_before": 1153681,
@@ -3274,9 +3022,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 1502494000,
-      "total_sell_amount": 57190924000,
-      "net_amount": -55688430000,
+      "total_buy_amount": 0,
+      "total_sell_amount": 28833224000,
+      "net_amount": -28833224000,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004550",
       "obligation_date": "20260311",
       "est_close_price": 119000
@@ -3517,18 +3265,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Sell",
-          "trade_date": "20260122",
-          "stock_type": "11",
-          "shares_before": 1619296,
-          "shares_change": -335320,
-          "shares_after": 1283976,
-          "unit_price": 89300,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Buy",
           "trade_date": "20260130",
           "stock_type": "11",
@@ -3541,8 +3277,8 @@
         }
       ],
       "total_buy_amount": 3781587100,
-      "total_sell_amount": 29944076000,
-      "net_amount": -26162488900,
+      "total_sell_amount": 0,
+      "net_amount": 3781587100,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004698",
       "obligation_date": "20260130",
       "est_close_price": 89300
@@ -4412,18 +4148,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260107",
-          "stock_type": "11",
-          "shares_before": 2440202,
-          "shares_change": 447058,
-          "shares_after": 2887260,
-          "unit_price": 11110,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Sell",
           "trade_date": "20260213",
           "stock_type": "11",
@@ -4435,9 +4159,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 4966814380,
+      "total_buy_amount": 0,
       "total_sell_amount": 6314768460,
-      "net_amount": -1347954080,
+      "net_amount": -6314768460,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004627",
       "obligation_date": "20260213",
       "est_close_price": 11110
@@ -4552,42 +4276,6 @@
         {
           "reason": "",
           "reason_text": "Sell",
-          "trade_date": "20260109",
-          "stock_type": "11",
-          "shares_before": 995900,
-          "shares_change": -195123,
-          "shares_after": 800777,
-          "unit_price": 93100,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260122",
-          "stock_type": "11",
-          "shares_before": 800777,
-          "shares_change": 180071,
-          "shares_after": 980848,
-          "unit_price": 93100,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260312",
-          "stock_type": "11",
-          "shares_before": 980848,
-          "shares_change": 204307,
-          "shares_after": 1185155,
-          "unit_price": 93100,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
-          "reason_text": "Sell",
           "trade_date": "20260320",
           "stock_type": "11",
           "shares_before": 1185155,
@@ -4598,9 +4286,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 35785591800,
-      "total_sell_amount": 39407926600,
-      "net_amount": -3622334800,
+      "total_buy_amount": 0,
+      "total_sell_amount": 21241975300,
+      "net_amount": -21241975300,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004668",
       "obligation_date": "20260320",
       "est_close_price": 93100
@@ -4714,18 +4402,6 @@
       "trades": [
         {
           "reason": "",
-          "reason_text": "Buy",
-          "trade_date": "20260116",
-          "stock_type": "11",
-          "shares_before": 950507,
-          "shares_change": 202858,
-          "shares_after": 1153365,
-          "unit_price": 51200,
-          "estimated": true,
-          "note": "-"
-        },
-        {
-          "reason": "",
           "reason_text": "Sell",
           "trade_date": "20260323",
           "stock_type": "11",
@@ -4737,9 +4413,9 @@
           "note": "-"
         }
       ],
-      "total_buy_amount": 10386329600,
+      "total_buy_amount": 0,
       "total_sell_amount": 10750566400,
-      "net_amount": -364236800,
+      "net_amount": -10750566400,
       "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004635",
       "obligation_date": "20260323",
       "est_close_price": 51200
