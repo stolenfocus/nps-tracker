@@ -127,7 +127,7 @@
           "shares_before": 335366,
           "shares_change": 112108,
           "shares_after": 447474,
-          "unit_price": 116700,
+          "unit_price": 117600,
           "estimated": true,
           "note": "-"
         },
@@ -139,7 +139,7 @@
           "shares_before": 447474,
           "shares_change": 72346,
           "shares_after": 519820,
-          "unit_price": 116700,
+          "unit_price": 117600,
           "estimated": true,
           "note": "-"
         },
@@ -151,7 +151,7 @@
           "shares_before": 519820,
           "shares_change": 80977,
           "shares_after": 600797,
-          "unit_price": 116700,
+          "unit_price": 117600,
           "estimated": true,
           "note": "-"
         },
@@ -163,7 +163,7 @@
           "shares_before": 600797,
           "shares_change": 77866,
           "shares_after": 678663,
-          "unit_price": 116700,
+          "unit_price": 117600,
           "estimated": true,
           "note": "-"
         },
@@ -175,15 +175,17 @@
           "shares_before": 678663,
           "shares_change": -58716,
           "shares_after": 619947,
-          "unit_price": 116700,
+          "unit_price": 117600,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 40062759900,
-      "total_sell_amount": 6852157200,
-      "net_amount": 33210602700,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004654"
+      "total_buy_amount": 40371727200,
+      "total_sell_amount": 6905001600,
+      "net_amount": 33466725600,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004654",
+      "obligation_date": "20260325",
+      "est_close_price": 117600
     },
     {
       "stock_name": "한섬",
@@ -300,7 +302,7 @@
           "shares_before": 1411652,
           "shares_change": 236965,
           "shares_after": 1648617,
-          "unit_price": 23100,
+          "unit_price": 22150,
           "estimated": true,
           "note": "-"
         },
@@ -312,7 +314,7 @@
           "shares_before": 1648617,
           "shares_change": 268187,
           "shares_after": 1916804,
-          "unit_price": 23100,
+          "unit_price": 22150,
           "estimated": true,
           "note": "-"
         },
@@ -324,15 +326,17 @@
           "shares_before": 1916804,
           "shares_change": 225138,
           "shares_after": 2141942,
-          "unit_price": 23100,
+          "unit_price": 22150,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 16869699000,
+      "total_buy_amount": 16175923500,
       "total_sell_amount": 0,
-      "net_amount": 16869699000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004456"
+      "net_amount": 16175923500,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004456",
+      "obligation_date": "20260311",
+      "est_close_price": 22150
     },
     {
       "stock_name": "브이엠",
@@ -449,7 +453,7 @@
           "shares_before": 1310438,
           "shares_change": 260394,
           "shares_after": 1570832,
-          "unit_price": 40650,
+          "unit_price": 41100,
           "estimated": true,
           "note": "-"
         },
@@ -461,15 +465,17 @@
           "shares_before": 1570832,
           "shares_change": 260617,
           "shares_after": 1831449,
-          "unit_price": 40650,
+          "unit_price": 41100,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 21179097150,
+      "total_buy_amount": 21413552100,
       "total_sell_amount": 0,
-      "net_amount": 21179097150,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004562"
+      "net_amount": 21413552100,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004562",
+      "obligation_date": "20260311",
+      "est_close_price": 41100
     },
     {
       "stock_name": "한미글로벌",
@@ -586,15 +592,17 @@
           "shares_before": 670133,
           "shares_change": 175404,
           "shares_after": 845537,
-          "unit_price": 29000,
+          "unit_price": 29650,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 5086716000,
+      "total_buy_amount": 5200728600,
       "total_sell_amount": 0,
-      "net_amount": 5086716000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004518"
+      "net_amount": 5200728600,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004518",
+      "obligation_date": "20260323",
+      "est_close_price": 29650
     },
     {
       "stock_name": "삼천리",
@@ -711,15 +719,17 @@
           "shares_before": 203626,
           "shares_change": 32638,
           "shares_after": 236264,
-          "unit_price": 136900,
+          "unit_price": 137800,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 4468142200,
+      "total_buy_amount": 4497516400,
       "total_sell_amount": 0,
-      "net_amount": 4468142200,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004859"
+      "net_amount": 4497516400,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004859",
+      "obligation_date": "20260331",
+      "est_close_price": 137800
     },
     {
       "stock_name": "티씨케이",
@@ -836,15 +846,17 @@
           "shares_before": 703560,
           "shares_change": 107701,
           "shares_after": 811261,
-          "unit_price": 215500,
+          "unit_price": 209500,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 23209565500,
+      "total_buy_amount": 22563359500,
       "total_sell_amount": 0,
-      "net_amount": 23209565500,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004537"
+      "net_amount": 22563359500,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004537",
+      "obligation_date": "20260312",
+      "est_close_price": 209500
     },
     {
       "stock_name": "아모레퍼시픽홀딩스",
@@ -961,15 +973,17 @@
           "shares_before": 4822889,
           "shares_change": 721832,
           "shares_after": 5544721,
-          "unit_price": 27650,
+          "unit_price": 27550,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 19958654800,
+      "total_buy_amount": 19886471600,
       "total_sell_amount": 0,
-      "net_amount": 19958654800,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004849"
+      "net_amount": 19886471600,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004849",
+      "obligation_date": "20260212",
+      "est_close_price": 27550
     },
     {
       "stock_name": "원익머트리얼즈",
@@ -1086,15 +1100,17 @@
           "shares_before": 1089402,
           "shares_change": 142262,
           "shares_after": 1231664,
-          "unit_price": 40100,
+          "unit_price": 39300,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 5704706200,
+      "total_buy_amount": 5590896600,
       "total_sell_amount": 0,
-      "net_amount": 5704706200,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004616"
+      "net_amount": 5590896600,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004616",
+      "obligation_date": "20260325",
+      "est_close_price": 39300
     },
     {
       "stock_name": "DB손해보험",
@@ -1211,15 +1227,17 @@
           "shares_before": 5101571,
           "shares_change": 355290,
           "shares_after": 5456861,
-          "unit_price": 162200,
+          "unit_price": 163700,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 57628038000,
+      "total_buy_amount": 58160973000,
       "total_sell_amount": 0,
-      "net_amount": 57628038000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004830"
+      "net_amount": 58160973000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004830",
+      "obligation_date": "20260330",
+      "est_close_price": 163700
     },
     {
       "stock_name": "유니드",
@@ -1336,15 +1354,17 @@
           "shares_before": 400608,
           "shares_change": 75699,
           "shares_after": 476307,
-          "unit_price": 80200,
+          "unit_price": 82400,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 6071059800,
+      "total_buy_amount": 6237597600,
       "total_sell_amount": 0,
-      "net_amount": 6071059800,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004449"
+      "net_amount": 6237597600,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004449",
+      "obligation_date": "20260202",
+      "est_close_price": 82400
     },
     {
       "stock_name": "하이록코리아",
@@ -1461,15 +1481,17 @@
           "shares_before": 602014,
           "shares_change": 127545,
           "shares_after": 729559,
-          "unit_price": 35450,
+          "unit_price": 37800,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 4521470250,
+      "total_buy_amount": 4821201000,
       "total_sell_amount": 0,
-      "net_amount": 4521470250,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004423"
+      "net_amount": 4821201000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004423",
+      "obligation_date": "20260320",
+      "est_close_price": 37800
     },
     {
       "stock_name": "진성티이씨",
@@ -1586,15 +1608,17 @@
           "shares_before": 1569340,
           "shares_change": 235646,
           "shares_after": 1804986,
-          "unit_price": 15500,
+          "unit_price": 16340,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 3652513000,
+      "total_buy_amount": 3850455640,
       "total_sell_amount": 0,
-      "net_amount": 3652513000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004505"
+      "net_amount": 3850455640,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004505",
+      "obligation_date": "20260114",
+      "est_close_price": 16340
     },
     {
       "stock_name": "에스티팜",
@@ -1711,15 +1735,17 @@
           "shares_before": 1039449,
           "shares_change": 220474,
           "shares_after": 1259923,
-          "unit_price": 143200,
+          "unit_price": 139100,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 31571876800,
+      "total_buy_amount": 30667933400,
       "total_sell_amount": 0,
-      "net_amount": 31571876800,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004707"
+      "net_amount": 30667933400,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004707",
+      "obligation_date": "20260219",
+      "est_close_price": 139100
     },
     {
       "stock_name": "테스",
@@ -1836,15 +1862,17 @@
           "shares_before": 1665753,
           "shares_change": 161710,
           "shares_after": 1827463,
-          "unit_price": 58700,
+          "unit_price": 60200,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 9492377000,
+      "total_buy_amount": 9734942000,
       "total_sell_amount": 0,
-      "net_amount": 9492377000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004600"
+      "net_amount": 9734942000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004600",
+      "obligation_date": "20260102",
+      "est_close_price": 60200
     },
     {
       "stock_name": "슈프리마",
@@ -1961,15 +1989,17 @@
           "shares_before": 0,
           "shares_change": 366747,
           "shares_after": 366747,
-          "unit_price": 44800,
+          "unit_price": 44950,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 16430265600,
+      "total_buy_amount": 16485277650,
       "total_sell_amount": 0,
-      "net_amount": 16430265600,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004814"
+      "net_amount": 16485277650,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004814",
+      "obligation_date": "20260205",
+      "est_close_price": 44950
     },
     {
       "stock_name": "대창단조",
@@ -2086,15 +2116,17 @@
           "shares_before": 0,
           "shares_change": 1410625,
           "shares_after": 1410625,
-          "unit_price": 6650,
+          "unit_price": 6670,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 9380656250,
+      "total_buy_amount": 9408868750,
       "total_sell_amount": 0,
-      "net_amount": 9380656250,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004783"
+      "net_amount": 9408868750,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004783",
+      "obligation_date": "20260330",
+      "est_close_price": 6670
     },
     {
       "stock_name": "비에이치",
@@ -2211,7 +2243,7 @@
           "shares_before": 2515263,
           "shares_change": -414935,
           "shares_after": 2100328,
-          "unit_price": 21250,
+          "unit_price": 23000,
           "estimated": true,
           "note": "-"
         },
@@ -2223,7 +2255,7 @@
           "shares_before": 2100328,
           "shares_change": -380259,
           "shares_after": 1720069,
-          "unit_price": 21250,
+          "unit_price": 23000,
           "estimated": true,
           "note": "-"
         },
@@ -2235,7 +2267,7 @@
           "shares_before": 1720069,
           "shares_change": 371747,
           "shares_after": 2091816,
-          "unit_price": 21250,
+          "unit_price": 23000,
           "estimated": true,
           "note": "-"
         },
@@ -2247,15 +2279,17 @@
           "shares_before": 2091816,
           "shares_change": 426876,
           "shares_after": 2518692,
-          "unit_price": 21250,
+          "unit_price": 23000,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 16970738750,
-      "total_sell_amount": 16897872500,
-      "net_amount": 72866250,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004578"
+      "total_buy_amount": 18368329000,
+      "total_sell_amount": 18289462000,
+      "net_amount": 78867000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004578",
+      "obligation_date": "20260325",
+      "est_close_price": 23000
     },
     {
       "stock_name": "덕산네오룩스",
@@ -2372,7 +2406,7 @@
           "shares_before": 1960771,
           "shares_change": -271740,
           "shares_after": 1689031,
-          "unit_price": 44500,
+          "unit_price": 44550,
           "estimated": true,
           "note": "-"
         },
@@ -2384,7 +2418,7 @@
           "shares_before": 1689031,
           "shares_change": -253632,
           "shares_after": 1435399,
-          "unit_price": 44500,
+          "unit_price": 44550,
           "estimated": true,
           "note": "-"
         },
@@ -2396,7 +2430,7 @@
           "shares_before": 1435399,
           "shares_change": 253957,
           "shares_after": 1689356,
-          "unit_price": 44500,
+          "unit_price": 44550,
           "estimated": true,
           "note": "-"
         },
@@ -2408,15 +2442,17 @@
           "shares_before": 1689356,
           "shares_change": 285095,
           "shares_after": 1974451,
-          "unit_price": 44500,
+          "unit_price": 44550,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 23987814000,
-      "total_sell_amount": 23379054000,
-      "net_amount": 608760000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004689"
+      "total_buy_amount": 24014766600,
+      "total_sell_amount": 23405322600,
+      "net_amount": 609444000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004689",
+      "obligation_date": "20260327",
+      "est_close_price": 44550
     },
     {
       "stock_name": "해성디에스",
@@ -2533,7 +2569,7 @@
           "shares_before": 1222939,
           "shares_change": 177513,
           "shares_after": 1400452,
-          "unit_price": 52300,
+          "unit_price": 52500,
           "estimated": true,
           "note": "-"
         },
@@ -2545,15 +2581,17 @@
           "shares_before": 1400452,
           "shares_change": -171297,
           "shares_after": 1229155,
-          "unit_price": 52300,
+          "unit_price": 52500,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 9283929900,
-      "total_sell_amount": 8958833100,
-      "net_amount": 325096800,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004679"
+      "total_buy_amount": 9319432500,
+      "total_sell_amount": 8993092500,
+      "net_amount": 326340000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004679",
+      "obligation_date": "20260316",
+      "est_close_price": 52500
     },
     {
       "stock_name": "에이치디현대인프라코어",
@@ -2647,7 +2685,9 @@
       "total_buy_amount": 0,
       "total_sell_amount": 355116255600,
       "net_amount": -355116255600,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004886"
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004886",
+      "obligation_date": "20260102",
+      "est_close_price": 13800
     },
     {
       "stock_name": "더존비즈온",
@@ -2796,7 +2836,9 @@
       "total_buy_amount": 0,
       "total_sell_amount": 263914118400,
       "net_amount": -263914118400,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004872"
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004872",
+      "obligation_date": "20260326",
+      "est_close_price": 119400
     },
     {
       "stock_name": "케이씨텍",
@@ -2913,7 +2955,7 @@
           "shares_before": 1556513,
           "shares_change": -217051,
           "shares_after": 1339462,
-          "unit_price": 43150,
+          "unit_price": 42950,
           "estimated": true,
           "note": "-"
         },
@@ -2925,7 +2967,7 @@
           "shares_before": 1339462,
           "shares_change": -209495,
           "shares_after": 1129967,
-          "unit_price": 43150,
+          "unit_price": 42950,
           "estimated": true,
           "note": "-"
         },
@@ -2937,15 +2979,17 @@
           "shares_before": 1129967,
           "shares_change": -214785,
           "shares_after": 915182,
-          "unit_price": 43150,
+          "unit_price": 42950,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 27673432650,
-      "net_amount": -27673432650,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004735"
+      "total_sell_amount": 27545166450,
+      "net_amount": -27545166450,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004735",
+      "obligation_date": "20260331",
+      "est_close_price": 42950
     },
     {
       "stock_name": "ISC",
@@ -3062,7 +3106,7 @@
           "shares_before": 1306425,
           "shares_change": -221722,
           "shares_after": 1084703,
-          "unit_price": 236000,
+          "unit_price": 239500,
           "estimated": true,
           "note": "-"
         },
@@ -3074,15 +3118,17 @@
           "shares_before": 1084703,
           "shares_change": -214956,
           "shares_after": 869747,
-          "unit_price": 236000,
+          "unit_price": 239500,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 103056008000,
-      "net_amount": -103056008000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004587"
+      "total_sell_amount": 104584381000,
+      "net_amount": -104584381000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004587",
+      "obligation_date": "20260330",
+      "est_close_price": 239500
     },
     {
       "stock_name": "유진테크",
@@ -3199,7 +3245,7 @@
           "shares_before": 1379355,
           "shares_change": -238300,
           "shares_after": 1141055,
-          "unit_price": 125500,
+          "unit_price": 119000,
           "estimated": true,
           "note": "-"
         },
@@ -3211,7 +3257,7 @@
           "shares_before": 1141055,
           "shares_change": 12626,
           "shares_after": 1153681,
-          "unit_price": 125500,
+          "unit_price": 119000,
           "estimated": true,
           "note": "-"
         },
@@ -3223,15 +3269,17 @@
           "shares_before": 1153681,
           "shares_change": -242296,
           "shares_after": 911385,
-          "unit_price": 125500,
+          "unit_price": 119000,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 1584563000,
-      "total_sell_amount": 60314798000,
-      "net_amount": -58730235000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004550"
+      "total_buy_amount": 1502494000,
+      "total_sell_amount": 57190924000,
+      "net_amount": -55688430000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004550",
+      "obligation_date": "20260311",
+      "est_close_price": 119000
     },
     {
       "stock_name": "대한광통신",
@@ -3348,15 +3396,17 @@
           "shares_before": 6741993,
           "shares_change": -1510543,
           "shares_after": 5231450,
-          "unit_price": 10120,
+          "unit_price": 12480,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 15286695160,
-      "net_amount": -15286695160,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004407"
+      "total_sell_amount": 18851576640,
+      "net_amount": -18851576640,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004407",
+      "obligation_date": "20260106",
+      "est_close_price": 12480
     },
     {
       "stock_name": "RFHIC",
@@ -3473,7 +3523,7 @@
           "shares_before": 1619296,
           "shares_change": -335320,
           "shares_after": 1283976,
-          "unit_price": 86400,
+          "unit_price": 89300,
           "estimated": true,
           "note": "-"
         },
@@ -3485,15 +3535,17 @@
           "shares_before": 1283976,
           "shares_change": 42347,
           "shares_after": 1326323,
-          "unit_price": 86400,
+          "unit_price": 89300,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 3658780800,
-      "total_sell_amount": 28971648000,
-      "net_amount": -25312867200,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004698"
+      "total_buy_amount": 3781587100,
+      "total_sell_amount": 29944076000,
+      "net_amount": -26162488900,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004698",
+      "obligation_date": "20260130",
+      "est_close_price": 89300
     },
     {
       "stock_name": "태광",
@@ -3610,15 +3662,17 @@
           "shares_before": 1762123,
           "shares_change": -327072,
           "shares_after": 1435051,
-          "unit_price": 37750,
+          "unit_price": 42150,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 12346968000,
-      "net_amount": -12346968000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004468"
+      "total_sell_amount": 13786084800,
+      "net_amount": -13786084800,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004468",
+      "obligation_date": "20260309",
+      "est_close_price": 42150
     },
     {
       "stock_name": "유비쿼스",
@@ -3735,15 +3789,17 @@
           "shares_before": 733633,
           "shares_change": -158285,
           "shares_after": 575348,
-          "unit_price": 15110,
+          "unit_price": 15540,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 2391686350,
-      "net_amount": -2391686350,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004716"
+      "total_sell_amount": 2459748900,
+      "net_amount": -2459748900,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004716",
+      "obligation_date": "20260325",
+      "est_close_price": 15540
     },
     {
       "stock_name": "에스투더블유",
@@ -3854,15 +3910,17 @@
           "shares_before": 576027,
           "shares_change": -110778,
           "shares_after": 465249,
-          "unit_price": 14230,
+          "unit_price": 13920,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 1576370940,
-      "net_amount": -1576370940,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004761"
+      "total_sell_amount": 1542029760,
+      "net_amount": -1542029760,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004761",
+      "obligation_date": "20260109",
+      "est_close_price": 13920
     },
     {
       "stock_name": "성광벤드",
@@ -3979,15 +4037,17 @@
           "shares_before": 1414742,
           "shares_change": -337164,
           "shares_after": 1077578,
-          "unit_price": 36200,
+          "unit_price": 39800,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 12205336800,
-      "net_amount": -12205336800,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004431"
+      "total_sell_amount": 13419127200,
+      "net_amount": -13419127200,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004431",
+      "obligation_date": "20260105",
+      "est_close_price": 39800
     },
     {
       "stock_name": "에이비엘바이오",
@@ -4104,15 +4164,17 @@
           "shares_before": 2704242,
           "shares_change": -480155,
           "shares_after": 2224087,
-          "unit_price": 159800,
+          "unit_price": 157400,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 76728769000,
-      "net_amount": -76728769000,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004749"
+      "total_sell_amount": 75576397000,
+      "net_amount": -75576397000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004749",
+      "obligation_date": "20260204",
+      "est_close_price": 157400
     },
     {
       "stock_name": "SBS",
@@ -4229,15 +4291,17 @@
           "shares_before": 2137493,
           "shares_change": -186493,
           "shares_after": 1951000,
-          "unit_price": 15190,
+          "unit_price": 15060,
           "estimated": true,
           "note": "-"
         }
       ],
       "total_buy_amount": 0,
-      "total_sell_amount": 2832828670,
-      "net_amount": -2832828670,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004483"
+      "total_sell_amount": 2808584580,
+      "net_amount": -2808584580,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004483",
+      "obligation_date": "20260129",
+      "est_close_price": 15060
     },
     {
       "stock_name": "한세실업",
@@ -4354,7 +4418,7 @@
           "shares_before": 2440202,
           "shares_change": 447058,
           "shares_after": 2887260,
-          "unit_price": 10940,
+          "unit_price": 11110,
           "estimated": true,
           "note": "-"
         },
@@ -4366,15 +4430,17 @@
           "shares_before": 2887260,
           "shares_change": -568386,
           "shares_after": 2318874,
-          "unit_price": 10940,
+          "unit_price": 11110,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 4890814520,
-      "total_sell_amount": 6218142840,
-      "net_amount": -1327328320,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004627"
+      "total_buy_amount": 4966814380,
+      "total_sell_amount": 6314768460,
+      "net_amount": -1347954080,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004627",
+      "obligation_date": "20260213",
+      "est_close_price": 11110
     },
     {
       "stock_name": "두산테스나",
@@ -4491,7 +4557,7 @@
           "shares_before": 995900,
           "shares_change": -195123,
           "shares_after": 800777,
-          "unit_price": 97200,
+          "unit_price": 93100,
           "estimated": true,
           "note": "-"
         },
@@ -4503,7 +4569,7 @@
           "shares_before": 800777,
           "shares_change": 180071,
           "shares_after": 980848,
-          "unit_price": 97200,
+          "unit_price": 93100,
           "estimated": true,
           "note": "-"
         },
@@ -4515,7 +4581,7 @@
           "shares_before": 980848,
           "shares_change": 204307,
           "shares_after": 1185155,
-          "unit_price": 97200,
+          "unit_price": 93100,
           "estimated": true,
           "note": "-"
         },
@@ -4527,15 +4593,17 @@
           "shares_before": 1185155,
           "shares_change": -228163,
           "shares_after": 956992,
-          "unit_price": 97200,
+          "unit_price": 93100,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 37361541600,
-      "total_sell_amount": 41143399200,
-      "net_amount": -3781857600,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004668"
+      "total_buy_amount": 35785591800,
+      "total_sell_amount": 39407926600,
+      "net_amount": -3622334800,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004668",
+      "obligation_date": "20260320",
+      "est_close_price": 93100
     },
     {
       "stock_name": "와이지엔터테인먼트",
@@ -4652,7 +4720,7 @@
           "shares_before": 950507,
           "shares_change": 202858,
           "shares_after": 1153365,
-          "unit_price": 50800,
+          "unit_price": 51200,
           "estimated": true,
           "note": "-"
         },
@@ -4664,15 +4732,17 @@
           "shares_before": 1153365,
           "shares_change": -209972,
           "shares_after": 943393,
-          "unit_price": 50800,
+          "unit_price": 51200,
           "estimated": true,
           "note": "-"
         }
       ],
-      "total_buy_amount": 10305186400,
-      "total_sell_amount": 10666577600,
-      "net_amount": -361391200,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004635"
+      "total_buy_amount": 10386329600,
+      "total_sell_amount": 10750566400,
+      "net_amount": -364236800,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260401004635",
+      "obligation_date": "20260323",
+      "est_close_price": 51200
     }
   ]
 }
