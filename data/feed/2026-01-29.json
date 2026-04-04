@@ -1,6 +1,6 @@
 {
   "date": "2026-01-29",
-  "generated_at": "2026-04-04T17:20:30.671462",
+  "generated_at": "2026-04-04T18:08:34.459246",
   "count": 2,
   "summary": {
     "확인필요": 2
@@ -14,7 +14,7 @@
       "stock_code": "111770",
       "stock_name": "영원무역",
       "name_eng": "Youngone Corporation",
-      "sector": null,
+      "sector": "46800",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -289,8 +289,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 11109.0,
+          "bps": 96154.0,
+          "roe": 12.66,
+          "debt_ratio": 39.25,
+          "revenue_growth": 15.51,
+          "op_profit_growth": 63.01
+        },
+        {
+          "period": "202509",
+          "eps": 8432.0,
+          "bps": 89053.0,
+          "roe": 12.47,
+          "debt_ratio": 39.03,
+          "revenue_growth": 14.35,
+          "op_profit_growth": 19.65
+        },
+        {
+          "period": "202506",
+          "eps": 4700.0,
+          "bps": 84634.0,
+          "roe": 10.57,
+          "debt_ratio": 43.53,
+          "revenue_growth": 15.42,
+          "op_profit_growth": -3.98
+        },
+        {
+          "period": "202503",
+          "eps": 2008.0,
+          "bps": 86367.0,
+          "roe": 12.37,
+          "debt_ratio": 39.08,
+          "revenue_growth": 14.32,
+          "op_profit_growth": 15.88
+        },
+        {
+          "period": "202412",
+          "eps": 9637.0,
+          "bps": 86238.0,
+          "roe": 12.32,
+          "debt_ratio": 38.35,
+          "revenue_growth": -2.4,
+          "op_profit_growth": -50.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6278.0,
+          "ev_ebitda": 4.22,
+          "eva": 1939.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4232.0,
+          "ev_ebitda": 2.54,
+          "eva": -743.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7354.0,
+          "ev_ebitda": 2.27,
+          "eva": 3902.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9161.0,
+          "ev_ebitda": 1.97,
+          "eva": 5420.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5291.0,
+          "ev_ebitda": 3.2,
+          "eva": 2007.0
+        }
+      ]
     },
     {
       "id": 45,
@@ -300,7 +377,7 @@
       "stock_code": "003030",
       "stock_name": "세아제강지주",
       "name_eng": "SeAH Steel Holdings Corporation",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -575,8 +652,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 15274.0,
+          "bps": 510476.0,
+          "roe": 3.11,
+          "debt_ratio": 121.24,
+          "revenue_growth": 2.3,
+          "op_profit_growth": -2.73
+        },
+        {
+          "period": "202509",
+          "eps": 23023.0,
+          "bps": 507498.0,
+          "roe": 2.75,
+          "debt_ratio": 114.56,
+          "revenue_growth": 5.03,
+          "op_profit_growth": 9.39
+        },
+        {
+          "period": "202506",
+          "eps": 19731.0,
+          "bps": 493266.0,
+          "roe": 2.12,
+          "debt_ratio": 121.39,
+          "revenue_growth": 3.99,
+          "op_profit_growth": -2.66
+        },
+        {
+          "period": "202503",
+          "eps": 11197.0,
+          "bps": 506985.0,
+          "roe": 2.36,
+          "debt_ratio": 113.5,
+          "revenue_growth": 7.3,
+          "op_profit_growth": -4.92
+        },
+        {
+          "period": "202412",
+          "eps": 10340.0,
+          "bps": 495174.0,
+          "roe": 2.25,
+          "debt_ratio": 109.0,
+          "revenue_growth": -6.09,
+          "op_profit_growth": -64.19
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2839.0,
+          "ev_ebitda": 10.78,
+          "eva": -1394.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2771.0,
+          "ev_ebitda": 9.2,
+          "eva": -1042.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 6552.0,
+          "ev_ebitda": 3.06,
+          "eva": 2321.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 6274.0,
+          "ev_ebitda": 2.46,
+          "eva": 1923.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3559.0,
+          "ev_ebitda": 3.76,
+          "eva": 359.0
+        }
+      ]
     }
   ]
 }

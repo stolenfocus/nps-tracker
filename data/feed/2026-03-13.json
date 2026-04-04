@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "2026-04-04T17:20:30.674122",
+  "generated_at": "2026-04-04T18:08:34.462687",
   "count": 4,
   "summary": {
     "확인필요": 4
@@ -14,7 +14,7 @@
       "stock_code": "294870",
       "stock_name": "HDC현대산업개발",
       "name_eng": "HYUNDAI DEVELOPMENT COMPANY",
-      "sector": null,
+      "sector": "411",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -73,8 +73,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2400.0,
+          "bps": 50672.0,
+          "roe": 5.0,
+          "debt_ratio": 136.53,
+          "revenue_growth": -2.57,
+          "op_profit_growth": 34.65
+        },
+        {
+          "period": "202509",
+          "eps": 2226.0,
+          "bps": 50294.0,
+          "roe": 6.11,
+          "debt_ratio": 153.13,
+          "revenue_growth": -0.3,
+          "op_profit_growth": 45.06
+        },
+        {
+          "period": "202506",
+          "eps": 1622.0,
+          "bps": 49668.0,
+          "roe": 5.95,
+          "debt_ratio": 149.35,
+          "revenue_growth": 1.29,
+          "op_profit_growth": 40.71
+        },
+        {
+          "period": "202503",
+          "eps": 822.0,
+          "bps": 48714.0,
+          "roe": 5.86,
+          "debt_ratio": 148.58,
+          "revenue_growth": -5.2,
+          "op_profit_growth": 29.82
+        },
+        {
+          "period": "202412",
+          "eps": 2363.0,
+          "bps": 48537.0,
+          "roe": 5.09,
+          "debt_ratio": 139.58,
+          "revenue_growth": 1.56,
+          "op_profit_growth": -5.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2991.0,
+          "ev_ebitda": 10.2,
+          "eva": 318.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2427.0,
+          "ev_ebitda": 10.51,
+          "eva": -1245.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 2551.0,
+          "ev_ebitda": 9.54,
+          "eva": -722.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1625.0,
+          "ev_ebitda": 15.84,
+          "eva": -1857.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3119.0,
+          "ev_ebitda": 4.76,
+          "eva": -542.0
+        }
+      ]
     },
     {
       "id": 221,
@@ -84,7 +161,7 @@
       "stock_code": "095610",
       "stock_name": "테스",
       "name_eng": "TESCO.,LTD.",
-      "sector": null,
+      "sector": "29271",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -131,8 +208,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2885.0,
+          "bps": 22090.0,
+          "roe": 15.76,
+          "debt_ratio": 24.43,
+          "revenue_growth": 46.25,
+          "op_profit_growth": 50.33
+        },
+        {
+          "period": "202509",
+          "eps": 2370.0,
+          "bps": 21133.0,
+          "roe": 19.7,
+          "debt_ratio": 23.03,
+          "revenue_growth": 52.55,
+          "op_profit_growth": 173.78
+        },
+        {
+          "period": "202506",
+          "eps": 1758.0,
+          "bps": 20237.0,
+          "roe": 17.33,
+          "debt_ratio": 17.08,
+          "revenue_growth": 62.21,
+          "op_profit_growth": 195.62
+        },
+        {
+          "period": "202503",
+          "eps": 802.0,
+          "bps": 19186.0,
+          "roe": 16.31,
+          "debt_ratio": 16.41,
+          "revenue_growth": 100.37,
+          "op_profit_growth": 582.61
+        },
+        {
+          "period": "202412",
+          "eps": 2158.0,
+          "bps": 18843.0,
+          "roe": 13.55,
+          "debt_ratio": 15.32,
+          "revenue_growth": 63.39,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 657.0,
+          "ev_ebitda": 12.19,
+          "eva": 221.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 442.0,
+          "ev_ebitda": 5.19,
+          "eva": 71.0
+        },
+        {
+          "period": "202312",
+          "ebitda": -5.0,
+          "ev_ebitda": 0.0,
+          "eva": -193.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 613.0,
+          "ev_ebitda": 3.7,
+          "eva": 242.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 676.0,
+          "ev_ebitda": 6.78,
+          "eva": 411.0
+        }
+      ]
     },
     {
       "id": 222,
@@ -142,7 +296,7 @@
       "stock_code": "489790",
       "stock_name": "한화비전",
       "name_eng": "Hanwha Vision CO.,LTD",
-      "sector": null,
+      "sector": "264",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -201,8 +355,67 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 903.0,
+          "bps": 17188.0,
+          "roe": 5.4,
+          "debt_ratio": 108.88,
+          "revenue_growth": 263.03,
+          "op_profit_growth": 2868.57
+        },
+        {
+          "period": "202509",
+          "eps": -358.0,
+          "bps": 15825.0,
+          "roe": 0.54,
+          "debt_ratio": 122.36,
+          "revenue_growth": 854.46,
+          "op_profit_growth": 1456.85
+        },
+        {
+          "period": "202506",
+          "eps": -240.0,
+          "bps": 15863.0,
+          "roe": 0.0,
+          "debt_ratio": 117.08,
+          "revenue_growth": 0.0,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": -47.0,
+          "bps": 16419.0,
+          "roe": 0.0,
+          "debt_ratio": 94.84,
+          "revenue_growth": 0.0,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202412",
+          "eps": 635.0,
+          "bps": 16334.0,
+          "roe": 0.0,
+          "debt_ratio": 92.93,
+          "revenue_growth": 0.0,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2115.0,
+          "ev_ebitda": 11.44,
+          "eva": 2778.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 212.0,
+          "ev_ebitda": 0.0,
+          "eva": 0.0
+        }
+      ]
     },
     {
       "id": 223,
@@ -212,7 +425,7 @@
       "stock_code": "095610",
       "stock_name": "테스",
       "name_eng": "TESCO.,LTD.",
-      "sector": null,
+      "sector": "29271",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -259,8 +472,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2885.0,
+          "bps": 22090.0,
+          "roe": 15.76,
+          "debt_ratio": 24.43,
+          "revenue_growth": 46.25,
+          "op_profit_growth": 50.33
+        },
+        {
+          "period": "202509",
+          "eps": 2370.0,
+          "bps": 21133.0,
+          "roe": 19.7,
+          "debt_ratio": 23.03,
+          "revenue_growth": 52.55,
+          "op_profit_growth": 173.78
+        },
+        {
+          "period": "202506",
+          "eps": 1758.0,
+          "bps": 20237.0,
+          "roe": 17.33,
+          "debt_ratio": 17.08,
+          "revenue_growth": 62.21,
+          "op_profit_growth": 195.62
+        },
+        {
+          "period": "202503",
+          "eps": 802.0,
+          "bps": 19186.0,
+          "roe": 16.31,
+          "debt_ratio": 16.41,
+          "revenue_growth": 100.37,
+          "op_profit_growth": 582.61
+        },
+        {
+          "period": "202412",
+          "eps": 2158.0,
+          "bps": 18843.0,
+          "roe": 13.55,
+          "debt_ratio": 15.32,
+          "revenue_growth": 63.39,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 657.0,
+          "ev_ebitda": 12.19,
+          "eva": 221.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 442.0,
+          "ev_ebitda": 5.19,
+          "eva": 71.0
+        },
+        {
+          "period": "202312",
+          "ebitda": -5.0,
+          "ev_ebitda": 0.0,
+          "eva": -193.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 613.0,
+          "ev_ebitda": 3.7,
+          "eva": 242.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 676.0,
+          "ev_ebitda": 6.78,
+          "eva": 411.0
+        }
+      ]
     }
   ]
 }

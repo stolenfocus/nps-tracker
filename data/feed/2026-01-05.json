@@ -1,6 +1,6 @@
 {
   "date": "2026-01-05",
-  "generated_at": "2026-04-04T17:20:30.658336",
+  "generated_at": "2026-04-04T18:08:34.437045",
   "count": 36,
   "summary": {
     "확인필요": 36
@@ -14,7 +14,7 @@
       "stock_code": "353200",
       "stock_name": "대덕전자",
       "name_eng": "DAEDUCK ELECTRONICS CO.,LTD",
-      "sector": null,
+      "sector": "2622",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -289,8 +289,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 924.0,
+          "bps": 17419.0,
+          "roe": 5.37,
+          "debt_ratio": 31.28,
+          "revenue_growth": 19.41,
+          "op_profit_growth": 335.74
+        },
+        {
+          "period": "202509",
+          "eps": 427.0,
+          "bps": 16985.0,
+          "roe": 3.02,
+          "debt_ratio": 29.81,
+          "revenue_growth": 9.01,
+          "op_profit_growth": 16.69
+        },
+        {
+          "period": "202506",
+          "eps": -25.0,
+          "bps": 16517.0,
+          "roe": 0.96,
+          "debt_ratio": 28.47,
+          "revenue_growth": 1.82,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": -111.0,
+          "bps": 16485.0,
+          "roe": 1.89,
+          "debt_ratio": 30.27,
+          "revenue_growth": 0.28,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202412",
+          "eps": 461.0,
+          "bps": 16996.0,
+          "roe": 2.73,
+          "debt_ratio": 24.35,
+          "revenue_growth": -1.93,
+          "op_profit_growth": -52.56
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 1496.0,
+          "ev_ebitda": 14.52,
+          "eva": -894.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1287.0,
+          "ev_ebitda": 4.49,
+          "eva": -1303.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1388.0,
+          "ev_ebitda": 8.47,
+          "eva": -1254.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 3373.0,
+          "ev_ebitda": 2.4,
+          "eva": 607.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1735.0,
+          "ev_ebitda": 6.83,
+          "eva": -443.0
+        }
+      ]
     },
     {
       "id": 55,
@@ -300,7 +377,7 @@
       "stock_code": "298040",
       "stock_name": "효성중공업",
       "name_eng": "Hyosung Heavy Industries Corporation",
-      "sector": null,
+      "sector": "281",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -575,8 +652,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 55755.0,
+          "bps": 252555.0,
+          "roe": 24.41,
+          "debt_ratio": 190.31,
+          "revenue_growth": 21.93,
+          "op_profit_growth": 106.07
+        },
+        {
+          "period": "202509",
+          "eps": 36987.0,
+          "bps": 234338.0,
+          "roe": 25.9,
+          "debt_ratio": 198.57,
+          "revenue_growth": 27.14,
+          "op_profit_growth": 111.28
+        },
+        {
+          "period": "202506",
+          "eps": 20878.0,
+          "bps": 217963.0,
+          "roe": 22.87,
+          "debt_ratio": 208.54,
+          "revenue_growth": 19.43,
+          "op_profit_growth": 124.4
+        },
+        {
+          "period": "202503",
+          "eps": 10956.0,
+          "bps": 210979.0,
+          "roe": 19.93,
+          "debt_ratio": 216.27,
+          "revenue_growth": 9.31,
+          "op_profit_growth": 82.3
+        },
+        {
+          "period": "202412",
+          "eps": 23876.0,
+          "bps": 204958.0,
+          "roe": 14.9,
+          "debt_ratio": 202.53,
+          "revenue_growth": 13.82,
+          "op_profit_growth": 40.59
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 8329.0,
+          "ev_ebitda": 20.82,
+          "eva": 1719.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4353.0,
+          "ev_ebitda": 10.64,
+          "eva": 2146.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 3428.0,
+          "ev_ebitda": 7.84,
+          "eva": 391.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2255.0,
+          "ev_ebitda": 10.03,
+          "eva": -284.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1906.0,
+          "ev_ebitda": 9.52,
+          "eva": -320.0
+        }
+      ]
     },
     {
       "id": 56,
@@ -586,7 +740,7 @@
       "stock_code": "294870",
       "stock_name": "HDC현대산업개발",
       "name_eng": "HYUNDAI DEVELOPMENT COMPANY",
-      "sector": null,
+      "sector": "411",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -645,8 +799,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2400.0,
+          "bps": 50672.0,
+          "roe": 5.0,
+          "debt_ratio": 136.53,
+          "revenue_growth": -2.57,
+          "op_profit_growth": 34.65
+        },
+        {
+          "period": "202509",
+          "eps": 2226.0,
+          "bps": 50294.0,
+          "roe": 6.11,
+          "debt_ratio": 153.13,
+          "revenue_growth": -0.3,
+          "op_profit_growth": 45.06
+        },
+        {
+          "period": "202506",
+          "eps": 1622.0,
+          "bps": 49668.0,
+          "roe": 5.95,
+          "debt_ratio": 149.35,
+          "revenue_growth": 1.29,
+          "op_profit_growth": 40.71
+        },
+        {
+          "period": "202503",
+          "eps": 822.0,
+          "bps": 48714.0,
+          "roe": 5.86,
+          "debt_ratio": 148.58,
+          "revenue_growth": -5.2,
+          "op_profit_growth": 29.82
+        },
+        {
+          "period": "202412",
+          "eps": 2363.0,
+          "bps": 48537.0,
+          "roe": 5.09,
+          "debt_ratio": 139.58,
+          "revenue_growth": 1.56,
+          "op_profit_growth": -5.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2991.0,
+          "ev_ebitda": 10.2,
+          "eva": 318.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2427.0,
+          "ev_ebitda": 10.51,
+          "eva": -1245.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 2551.0,
+          "ev_ebitda": 9.54,
+          "eva": -722.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1625.0,
+          "ev_ebitda": 15.84,
+          "eva": -1857.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3119.0,
+          "ev_ebitda": 4.76,
+          "eva": -542.0
+        }
+      ]
     },
     {
       "id": 57,
@@ -656,7 +887,7 @@
       "stock_code": "267270",
       "stock_name": "HD건설기계",
       "name_eng": "HD Construction Equipment Co.,Ltd.",
-      "sector": null,
+      "sector": "29241",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -931,8 +1162,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 5613.0,
+          "bps": 104002.0,
+          "roe": 5.74,
+          "debt_ratio": 86.64,
+          "revenue_growth": 9.85,
+          "op_profit_growth": -10.26
+        },
+        {
+          "period": "202509",
+          "eps": 4325.0,
+          "bps": 102514.0,
+          "roe": 5.28,
+          "debt_ratio": 87.02,
+          "revenue_growth": 6.81,
+          "op_profit_growth": -11.38
+        },
+        {
+          "period": "202506",
+          "eps": 1851.0,
+          "bps": 98631.0,
+          "roe": 3.43,
+          "debt_ratio": 84.53,
+          "revenue_growth": 2.32,
+          "op_profit_growth": -27.17
+        },
+        {
+          "period": "202503",
+          "eps": 1555.0,
+          "bps": 96410.0,
+          "roe": 5.01,
+          "debt_ratio": 86.14,
+          "revenue_growth": -7.38,
+          "op_profit_growth": -22.32
+        },
+        {
+          "period": "202412",
+          "eps": 5277.0,
+          "bps": 93865.0,
+          "roe": 6.18,
+          "debt_ratio": 85.34,
+          "revenue_growth": -10.12,
+          "op_profit_growth": -25.97
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2373.0,
+          "ev_ebitda": 9.45,
+          "eva": -838.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2591.0,
+          "ev_ebitda": 6.12,
+          "eva": -1401.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 3244.0,
+          "ev_ebitda": 4.84,
+          "eva": -820.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2352.0,
+          "ev_ebitda": 8.23,
+          "eva": -808.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 2274.0,
+          "ev_ebitda": 7.81,
+          "eva": -508.0
+        }
+      ]
     },
     {
       "id": 58,
@@ -942,7 +1250,7 @@
       "stock_code": "241710",
       "stock_name": "코스메카코리아",
       "name_eng": "COSMECCA KOREA CO., LTD.",
-      "sector": null,
+      "sector": "20423",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -1217,8 +1525,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 4255.0,
+          "bps": 23663.0,
+          "roe": 19.29,
+          "debt_ratio": 87.91,
+          "revenue_growth": 22.24,
+          "op_profit_growth": 38.39
+        },
+        {
+          "period": "202509",
+          "eps": 3154.0,
+          "bps": 22391.0,
+          "roe": 20.63,
+          "debt_ratio": 96.5,
+          "revenue_growth": 16.79,
+          "op_profit_growth": 32.89
+        },
+        {
+          "period": "202506",
+          "eps": 1586.0,
+          "bps": 20598.0,
+          "roe": 17.93,
+          "debt_ratio": 99.05,
+          "revenue_growth": 3.99,
+          "op_profit_growth": 10.94
+        },
+        {
+          "period": "202503",
+          "eps": 712.0,
+          "bps": 20205.0,
+          "roe": 21.02,
+          "debt_ratio": 86.03,
+          "revenue_growth": -5.75,
+          "op_profit_growth": -10.49
+        },
+        {
+          "period": "202412",
+          "eps": 4008.0,
+          "bps": 20450.0,
+          "roe": 22.07,
+          "debt_ratio": 68.36,
+          "revenue_growth": 11.39,
+          "op_profit_growth": 22.8
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 1000.0,
+          "ev_ebitda": 8.85,
+          "eva": 426.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 782.0,
+          "ev_ebitda": 9.44,
+          "eva": 158.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 659.0,
+          "ev_ebitda": 8.03,
+          "eva": 223.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 271.0,
+          "ev_ebitda": 9.76,
+          "eva": -236.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 365.0,
+          "ev_ebitda": 7.95,
+          "eva": -30.0
+        }
+      ]
     },
     {
       "id": 59,
@@ -1228,7 +1613,7 @@
       "stock_code": "204320",
       "stock_name": "HL만도",
       "name_eng": "HL Mando CO.,LTD",
-      "sector": null,
+      "sector": "303",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -1503,8 +1888,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2130.0,
+          "bps": 57793.0,
+          "roe": 3.82,
+          "debt_ratio": 148.16,
+          "revenue_growth": 6.86,
+          "op_profit_growth": -0.46
+        },
+        {
+          "period": "202509",
+          "eps": 1620.0,
+          "bps": 51617.0,
+          "roe": 4.97,
+          "debt_ratio": 166.26,
+          "revenue_growth": 8.82,
+          "op_profit_growth": 11.99
+        },
+        {
+          "period": "202506",
+          "eps": 690.0,
+          "bps": 48869.0,
+          "roe": 0.77,
+          "debt_ratio": 182.49,
+          "revenue_growth": 9.81,
+          "op_profit_growth": 10.92
+        },
+        {
+          "period": "202503",
+          "eps": 594.0,
+          "bps": 51318.0,
+          "roe": 0.76,
+          "debt_ratio": 181.4,
+          "revenue_growth": 7.77,
+          "op_profit_growth": 4.72
+        },
+        {
+          "period": "202412",
+          "eps": 2767.0,
+          "bps": 53635.0,
+          "roe": 5.47,
+          "debt_ratio": 163.85,
+          "revenue_growth": 5.42,
+          "op_profit_growth": 28.46
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 7184.0,
+          "ev_ebitda": 5.77,
+          "eva": -1161.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 6942.0,
+          "ev_ebitda": 5.29,
+          "eva": -2303.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 6011.0,
+          "ev_ebitda": 5.8,
+          "eva": -1385.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 5869.0,
+          "ev_ebitda": 5.96,
+          "eva": -861.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5591.0,
+          "ev_ebitda": 7.82,
+          "eva": -1656.0
+        }
+      ]
     },
     {
       "id": 60,
@@ -1514,7 +1976,7 @@
       "stock_code": "192820",
       "stock_name": "코스맥스",
       "name_eng": "COSMAX, INC.",
-      "sector": null,
+      "sector": "20423",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -1789,8 +2251,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 10843.0,
+          "bps": 49196.0,
+          "roe": 23.86,
+          "debt_ratio": 247.1,
+          "revenue_growth": 10.74,
+          "op_profit_growth": 11.63
+        },
+        {
+          "period": "202509",
+          "eps": 3349.0,
+          "bps": 40313.0,
+          "roe": 11.09,
+          "debt_ratio": 305.9,
+          "revenue_growth": 11.79,
+          "op_profit_growth": 14.24
+        },
+        {
+          "period": "202506",
+          "eps": 2560.0,
+          "bps": 38522.0,
+          "roe": 14.52,
+          "debt_ratio": 310.87,
+          "revenue_growth": 12.42,
+          "op_profit_growth": 21.69
+        },
+        {
+          "period": "202503",
+          "eps": 716.0,
+          "bps": 38574.0,
+          "roe": 18.1,
+          "debt_ratio": 315.22,
+          "revenue_growth": 11.73,
+          "op_profit_growth": 12.97
+        },
+        {
+          "period": "202412",
+          "eps": 7560.0,
+          "bps": 41725.0,
+          "roe": 20.53,
+          "debt_ratio": 280.05,
+          "revenue_growth": 21.86,
+          "op_profit_growth": 51.61
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2699.0,
+          "ev_ebitda": 9.29,
+          "eva": 522.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2442.0,
+          "ev_ebitda": 9.25,
+          "eva": 243.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1751.0,
+          "ev_ebitda": 9.94,
+          "eva": 243.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1119.0,
+          "ev_ebitda": 10.1,
+          "eva": -1563.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1744.0,
+          "ev_ebitda": 7.31,
+          "eva": -37.0
+        }
+      ]
     },
     {
       "id": 61,
@@ -1800,7 +2339,7 @@
       "stock_code": "111770",
       "stock_name": "영원무역",
       "name_eng": "Youngone Corporation",
-      "sector": null,
+      "sector": "46800",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -2015,8 +2554,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 11109.0,
+          "bps": 96154.0,
+          "roe": 12.66,
+          "debt_ratio": 39.25,
+          "revenue_growth": 15.51,
+          "op_profit_growth": 63.01
+        },
+        {
+          "period": "202509",
+          "eps": 8432.0,
+          "bps": 89053.0,
+          "roe": 12.47,
+          "debt_ratio": 39.03,
+          "revenue_growth": 14.35,
+          "op_profit_growth": 19.65
+        },
+        {
+          "period": "202506",
+          "eps": 4700.0,
+          "bps": 84634.0,
+          "roe": 10.57,
+          "debt_ratio": 43.53,
+          "revenue_growth": 15.42,
+          "op_profit_growth": -3.98
+        },
+        {
+          "period": "202503",
+          "eps": 2008.0,
+          "bps": 86367.0,
+          "roe": 12.37,
+          "debt_ratio": 39.08,
+          "revenue_growth": 14.32,
+          "op_profit_growth": 15.88
+        },
+        {
+          "period": "202412",
+          "eps": 9637.0,
+          "bps": 86238.0,
+          "roe": 12.32,
+          "debt_ratio": 38.35,
+          "revenue_growth": -2.4,
+          "op_profit_growth": -50.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6278.0,
+          "ev_ebitda": 4.22,
+          "eva": 1939.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4232.0,
+          "ev_ebitda": 2.54,
+          "eva": -743.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7354.0,
+          "ev_ebitda": 2.27,
+          "eva": 3902.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9161.0,
+          "ev_ebitda": 1.97,
+          "eva": 5420.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5291.0,
+          "ev_ebitda": 3.2,
+          "eva": 2007.0
+        }
+      ]
     },
     {
       "id": 62,
@@ -2026,7 +2642,7 @@
       "stock_code": "071050",
       "stock_name": "한국금융지주",
       "name_eng": "Korea Investment Holdings Co., Ltd",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -2301,8 +2917,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 27139.0,
+          "bps": 198518.0,
+          "roe": 17.02,
+          "debt_ratio": 954.24,
+          "revenue_growth": 6.22,
+          "op_profit_growth": 88.06
+        },
+        {
+          "period": "202506",
+          "eps": 16199.0,
+          "bps": 176220.0,
+          "roe": 14.67,
+          "debt_ratio": 1017.17,
+          "revenue_growth": 7.61,
+          "op_profit_growth": 63.76
+        },
+        {
+          "period": "202503",
+          "eps": 7444.0,
+          "bps": 169578.0,
+          "roe": 12.46,
+          "debt_ratio": 1020.36,
+          "revenue_growth": -12.93,
+          "op_profit_growth": 38.82
+        },
+        {
+          "period": "202412",
+          "eps": 16883.0,
+          "bps": 165262.0,
+          "roe": 11.54,
+          "debt_ratio": 1021.99,
+          "revenue_growth": 1.34,
+          "op_profit_growth": 46.24
+        },
+        {
+          "period": "202409",
+          "eps": 15160.0,
+          "bps": 159079.0,
+          "roe": 10.24,
+          "debt_ratio": 992.18,
+          "revenue_growth": -18.35,
+          "op_profit_growth": 31.92
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202509",
+          "ebitda": 19643.0,
+          "ev_ebitda": 20.65,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 13030.0,
+          "ev_ebitda": 29.49,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 9139.0,
+          "ev_ebitda": 36.38,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 6308.0,
+          "ev_ebitda": 47.94,
+          "eva": 0.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 15948.0,
+          "ev_ebitda": 16.95,
+          "eva": 0.0
+        }
+      ]
     },
     {
       "id": 63,
@@ -2312,7 +3005,7 @@
       "stock_code": "069960",
       "stock_name": "현대백화점",
       "name_eng": "HYUNDAI DEPARTMENT STORE CO.,LTD",
-      "sector": null,
+      "sector": "47111",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -2587,8 +3280,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 9177.0,
+          "bps": 210969.0,
+          "roe": 4.64,
+          "debt_ratio": 78.26,
+          "revenue_growth": 1.02,
+          "op_profit_growth": 33.06
+        },
+        {
+          "period": "202509",
+          "eps": 6994.0,
+          "bps": 208195.0,
+          "roe": 4.02,
+          "debt_ratio": 81.2,
+          "revenue_growth": 5.85,
+          "op_profit_growth": 54.31
+        },
+        {
+          "period": "202506",
+          "eps": 4993.0,
+          "bps": 206024.0,
+          "roe": 3.49,
+          "debt_ratio": 78.94,
+          "revenue_growth": 10.27,
+          "op_profit_growth": 78.45
+        },
+        {
+          "period": "202503",
+          "eps": 3001.0,
+          "bps": 202655.0,
+          "roe": -0.81,
+          "debt_ratio": 80.95,
+          "revenue_growth": 15.38,
+          "op_profit_growth": 63.31
+        },
+        {
+          "period": "202412",
+          "eps": -1543.0,
+          "bps": 201113.0,
+          "roe": -0.81,
+          "debt_ratio": 79.93,
+          "revenue_growth": -0.47,
+          "op_profit_growth": -6.4
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 8118.0,
+          "ev_ebitda": 5.93,
+          "eva": -53.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 7124.0,
+          "ev_ebitda": 5.98,
+          "eva": -7058.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7275.0,
+          "ev_ebitda": 6.29,
+          "eva": -7547.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 6819.0,
+          "ev_ebitda": 7.51,
+          "eva": -347.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5677.0,
+          "ev_ebitda": 6.42,
+          "eva": -2760.0
+        }
+      ]
     },
     {
       "id": 64,
@@ -2598,7 +3368,7 @@
       "stock_code": "069620",
       "stock_name": "대웅제약",
       "name_eng": "DAEWOONG PHARMA",
-      "sector": null,
+      "sector": "212",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -2873,8 +3643,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 16904.0,
+          "bps": 87439.0,
+          "roe": 21.75,
+          "debt_ratio": 108.24,
+          "revenue_growth": 10.42,
+          "op_profit_growth": 33.01
+        },
+        {
+          "period": "202509",
+          "eps": 9150.0,
+          "bps": 76467.0,
+          "roe": 10.98,
+          "debt_ratio": 125.12,
+          "revenue_growth": 11.28,
+          "op_profit_growth": 40.45
+        },
+        {
+          "period": "202506",
+          "eps": 5148.0,
+          "bps": 72277.0,
+          "roe": 9.36,
+          "debt_ratio": 120.96,
+          "revenue_growth": 9.42,
+          "op_profit_growth": 34.15
+        },
+        {
+          "period": "202503",
+          "eps": 1890.0,
+          "bps": 69896.0,
+          "roe": 4.82,
+          "debt_ratio": 113.97,
+          "revenue_growth": 6.17,
+          "op_profit_growth": 30.46
+        },
+        {
+          "period": "202412",
+          "eps": 2135.0,
+          "bps": 69061.0,
+          "roe": 3.17,
+          "debt_ratio": 113.27,
+          "revenue_growth": 3.44,
+          "op_profit_growth": 20.68
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2479.0,
+          "ev_ebitda": 11.22,
+          "eva": 1103.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1969.0,
+          "ev_ebitda": 10.99,
+          "eva": -217.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1664.0,
+          "ev_ebitda": 11.0,
+          "eva": 316.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1355.0,
+          "ev_ebitda": 16.8,
+          "eva": 214.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1296.0,
+          "ev_ebitda": 16.32,
+          "eva": 276.0
+        }
+      ]
     },
     {
       "id": 65,
@@ -2884,7 +3731,7 @@
       "stock_code": "052690",
       "stock_name": "한전기술",
       "name_eng": "KEPCO Engineering & Construction Company, Inc",
-      "sector": null,
+      "sector": "72129",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -3159,8 +4006,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2234.0,
+          "bps": 16428.0,
+          "roe": 14.2,
+          "debt_ratio": 41.7,
+          "revenue_growth": -8.91,
+          "op_profit_growth": -50.02
+        },
+        {
+          "period": "202509",
+          "eps": 2028.0,
+          "bps": 16129.0,
+          "roe": 17.84,
+          "debt_ratio": 39.02,
+          "revenue_growth": -13.16,
+          "op_profit_growth": -67.76
+        },
+        {
+          "period": "202506",
+          "eps": 1733.0,
+          "bps": 15814.0,
+          "roe": 17.3,
+          "debt_ratio": 43.58,
+          "revenue_growth": -22.04,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": 1724.0,
+          "bps": 15786.0,
+          "roe": 20.42,
+          "debt_ratio": 49.49,
+          "revenue_growth": -24.45,
+          "op_profit_growth": -86.96
+        },
+        {
+          "period": "202412",
+          "eps": 1531.0,
+          "bps": 15179.0,
+          "roe": 10.4,
+          "debt_ratio": 63.96,
+          "revenue_growth": 4.48,
+          "op_profit_growth": 148.36
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 585.0,
+          "ev_ebitda": 56.0,
+          "eva": -265.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 932.0,
+          "ev_ebitda": 20.03,
+          "eva": -126.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 503.0,
+          "ev_ebitda": 45.16,
+          "eva": -307.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 370.0,
+          "ev_ebitda": 55.13,
+          "eva": -462.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 350.0,
+          "ev_ebitda": 91.92,
+          "eva": -174.0
+        }
+      ]
     },
     {
       "id": 66,
@@ -3170,7 +4094,7 @@
       "stock_code": "042670",
       "stock_name": "에이치디현대인프라코어",
       "name_eng": "HD Hyundai Infracore Co., Ltd.",
-      "sector": null,
+      "sector": "29241",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -3433,7 +4357,53 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 699.0,
+          "bps": 10533.0,
+          "roe": 7.13,
+          "debt_ratio": 127.38,
+          "revenue_growth": 4.97,
+          "op_profit_growth": 30.52
+        },
+        {
+          "period": "202506",
+          "eps": 349.0,
+          "bps": 10115.0,
+          "roe": 2.37,
+          "debt_ratio": 135.9,
+          "revenue_growth": -2.76,
+          "op_profit_growth": -0.4
+        },
+        {
+          "period": "202503",
+          "eps": 207.0,
+          "bps": 9833.0,
+          "roe": 4.33,
+          "debt_ratio": 136.85,
+          "revenue_growth": -12.0,
+          "op_profit_growth": -26.92
+        },
+        {
+          "period": "202412",
+          "eps": 550.0,
+          "bps": 9602.0,
+          "roe": 5.92,
+          "debt_ratio": 132.09,
+          "revenue_growth": -11.71,
+          "op_profit_growth": -55.97
+        },
+        {
+          "period": "202409",
+          "eps": 531.0,
+          "bps": 9678.0,
+          "roe": 3.3,
+          "debt_ratio": 129.75,
+          "revenue_growth": -13.67,
+          "op_profit_growth": -51.76
+        }
+      ],
       "ebitda_history": []
     },
     {
@@ -3444,7 +4414,7 @@
       "stock_code": "039490",
       "stock_name": "키움증권",
       "name_eng": "KIWOOM Securities Co.,Ltd.",
-      "sector": null,
+      "sector": "66121",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -3719,8 +4689,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 40504.0,
+          "bps": 254008.0,
+          "roe": 18.12,
+          "debt_ratio": 1107.51,
+          "revenue_growth": 51.78,
+          "op_profit_growth": 35.51
+        },
+        {
+          "period": "202509",
+          "eps": 31456.0,
+          "bps": 243015.0,
+          "roe": 17.09,
+          "debt_ratio": 1024.47,
+          "revenue_growth": 51.01,
+          "op_profit_growth": 24.47
+        },
+        {
+          "period": "202506",
+          "eps": 19680.0,
+          "bps": 227857.0,
+          "roe": 16.03,
+          "debt_ratio": 1011.13,
+          "revenue_growth": 65.84,
+          "op_profit_growth": 12.88
+        },
+        {
+          "period": "202503",
+          "eps": 8374.0,
+          "bps": 211692.0,
+          "roe": 15.5,
+          "debt_ratio": 969.07,
+          "revenue_growth": 38.46,
+          "op_profit_growth": -3.62
+        },
+        {
+          "period": "202412",
+          "eps": 29304.0,
+          "bps": 210068.0,
+          "roe": 15.98,
+          "debt_ratio": 888.81,
+          "revenue_growth": 18.18,
+          "op_profit_growth": 94.5
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 15333.0,
+          "ev_ebitda": 16.41,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 11373.0,
+          "ev_ebitda": 12.77,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 5991.0,
+          "ev_ebitda": 18.81,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 6911.0,
+          "ev_ebitda": 14.71,
+          "eva": 0.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 12400.0,
+          "ev_ebitda": 8.22,
+          "eva": 0.0
+        }
+      ]
     },
     {
       "id": 68,
@@ -3730,7 +4777,7 @@
       "stock_code": "034120",
       "stock_name": "SBS",
       "name_eng": "SEOUL BROADCASTING SYSTEM",
-      "sector": null,
+      "sector": "60210",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -4005,8 +5052,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 433.0,
+          "bps": 69877.0,
+          "roe": 0.73,
+          "debt_ratio": 57.45,
+          "revenue_growth": -3.65,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 494.0,
+          "bps": 55739.0,
+          "roe": 4.9,
+          "debt_ratio": 66.26,
+          "revenue_growth": -12.52,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": -65.0,
+          "bps": 48656.0,
+          "roe": 1.64,
+          "debt_ratio": 81.13,
+          "revenue_growth": -2.08,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": -372.0,
+          "bps": 48411.0,
+          "roe": 1.57,
+          "debt_ratio": 61.36,
+          "revenue_growth": -1.57,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202412",
+          "eps": 1824.0,
+          "bps": 48749.0,
+          "roe": 3.8,
+          "debt_ratio": 66.85,
+          "revenue_growth": 5.01,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 561.0,
+          "ev_ebitda": 5.71,
+          "eva": 737.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 182.0,
+          "ev_ebitda": 21.43,
+          "eva": -1240.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 880.0,
+          "ev_ebitda": 4.67,
+          "eva": -202.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2131.0,
+          "ev_ebitda": 2.84,
+          "eva": 1487.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1981.0,
+          "ev_ebitda": 3.88,
+          "eva": 1003.0
+        }
+      ]
     },
     {
       "id": 69,
@@ -4016,7 +5140,7 @@
       "stock_code": "032350",
       "stock_name": "롯데관광개발",
       "name_eng": "LOTTE TOUR DEVELOPMENT CO.,LTD",
-      "sector": null,
+      "sector": "75210",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -4183,8 +5307,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 356.0,
+          "bps": 4677.0,
+          "roe": 8.06,
+          "debt_ratio": 488.68,
+          "revenue_growth": 38.6,
+          "op_profit_growth": 267.45
+        },
+        {
+          "period": "202509",
+          "eps": -144.0,
+          "bps": 4379.0,
+          "roe": -16.18,
+          "debt_ratio": 528.62,
+          "revenue_growth": 29.01,
+          "op_profit_growth": 168.98
+        },
+        {
+          "period": "202506",
+          "eps": -231.0,
+          "bps": 4259.0,
+          "roe": -25.4,
+          "debt_ratio": 554.6,
+          "revenue_growth": 25.79,
+          "op_profit_growth": 214.35
+        },
+        {
+          "period": "202503",
+          "eps": -309.0,
+          "bps": 3850.0,
+          "roe": -61.96,
+          "debt_ratio": 639.29,
+          "revenue_growth": 14.8,
+          "op_profit_growth": 48.16
+        },
+        {
+          "period": "202412",
+          "eps": -1531.0,
+          "bps": 4156.0,
+          "roe": -60.42,
+          "debt_ratio": 592.08,
+          "revenue_growth": 50.37,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2318.0,
+          "ev_ebitda": 13.1,
+          "eva": -1133.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1240.0,
+          "ev_ebitda": 14.61,
+          "eva": -353.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 261.0,
+          "ev_ebitda": 75.63,
+          "eva": -1714.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -358.0,
+          "ev_ebitda": 0.0,
+          "eva": -1271.0
+        },
+        {
+          "period": "202112",
+          "ebitda": -624.0,
+          "ev_ebitda": 0.0,
+          "eva": -1831.0
+        }
+      ]
     },
     {
       "id": 70,
@@ -4194,7 +5395,7 @@
       "stock_code": "017800",
       "stock_name": "현대엘리베이터",
       "name_eng": "HYUNDAI ELEVATOR CO.,LTD",
-      "sector": null,
+      "sector": "29162",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -4457,8 +5658,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 6703.0,
+          "bps": 37450.0,
+          "roe": 20.11,
+          "debt_ratio": 157.77,
+          "revenue_growth": -14.48,
+          "op_profit_growth": -7.32
+        },
+        {
+          "period": "202509",
+          "eps": 5923.0,
+          "bps": 35910.0,
+          "roe": 26.04,
+          "debt_ratio": 156.68,
+          "revenue_growth": -12.66,
+          "op_profit_growth": -2.92
+        },
+        {
+          "period": "202506",
+          "eps": 2161.0,
+          "bps": 32725.0,
+          "roe": 19.97,
+          "debt_ratio": 156.39,
+          "revenue_growth": -12.06,
+          "op_profit_growth": 15.73
+        },
+        {
+          "period": "202503",
+          "eps": 911.0,
+          "bps": 31604.0,
+          "roe": 18.21,
+          "debt_ratio": 183.15,
+          "revenue_growth": -10.11,
+          "op_profit_growth": 21.47
+        },
+        {
+          "period": "202412",
+          "eps": 4686.0,
+          "bps": 34751.0,
+          "roe": 14.42,
+          "debt_ratio": 166.25,
+          "revenue_growth": 10.88,
+          "op_profit_growth": 173.22
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2780.0,
+          "ev_ebitda": 12.22,
+          "eva": 482.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2911.0,
+          "ev_ebitda": 8.46,
+          "eva": 613.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1312.0,
+          "ev_ebitda": 16.51,
+          "eva": -482.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 845.0,
+          "ev_ebitda": 16.97,
+          "eva": -752.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1576.0,
+          "ev_ebitda": 11.16,
+          "eva": 645.0
+        }
+      ]
     },
     {
       "id": 71,
@@ -4468,7 +5746,7 @@
       "stock_code": "016360",
       "stock_name": "삼성증권",
       "name_eng": "SAMSUNG SECURITIES CO.,LTD",
-      "sector": null,
+      "sector": "66121",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -4743,8 +6021,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 8872.0,
+          "bps": 87744.0,
+          "roe": 12.54,
+          "debt_ratio": 866.95,
+          "revenue_growth": 10.47,
+          "op_profit_growth": 5.04
+        },
+        {
+          "period": "202506",
+          "eps": 5409.0,
+          "bps": 84023.0,
+          "roe": 12.06,
+          "debt_ratio": 838.98,
+          "revenue_growth": 15.37,
+          "op_profit_growth": -4.1
+        },
+        {
+          "period": "202503",
+          "eps": 2782.0,
+          "bps": 81377.0,
+          "roe": 12.81,
+          "debt_ratio": 828.19,
+          "revenue_growth": -12.13,
+          "op_profit_growth": 0.91
+        },
+        {
+          "period": "202412",
+          "eps": 10068.0,
+          "bps": 82018.0,
+          "roe": 12.89,
+          "debt_ratio": 750.25,
+          "revenue_growth": 2.26,
+          "op_profit_growth": 62.69
+        },
+        {
+          "period": "202409",
+          "eps": 8413.0,
+          "bps": 80182.0,
+          "roe": 10.77,
+          "debt_ratio": 776.48,
+          "revenue_growth": -6.73,
+          "op_profit_growth": 33.83
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202509",
+          "ebitda": 10696.0,
+          "ev_ebitda": 11.37,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 12343.0,
+          "ev_ebitda": 7.98,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7671.0,
+          "ev_ebitda": 12.68,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 6011.0,
+          "ev_ebitda": 14.71,
+          "eva": 0.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 13327.0,
+          "ev_ebitda": 7.92,
+          "eva": 0.0
+        }
+      ]
     },
     {
       "id": 72,
@@ -4754,7 +6109,7 @@
       "stock_code": "011070",
       "stock_name": "LG이노텍",
       "name_eng": "LG INNOTEK CO., LTD.",
-      "sector": null,
+      "sector": "262",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -5029,8 +6384,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 14419.0,
+          "bps": 243532.0,
+          "roe": 6.14,
+          "debt_ratio": 107.02,
+          "revenue_growth": 3.28,
+          "op_profit_growth": -5.81
+        },
+        {
+          "period": "202509",
+          "eps": 8676.0,
+          "bps": 231824.0,
+          "roe": 5.96,
+          "debt_ratio": 114.1,
+          "revenue_growth": -1.97,
+          "op_profit_growth": -25.73
+        },
+        {
+          "period": "202506",
+          "eps": 3251.0,
+          "bps": 222898.0,
+          "roe": 5.64,
+          "debt_ratio": 86.72,
+          "revenue_growth": 0.32,
+          "op_profit_growth": -58.35
+        },
+        {
+          "period": "202503",
+          "eps": 3617.0,
+          "bps": 227112.0,
+          "roe": 7.76,
+          "debt_ratio": 102.16,
+          "revenue_growth": 14.98,
+          "op_profit_growth": -28.93
+        },
+        {
+          "period": "202412",
+          "eps": 18983.0,
+          "bps": 226240.0,
+          "roe": 8.92,
+          "debt_ratio": 112.52,
+          "revenue_growth": 2.89,
+          "op_profit_growth": -15.02
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 18153.0,
+          "ev_ebitda": 4.01,
+          "eva": -1747.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 19861.0,
+          "ev_ebitda": 2.61,
+          "eva": -2830.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 18769.0,
+          "ev_ebitda": 3.75,
+          "eva": 1382.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 21575.0,
+          "ev_ebitda": 3.44,
+          "eva": 4735.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 20338.0,
+          "ev_ebitda": 4.7,
+          "eva": 6212.0
+        }
+      ]
     },
     {
       "id": 73,
@@ -5040,7 +6472,7 @@
       "stock_code": "010060",
       "stock_name": "OCI홀딩스",
       "name_eng": "OCI Holdings Company Ltd.",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -5315,8 +6747,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": -4772.0,
+          "bps": 210598.0,
+          "roe": -2.27,
+          "debt_ratio": 66.35,
+          "revenue_growth": -5.52,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": -6110.0,
+          "bps": 203524.0,
+          "roe": -4.83,
+          "debt_ratio": 69.99,
+          "revenue_growth": -5.65,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": -4175.0,
+          "bps": 202044.0,
+          "roe": -4.48,
+          "debt_ratio": 66.48,
+          "revenue_growth": -4.97,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": -117.0,
+          "bps": 210574.0,
+          "roe": -2.04,
+          "debt_ratio": 66.98,
+          "revenue_growth": 9.64,
+          "op_profit_growth": -50.93
+        },
+        {
+          "period": "202412",
+          "eps": 5005.0,
+          "bps": 211999.0,
+          "roe": 2.54,
+          "debt_ratio": 67.38,
+          "revenue_growth": 35.01,
+          "op_profit_growth": -80.89
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 1862.0,
+          "ev_ebitda": 19.76,
+          "eva": -7183.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2959.0,
+          "ev_ebitda": 8.34,
+          "eva": -5175.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 6408.0,
+          "ev_ebitda": 3.22,
+          "eva": 2893.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9023.0,
+          "ev_ebitda": 2.86,
+          "eva": 4814.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 7620.0,
+          "ev_ebitda": 4.27,
+          "eva": 3314.0
+        }
+      ]
     },
     {
       "id": 74,
@@ -5326,7 +6835,7 @@
       "stock_code": "009150",
       "stock_name": "삼성전기",
       "name_eng": "SAMSUNG ELECTRO-MECHANICS CO.,LTD",
-      "sector": null,
+      "sector": "2622",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -5601,8 +7110,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 9099.0,
+          "bps": 126302.0,
+          "roe": 7.7,
+          "debt_ratio": 48.98,
+          "revenue_growth": 9.91,
+          "op_profit_growth": 24.26
+        },
+        {
+          "period": "202509",
+          "eps": 6228.0,
+          "bps": 121572.0,
+          "roe": 7.89,
+          "debt_ratio": 46.86,
+          "revenue_growth": 7.83,
+          "op_profit_growth": 8.69
+        },
+        {
+          "period": "202506",
+          "eps": 3395.0,
+          "bps": 116332.0,
+          "roe": 6.88,
+          "debt_ratio": 46.42,
+          "revenue_growth": 6.49,
+          "op_profit_growth": 4.67
+        },
+        {
+          "period": "202503",
+          "eps": 1723.0,
+          "bps": 116650.0,
+          "roe": 7.48,
+          "debt_ratio": 46.91,
+          "revenue_growth": 4.77,
+          "op_profit_growth": 9.21
+        },
+        {
+          "period": "202412",
+          "eps": 8752.0,
+          "bps": 116340.0,
+          "roe": 8.16,
+          "debt_ratio": 41.89,
+          "revenue_growth": 15.76,
+          "op_profit_growth": 11.27
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 18380.0,
+          "ev_ebitda": 10.45,
+          "eva": -3240.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 15752.0,
+          "ev_ebitda": 5.88,
+          "eva": -6809.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 14972.0,
+          "ev_ebitda": 7.9,
+          "eva": -4865.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 20616.0,
+          "ev_ebitda": 4.79,
+          "eva": -333.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 23533.0,
+          "ev_ebitda": 6.4,
+          "eva": 1322.0
+        }
+      ]
     },
     {
       "id": 75,
@@ -5612,7 +7198,7 @@
       "stock_code": "007660",
       "stock_name": "이수페타시스",
       "name_eng": "ISUPETASYS CO.,LTD",
-      "sector": null,
+      "sector": "2622",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -5887,8 +7473,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2257.0,
+          "bps": 10292.0,
+          "roe": 29.64,
+          "debt_ratio": 70.53,
+          "revenue_growth": 30.01,
+          "op_profit_growth": 100.95
+        },
+        {
+          "period": "202509",
+          "eps": 1659.0,
+          "bps": 9737.0,
+          "roe": 26.68,
+          "debt_ratio": 63.06,
+          "revenue_growth": 29.35,
+          "op_profit_growth": 93.95
+        },
+        {
+          "period": "202506",
+          "eps": 1008.0,
+          "bps": 9061.0,
+          "roe": 21.59,
+          "debt_ratio": 61.67,
+          "revenue_growth": 22.15,
+          "op_profit_growth": 77.77
+        },
+        {
+          "period": "202503",
+          "eps": 577.0,
+          "bps": 5374.0,
+          "roe": 29.94,
+          "debt_ratio": 126.03,
+          "revenue_growth": 26.49,
+          "op_profit_growth": 107.43
+        },
+        {
+          "period": "202412",
+          "eps": 1116.0,
+          "bps": 4938.0,
+          "roe": 24.92,
+          "debt_ratio": 141.24,
+          "revenue_growth": 23.92,
+          "op_profit_growth": 63.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2344.0,
+          "ev_ebitda": 36.92,
+          "eva": 536.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1262.0,
+          "ev_ebitda": 15.04,
+          "eva": 58.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 775.0,
+          "ev_ebitda": 26.37,
+          "eva": -52.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1296.0,
+          "ev_ebitda": 3.94,
+          "eva": 780.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 643.0,
+          "ev_ebitda": 9.49,
+          "eva": 223.0
+        }
+      ]
     },
     {
       "id": 76,
@@ -5898,7 +7561,7 @@
       "stock_code": "006650",
       "stock_name": "대한유화",
       "name_eng": "KOREA PETRO CHEMICAL IND CO.,LTD",
-      "sector": null,
+      "sector": "20111",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -6173,8 +7836,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 4878.0,
+          "bps": 297102.0,
+          "roe": 1.74,
+          "debt_ratio": 29.73,
+          "revenue_growth": 19.56,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 5273.0,
+          "bps": 297148.0,
+          "roe": 3.0,
+          "debt_ratio": 32.04,
+          "revenue_growth": 19.65,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": 679.0,
+          "bps": 292163.0,
+          "roe": 0.24,
+          "debt_ratio": 30.61,
+          "revenue_growth": 13.04,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": 457.0,
+          "bps": 292173.0,
+          "roe": 0.06,
+          "debt_ratio": 23.08,
+          "revenue_growth": 11.76,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202412",
+          "eps": -1312.0,
+          "bps": 292683.0,
+          "roe": -0.47,
+          "debt_ratio": 22.8,
+          "revenue_growth": 12.01,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2222.0,
+          "ev_ebitda": 5.64,
+          "eva": -2124.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1201.0,
+          "ev_ebitda": 4.88,
+          "eva": -2790.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1190.0,
+          "ev_ebitda": 9.31,
+          "eva": -2127.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -537.0,
+          "ev_ebitda": 0.0,
+          "eva": -5053.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3358.0,
+          "ev_ebitda": 2.38,
+          "eva": -1078.0
+        }
+      ]
     },
     {
       "id": 77,
@@ -6184,7 +7924,7 @@
       "stock_code": "006260",
       "stock_name": "LS",
       "name_eng": "LS Corp.",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -6459,8 +8199,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 8458.0,
+          "bps": 182946.0,
+          "roe": 5.65,
+          "debt_ratio": 225.47,
+          "revenue_growth": 15.7,
+          "op_profit_growth": -1.65
+        },
+        {
+          "period": "202509",
+          "eps": 7865.0,
+          "bps": 180139.0,
+          "roe": 4.58,
+          "debt_ratio": 208.05,
+          "revenue_growth": 11.72,
+          "op_profit_growth": 0.05
+        },
+        {
+          "period": "202506",
+          "eps": 5812.0,
+          "bps": 178132.0,
+          "roe": 4.2,
+          "debt_ratio": 199.55,
+          "revenue_growth": 10.55,
+          "op_profit_growth": -11.83
+        },
+        {
+          "period": "202503",
+          "eps": 2701.0,
+          "bps": 178427.0,
+          "roe": 5.94,
+          "debt_ratio": 200.05,
+          "revenue_growth": 16.29,
+          "op_profit_growth": 26.18
+        },
+        {
+          "period": "202412",
+          "eps": 7371.0,
+          "bps": 167908.0,
+          "roe": 5.09,
+          "debt_ratio": 198.32,
+          "revenue_growth": 12.52,
+          "op_profit_growth": 20.63
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 15850.0,
+          "ev_ebitda": 10.41,
+          "eva": -6011.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 15690.0,
+          "ev_ebitda": 7.6,
+          "eva": -9465.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 13072.0,
+          "ev_ebitda": 8.12,
+          "eva": -4147.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9000.0,
+          "ev_ebitda": 10.1,
+          "eva": -342.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 7736.0,
+          "ev_ebitda": 8.19,
+          "eva": -1729.0
+        }
+      ]
     },
     {
       "id": 78,
@@ -6470,7 +8287,7 @@
       "stock_code": "004170",
       "stock_name": "신세계",
       "name_eng": "SHINSEGAE Inc.",
-      "sector": null,
+      "sector": "47111",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -6745,8 +8562,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 1440.0,
+          "bps": 508154.0,
+          "roe": 0.32,
+          "debt_ratio": 140.91,
+          "revenue_growth": 5.47,
+          "op_profit_growth": 0.62
+        },
+        {
+          "period": "202509",
+          "eps": 9340.0,
+          "bps": 517834.0,
+          "roe": 0.85,
+          "debt_ratio": 132.84,
+          "revenue_growth": 5.19,
+          "op_profit_growth": -17.67
+        },
+        {
+          "period": "202506",
+          "eps": 5694.0,
+          "bps": 502491.0,
+          "roe": 0.54,
+          "debt_ratio": 132.63,
+          "revenue_growth": 4.69,
+          "op_profit_growth": -25.95
+        },
+        {
+          "period": "202503",
+          "eps": 5889.0,
+          "bps": 483761.0,
+          "roe": 1.46,
+          "debt_ratio": 136.9,
+          "revenue_growth": 3.81,
+          "op_profit_growth": -18.81
+        },
+        {
+          "period": "202412",
+          "eps": 10948.0,
+          "bps": 486461.0,
+          "roe": 2.54,
+          "debt_ratio": 136.43,
+          "revenue_growth": 3.36,
+          "op_profit_growth": -25.44
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 9815.0,
+          "ev_ebitda": 9.04,
+          "eva": -644.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 9579.0,
+          "ev_ebitda": 8.25,
+          "eva": -2354.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 11372.0,
+          "ev_ebitda": 6.77,
+          "eva": 157.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 12237.0,
+          "ev_ebitda": 6.35,
+          "eva": -395.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 11690.0,
+          "ev_ebitda": 7.25,
+          "eva": 235.0
+        }
+      ]
     },
     {
       "id": 79,
@@ -6756,7 +8650,7 @@
       "stock_code": "003030",
       "stock_name": "세아제강지주",
       "name_eng": "SeAH Steel Holdings Corporation",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -7031,8 +8925,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 15274.0,
+          "bps": 510476.0,
+          "roe": 3.11,
+          "debt_ratio": 121.24,
+          "revenue_growth": 2.3,
+          "op_profit_growth": -2.73
+        },
+        {
+          "period": "202509",
+          "eps": 23023.0,
+          "bps": 507498.0,
+          "roe": 2.75,
+          "debt_ratio": 114.56,
+          "revenue_growth": 5.03,
+          "op_profit_growth": 9.39
+        },
+        {
+          "period": "202506",
+          "eps": 19731.0,
+          "bps": 493266.0,
+          "roe": 2.12,
+          "debt_ratio": 121.39,
+          "revenue_growth": 3.99,
+          "op_profit_growth": -2.66
+        },
+        {
+          "period": "202503",
+          "eps": 11197.0,
+          "bps": 506985.0,
+          "roe": 2.36,
+          "debt_ratio": 113.5,
+          "revenue_growth": 7.3,
+          "op_profit_growth": -4.92
+        },
+        {
+          "period": "202412",
+          "eps": 10340.0,
+          "bps": 495174.0,
+          "roe": 2.25,
+          "debt_ratio": 109.0,
+          "revenue_growth": -6.09,
+          "op_profit_growth": -64.19
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2839.0,
+          "ev_ebitda": 10.78,
+          "eva": -1394.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2771.0,
+          "ev_ebitda": 9.2,
+          "eva": -1042.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 6552.0,
+          "ev_ebitda": 3.06,
+          "eva": 2321.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 6274.0,
+          "ev_ebitda": 2.46,
+          "eva": 1923.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3559.0,
+          "ev_ebitda": 3.76,
+          "eva": 359.0
+        }
+      ]
     },
     {
       "id": 80,
@@ -7042,7 +9013,7 @@
       "stock_code": "002380",
       "stock_name": "케이씨씨",
       "name_eng": "KCC Corporation",
-      "sector": null,
+      "sector": "20411",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -7317,8 +9288,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 173128.0,
+          "bps": 1063952.0,
+          "roe": 23.51,
+          "debt_ratio": 114.76,
+          "revenue_growth": -2.63,
+          "op_profit_growth": -9.23
+        },
+        {
+          "period": "202509",
+          "eps": 142200.0,
+          "bps": 1013132.0,
+          "roe": 19.3,
+          "debt_ratio": 117.59,
+          "revenue_growth": -1.48,
+          "op_profit_growth": -3.14
+        },
+        {
+          "period": "202506",
+          "eps": 105477.0,
+          "bps": 961256.0,
+          "roe": 13.72,
+          "debt_ratio": 120.53,
+          "revenue_growth": -1.86,
+          "op_profit_growth": -1.47
+        },
+        {
+          "period": "202503",
+          "eps": 4957.0,
+          "bps": 851250.0,
+          "roe": -1.48,
+          "debt_ratio": 140.67,
+          "revenue_growth": 0.69,
+          "op_profit_growth": -3.24
+        },
+        {
+          "period": "202412",
+          "eps": 38691.0,
+          "bps": 716051.0,
+          "roe": 6.59,
+          "debt_ratio": 154.58,
+          "revenue_growth": 5.89,
+          "op_profit_growth": 50.74
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 8866.0,
+          "ev_ebitda": 8.69,
+          "eva": 4558.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 9024.0,
+          "ev_ebitda": 7.12,
+          "eva": -3278.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7561.0,
+          "ev_ebitda": 8.0,
+          "eva": -3049.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9013.0,
+          "ev_ebitda": 6.75,
+          "eva": -6128.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 7972.0,
+          "ev_ebitda": 8.39,
+          "eva": -6479.0
+        }
+      ]
     },
     {
       "id": 81,
@@ -7328,7 +9376,7 @@
       "stock_code": "001680",
       "stock_name": "대상",
       "name_eng": "DAESANG CORPORATION",
-      "sector": null,
+      "sector": "108",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -7603,8 +9651,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": -8447.0,
+          "bps": 29733.0,
+          "roe": -24.42,
+          "debt_ratio": 217.17,
+          "revenue_growth": 3.44,
+          "op_profit_growth": -4.33
+        },
+        {
+          "period": "202509",
+          "eps": 1896.0,
+          "bps": 39784.0,
+          "roe": 5.92,
+          "debt_ratio": 140.19,
+          "revenue_growth": 4.4,
+          "op_profit_growth": 3.71
+        },
+        {
+          "period": "202506",
+          "eps": 1281.0,
+          "bps": 39034.0,
+          "roe": 7.13,
+          "debt_ratio": 141.15,
+          "revenue_growth": 5.13,
+          "op_profit_growth": 6.52
+        },
+        {
+          "period": "202503",
+          "eps": 788.0,
+          "bps": 39273.0,
+          "roe": 7.55,
+          "debt_ratio": 145.39,
+          "revenue_growth": 8.22,
+          "op_profit_growth": 20.09
+        },
+        {
+          "period": "202412",
+          "eps": 2643.0,
+          "bps": 39464.0,
+          "roe": 6.94,
+          "debt_ratio": 142.46,
+          "revenue_growth": 3.59,
+          "op_profit_growth": 43.02
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 3352.0,
+          "ev_ebitda": 4.6,
+          "eva": 658.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 3237.0,
+          "ev_ebitda": 4.59,
+          "eva": -94.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 2606.0,
+          "ev_ebitda": 5.47,
+          "eva": 13.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2674.0,
+          "ev_ebitda": 5.82,
+          "eva": 164.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 2635.0,
+          "ev_ebitda": 4.74,
+          "eva": 89.0
+        }
+      ]
     },
     {
       "id": 82,
@@ -7614,7 +9739,7 @@
       "stock_code": "001040",
       "stock_name": "CJ",
       "name_eng": "CJ Corp.",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -7889,8 +10014,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 4019.0,
+          "bps": 155346.0,
+          "roe": 2.72,
+          "debt_ratio": 176.0,
+          "revenue_growth": 3.14,
+          "op_profit_growth": -0.18
+        },
+        {
+          "period": "202509",
+          "eps": 10573.0,
+          "bps": 161796.0,
+          "roe": 7.21,
+          "debt_ratio": 175.56,
+          "revenue_growth": 3.7,
+          "op_profit_growth": -4.72
+        },
+        {
+          "period": "202506",
+          "eps": 6547.0,
+          "bps": 153794.0,
+          "roe": 1.35,
+          "debt_ratio": 173.69,
+          "revenue_growth": 2.84,
+          "op_profit_growth": -6.91
+        },
+        {
+          "period": "202503",
+          "eps": 1950.0,
+          "bps": 161648.0,
+          "roe": 1.72,
+          "debt_ratio": 168.09,
+          "revenue_growth": 1.58,
+          "op_profit_growth": -7.15
+        },
+        {
+          "period": "202412",
+          "eps": 2643.0,
+          "bps": 162605.0,
+          "roe": 1.75,
+          "debt_ratio": 167.79,
+          "revenue_growth": 5.55,
+          "op_profit_growth": 24.19
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 60476.0,
+          "ev_ebitda": 5.47,
+          "eva": -11237.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 62683.0,
+          "ev_ebitda": 4.92,
+          "eva": -18096.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 50988.0,
+          "ev_ebitda": 5.77,
+          "eva": -2821.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 53621.0,
+          "ev_ebitda": 5.68,
+          "eva": -5905.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 43294.0,
+          "ev_ebitda": 6.28,
+          "eva": -5312.0
+        }
+      ]
     },
     {
       "id": 83,
@@ -7900,7 +10102,7 @@
       "stock_code": "000720",
       "stock_name": "현대건설",
       "name_eng": "HYUNDAI ENGINEERING & CONSTRUCTION CO.,LTD",
-      "sector": null,
+      "sector": "41221",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -8163,8 +10365,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 3320.0,
+          "bps": 73523.0,
+          "roe": 4.58,
+          "debt_ratio": 174.82,
+          "revenue_growth": -4.92,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 2300.0,
+          "bps": 72134.0,
+          "roe": -3.22,
+          "debt_ratio": 170.93,
+          "revenue_growth": -9.52,
+          "op_profit_growth": 4.24
+        },
+        {
+          "period": "202506",
+          "eps": 1912.0,
+          "bps": 71075.0,
+          "roe": -3.15,
+          "debt_ratio": 167.89,
+          "revenue_growth": -11.59,
+          "op_profit_growth": 8.16
+        },
+        {
+          "period": "202503",
+          "eps": 1071.0,
+          "bps": 71990.0,
+          "roe": -2.49,
+          "debt_ratio": 173.41,
+          "revenue_growth": -12.75,
+          "op_profit_growth": -14.83
+        },
+        {
+          "period": "202412",
+          "eps": -1500.0,
+          "bps": 71394.0,
+          "roe": -2.09,
+          "debt_ratio": 179.29,
+          "revenue_growth": 10.18,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 8539.0,
+          "ev_ebitda": 9.94,
+          "eva": -1777.0
+        },
+        {
+          "period": "202412",
+          "ebitda": -10419.0,
+          "ev_ebitda": 0.0,
+          "eva": -18787.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 9815.0,
+          "ev_ebitda": 4.15,
+          "eva": 503.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 7566.0,
+          "ev_ebitda": 4.3,
+          "eva": -1645.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 9250.0,
+          "ev_ebitda": 4.53,
+          "eva": -86.0
+        }
+      ]
     },
     {
       "id": 84,
@@ -8174,7 +10453,7 @@
       "stock_code": "000640",
       "stock_name": "동아쏘시오홀딩스",
       "name_eng": "Dong-A Socio Holdings Co.,Ltd",
-      "sector": null,
+      "sector": "64992",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -8449,8 +10728,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 13508.0,
+          "bps": 171401.0,
+          "roe": 8.32,
+          "debt_ratio": 80.57,
+          "revenue_growth": 7.24,
+          "op_profit_growth": 19.1
+        },
+        {
+          "period": "202509",
+          "eps": 15212.0,
+          "bps": 172143.0,
+          "roe": 9.8,
+          "debt_ratio": 84.23,
+          "revenue_growth": 7.26,
+          "op_profit_growth": 35.45
+        },
+        {
+          "period": "202506",
+          "eps": 8233.0,
+          "bps": 165602.0,
+          "roe": 8.3,
+          "debt_ratio": 84.16,
+          "revenue_growth": 7.29,
+          "op_profit_growth": 28.13
+        },
+        {
+          "period": "202503",
+          "eps": 2655.0,
+          "bps": 160206.0,
+          "roe": 6.56,
+          "debt_ratio": 91.15,
+          "revenue_growth": 7.7,
+          "op_profit_growth": 30.88
+        },
+        {
+          "period": "202412",
+          "eps": 8618.0,
+          "bps": 158209.0,
+          "roe": 5.63,
+          "debt_ratio": 90.85,
+          "revenue_growth": 17.78,
+          "op_profit_growth": 6.78
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 1931.0,
+          "ev_ebitda": 6.46,
+          "eva": 937.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1713.0,
+          "ev_ebitda": 7.75,
+          "eva": 162.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1511.0,
+          "ev_ebitda": 7.9,
+          "eva": 222.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1086.0,
+          "ev_ebitda": 10.25,
+          "eva": -378.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1209.0,
+          "ev_ebitda": 9.37,
+          "eva": 179.0
+        }
+      ]
     },
     {
       "id": 85,
@@ -8460,7 +10816,7 @@
       "stock_code": "128940",
       "stock_name": "한미약품",
       "name_eng": "Hanmi Pharm. Co., Ltd.",
-      "sector": null,
+      "sector": "21212",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -8735,8 +11091,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 9479.0,
+          "bps": 93381.0,
+          "roe": 10.29,
+          "debt_ratio": 51.63,
+          "revenue_growth": -2.56,
+          "op_profit_growth": -6.03
+        },
+        {
+          "period": "202506",
+          "eps": 6347.0,
+          "bps": 89001.0,
+          "roe": 9.83,
+          "debt_ratio": 53.4,
+          "revenue_growth": -3.79,
+          "op_profit_growth": -11.35
+        },
+        {
+          "period": "202503",
+          "eps": 3326.0,
+          "bps": 87879.0,
+          "roe": 10.26,
+          "debt_ratio": 56.3,
+          "revenue_growth": -3.16,
+          "op_profit_growth": -23.0
+        },
+        {
+          "period": "202412",
+          "eps": 9470.0,
+          "bps": 85558.0,
+          "roe": 11.89,
+          "debt_ratio": 62.87,
+          "revenue_growth": 0.31,
+          "op_profit_growth": -2.04
+        },
+        {
+          "period": "202409",
+          "eps": 9856.0,
+          "bps": 85111.0,
+          "roe": 15.74,
+          "debt_ratio": 58.33,
+          "revenue_growth": 7.05,
+          "op_profit_growth": 23.33
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202509",
+          "ebitda": 2480.0,
+          "ev_ebitda": 16.75,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 3135.0,
+          "ev_ebitda": 12.93,
+          "eva": 321.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 3191.0,
+          "ev_ebitda": 15.6,
+          "eva": 454.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2549.0,
+          "ev_ebitda": 16.96,
+          "eva": 205.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 2145.0,
+          "ev_ebitda": 18.98,
+          "eva": -71.0
+        }
+      ]
     },
     {
       "id": 86,
@@ -8746,7 +11179,7 @@
       "stock_code": "014680",
       "stock_name": "한솔케미칼",
       "name_eng": "Hansol Chemical Co., Ltd",
-      "sector": null,
+      "sector": "20129",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -9021,8 +11454,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 12993.0,
+          "bps": 99420.0,
+          "roe": 14.34,
+          "debt_ratio": 35.94,
+          "revenue_growth": 13.86,
+          "op_profit_growth": 21.28
+        },
+        {
+          "period": "202509",
+          "eps": 11536.0,
+          "bps": 97917.0,
+          "roe": 15.06,
+          "debt_ratio": 34.94,
+          "revenue_growth": 12.59,
+          "op_profit_growth": 31.08
+        },
+        {
+          "period": "202506",
+          "eps": 7540.0,
+          "bps": 94048.0,
+          "roe": 14.07,
+          "debt_ratio": 35.64,
+          "revenue_growth": 8.7,
+          "op_profit_growth": 30.65
+        },
+        {
+          "period": "202503",
+          "eps": 3211.0,
+          "bps": 89490.0,
+          "roe": 13.8,
+          "debt_ratio": 47.54,
+          "revenue_growth": 5.91,
+          "op_profit_growth": 21.96
+        },
+        {
+          "period": "202412",
+          "eps": 10823.0,
+          "bps": 88053.0,
+          "roe": 13.48,
+          "debt_ratio": 36.7,
+          "revenue_growth": 0.61,
+          "op_profit_growth": 3.77
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2103.0,
+          "ev_ebitda": 13.09,
+          "eva": -387.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1799.0,
+          "ev_ebitda": 7.51,
+          "eva": -516.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1772.0,
+          "ev_ebitda": 15.98,
+          "eva": -390.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2352.0,
+          "ev_ebitda": 9.79,
+          "eva": 116.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 2404.0,
+          "ev_ebitda": 15.08,
+          "eva": 835.0
+        }
+      ]
     },
     {
       "id": 87,
@@ -9032,7 +11542,7 @@
       "stock_code": "000120",
       "stock_name": "CJ대한통운",
       "name_eng": "CJ Logistics Corporation ",
-      "sector": null,
+      "sector": "493",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -9307,8 +11817,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 10612.0,
+          "bps": 207860.0,
+          "roe": 5.98,
+          "debt_ratio": 132.88,
+          "revenue_growth": 1.39,
+          "op_profit_growth": -4.26
+        },
+        {
+          "period": "202509",
+          "eps": 6990.0,
+          "bps": 204319.0,
+          "roe": 6.61,
+          "debt_ratio": 136.95,
+          "revenue_growth": 1.69,
+          "op_profit_growth": -7.39
+        },
+        {
+          "period": "202506",
+          "eps": 3875.0,
+          "bps": 199291.0,
+          "roe": 6.3,
+          "debt_ratio": 132.58,
+          "revenue_growth": 1.01,
+          "op_profit_growth": -14.53
+        },
+        {
+          "period": "202503",
+          "eps": 1572.0,
+          "bps": 198314.0,
+          "roe": 6.36,
+          "debt_ratio": 132.72,
+          "revenue_growth": 2.44,
+          "op_profit_growth": -21.94
+        },
+        {
+          "period": "202412",
+          "eps": 10893.0,
+          "bps": 197983.0,
+          "roe": 6.58,
+          "debt_ratio": 130.59,
+          "revenue_growth": 2.97,
+          "op_profit_growth": 10.5
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 11626.0,
+          "ev_ebitda": 5.04,
+          "eva": 1288.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 11525.0,
+          "ev_ebitda": 4.55,
+          "eva": 273.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 10594.0,
+          "ev_ebitda": 5.78,
+          "eva": 724.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9239.0,
+          "ev_ebitda": 5.72,
+          "eva": -1301.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 8201.0,
+          "ev_ebitda": 7.1,
+          "eva": -1393.0
+        }
+      ]
     },
     {
       "id": 88,
@@ -9318,7 +11905,7 @@
       "stock_code": "042670",
       "stock_name": "에이치디현대인프라코어",
       "name_eng": "HD Hyundai Infracore Co., Ltd.",
-      "sector": null,
+      "sector": "29241",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -9353,7 +11940,53 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 699.0,
+          "bps": 10533.0,
+          "roe": 7.13,
+          "debt_ratio": 127.38,
+          "revenue_growth": 4.97,
+          "op_profit_growth": 30.52
+        },
+        {
+          "period": "202506",
+          "eps": 349.0,
+          "bps": 10115.0,
+          "roe": 2.37,
+          "debt_ratio": 135.9,
+          "revenue_growth": -2.76,
+          "op_profit_growth": -0.4
+        },
+        {
+          "period": "202503",
+          "eps": 207.0,
+          "bps": 9833.0,
+          "roe": 4.33,
+          "debt_ratio": 136.85,
+          "revenue_growth": -12.0,
+          "op_profit_growth": -26.92
+        },
+        {
+          "period": "202412",
+          "eps": 550.0,
+          "bps": 9602.0,
+          "roe": 5.92,
+          "debt_ratio": 132.09,
+          "revenue_growth": -11.71,
+          "op_profit_growth": -55.97
+        },
+        {
+          "period": "202409",
+          "eps": 531.0,
+          "bps": 9678.0,
+          "roe": 3.3,
+          "debt_ratio": 129.75,
+          "revenue_growth": -13.67,
+          "op_profit_growth": -51.76
+        }
+      ],
       "ebitda_history": []
     },
     {
@@ -9364,7 +11997,7 @@
       "stock_code": "030000",
       "stock_name": "제일기획",
       "name_eng": "Cheil Worldwide Inc",
-      "sector": null,
+      "sector": "71310",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -9627,8 +12260,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 1804.0,
+          "bps": 15525.0,
+          "roe": 13.7,
+          "debt_ratio": 125.93,
+          "revenue_growth": 4.67,
+          "op_profit_growth": 5.04
+        },
+        {
+          "period": "202509",
+          "eps": 1251.0,
+          "bps": 14599.0,
+          "roe": 12.83,
+          "debt_ratio": 130.29,
+          "revenue_growth": 5.26,
+          "op_profit_growth": 3.43
+        },
+        {
+          "period": "202506",
+          "eps": 688.0,
+          "bps": 13711.0,
+          "roe": 13.22,
+          "debt_ratio": 124.44,
+          "revenue_growth": 2.41,
+          "op_profit_growth": 5.5
+        },
+        {
+          "period": "202503",
+          "eps": 246.0,
+          "bps": 13657.0,
+          "roe": 14.73,
+          "debt_ratio": 123.41,
+          "revenue_growth": 2.1,
+          "op_profit_growth": 7.24
+        },
+        {
+          "period": "202412",
+          "eps": 1804.0,
+          "bps": 14396.0,
+          "roe": 15.12,
+          "debt_ratio": 124.32,
+          "revenue_growth": 4.98,
+          "op_profit_growth": 4.29
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 4212.0,
+          "ev_ebitda": 4.47,
+          "eva": 1922.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 3978.0,
+          "ev_ebitda": 3.25,
+          "eva": 2011.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 3825.0,
+          "ev_ebitda": 4.45,
+          "eva": 1868.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 3849.0,
+          "ev_ebitda": 5.82,
+          "eva": 2119.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3189.0,
+          "ev_ebitda": 6.93,
+          "eva": 1457.0
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-04-04T17:20:30.676929",
+  "generated_at": "2026-04-04T18:08:34.467294",
   "count": 4,
   "summary": {
     "확인필요": 4
@@ -14,7 +14,7 @@
       "stock_code": "001120",
       "stock_name": "LX인터내셔널",
       "name_eng": "LX INTERNATIONAL CORP.",
-      "sector": null,
+      "sector": "4610",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -73,8 +73,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 3659.0,
+          "bps": 77069.0,
+          "roe": 5.22,
+          "debt_ratio": 163.83,
+          "revenue_growth": 0.41,
+          "op_profit_growth": -40.27
+        },
+        {
+          "period": "202509",
+          "eps": 5037.0,
+          "bps": 76503.0,
+          "roe": 4.34,
+          "debt_ratio": 168.63,
+          "revenue_growth": -0.19,
+          "op_profit_growth": -40.07
+        },
+        {
+          "period": "202506",
+          "eps": 3937.0,
+          "bps": 74394.0,
+          "roe": 6.12,
+          "debt_ratio": 173.72,
+          "revenue_growth": 0.37,
+          "op_profit_growth": -28.46
+        },
+        {
+          "period": "202503",
+          "eps": 2581.0,
+          "bps": 74678.0,
+          "roe": 7.77,
+          "debt_ratio": 174.24,
+          "revenue_growth": 7.21,
+          "op_profit_growth": 5.57
+        },
+        {
+          "period": "202412",
+          "eps": 4533.0,
+          "bps": 73962.0,
+          "roe": 7.12,
+          "debt_ratio": 169.03,
+          "revenue_growth": 14.63,
+          "op_profit_growth": 12.95
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6972.0,
+          "ev_ebitda": 5.19,
+          "eva": -1015.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 8529.0,
+          "ev_ebitda": 3.84,
+          "eva": 663.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7467.0,
+          "ev_ebitda": 4.42,
+          "eva": -166.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 11980.0,
+          "ev_ebitda": 2.24,
+          "eva": 5749.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 8435.0,
+          "ev_ebitda": 2.78,
+          "eva": 4409.0
+        }
+      ]
     },
     {
       "id": 204,
@@ -84,7 +161,7 @@
       "stock_code": "001120",
       "stock_name": "LX인터내셔널",
       "name_eng": "LX INTERNATIONAL CORP.",
-      "sector": null,
+      "sector": "4610",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -155,8 +232,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 3659.0,
+          "bps": 77069.0,
+          "roe": 5.22,
+          "debt_ratio": 163.83,
+          "revenue_growth": 0.41,
+          "op_profit_growth": -40.27
+        },
+        {
+          "period": "202509",
+          "eps": 5037.0,
+          "bps": 76503.0,
+          "roe": 4.34,
+          "debt_ratio": 168.63,
+          "revenue_growth": -0.19,
+          "op_profit_growth": -40.07
+        },
+        {
+          "period": "202506",
+          "eps": 3937.0,
+          "bps": 74394.0,
+          "roe": 6.12,
+          "debt_ratio": 173.72,
+          "revenue_growth": 0.37,
+          "op_profit_growth": -28.46
+        },
+        {
+          "period": "202503",
+          "eps": 2581.0,
+          "bps": 74678.0,
+          "roe": 7.77,
+          "debt_ratio": 174.24,
+          "revenue_growth": 7.21,
+          "op_profit_growth": 5.57
+        },
+        {
+          "period": "202412",
+          "eps": 4533.0,
+          "bps": 73962.0,
+          "roe": 7.12,
+          "debt_ratio": 169.03,
+          "revenue_growth": 14.63,
+          "op_profit_growth": 12.95
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6972.0,
+          "ev_ebitda": 5.19,
+          "eva": -1015.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 8529.0,
+          "ev_ebitda": 3.84,
+          "eva": 663.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7467.0,
+          "ev_ebitda": 4.42,
+          "eva": -166.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 11980.0,
+          "ev_ebitda": 2.24,
+          "eva": 5749.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 8435.0,
+          "ev_ebitda": 2.78,
+          "eva": 4409.0
+        }
+      ]
     },
     {
       "id": 205,
@@ -166,7 +320,7 @@
       "stock_code": "120110",
       "stock_name": "코오롱인더",
       "name_eng": "KOLON INDUSTRIES, INC.",
-      "sector": null,
+      "sector": "205",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -237,8 +391,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 1578.0,
+          "bps": 127265.0,
+          "roe": 2.77,
+          "debt_ratio": 93.0,
+          "revenue_growth": 3.56,
+          "op_profit_growth": -19.37
+        },
+        {
+          "period": "202506",
+          "eps": 1375.0,
+          "bps": 125496.0,
+          "roe": 2.41,
+          "debt_ratio": 90.34,
+          "revenue_growth": 3.74,
+          "op_profit_growth": -21.58
+        },
+        {
+          "period": "202503",
+          "eps": 538.0,
+          "bps": 121125.0,
+          "roe": 2.97,
+          "debt_ratio": 95.18,
+          "revenue_growth": 7.78,
+          "op_profit_growth": -13.48
+        },
+        {
+          "period": "202412",
+          "eps": 3256.0,
+          "bps": 120405.0,
+          "roe": 3.06,
+          "debt_ratio": 92.1,
+          "revenue_growth": 2.28,
+          "op_profit_growth": -20.5
+        },
+        {
+          "period": "202409",
+          "eps": 1643.0,
+          "bps": 103433.0,
+          "roe": 1.36,
+          "debt_ratio": 88.04,
+          "revenue_growth": 1.02,
+          "op_profit_growth": -14.63
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202509",
+          "ebitda": 2944.0,
+          "ev_ebitda": 8.64,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4195.0,
+          "ev_ebitda": 7.5,
+          "eva": -1958.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 4492.0,
+          "ev_ebitda": 7.58,
+          "eva": -2484.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 4776.0,
+          "ev_ebitda": 7.12,
+          "eva": -2577.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 4883.0,
+          "ev_ebitda": 7.95,
+          "eva": -1660.0
+        }
+      ]
     },
     {
       "id": 206,
@@ -248,7 +479,7 @@
       "stock_code": "003230",
       "stock_name": "삼양식품",
       "name_eng": "Samyang Foods Inc.",
-      "sector": null,
+      "sector": "108",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -307,8 +538,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 51697.0,
+          "bps": 166650.0,
+          "roe": 37.59,
+          "debt_ratio": 72.74,
+          "revenue_growth": 36.1,
+          "op_profit_growth": 52.13
+        },
+        {
+          "period": "202509",
+          "eps": 39008.0,
+          "bps": 144930.0,
+          "roe": 40.57,
+          "debt_ratio": 89.75,
+          "revenue_growth": 37.22,
+          "op_profit_growth": 49.85
+        },
+        {
+          "period": "202506",
+          "eps": 24382.0,
+          "bps": 131973.0,
+          "roe": 37.94,
+          "debt_ratio": 94.16,
+          "revenue_growth": 33.56,
+          "op_profit_growth": 49.82
+        },
+        {
+          "period": "202503",
+          "eps": 13160.0,
+          "bps": 121095.0,
+          "roe": 39.9,
+          "debt_ratio": 84.19,
+          "revenue_growth": 37.14,
+          "op_profit_growth": 67.24
+        },
+        {
+          "period": "202412",
+          "eps": 36106.0,
+          "bps": 109524.0,
+          "roe": 39.37,
+          "debt_ratio": 92.6,
+          "revenue_growth": 44.86,
+          "op_profit_growth": 133.58
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 5879.0,
+          "ev_ebitda": 16.01,
+          "eva": 3948.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 3906.0,
+          "ev_ebitda": 14.84,
+          "eva": 1892.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1797.0,
+          "ev_ebitda": 9.68,
+          "eva": 1002.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1153.0,
+          "ev_ebitda": 9.59,
+          "eva": 383.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 806.0,
+          "ev_ebitda": 9.44,
+          "eva": 335.0
+        }
+      ]
     }
   ]
 }

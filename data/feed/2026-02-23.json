@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "generated_at": "2026-04-04T17:20:30.673206",
+  "generated_at": "2026-04-04T18:08:34.461480",
   "count": 2,
   "summary": {
     "확인필요": 2
@@ -14,7 +14,7 @@
       "stock_code": "007660",
       "stock_name": "이수페타시스",
       "name_eng": "ISUPETASYS CO.,LTD",
-      "sector": null,
+      "sector": "2622",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -241,8 +241,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2257.0,
+          "bps": 10292.0,
+          "roe": 29.64,
+          "debt_ratio": 70.53,
+          "revenue_growth": 30.01,
+          "op_profit_growth": 100.95
+        },
+        {
+          "period": "202509",
+          "eps": 1659.0,
+          "bps": 9737.0,
+          "roe": 26.68,
+          "debt_ratio": 63.06,
+          "revenue_growth": 29.35,
+          "op_profit_growth": 93.95
+        },
+        {
+          "period": "202506",
+          "eps": 1008.0,
+          "bps": 9061.0,
+          "roe": 21.59,
+          "debt_ratio": 61.67,
+          "revenue_growth": 22.15,
+          "op_profit_growth": 77.77
+        },
+        {
+          "period": "202503",
+          "eps": 577.0,
+          "bps": 5374.0,
+          "roe": 29.94,
+          "debt_ratio": 126.03,
+          "revenue_growth": 26.49,
+          "op_profit_growth": 107.43
+        },
+        {
+          "period": "202412",
+          "eps": 1116.0,
+          "bps": 4938.0,
+          "roe": 24.92,
+          "debt_ratio": 141.24,
+          "revenue_growth": 23.92,
+          "op_profit_growth": 63.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2344.0,
+          "ev_ebitda": 36.92,
+          "eva": 536.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1262.0,
+          "ev_ebitda": 15.04,
+          "eva": 58.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 775.0,
+          "ev_ebitda": 26.37,
+          "eva": -52.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1296.0,
+          "ev_ebitda": 3.94,
+          "eva": 780.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 643.0,
+          "ev_ebitda": 9.49,
+          "eva": 223.0
+        }
+      ]
     },
     {
       "id": 198,
@@ -252,7 +329,7 @@
       "stock_code": "111770",
       "stock_name": "영원무역",
       "name_eng": "Youngone Corporation",
-      "sector": null,
+      "sector": "46800",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -311,8 +388,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 11109.0,
+          "bps": 96154.0,
+          "roe": 12.66,
+          "debt_ratio": 39.25,
+          "revenue_growth": 15.51,
+          "op_profit_growth": 63.01
+        },
+        {
+          "period": "202509",
+          "eps": 8432.0,
+          "bps": 89053.0,
+          "roe": 12.47,
+          "debt_ratio": 39.03,
+          "revenue_growth": 14.35,
+          "op_profit_growth": 19.65
+        },
+        {
+          "period": "202506",
+          "eps": 4700.0,
+          "bps": 84634.0,
+          "roe": 10.57,
+          "debt_ratio": 43.53,
+          "revenue_growth": 15.42,
+          "op_profit_growth": -3.98
+        },
+        {
+          "period": "202503",
+          "eps": 2008.0,
+          "bps": 86367.0,
+          "roe": 12.37,
+          "debt_ratio": 39.08,
+          "revenue_growth": 14.32,
+          "op_profit_growth": 15.88
+        },
+        {
+          "period": "202412",
+          "eps": 9637.0,
+          "bps": 86238.0,
+          "roe": 12.32,
+          "debt_ratio": 38.35,
+          "revenue_growth": -2.4,
+          "op_profit_growth": -50.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6278.0,
+          "ev_ebitda": 4.22,
+          "eva": 1939.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4232.0,
+          "ev_ebitda": 2.54,
+          "eva": -743.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7354.0,
+          "ev_ebitda": 2.27,
+          "eva": 3902.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9161.0,
+          "ev_ebitda": 1.97,
+          "eva": 5420.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5291.0,
+          "ev_ebitda": 3.2,
+          "eva": 2007.0
+        }
+      ]
     }
   ]
 }

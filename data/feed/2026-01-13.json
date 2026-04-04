@@ -1,6 +1,6 @@
 {
   "date": "2026-01-13",
-  "generated_at": "2026-04-04T17:20:30.669089",
+  "generated_at": "2026-04-04T18:08:34.455512",
   "count": 3,
   "summary": {
     "확인필요": 3
@@ -14,7 +14,7 @@
       "stock_code": "006650",
       "stock_name": "대한유화",
       "name_eng": "KOREA PETRO CHEMICAL IND CO.,LTD",
-      "sector": null,
+      "sector": "20111",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -181,8 +181,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 4878.0,
+          "bps": 297102.0,
+          "roe": 1.74,
+          "debt_ratio": 29.73,
+          "revenue_growth": 19.56,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 5273.0,
+          "bps": 297148.0,
+          "roe": 3.0,
+          "debt_ratio": 32.04,
+          "revenue_growth": 19.65,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": 679.0,
+          "bps": 292163.0,
+          "roe": 0.24,
+          "debt_ratio": 30.61,
+          "revenue_growth": 13.04,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": 457.0,
+          "bps": 292173.0,
+          "roe": 0.06,
+          "debt_ratio": 23.08,
+          "revenue_growth": 11.76,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202412",
+          "eps": -1312.0,
+          "bps": 292683.0,
+          "roe": -0.47,
+          "debt_ratio": 22.8,
+          "revenue_growth": 12.01,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2222.0,
+          "ev_ebitda": 5.64,
+          "eva": -2124.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1201.0,
+          "ev_ebitda": 4.88,
+          "eva": -2790.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1190.0,
+          "ev_ebitda": 9.31,
+          "eva": -2127.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -537.0,
+          "ev_ebitda": 0.0,
+          "eva": -5053.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3358.0,
+          "ev_ebitda": 2.38,
+          "eva": -1078.0
+        }
+      ]
     },
     {
       "id": 52,
@@ -192,7 +269,7 @@
       "stock_code": "032350",
       "stock_name": "롯데관광개발",
       "name_eng": "LOTTE TOUR DEVELOPMENT CO.,LTD",
-      "sector": null,
+      "sector": "75210",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -323,8 +400,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 356.0,
+          "bps": 4677.0,
+          "roe": 8.06,
+          "debt_ratio": 488.68,
+          "revenue_growth": 38.6,
+          "op_profit_growth": 267.45
+        },
+        {
+          "period": "202509",
+          "eps": -144.0,
+          "bps": 4379.0,
+          "roe": -16.18,
+          "debt_ratio": 528.62,
+          "revenue_growth": 29.01,
+          "op_profit_growth": 168.98
+        },
+        {
+          "period": "202506",
+          "eps": -231.0,
+          "bps": 4259.0,
+          "roe": -25.4,
+          "debt_ratio": 554.6,
+          "revenue_growth": 25.79,
+          "op_profit_growth": 214.35
+        },
+        {
+          "period": "202503",
+          "eps": -309.0,
+          "bps": 3850.0,
+          "roe": -61.96,
+          "debt_ratio": 639.29,
+          "revenue_growth": 14.8,
+          "op_profit_growth": 48.16
+        },
+        {
+          "period": "202412",
+          "eps": -1531.0,
+          "bps": 4156.0,
+          "roe": -60.42,
+          "debt_ratio": 592.08,
+          "revenue_growth": 50.37,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2318.0,
+          "ev_ebitda": 13.1,
+          "eva": -1133.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1240.0,
+          "ev_ebitda": 14.61,
+          "eva": -353.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 261.0,
+          "ev_ebitda": 75.63,
+          "eva": -1714.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -358.0,
+          "ev_ebitda": 0.0,
+          "eva": -1271.0
+        },
+        {
+          "period": "202112",
+          "ebitda": -624.0,
+          "ev_ebitda": 0.0,
+          "eva": -1831.0
+        }
+      ]
     },
     {
       "id": 53,
@@ -334,7 +488,7 @@
       "stock_code": "007660",
       "stock_name": "이수페타시스",
       "name_eng": "ISUPETASYS CO.,LTD",
-      "sector": null,
+      "sector": "2622",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -453,8 +607,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2257.0,
+          "bps": 10292.0,
+          "roe": 29.64,
+          "debt_ratio": 70.53,
+          "revenue_growth": 30.01,
+          "op_profit_growth": 100.95
+        },
+        {
+          "period": "202509",
+          "eps": 1659.0,
+          "bps": 9737.0,
+          "roe": 26.68,
+          "debt_ratio": 63.06,
+          "revenue_growth": 29.35,
+          "op_profit_growth": 93.95
+        },
+        {
+          "period": "202506",
+          "eps": 1008.0,
+          "bps": 9061.0,
+          "roe": 21.59,
+          "debt_ratio": 61.67,
+          "revenue_growth": 22.15,
+          "op_profit_growth": 77.77
+        },
+        {
+          "period": "202503",
+          "eps": 577.0,
+          "bps": 5374.0,
+          "roe": 29.94,
+          "debt_ratio": 126.03,
+          "revenue_growth": 26.49,
+          "op_profit_growth": 107.43
+        },
+        {
+          "period": "202412",
+          "eps": 1116.0,
+          "bps": 4938.0,
+          "roe": 24.92,
+          "debt_ratio": 141.24,
+          "revenue_growth": 23.92,
+          "op_profit_growth": 63.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2344.0,
+          "ev_ebitda": 36.92,
+          "eva": 536.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1262.0,
+          "ev_ebitda": 15.04,
+          "eva": 58.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 775.0,
+          "ev_ebitda": 26.37,
+          "eva": -52.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1296.0,
+          "ev_ebitda": 3.94,
+          "eva": 780.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 643.0,
+          "ev_ebitda": 9.49,
+          "eva": 223.0
+        }
+      ]
     }
   ]
 }

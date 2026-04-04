@@ -1,6 +1,6 @@
 {
   "date": "2026-01-15",
-  "generated_at": "2026-04-04T17:20:30.669842",
+  "generated_at": "2026-04-04T18:08:34.456698",
   "count": 1,
   "summary": {
     "확인필요": 1
@@ -14,7 +14,7 @@
       "stock_code": "011070",
       "stock_name": "LG이노텍",
       "name_eng": "LG INNOTEK CO., LTD.",
-      "sector": null,
+      "sector": "262",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -229,8 +229,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 14419.0,
+          "bps": 243532.0,
+          "roe": 6.14,
+          "debt_ratio": 107.02,
+          "revenue_growth": 3.28,
+          "op_profit_growth": -5.81
+        },
+        {
+          "period": "202509",
+          "eps": 8676.0,
+          "bps": 231824.0,
+          "roe": 5.96,
+          "debt_ratio": 114.1,
+          "revenue_growth": -1.97,
+          "op_profit_growth": -25.73
+        },
+        {
+          "period": "202506",
+          "eps": 3251.0,
+          "bps": 222898.0,
+          "roe": 5.64,
+          "debt_ratio": 86.72,
+          "revenue_growth": 0.32,
+          "op_profit_growth": -58.35
+        },
+        {
+          "period": "202503",
+          "eps": 3617.0,
+          "bps": 227112.0,
+          "roe": 7.76,
+          "debt_ratio": 102.16,
+          "revenue_growth": 14.98,
+          "op_profit_growth": -28.93
+        },
+        {
+          "period": "202412",
+          "eps": 18983.0,
+          "bps": 226240.0,
+          "roe": 8.92,
+          "debt_ratio": 112.52,
+          "revenue_growth": 2.89,
+          "op_profit_growth": -15.02
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 18153.0,
+          "ev_ebitda": 4.01,
+          "eva": -1747.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 19861.0,
+          "ev_ebitda": 2.61,
+          "eva": -2830.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 18769.0,
+          "ev_ebitda": 3.75,
+          "eva": 1382.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 21575.0,
+          "ev_ebitda": 3.44,
+          "eva": 4735.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 20338.0,
+          "ev_ebitda": 4.7,
+          "eva": 6212.0
+        }
+      ]
     }
   ]
 }

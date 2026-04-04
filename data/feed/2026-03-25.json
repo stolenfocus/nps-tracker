@@ -1,6 +1,6 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-04-04T17:20:30.676210",
+  "generated_at": "2026-04-04T18:08:34.466126",
   "count": 4,
   "summary": {
     "확인필요": 4
@@ -14,7 +14,7 @@
       "stock_code": "069620",
       "stock_name": "대웅제약",
       "name_eng": "DAEWOONG PHARMA",
-      "sector": null,
+      "sector": "212",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -289,8 +289,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 16904.0,
+          "bps": 87439.0,
+          "roe": 21.75,
+          "debt_ratio": 108.24,
+          "revenue_growth": 10.42,
+          "op_profit_growth": 33.01
+        },
+        {
+          "period": "202509",
+          "eps": 9150.0,
+          "bps": 76467.0,
+          "roe": 10.98,
+          "debt_ratio": 125.12,
+          "revenue_growth": 11.28,
+          "op_profit_growth": 40.45
+        },
+        {
+          "period": "202506",
+          "eps": 5148.0,
+          "bps": 72277.0,
+          "roe": 9.36,
+          "debt_ratio": 120.96,
+          "revenue_growth": 9.42,
+          "op_profit_growth": 34.15
+        },
+        {
+          "period": "202503",
+          "eps": 1890.0,
+          "bps": 69896.0,
+          "roe": 4.82,
+          "debt_ratio": 113.97,
+          "revenue_growth": 6.17,
+          "op_profit_growth": 30.46
+        },
+        {
+          "period": "202412",
+          "eps": 2135.0,
+          "bps": 69061.0,
+          "roe": 3.17,
+          "debt_ratio": 113.27,
+          "revenue_growth": 3.44,
+          "op_profit_growth": 20.68
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2479.0,
+          "ev_ebitda": 11.22,
+          "eva": 1103.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1969.0,
+          "ev_ebitda": 10.99,
+          "eva": -217.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1664.0,
+          "ev_ebitda": 11.0,
+          "eva": 316.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1355.0,
+          "ev_ebitda": 16.8,
+          "eva": 214.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 1296.0,
+          "ev_ebitda": 16.32,
+          "eva": 276.0
+        }
+      ]
     },
     {
       "id": 208,
@@ -300,7 +377,7 @@
       "stock_code": "001120",
       "stock_name": "LX인터내셔널",
       "name_eng": "LX INTERNATIONAL CORP.",
-      "sector": null,
+      "sector": "4610",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -347,8 +424,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 3659.0,
+          "bps": 77069.0,
+          "roe": 5.22,
+          "debt_ratio": 163.83,
+          "revenue_growth": 0.41,
+          "op_profit_growth": -40.27
+        },
+        {
+          "period": "202509",
+          "eps": 5037.0,
+          "bps": 76503.0,
+          "roe": 4.34,
+          "debt_ratio": 168.63,
+          "revenue_growth": -0.19,
+          "op_profit_growth": -40.07
+        },
+        {
+          "period": "202506",
+          "eps": 3937.0,
+          "bps": 74394.0,
+          "roe": 6.12,
+          "debt_ratio": 173.72,
+          "revenue_growth": 0.37,
+          "op_profit_growth": -28.46
+        },
+        {
+          "period": "202503",
+          "eps": 2581.0,
+          "bps": 74678.0,
+          "roe": 7.77,
+          "debt_ratio": 174.24,
+          "revenue_growth": 7.21,
+          "op_profit_growth": 5.57
+        },
+        {
+          "period": "202412",
+          "eps": 4533.0,
+          "bps": 73962.0,
+          "roe": 7.12,
+          "debt_ratio": 169.03,
+          "revenue_growth": 14.63,
+          "op_profit_growth": 12.95
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6972.0,
+          "ev_ebitda": 5.19,
+          "eva": -1015.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 8529.0,
+          "ev_ebitda": 3.84,
+          "eva": 663.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7467.0,
+          "ev_ebitda": 4.42,
+          "eva": -166.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 11980.0,
+          "ev_ebitda": 2.24,
+          "eva": 5749.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 8435.0,
+          "ev_ebitda": 2.78,
+          "eva": 4409.0
+        }
+      ]
     },
     {
       "id": 209,
@@ -358,7 +512,7 @@
       "stock_code": "032350",
       "stock_name": "롯데관광개발",
       "name_eng": "LOTTE TOUR DEVELOPMENT CO.,LTD",
-      "sector": null,
+      "sector": "75210",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -417,8 +571,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 356.0,
+          "bps": 4677.0,
+          "roe": 8.06,
+          "debt_ratio": 488.68,
+          "revenue_growth": 38.6,
+          "op_profit_growth": 267.45
+        },
+        {
+          "period": "202509",
+          "eps": -144.0,
+          "bps": 4379.0,
+          "roe": -16.18,
+          "debt_ratio": 528.62,
+          "revenue_growth": 29.01,
+          "op_profit_growth": 168.98
+        },
+        {
+          "period": "202506",
+          "eps": -231.0,
+          "bps": 4259.0,
+          "roe": -25.4,
+          "debt_ratio": 554.6,
+          "revenue_growth": 25.79,
+          "op_profit_growth": 214.35
+        },
+        {
+          "period": "202503",
+          "eps": -309.0,
+          "bps": 3850.0,
+          "roe": -61.96,
+          "debt_ratio": 639.29,
+          "revenue_growth": 14.8,
+          "op_profit_growth": 48.16
+        },
+        {
+          "period": "202412",
+          "eps": -1531.0,
+          "bps": 4156.0,
+          "roe": -60.42,
+          "debt_ratio": 592.08,
+          "revenue_growth": 50.37,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2318.0,
+          "ev_ebitda": 13.1,
+          "eva": -1133.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1240.0,
+          "ev_ebitda": 14.61,
+          "eva": -353.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 261.0,
+          "ev_ebitda": 75.63,
+          "eva": -1714.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -358.0,
+          "ev_ebitda": 0.0,
+          "eva": -1271.0
+        },
+        {
+          "period": "202112",
+          "ebitda": -624.0,
+          "ev_ebitda": 0.0,
+          "eva": -1831.0
+        }
+      ]
     },
     {
       "id": 210,
@@ -428,7 +659,7 @@
       "stock_code": "128940",
       "stock_name": "한미약품",
       "name_eng": "Hanmi Pharm. Co., Ltd.",
-      "sector": null,
+      "sector": "21212",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -475,8 +706,85 @@
           "estimated": 1
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 9479.0,
+          "bps": 93381.0,
+          "roe": 10.29,
+          "debt_ratio": 51.63,
+          "revenue_growth": -2.56,
+          "op_profit_growth": -6.03
+        },
+        {
+          "period": "202506",
+          "eps": 6347.0,
+          "bps": 89001.0,
+          "roe": 9.83,
+          "debt_ratio": 53.4,
+          "revenue_growth": -3.79,
+          "op_profit_growth": -11.35
+        },
+        {
+          "period": "202503",
+          "eps": 3326.0,
+          "bps": 87879.0,
+          "roe": 10.26,
+          "debt_ratio": 56.3,
+          "revenue_growth": -3.16,
+          "op_profit_growth": -23.0
+        },
+        {
+          "period": "202412",
+          "eps": 9470.0,
+          "bps": 85558.0,
+          "roe": 11.89,
+          "debt_ratio": 62.87,
+          "revenue_growth": 0.31,
+          "op_profit_growth": -2.04
+        },
+        {
+          "period": "202409",
+          "eps": 9856.0,
+          "bps": 85111.0,
+          "roe": 15.74,
+          "debt_ratio": 58.33,
+          "revenue_growth": 7.05,
+          "op_profit_growth": 23.33
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202509",
+          "ebitda": 2480.0,
+          "ev_ebitda": 16.75,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 3135.0,
+          "ev_ebitda": 12.93,
+          "eva": 321.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 3191.0,
+          "ev_ebitda": 15.6,
+          "eva": 454.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2549.0,
+          "ev_ebitda": 16.96,
+          "eva": 205.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 2145.0,
+          "ev_ebitda": 18.98,
+          "eva": -71.0
+        }
+      ]
     }
   ]
 }

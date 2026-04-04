@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-04T17:20:30.680718",
+  "generated_at": "2026-04-04T18:08:34.474893",
   "count": 4,
   "summary": {
     "신규": 2,
@@ -74,8 +74,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 1335.0,
+          "bps": 16760.0,
+          "roe": 8.6,
+          "debt_ratio": 155.9,
+          "revenue_growth": 16.09,
+          "op_profit_growth": -29.53
+        },
+        {
+          "period": "202509",
+          "eps": 1134.0,
+          "bps": 16182.0,
+          "roe": 18.27,
+          "debt_ratio": 161.81,
+          "revenue_growth": 12.91,
+          "op_profit_growth": -24.87
+        },
+        {
+          "period": "202506",
+          "eps": 711.0,
+          "bps": 15655.0,
+          "roe": 17.83,
+          "debt_ratio": 161.09,
+          "revenue_growth": 12.33,
+          "op_profit_growth": -23.9
+        },
+        {
+          "period": "202503",
+          "eps": 435.0,
+          "bps": 15487.0,
+          "roe": 19.29,
+          "debt_ratio": 167.92,
+          "revenue_growth": 16.71,
+          "op_profit_growth": -4.72
+        },
+        {
+          "period": "202412",
+          "eps": 2382.0,
+          "bps": 15152.0,
+          "roe": 19.3,
+          "debt_ratio": 170.57,
+          "revenue_growth": 18.56,
+          "op_profit_growth": 372.76
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 371.0,
+          "ev_ebitda": 32.68,
+          "eva": -234.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 410.0,
+          "ev_ebitda": 33.67,
+          "eva": 19.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 152.0,
+          "ev_ebitda": 100.06,
+          "eva": -304.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 192.0,
+          "ev_ebitda": 63.29,
+          "eva": -156.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 231.0,
+          "ev_ebitda": 75.51,
+          "eva": 64.0
+        }
+      ]
     },
     {
       "id": 37,
@@ -144,8 +221,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2499.0,
+          "bps": 364612.0,
+          "roe": 0.72,
+          "debt_ratio": 193.27,
+          "revenue_growth": -1.05,
+          "op_profit_growth": -7.1
+        },
+        {
+          "period": "202509",
+          "eps": 9428.0,
+          "bps": 364246.0,
+          "roe": 4.39,
+          "debt_ratio": 194.87,
+          "revenue_growth": 0.92,
+          "op_profit_growth": -9.44
+        },
+        {
+          "period": "202506",
+          "eps": 7565.0,
+          "bps": 321898.0,
+          "roe": 5.74,
+          "debt_ratio": 214.39,
+          "revenue_growth": -0.52,
+          "op_profit_growth": -6.22
+        },
+        {
+          "period": "202503",
+          "eps": 4744.0,
+          "bps": 333701.0,
+          "roe": 7.97,
+          "debt_ratio": 214.09,
+          "revenue_growth": 3.89,
+          "op_profit_growth": 1.75
+        },
+        {
+          "period": "202412",
+          "eps": 31089.0,
+          "bps": 338062.0,
+          "roe": 9.84,
+          "debt_ratio": 159.58,
+          "revenue_growth": 3.31,
+          "op_profit_growth": 26.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 5591.0,
+          "ev_ebitda": 6.29,
+          "eva": -1063.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 5375.0,
+          "ev_ebitda": 4.87,
+          "eva": -540.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 4612.0,
+          "ev_ebitda": 6.68,
+          "eva": -654.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 3607.0,
+          "ev_ebitda": 9.14,
+          "eva": -2532.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 16219.0,
+          "ev_ebitda": 2.26,
+          "eva": 9698.0
+        }
+      ]
     },
     {
       "id": 38,
@@ -214,8 +368,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202509",
+          "eps": 1578.0,
+          "bps": 127265.0,
+          "roe": 2.77,
+          "debt_ratio": 93.0,
+          "revenue_growth": 3.56,
+          "op_profit_growth": -19.37
+        },
+        {
+          "period": "202506",
+          "eps": 1375.0,
+          "bps": 125496.0,
+          "roe": 2.41,
+          "debt_ratio": 90.34,
+          "revenue_growth": 3.74,
+          "op_profit_growth": -21.58
+        },
+        {
+          "period": "202503",
+          "eps": 538.0,
+          "bps": 121125.0,
+          "roe": 2.97,
+          "debt_ratio": 95.18,
+          "revenue_growth": 7.78,
+          "op_profit_growth": -13.48
+        },
+        {
+          "period": "202412",
+          "eps": 3256.0,
+          "bps": 120405.0,
+          "roe": 3.06,
+          "debt_ratio": 92.1,
+          "revenue_growth": 2.28,
+          "op_profit_growth": -20.5
+        },
+        {
+          "period": "202409",
+          "eps": 1643.0,
+          "bps": 103433.0,
+          "roe": 1.36,
+          "debt_ratio": 88.04,
+          "revenue_growth": 1.02,
+          "op_profit_growth": -14.63
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202509",
+          "ebitda": 2944.0,
+          "ev_ebitda": 8.64,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4195.0,
+          "ev_ebitda": 7.5,
+          "eva": -1958.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 4492.0,
+          "ev_ebitda": 7.58,
+          "eva": -2484.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 4776.0,
+          "ev_ebitda": 7.12,
+          "eva": -2577.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 4883.0,
+          "ev_ebitda": 7.95,
+          "eva": -1660.0
+        }
+      ]
     },
     {
       "id": 39,
@@ -272,8 +503,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 2499.0,
+          "bps": 364612.0,
+          "roe": 0.72,
+          "debt_ratio": 193.27,
+          "revenue_growth": -1.05,
+          "op_profit_growth": -7.1
+        },
+        {
+          "period": "202509",
+          "eps": 9428.0,
+          "bps": 364246.0,
+          "roe": 4.39,
+          "debt_ratio": 194.87,
+          "revenue_growth": 0.92,
+          "op_profit_growth": -9.44
+        },
+        {
+          "period": "202506",
+          "eps": 7565.0,
+          "bps": 321898.0,
+          "roe": 5.74,
+          "debt_ratio": 214.39,
+          "revenue_growth": -0.52,
+          "op_profit_growth": -6.22
+        },
+        {
+          "period": "202503",
+          "eps": 4744.0,
+          "bps": 333701.0,
+          "roe": 7.97,
+          "debt_ratio": 214.09,
+          "revenue_growth": 3.89,
+          "op_profit_growth": 1.75
+        },
+        {
+          "period": "202412",
+          "eps": 31089.0,
+          "bps": 338062.0,
+          "roe": 9.84,
+          "debt_ratio": 159.58,
+          "revenue_growth": 3.31,
+          "op_profit_growth": 26.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 5591.0,
+          "ev_ebitda": 6.29,
+          "eva": -1063.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 5375.0,
+          "ev_ebitda": 4.87,
+          "eva": -540.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 4612.0,
+          "ev_ebitda": 6.68,
+          "eva": -654.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 3607.0,
+          "ev_ebitda": 9.14,
+          "eva": -2532.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 16219.0,
+          "ev_ebitda": 2.26,
+          "eva": 9698.0
+        }
+      ]
     }
   ]
 }

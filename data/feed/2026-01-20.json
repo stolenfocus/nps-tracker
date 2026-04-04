@@ -1,6 +1,6 @@
 {
   "date": "2026-01-20",
-  "generated_at": "2026-04-04T17:20:30.670255",
+  "generated_at": "2026-04-04T18:08:34.457311",
   "count": 2,
   "summary": {
     "확인필요": 2
@@ -14,7 +14,7 @@
       "stock_code": "006650",
       "stock_name": "대한유화",
       "name_eng": "KOREA PETRO CHEMICAL IND CO.,LTD",
-      "sector": null,
+      "sector": "20111",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -73,8 +73,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 4878.0,
+          "bps": 297102.0,
+          "roe": 1.74,
+          "debt_ratio": 29.73,
+          "revenue_growth": 19.56,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 5273.0,
+          "bps": 297148.0,
+          "roe": 3.0,
+          "debt_ratio": 32.04,
+          "revenue_growth": 19.65,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": 679.0,
+          "bps": 292163.0,
+          "roe": 0.24,
+          "debt_ratio": 30.61,
+          "revenue_growth": 13.04,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202503",
+          "eps": 457.0,
+          "bps": 292173.0,
+          "roe": 0.06,
+          "debt_ratio": 23.08,
+          "revenue_growth": 11.76,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202412",
+          "eps": -1312.0,
+          "bps": 292683.0,
+          "roe": -0.47,
+          "debt_ratio": 22.8,
+          "revenue_growth": 12.01,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 2222.0,
+          "ev_ebitda": 5.64,
+          "eva": -2124.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1201.0,
+          "ev_ebitda": 4.88,
+          "eva": -2790.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1190.0,
+          "ev_ebitda": 9.31,
+          "eva": -2127.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -537.0,
+          "ev_ebitda": 0.0,
+          "eva": -5053.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 3358.0,
+          "ev_ebitda": 2.38,
+          "eva": -1078.0
+        }
+      ]
     },
     {
       "id": 49,
@@ -84,7 +161,7 @@
       "stock_code": "011780",
       "stock_name": "금호석유화학",
       "name_eng": "KUMHO PETRO CHEMICAL CO.,LTD",
-      "sector": null,
+      "sector": "201",
       "change_type": "확인필요",
       "stake_pct": 0.0,
       "stake_change": 0.0,
@@ -155,8 +232,85 @@
           "estimated": 0
         }
       ],
-      "financial_ratio_history": [],
-      "ebitda_history": []
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 9843.0,
+          "bps": 244373.0,
+          "roe": 4.74,
+          "debt_ratio": 35.67,
+          "revenue_growth": -3.35,
+          "op_profit_growth": -0.36
+        },
+        {
+          "period": "202509",
+          "eps": 9740.0,
+          "bps": 243889.0,
+          "roe": 5.75,
+          "debt_ratio": 35.2,
+          "revenue_growth": -0.42,
+          "op_profit_growth": 2.83
+        },
+        {
+          "period": "202506",
+          "eps": 6116.0,
+          "bps": 238543.0,
+          "roe": 4.93,
+          "debt_ratio": 35.36,
+          "revenue_growth": 4.59,
+          "op_profit_growth": -6.03
+        },
+        {
+          "period": "202503",
+          "eps": 4132.0,
+          "bps": 234955.0,
+          "roe": 6.21,
+          "debt_ratio": 37.75,
+          "revenue_growth": 14.44,
+          "op_profit_growth": 53.43
+        },
+        {
+          "period": "202412",
+          "eps": 11321.0,
+          "bps": 232363.0,
+          "roe": 5.88,
+          "debt_ratio": 38.03,
+          "revenue_growth": 13.17,
+          "op_profit_growth": -24.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 5893.0,
+          "ev_ebitda": 5.51,
+          "eva": -2840.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 5480.0,
+          "ev_ebitda": 5.09,
+          "eva": -4992.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 6102.0,
+          "ev_ebitda": 6.35,
+          "eva": -2676.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 13911.0,
+          "ev_ebitda": 2.58,
+          "eva": 2298.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 26150.0,
+          "ev_ebitda": 1.78,
+          "eva": 16928.0
+        }
+      ]
     }
   ]
 }
