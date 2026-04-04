@@ -1,273 +1,38 @@
 {
   "date": "2026-02-13",
-  "generated_at": "2026-04-04T18:46:51.900125",
+  "generated_at": "2026-04-04T19:59:20.140465",
   "count": 3,
   "summary": {
-    "확인필요": 3
+    "감소": 1,
+    "신규": 2
   },
+  "highlights": [
+    "파라다이스",
+    "대웅제약",
+    "영원무역"
+  ],
   "disclosures": [
     {
-      "id": 199,
-      "rcept_no": "20260213002263",
-      "disclosure_date": "2026-02-13",
-      "obligation_date": "20260212",
-      "stock_code": "111770",
-      "stock_name": "영원무역",
-      "name_eng": "Youngone Corporation",
-      "sector": "46800",
-      "change_type": "확인필요",
-      "stake_pct": 0.0,
-      "stake_change": 0.0,
-      "stake_prev_pct": 0.0,
-      "ref_price": 90900,
-      "ref_price_usd": null,
-      "per": 8.18,
-      "pbr": 0.95,
-      "roe": 12.66,
-      "debt_ratio": 39.25,
-      "ev_ebitda": null,
-      "ebitda": null,
-      "net_amount": -2489447188,
-      "net_amount_usd": null,
-      "fx_rate": null,
-      "trading_halted": 0,
-      "homepage": null,
-      "established": null,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002263",
-      "created_at": "2026-04-03 15:39:40",
-      "trades": [
-        {
-          "id": 1110,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260209",
-          "reason_text": "장내매수(+)",
-          "shares_change": 24889,
-          "shares_before": 4439874,
-          "shares_after": 4464763,
-          "unit_price": 92578,
-          "estimated": 0
-        },
-        {
-          "id": 1111,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260209",
-          "reason_text": "장내매도(-)",
-          "shares_change": -23000,
-          "shares_before": 4464763,
-          "shares_after": 4441763,
-          "unit_price": 92650,
-          "estimated": 0
-        },
-        {
-          "id": 1112,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260210",
-          "reason_text": "장내매수(+)",
-          "shares_change": 1568,
-          "shares_before": 4441763,
-          "shares_after": 4443331,
-          "unit_price": 87647,
-          "estimated": 0
-        },
-        {
-          "id": 1113,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260211",
-          "reason_text": "장내매수(+)",
-          "shares_change": 817,
-          "shares_before": 4443331,
-          "shares_after": 4444148,
-          "unit_price": 92872,
-          "estimated": 0
-        },
-        {
-          "id": 1114,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260211",
-          "reason_text": "장내매도(-)",
-          "shares_change": -2132,
-          "shares_before": 4444148,
-          "shares_after": 4442016,
-          "unit_price": 92010,
-          "estimated": 0
-        },
-        {
-          "id": 1115,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260212",
-          "reason_text": "장내매수(+)",
-          "shares_change": 8665,
-          "shares_before": 4442016,
-          "shares_after": 4450681,
-          "unit_price": 97978,
-          "estimated": 0
-        },
-        {
-          "id": 1116,
-          "rcept_no": "20260213002263",
-          "stock_code": "111770",
-          "trade_date": "20260212",
-          "reason_text": "장내매도(-)",
-          "shares_change": -36000,
-          "shares_before": 4450681,
-          "shares_after": 4414681,
-          "unit_price": 98022,
-          "estimated": 0
-        }
-      ],
-      "financial_ratio_history": [
-        {
-          "period": "202512",
-          "eps": 11109.0,
-          "bps": 96154.0,
-          "roe": 12.66,
-          "debt_ratio": 39.25,
-          "revenue_growth": 15.51,
-          "op_profit_growth": 63.01
-        },
-        {
-          "period": "202509",
-          "eps": 8432.0,
-          "bps": 89053.0,
-          "roe": 12.47,
-          "debt_ratio": 39.03,
-          "revenue_growth": 14.35,
-          "op_profit_growth": 19.65
-        },
-        {
-          "period": "202506",
-          "eps": 4700.0,
-          "bps": 84634.0,
-          "roe": 10.57,
-          "debt_ratio": 43.53,
-          "revenue_growth": 15.42,
-          "op_profit_growth": -3.98
-        },
-        {
-          "period": "202503",
-          "eps": 2008.0,
-          "bps": 86367.0,
-          "roe": 12.37,
-          "debt_ratio": 39.08,
-          "revenue_growth": 14.32,
-          "op_profit_growth": 15.88
-        },
-        {
-          "period": "202412",
-          "eps": 9637.0,
-          "bps": 86238.0,
-          "roe": 12.32,
-          "debt_ratio": 38.35,
-          "revenue_growth": -2.4,
-          "op_profit_growth": -50.47
-        }
-      ],
-      "ebitda_history": [
-        {
-          "period": "202512",
-          "ebitda": 6278.0,
-          "ev_ebitda": 4.22,
-          "eva": 1939.0
-        },
-        {
-          "period": "202412",
-          "ebitda": 4232.0,
-          "ev_ebitda": 2.54,
-          "eva": -743.0
-        },
-        {
-          "period": "202312",
-          "ebitda": 7354.0,
-          "ev_ebitda": 2.27,
-          "eva": 3902.0
-        },
-        {
-          "period": "202212",
-          "ebitda": 9161.0,
-          "ev_ebitda": 1.97,
-          "eva": 5420.0
-        },
-        {
-          "period": "202112",
-          "ebitda": 5291.0,
-          "ev_ebitda": 3.2,
-          "eva": 2007.0
-        }
-      ]
-    },
-    {
-      "id": 200,
-      "rcept_no": "20260213002254",
-      "disclosure_date": "2026-02-13",
-      "obligation_date": "20260212",
-      "stock_code": "034230",
       "stock_name": "파라다이스",
-      "name_eng": "PARADISE.Co.,Ltd.",
-      "sector": "91249",
-      "change_type": "확인필요",
-      "stake_pct": 0.0,
-      "stake_change": 0.0,
-      "stake_prev_pct": 0.0,
-      "ref_price": 18090,
-      "ref_price_usd": null,
-      "per": 17.63,
-      "pbr": 0.92,
+      "stock_code": "034230",
+      "change_type": "신규",
+      "stake_pct": "10.18",
+      "stake_change": "10.18",
+      "stake_prev_pct": null,
+      "ref_price": 20500,
+      "ref_date": "20260213",
+      "per": 18.25,
+      "pbr": 0.79,
+      "eps": 1026.0,
+      "bps": 19694.0,
       "roe": 5.62,
       "debt_ratio": 84.41,
-      "ev_ebitda": null,
-      "ebitda": null,
-      "net_amount": 3549305194,
-      "net_amount_usd": null,
-      "fx_rate": null,
-      "trading_halted": 0,
-      "homepage": null,
-      "established": null,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002254",
-      "created_at": "2026-04-03 15:39:41",
-      "trades": [
-        {
-          "id": 1117,
-          "rcept_no": "20260213002254",
-          "stock_code": "034230",
-          "trade_date": "20260212",
-          "reason_text": "신규보고(+)",
-          "shares_change": 9237396,
-          "shares_before": 0,
-          "shares_after": 9237396,
-          "unit_price": 0,
-          "estimated": 0
-        },
-        {
-          "id": 1118,
-          "rcept_no": "20260213002254",
-          "stock_code": "034230",
-          "trade_date": "20260212",
-          "reason_text": "신규주요주주(+)",
-          "shares_change": 181061,
-          "shares_before": 9237396,
-          "shares_after": 9418457,
-          "unit_price": 21386,
-          "estimated": 0
-        },
-        {
-          "id": 1119,
-          "rcept_no": "20260213002254",
-          "stock_code": "034230",
-          "trade_date": "20260212",
-          "reason_text": "장내매도(-)",
-          "shares_change": -15272,
-          "shares_before": 9418457,
-          "shares_after": 9403185,
-          "unit_price": 21141,
-          "estimated": 0
-        }
-      ],
+      "revenue_growth": 7.25,
+      "op_profit_growth": 14.52,
+      "fin_period": "202512",
+      "ev_ebitda": 10.39,
+      "ebitda": 2305.0,
+      "sector": "오락·문화",
       "financial_ratio_history": [
         {
           "period": "202512",
@@ -346,75 +111,78 @@
           "ev_ebitda": 60.07,
           "eva": -2266.0
         }
-      ]
-    },
-    {
-      "id": 201,
-      "rcept_no": "20260213002246",
-      "disclosure_date": "2026-02-13",
-      "obligation_date": "20260211",
-      "stock_code": "069620",
-      "stock_name": "대웅제약",
-      "name_eng": "DAEWOONG PHARMA",
-      "sector": "212",
-      "change_type": "확인필요",
-      "stake_pct": 0.0,
-      "stake_change": 0.0,
-      "stake_prev_pct": 0.0,
-      "ref_price": 162900,
-      "ref_price_usd": null,
-      "per": 9.64,
-      "pbr": 1.86,
-      "roe": 21.75,
-      "debt_ratio": 108.24,
-      "ev_ebitda": null,
-      "ebitda": null,
-      "net_amount": 385736394,
-      "net_amount_usd": null,
-      "fx_rate": null,
-      "trading_halted": 0,
-      "homepage": null,
-      "established": null,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002246",
-      "created_at": "2026-04-03 15:39:41",
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "PARADISE.Co.,Ltd.",
+      "ceo": "최종환, 임준신 (각자대표)",
+      "homepage": "www.paradise.co.kr/ko/main",
+      "established": "19720427",
       "trades": [
         {
-          "id": 1120,
-          "rcept_no": "20260213002246",
-          "stock_code": "069620",
-          "trade_date": "20260211",
-          "reason_text": "신규보고(+)",
-          "shares_change": 1157304,
+          "reason": "33",
+          "trade_date": "20260212",
+          "stock_type": "1",
           "shares_before": 0,
-          "shares_after": 1157304,
+          "shares_change": 9237396,
+          "shares_after": 9237396,
           "unit_price": 0,
-          "estimated": 0
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
         },
         {
-          "id": 1121,
-          "rcept_no": "20260213002246",
-          "stock_code": "069620",
-          "trade_date": "20260211",
-          "reason_text": "신규주요주주(+)",
-          "shares_change": 2932,
-          "shares_before": 1157304,
-          "shares_after": 1160236,
-          "unit_price": 166752,
-          "estimated": 0
+          "reason": "32",
+          "trade_date": "20260212",
+          "stock_type": "1",
+          "shares_before": 9237396,
+          "shares_change": 181061,
+          "shares_after": 9418457,
+          "unit_price": 21386,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
         },
         {
-          "id": 1122,
-          "rcept_no": "20260213002246",
-          "stock_code": "069620",
-          "trade_date": "20260211",
-          "reason_text": "장내매도(-)",
-          "shares_change": -622,
-          "shares_before": 1160236,
-          "shares_after": 1159614,
-          "unit_price": 165885,
-          "estimated": 0
+          "reason": "02",
+          "trade_date": "20260212",
+          "stock_type": "1",
+          "shares_before": 9418457,
+          "shares_change": -15272,
+          "shares_after": 9403185,
+          "unit_price": 21141,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
         }
       ],
+      "total_buy_amount": 3872170546,
+      "total_sell_amount": 322865352,
+      "net_amount": 3549305194,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002254",
+      "obligation_date": "20260212"
+    },
+    {
+      "stock_name": "대웅제약",
+      "stock_code": "069620",
+      "change_type": "신규",
+      "stake_pct": "10.01",
+      "stake_change": "10.01",
+      "stake_prev_pct": null,
+      "ref_price": 169500,
+      "ref_date": "20260213",
+      "per": 9.21,
+      "pbr": 1.78,
+      "eps": 16904.0,
+      "bps": 87439.0,
+      "roe": 21.75,
+      "debt_ratio": 108.24,
+      "revenue_growth": 10.42,
+      "op_profit_growth": 33.01,
+      "fin_period": "202512",
+      "ev_ebitda": 11.22,
+      "ebitda": 2479.0,
+      "sector": "제약",
       "financial_ratio_history": [
         {
           "period": "202512",
@@ -493,7 +261,254 @@
           "ev_ebitda": 16.32,
           "eva": 276.0
         }
-      ]
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "DAEWOONG PHARMA",
+      "ceo": "이창재, 박성수",
+      "homepage": "www.daewoong.co.kr",
+      "established": "20021001",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260211",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 1157304,
+          "shares_after": 1157304,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260211",
+          "stock_type": "1",
+          "shares_before": 1157304,
+          "shares_change": 2932,
+          "shares_after": 1160236,
+          "unit_price": 166752,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260211",
+          "stock_type": "1",
+          "shares_before": 1160236,
+          "shares_change": -622,
+          "shares_after": 1159614,
+          "unit_price": 165885,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 488916864,
+      "total_sell_amount": 103180470,
+      "net_amount": 385736394,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002246",
+      "obligation_date": "20260211"
+    },
+    {
+      "stock_name": "영원무역",
+      "stock_code": "111770",
+      "change_type": "감소",
+      "stake_pct": "9.96",
+      "stake_change": "-0.06",
+      "stake_prev_pct": 10.02,
+      "ref_price": 90700,
+      "ref_date": "20260213",
+      "per": 7.17,
+      "pbr": 0.83,
+      "eps": 11109.0,
+      "bps": 96154.0,
+      "roe": 12.66,
+      "debt_ratio": 39.25,
+      "revenue_growth": 15.51,
+      "op_profit_growth": 63.01,
+      "fin_period": "202512",
+      "ev_ebitda": 4.22,
+      "ebitda": 6278.0,
+      "sector": "유통",
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 11109.0,
+          "bps": 96154.0,
+          "roe": 12.66,
+          "debt_ratio": 39.25,
+          "revenue_growth": 15.51,
+          "op_profit_growth": 63.01
+        },
+        {
+          "period": "202509",
+          "eps": 8432.0,
+          "bps": 89053.0,
+          "roe": 12.47,
+          "debt_ratio": 39.03,
+          "revenue_growth": 14.35,
+          "op_profit_growth": 19.65
+        },
+        {
+          "period": "202506",
+          "eps": 4700.0,
+          "bps": 84634.0,
+          "roe": 10.57,
+          "debt_ratio": 43.53,
+          "revenue_growth": 15.42,
+          "op_profit_growth": -3.98
+        },
+        {
+          "period": "202503",
+          "eps": 2008.0,
+          "bps": 86367.0,
+          "roe": 12.37,
+          "debt_ratio": 39.08,
+          "revenue_growth": 14.32,
+          "op_profit_growth": 15.88
+        },
+        {
+          "period": "202412",
+          "eps": 9637.0,
+          "bps": 86238.0,
+          "roe": 12.32,
+          "debt_ratio": 38.35,
+          "revenue_growth": -2.4,
+          "op_profit_growth": -50.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6278.0,
+          "ev_ebitda": 4.22,
+          "eva": 1939.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4232.0,
+          "ev_ebitda": 2.54,
+          "eva": -743.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7354.0,
+          "ev_ebitda": 2.27,
+          "eva": 3902.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9161.0,
+          "ev_ebitda": 1.97,
+          "eva": 5420.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5291.0,
+          "ev_ebitda": 3.2,
+          "eva": 2007.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Youngone Corporation",
+      "ceo": "성기학",
+      "homepage": "-",
+      "established": "20090702",
+      "trades": [
+        {
+          "reason": "01",
+          "trade_date": "20260209",
+          "stock_type": "1",
+          "shares_before": 4439874,
+          "shares_change": 24889,
+          "shares_after": 4464763,
+          "unit_price": 92578,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260209",
+          "stock_type": "1",
+          "shares_before": 4464763,
+          "shares_change": -23000,
+          "shares_after": 4441763,
+          "unit_price": 92650,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260210",
+          "stock_type": "1",
+          "shares_before": 4441763,
+          "shares_change": 1568,
+          "shares_after": 4443331,
+          "unit_price": 87647,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260211",
+          "stock_type": "1",
+          "shares_before": 4443331,
+          "shares_change": 817,
+          "shares_after": 4444148,
+          "unit_price": 92872,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260211",
+          "stock_type": "1",
+          "shares_before": 4444148,
+          "shares_change": -2132,
+          "shares_after": 4442016,
+          "unit_price": 92010,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260212",
+          "stock_type": "1",
+          "shares_before": 4442016,
+          "shares_change": 8665,
+          "shares_after": 4450681,
+          "unit_price": 97978,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260212",
+          "stock_type": "1",
+          "shares_before": 4450681,
+          "shares_change": -36000,
+          "shares_after": 4414681,
+          "unit_price": 98022,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 3366460132,
+      "total_sell_amount": 5855907320,
+      "net_amount": -2489447188,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260213002263",
+      "obligation_date": "20260212"
     }
   ]
 }

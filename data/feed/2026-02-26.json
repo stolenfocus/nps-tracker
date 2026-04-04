@@ -1,114 +1,35 @@
 {
   "date": "2026-02-26",
-  "generated_at": "2026-04-04T18:46:51.901506",
+  "generated_at": "2026-04-04T19:59:34.912970",
   "count": 1,
   "summary": {
-    "확인필요": 1
+    "감소": 1
   },
+  "highlights": [
+    "영원무역"
+  ],
   "disclosures": [
     {
-      "id": 196,
-      "rcept_no": "20260226005330",
-      "disclosure_date": "2026-02-26",
-      "obligation_date": "20260223",
-      "stock_code": "111770",
       "stock_name": "영원무역",
-      "name_eng": "Youngone Corporation",
-      "sector": "46800",
-      "change_type": "확인필요",
-      "stake_pct": 0.0,
-      "stake_change": 0.0,
-      "stake_prev_pct": 0.0,
-      "ref_price": 90900,
-      "ref_price_usd": null,
-      "per": 8.18,
-      "pbr": 0.95,
+      "stock_code": "111770",
+      "change_type": "감소",
+      "stake_pct": "9.94",
+      "stake_change": "-0.07",
+      "stake_prev_pct": 10.01,
+      "ref_price": 93000,
+      "ref_date": "20260226",
+      "per": 7.17,
+      "pbr": 0.83,
+      "eps": 11109.0,
+      "bps": 96154.0,
       "roe": 12.66,
       "debt_ratio": 39.25,
-      "ev_ebitda": null,
-      "ebitda": null,
-      "net_amount": -2795208375,
-      "net_amount_usd": null,
-      "fx_rate": null,
-      "trading_halted": 0,
-      "homepage": null,
-      "established": null,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260226005330",
-      "created_at": "2026-04-03 15:39:39",
-      "trades": [
-        {
-          "id": 1084,
-          "rcept_no": "20260226005330",
-          "stock_code": "111770",
-          "trade_date": "20260219",
-          "reason_text": "장내매수(+)",
-          "shares_change": 62,
-          "shares_before": 4437731,
-          "shares_after": 4437793,
-          "unit_price": 91983,
-          "estimated": 0
-        },
-        {
-          "id": 1085,
-          "rcept_no": "20260226005330",
-          "stock_code": "111770",
-          "trade_date": "20260219",
-          "reason_text": "장내매도(-)",
-          "shares_change": -2358,
-          "shares_before": 4437793,
-          "shares_after": 4435435,
-          "unit_price": 91829,
-          "estimated": 0
-        },
-        {
-          "id": 1086,
-          "rcept_no": "20260226005330",
-          "stock_code": "111770",
-          "trade_date": "20260220",
-          "reason_text": "장내매수(+)",
-          "shares_change": 1940,
-          "shares_before": 4435435,
-          "shares_after": 4437375,
-          "unit_price": 90691,
-          "estimated": 0
-        },
-        {
-          "id": 1087,
-          "rcept_no": "20260226005330",
-          "stock_code": "111770",
-          "trade_date": "20260220",
-          "reason_text": "장내매도(-)",
-          "shares_change": -1297,
-          "shares_before": 4437375,
-          "shares_after": 4436078,
-          "unit_price": 90211,
-          "estimated": 0
-        },
-        {
-          "id": 1088,
-          "rcept_no": "20260226005330",
-          "stock_code": "111770",
-          "trade_date": "20260223",
-          "reason_text": "장내매수(+)",
-          "shares_change": 12335,
-          "shares_before": 4436078,
-          "shares_after": 4448413,
-          "unit_price": 88050,
-          "estimated": 0
-        },
-        {
-          "id": 1089,
-          "rcept_no": "20260226005330",
-          "stock_code": "111770",
-          "trade_date": "20260223",
-          "reason_text": "장내매도(-)",
-          "shares_change": -42697,
-          "shares_before": 4448413,
-          "shares_after": 4405716,
-          "unit_price": 87346,
-          "estimated": 0
-        }
-      ],
+      "revenue_growth": 15.51,
+      "op_profit_growth": 63.01,
+      "fin_period": "202512",
+      "ev_ebitda": 4.22,
+      "ebitda": 6278.0,
+      "sector": "유통",
       "financial_ratio_history": [
         {
           "period": "202512",
@@ -187,7 +108,92 @@
           "ev_ebitda": 3.2,
           "eva": 2007.0
         }
-      ]
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Youngone Corporation",
+      "ceo": "성기학",
+      "homepage": "-",
+      "established": "20090702",
+      "trades": [
+        {
+          "reason": "01",
+          "trade_date": "20260219",
+          "stock_type": "1",
+          "shares_before": 4437731,
+          "shares_change": 62,
+          "shares_after": 4437793,
+          "unit_price": 91983,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260219",
+          "stock_type": "1",
+          "shares_before": 4437793,
+          "shares_change": -2358,
+          "shares_after": 4435435,
+          "unit_price": 91829,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260220",
+          "stock_type": "1",
+          "shares_before": 4435435,
+          "shares_change": 1940,
+          "shares_after": 4437375,
+          "unit_price": 90691,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260220",
+          "stock_type": "1",
+          "shares_before": 4437375,
+          "shares_change": -1297,
+          "shares_after": 4436078,
+          "unit_price": 90211,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260223",
+          "stock_type": "1",
+          "shares_before": 4436078,
+          "shares_change": 12335,
+          "shares_after": 4448413,
+          "unit_price": 88050,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260223",
+          "stock_type": "1",
+          "shares_before": 4448413,
+          "shares_change": -42697,
+          "shares_after": 4405716,
+          "unit_price": 87346,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 1267740236,
+      "total_sell_amount": 4062948611,
+      "net_amount": -2795208375,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260226005330",
+      "obligation_date": "20260223"
     }
   ]
 }
