@@ -1,37 +1,159 @@
 {
-  "last_updated": "2026-04-03T20:09:34.067800",
+  "last_updated": "",
   "dates": [
-    {
-      "date": "2026-04-03",
-      "count": 0,
-      "summary": {},
-      "highlights": []
-    },
     {
       "date": "2026-04-02",
       "count": 4,
       "summary": {
-        "감소": 2,
-        "신규": 2
+        "신규": 2,
+        "감소": 2
       },
-      "highlights": [
-        "DaejooElectronicMaterials",
-        "Hyosung TNC",
-        "KOLON INDUSTRIES, INC."
-      ]
+      "highlights": []
     },
     {
       "date": "2026-04-01",
       "count": 35,
       "summary": {
-        "감소": 16,
-        "증가": 19
+        "증가": 19,
+        "감소": 16
       },
-      "highlights": [
-        "VINA TECH CO.,LTD",
-        "HANDSOME CORPORATION",
-        "VM"
-      ]
+      "highlights": []
+    },
+    {
+      "date": "2026-03-31",
+      "count": 4,
+      "summary": {
+        "확인필요": 4
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-03-25",
+      "count": 4,
+      "summary": {
+        "확인필요": 4
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-03-20",
+      "count": 3,
+      "summary": {
+        "확인필요": 3
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-03-17",
+      "count": 6,
+      "summary": {
+        "확인필요": 6
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-03-13",
+      "count": 4,
+      "summary": {
+        "확인필요": 4
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-02-26",
+      "count": 1,
+      "summary": {
+        "확인필요": 1
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-02-23",
+      "count": 2,
+      "summary": {
+        "확인필요": 2
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-02-13",
+      "count": 3,
+      "summary": {
+        "확인필요": 3
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-02-10",
+      "count": 1,
+      "summary": {
+        "확인필요": 1
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-29",
+      "count": 2,
+      "summary": {
+        "확인필요": 2
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-26",
+      "count": 2,
+      "summary": {
+        "확인필요": 2
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-20",
+      "count": 2,
+      "summary": {
+        "확인필요": 2
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-15",
+      "count": 1,
+      "summary": {
+        "확인필요": 1
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-13",
+      "count": 3,
+      "summary": {
+        "확인필요": 3
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-05",
+      "count": 36,
+      "summary": {
+        "확인필요": 36
+      },
+      "highlights": []
+    },
+    {
+      "date": "2026-01-02",
+      "count": 106,
+      "summary": {
+        "확인필요": 106
+      },
+      "highlights": []
+    },
+    {
+      "date": "2025-12-22",
+      "count": 4,
+      "summary": {
+        "확인필요": 4
+      },
+      "highlights": []
     }
   ]
 }
