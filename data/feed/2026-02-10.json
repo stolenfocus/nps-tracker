@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "generated_at": "2026-04-04T18:32:35.940595",
+  "generated_at": "2026-04-04T18:46:51.899768",
   "count": 1,
   "summary": {
     "확인필요": 1
@@ -21,8 +21,8 @@
       "stake_prev_pct": 0.0,
       "ref_price": 90900,
       "ref_price_usd": null,
-      "per": 7.17,
-      "pbr": 0.83,
+      "per": 8.18,
+      "pbr": 0.95,
       "roe": 12.66,
       "debt_ratio": 39.25,
       "ev_ebitda": null,
