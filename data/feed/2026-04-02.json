@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated_at": "",
+  "generated_at": "2026-04-04T17:20:30.680718",
   "count": 4,
   "summary": {
     "신규": 2,
@@ -73,7 +73,9 @@
           "unit_price": 129982,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 37,
@@ -141,7 +143,9 @@
           "unit_price": 399549,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 38,
@@ -209,7 +213,9 @@
           "unit_price": 76349,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 39,
@@ -265,7 +271,9 @@
           "unit_price": 376778,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     }
   ]
 }

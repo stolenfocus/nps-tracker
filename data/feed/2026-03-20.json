@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generated_at": "",
+  "generated_at": "2026-04-04T17:20:30.675740",
   "count": 3,
   "summary": {
     "확인필요": 3
@@ -19,12 +19,12 @@
       "stake_pct": 0.0,
       "stake_change": 0.0,
       "stake_prev_pct": 0.0,
-      "ref_price": null,
+      "ref_price": 107500,
       "ref_price_usd": null,
-      "per": null,
-      "pbr": null,
-      "roe": null,
-      "debt_ratio": null,
+      "per": 0.0,
+      "pbr": 0.0,
+      "roe": 0.34,
+      "debt_ratio": 124.77,
       "ev_ebitda": null,
       "ebitda": null,
       "net_amount": 1888941546,
@@ -72,7 +72,9 @@
           "unit_price": 103606,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 212,
@@ -87,12 +89,12 @@
       "stake_pct": 0.0,
       "stake_change": 0.0,
       "stake_prev_pct": 0.0,
-      "ref_price": null,
+      "ref_price": 21300,
       "ref_price_usd": null,
-      "per": null,
-      "pbr": null,
-      "roe": null,
-      "debt_ratio": null,
+      "per": 0.0,
+      "pbr": 0.0,
+      "roe": 5.0,
+      "debt_ratio": 136.53,
       "ev_ebitda": null,
       "ebitda": null,
       "net_amount": -965290890,
@@ -164,7 +166,9 @@
           "unit_price": 21719,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 213,
@@ -179,12 +183,12 @@
       "stake_pct": 0.0,
       "stake_change": 0.0,
       "stake_prev_pct": 0.0,
-      "ref_price": null,
+      "ref_price": 450500,
       "ref_price_usd": null,
-      "per": null,
-      "pbr": null,
-      "roe": null,
-      "debt_ratio": null,
+      "per": 0.0,
+      "pbr": 0.0,
+      "roe": 10.29,
+      "debt_ratio": 51.63,
       "ev_ebitda": null,
       "ebitda": null,
       "net_amount": 9199490289,
@@ -232,7 +236,9 @@
           "unit_price": 493770,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     }
   ]
 }

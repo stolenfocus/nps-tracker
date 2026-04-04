@@ -1,6 +1,6 @@
 {
   "date": "2026-01-26",
-  "generated_at": "",
+  "generated_at": "2026-04-04T17:20:30.670650",
   "count": 2,
   "summary": {
     "확인필요": 2
@@ -19,12 +19,12 @@
       "stake_pct": 0.0,
       "stake_change": 0.0,
       "stake_prev_pct": 0.0,
-      "ref_price": null,
+      "ref_price": 21300,
       "ref_price_usd": null,
-      "per": null,
-      "pbr": null,
-      "roe": null,
-      "debt_ratio": null,
+      "per": 0.0,
+      "pbr": 0.0,
+      "roe": 5.0,
+      "debt_ratio": 136.53,
       "ev_ebitda": null,
       "ebitda": null,
       "net_amount": -5095598531,
@@ -288,7 +288,9 @@
           "unit_price": 20581,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 47,
@@ -303,12 +305,12 @@
       "stake_pct": 0.0,
       "stake_change": 0.0,
       "stake_prev_pct": 0.0,
-      "ref_price": null,
+      "ref_price": 162900,
       "ref_price_usd": null,
-      "per": null,
-      "pbr": null,
-      "roe": null,
-      "debt_ratio": null,
+      "per": 0.0,
+      "pbr": 0.0,
+      "roe": 21.75,
+      "debt_ratio": 108.24,
       "ev_ebitda": null,
       "ebitda": null,
       "net_amount": -4918412894,
@@ -572,7 +574,9 @@
           "unit_price": 163338,
           "estimated": 0
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     }
   ]
 }

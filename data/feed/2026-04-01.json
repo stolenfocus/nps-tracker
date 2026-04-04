@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "",
+  "generated_at": "2026-04-04T17:20:30.677771",
   "count": 35,
   "summary": {
     "증가": 19,
@@ -97,7 +97,9 @@
           "unit_price": 116600,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 2,
@@ -165,7 +167,9 @@
           "unit_price": 23900,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 3,
@@ -221,7 +225,9 @@
           "unit_price": 40000,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 4,
@@ -265,7 +271,9 @@
           "unit_price": 27050,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 5,
@@ -309,7 +317,9 @@
           "unit_price": 139000,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 6,
@@ -353,7 +363,9 @@
           "unit_price": 223500,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 7,
@@ -397,7 +409,9 @@
           "unit_price": 34350,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 8,
@@ -441,7 +455,9 @@
           "unit_price": 45400,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 9,
@@ -485,7 +501,9 @@
           "unit_price": 164200,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 10,
@@ -529,7 +547,9 @@
           "unit_price": 79400,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 11,
@@ -573,7 +593,9 @@
           "unit_price": 38000,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 12,
@@ -617,7 +639,9 @@
           "unit_price": 14350,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 13,
@@ -661,7 +685,9 @@
           "unit_price": 153500,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 14,
@@ -705,7 +731,9 @@
           "unit_price": 53200,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 15,
@@ -749,7 +777,9 @@
           "unit_price": 46150,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 16,
@@ -793,7 +823,9 @@
           "unit_price": 6740,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 17,
@@ -873,7 +905,9 @@
           "unit_price": 22850,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 18,
@@ -953,7 +987,9 @@
           "unit_price": 53000,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 19,
@@ -1009,7 +1045,9 @@
           "unit_price": 53500,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 20,
@@ -1053,7 +1091,9 @@
           "unit_price": 13800,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 21,
@@ -1121,7 +1161,9 @@
           "unit_price": 118700,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 22,
@@ -1189,7 +1231,9 @@
           "unit_price": 43900,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 23,
@@ -1245,7 +1289,9 @@
           "unit_price": 247500,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 24,
@@ -1313,7 +1359,9 @@
           "unit_price": 124200,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 25,
@@ -1357,7 +1405,9 @@
           "unit_price": 2840,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 26,
@@ -1413,7 +1463,9 @@
           "unit_price": 47850,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 27,
@@ -1457,7 +1509,9 @@
           "unit_price": 29200,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 28,
@@ -1501,7 +1555,9 @@
           "unit_price": 16450,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 29,
@@ -1545,7 +1601,9 @@
           "unit_price": 26650,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 30,
@@ -1589,7 +1647,9 @@
           "unit_price": 25900,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 31,
@@ -1633,7 +1693,9 @@
           "unit_price": 192600,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 32,
@@ -1677,7 +1739,9 @@
           "unit_price": 18740,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 33,
@@ -1733,7 +1797,9 @@
           "unit_price": 12660,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 34,
@@ -1813,7 +1879,9 @@
           "unit_price": 102400,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     },
     {
       "id": 35,
@@ -1869,7 +1937,9 @@
           "unit_price": 54000,
           "estimated": 1
         }
-      ]
+      ],
+      "financial_ratio_history": [],
+      "ebitda_history": []
     }
   ]
 }
