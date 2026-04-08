@@ -1,2 +1,2 @@
 :HL["/nps-tracker/_next/static/chunks/0xbn54z7eja-l.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ui4bcddtUSuiagsLOrHS4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Wz5D0uw_07w0woqeVx7mu"}
