@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stolenfocus.github.io/nps-tracker/sitemap.xml

@@ -1,0 +1,5212 @@
+{
+  "strategy": "NPS Top 20 Share-Increase Rate",
+  "description": "Each quarter buy TOP 20 stocks by share increase rate (%) vs prev quarter. Equal weight. Hold until next 13F file_date+1bd.",
+  "summary": {
+    "quarters_traded": 44,
+    "win_quarters": 34,
+    "lose_quarters": 10,
+    "avg_quarterly_return_pct": 5.57,
+    "avg_spy_quarterly_pct": 3.42,
+    "cumulative_return_pct": 837.8,
+    "spy_cumulative_pct": 314.86,
+    "alpha_pp": 522.94
+  },
+  "quarters": [
+    {
+      "quarter": "2014-12-31",
+      "file_date": "2015-01-13",
+      "buy_date": "2015-01-14",
+      "sell_date": "2015-04-16",
+      "top20_selected": 16,
+      "mapped_count": 6,
+      "traded_count": 5,
+      "portfolio_return_pct": 21.93,
+      "spy_return_pct": 5.2,
+      "cumulative_return": 1.2193,
+      "spy_cumulative": 1.052,
+      "stocks": [
+        {
+          "ticker": "NFLX",
+          "cusip": "64110L106",
+          "name": "NETFLIX INC",
+          "buy_price": 4.63,
+          "sell_price": 8.03,
+          "return_pct": 73.34,
+          "share_increase_pct": 0.86
+        },
+        {
+          "ticker": "APH",
+          "cusip": "032095101",
+          "name": "AMPHENOL CORP NEW",
+          "buy_price": 11.82,
+          "sell_price": 13.27,
+          "return_pct": 12.27,
+          "share_increase_pct": 74.74
+        },
+        {
+          "ticker": "GM",
+          "cusip": "37045V100",
+          "name": "GENERAL MTRS CO",
+          "buy_price": 26.42,
+          "sell_price": 28.8,
+          "return_pct": 8.99,
+          "share_increase_pct": 13.04
+        },
+        {
+          "ticker": "META",
+          "cusip": "30303M102",
+          "name": "FACEBOOK INC",
+          "buy_price": 75.69,
+          "sell_price": 81.67,
+          "return_pct": 7.91,
+          "share_increase_pct": 1.65
+        },
+        {
+          "ticker": "KMI",
+          "cusip": "49456B101",
+          "name": "KINDER MORGAN INC DEL",
+          "buy_price": 23.36,
+          "sell_price": 25.02,
+          "return_pct": 7.13,
+          "share_increase_pct": 95.59
+        }
+      ]
+    },
+    {
+      "quarter": "2015-03-31",
+      "file_date": "2015-04-15",
+      "buy_date": "2015-04-16",
+      "sell_date": "2015-07-16",
+      "top20_selected": 20,
+      "mapped_count": 16,
+      "traded_count": 14,
+      "portfolio_return_pct": 5.24,
+      "spy_return_pct": 1.41,
+      "cumulative_return": 1.2832,
+      "spy_cumulative": 1.0668,
+      "stocks": [
+        {
+          "ticker": "VLO",
+          "cusip": "91913Y100",
+          "name": "VALERO ENERGY CORP NEW",
+          "buy_price": 38.04,
+          "sell_price": 44.34,
+          "return_pct": 16.58,
+          "share_increase_pct": 68.96
+        },
+        {
+          "ticker": "BAC",
+          "cusip": "92343V104",
+          "name": "VERIZON COMMUNICATIONS INC",
+          "buy_price": 12.5,
+          "sell_price": 14.25,
+          "return_pct": 14.02,
+          "share_increase_pct": 381.33
+        },
+        {
+          "ticker": "FISV",
+          "cusip": "337738108",
+          "name": "FISERV INC",
+          "buy_price": 39.33,
+          "sell_price": 44.12,
+          "return_pct": 12.18,
+          "share_increase_pct": 36.5
+        },
+        {
+          "ticker": "HIG",
+          "cusip": "416515104",
+          "name": "HARTFORD FINL SVCS GROUP INC",
+          "buy_price": 33.82,
+          "sell_price": 37.64,
+          "return_pct": 11.31,
+          "share_increase_pct": 37.61
+        },
+        {
+          "ticker": "ORLY",
+          "cusip": "67103H107",
+          "name": "O REILLY AUTOMOTIVE INC NEW",
+          "buy_price": 14.36,
+          "sell_price": 15.93,
+          "return_pct": 10.94,
+          "share_increase_pct": 49.28
+        },
+        {
+          "ticker": "V",
+          "cusip": "92826C839",
+          "name": "VISA INC",
+          "buy_price": 60.77,
+          "sell_price": 65.43,
+          "return_pct": 7.68,
+          "share_increase_pct": 359.67
+        },
+        {
+          "ticker": "ROST",
+          "cusip": "778296103",
+          "name": "ROSS STORES INC",
+          "buy_price": 46.46,
+          "sell_price": 47.68,
+          "return_pct": 2.62,
+          "share_increase_pct": 51.14
+        },
+        {
+          "ticker": "ED",
+          "cusip": "209115104",
+          "name": "CONSOLIDATED EDISON INC",
+          "buy_price": 40.88,
+          "sell_price": 41.86,
+          "return_pct": 2.41,
+          "share_increase_pct": 53.27
+        },
+        {
+          "ticker": "ICE",
+          "cusip": "45866F104",
+          "name": "INTERCONTINENTAL EXCHANGE IN",
+          "buy_price": 39.97,
+          "sell_price": 40.52,
+          "return_pct": 1.38,
+          "share_increase_pct": 36.76
+        },
+        {
+          "ticker": "FIS",
+          "cusip": "31620M106",
+          "name": "FIDELITY NATL INFORMATION SV",
+          "buy_price": 52.85,
+          "sell_price": 53.41,
+          "return_pct": 1.06,
+          "share_increase_pct": 37.39
+        },
+        {
+          "ticker": "EWP",
+          "cusip": "464286764",
+          "name": "ISHARES",
+          "buy_price": 24.57,
+          "sell_price": 24.77,
+          "return_pct": 0.81,
+          "share_increase_pct": 475.68
+        },
+        {
+          "ticker": "XEL",
+          "cusip": "98389B100",
+          "name": "XCEL ENERGY INC",
+          "buy_price": 24.3,
+          "sell_price": 24.41,
+          "return_pct": 0.46,
+          "share_increase_pct": 39.46
+        },
+        {
+          "ticker": "AZO",
+          "cusip": "053332102",
+          "name": "AUTOZONE INC",
+          "buy_price": 692.4,
+          "sell_price": 680.72,
+          "return_pct": -1.69,
+          "share_increase_pct": 44.06
+        },
+        {
+          "ticker": "ZBH",
+          "cusip": "98956P102",
+          "name": "ZIMMER HLDGS INC",
+          "buy_price": 102.59,
+          "sell_price": 96.03,
+          "return_pct": -6.4,
+          "share_increase_pct": 35.15
+        }
+      ]
+    },
+    {
+      "quarter": "2015-06-30",
+      "file_date": "2015-07-15",
+      "buy_date": "2015-07-16",
+      "sell_date": "2015-10-16",
+      "top20_selected": 20,
+      "mapped_count": 9,
+      "traded_count": 9,
+      "portfolio_return_pct": -6.01,
+      "spy_return_pct": -3.76,
+      "cumulative_return": 1.2061,
+      "spy_cumulative": 1.0268,
+      "stocks": [
+        {
+          "ticker": "CHRW",
+          "cusip": "12541W209",
+          "name": "C H ROBINSON WORLDWIDE INC",
+          "buy_price": 49.21,
+          "sell_price": 56.09,
+          "return_pct": 13.97,
+          "share_increase_pct": 18.33
+        },
+        {
+          "ticker": "SBUX",
+          "cusip": "855244109",
+          "name": "STARBUCKS CORP",
+          "buy_price": 44.72,
+          "sell_price": 48.22,
+          "return_pct": 7.81,
+          "share_increase_pct": 131.15
+        },
+        {
+          "ticker": "CNP",
+          "cusip": "15189T107",
+          "name": "CENTERPOINT ENERGY INC",
+          "buy_price": 13.38,
+          "sell_price": 13.17,
+          "return_pct": -1.55,
+          "share_increase_pct": 18.33
+        },
+        {
+          "ticker": "ROST",
+          "cusip": "778296103",
+          "name": "ROSS STORES INC",
+          "buy_price": 47.68,
+          "sell_price": 45.39,
+          "return_pct": -4.79,
+          "share_increase_pct": 121.42
+        },
+        {
+          "ticker": "PPG",
+          "cusip": "693506107",
+          "name": "PPG INDS INC",
+          "buy_price": 92.02,
+          "sell_price": 83.18,
+          "return_pct": -9.6,
+          "share_increase_pct": 123.47
+        },
+        {
+          "ticker": "CBRE",
+          "cusip": "12504L109",
+          "name": "CBRE GROUP INC",
+          "buy_price": 38.37,
+          "sell_price": 34.38,
+          "return_pct": -10.4,
+          "share_increase_pct": 18.33
+        },
+        {
+          "ticker": "MPC",
+          "cusip": "56585A102",
+          "name": "MARATHON PETE CORP",
+          "buy_price": 41.96,
+          "sell_price": 36.9,
+          "return_pct": -12.06,
+          "share_increase_pct": 132.64
+        },
+        {
+          "ticker": "CF",
+          "cusip": "125269100",
+          "name": "CF INDS HLDGS INC",
+          "buy_price": 46.41,
+          "sell_price": 38.9,
+          "return_pct": -16.17,
+          "share_increase_pct": 491.66
+        },
+        {
+          "ticker": "CTRA",
+          "cusip": "127097103",
+          "name": "CABOT OIL & GAS CORP",
+          "buy_price": 21.26,
+          "sell_price": 16.74,
+          "return_pct": -21.29,
+          "share_increase_pct": 18.33
+        }
+      ]
+    },
+    {
+      "quarter": "2015-09-30",
+      "file_date": "2015-10-15",
+      "buy_date": "2015-10-16",
+      "sell_date": "2016-02-15",
+      "top20_selected": 20,
+      "mapped_count": 12,
+      "traded_count": 11,
+      "portfolio_return_pct": -5.91,
+      "spy_return_pct": -6.08,
+      "cumulative_return": 1.1348,
+      "spy_cumulative": 0.9643,
+      "stocks": [
+        {
+          "ticker": "T",
+          "cusip": "00206R102",
+          "name": "AT&T INC",
+          "buy_price": 12.39,
+          "sell_price": 13.68,
+          "return_pct": 10.36,
+          "share_increase_pct": 36.61
+        },
+        {
+          "ticker": "WEC",
+          "cusip": "92939U106",
+          "name": "WEC ENERGY GROUP INC",
+          "buy_price": 37.89,
+          "sell_price": 40.34,
+          "return_pct": 6.46,
+          "share_increase_pct": 51.43
+        },
+        {
+          "ticker": "WM",
+          "cusip": "94106L109",
+          "name": "WASTE MGMT INC DEL",
+          "buy_price": 43.07,
+          "sell_price": 45.32,
+          "return_pct": 5.21,
+          "share_increase_pct": 34.03
+        },
+        {
+          "ticker": "ETR",
+          "cusip": "29364G103",
+          "name": "ENTERGY CORP NEW",
+          "buy_price": 22.97,
+          "sell_price": 24.06,
+          "return_pct": 4.71,
+          "share_increase_pct": 30.66
+        },
+        {
+          "ticker": "KR",
+          "cusip": "501044101",
+          "name": "KROGER CO",
+          "buy_price": 30.42,
+          "sell_price": 31.4,
+          "return_pct": 3.2,
+          "share_increase_pct": 101.35
+        },
+        {
+          "ticker": "EIX",
+          "cusip": "281020107",
+          "name": "EDISON INTL",
+          "buy_price": 42.19,
+          "sell_price": 41.27,
+          "return_pct": -2.18,
+          "share_increase_pct": 33.86
+        },
+        {
+          "ticker": "NFLX",
+          "cusip": "64110L106",
+          "name": "NETFLIX INC",
+          "buy_price": 9.9,
+          "sell_price": 8.9,
+          "return_pct": -10.04,
+          "share_increase_pct": 643.88
+        },
+        {
+          "ticker": "CCL",
+          "cusip": "143658300",
+          "name": "CARNIVAL CORP",
+          "buy_price": 44.13,
+          "sell_price": 39.11,
+          "return_pct": -11.37,
+          "share_increase_pct": 46.79
+        },
+        {
+          "ticker": "GM",
+          "cusip": "37045V100",
+          "name": "GENERAL MTRS CO",
+          "buy_price": 26.33,
+          "sell_price": 22.94,
+          "return_pct": -12.88,
+          "share_increase_pct": 31.76
+        },
+        {
+          "ticker": "CTRA",
+          "cusip": "127097103",
+          "name": "CABOT OIL & GAS CORP",
+          "buy_price": 16.74,
+          "sell_price": 13.91,
+          "return_pct": -16.86,
+          "share_increase_pct": 31.02
+        },
+        {
+          "ticker": "MU",
+          "cusip": "595112103",
+          "name": "MICRON TECHNOLOGY INC",
+          "buy_price": 18.05,
+          "sell_price": 10.55,
+          "return_pct": -41.57,
+          "share_increase_pct": 40.75
+        }
+      ]
+    },
+    {
+      "quarter": "2015-12-31",
+      "file_date": "2016-02-12",
+      "buy_date": "2016-02-15",
+      "sell_date": "2016-05-17",
+      "top20_selected": 20,
+      "mapped_count": 10,
+      "traded_count": 8,
+      "portfolio_return_pct": 11.03,
+      "spy_return_pct": 8.5,
+      "cumulative_return": 1.2601,
+      "spy_cumulative": 1.0463,
+      "stocks": [
+        {
+          "ticker": "ADSK",
+          "cusip": "052769106",
+          "name": "AUTODESK INC",
+          "buy_price": 44.89,
+          "sell_price": 57.98,
+          "return_pct": 29.16,
+          "share_increase_pct": 7.1
+        },
+        {
+          "ticker": "EW",
+          "cusip": "28176E108",
+          "name": "EDWARDS LIFESCIENCES CORP",
+          "buy_price": 28.15,
+          "sell_price": 33.61,
+          "return_pct": 19.41,
+          "share_increase_pct": 114.21
+        },
+        {
+          "ticker": "EQIX",
+          "cusip": "29444U700",
+          "name": "EQUINIX INC",
+          "buy_price": 238.73,
+          "sell_price": 282.14,
+          "return_pct": 18.18,
+          "share_increase_pct": 10.9
+        },
+        {
+          "ticker": "APH",
+          "cusip": "032095101",
+          "name": "AMPHENOL CORP NEW",
+          "buy_price": 11.54,
+          "sell_price": 12.64,
+          "return_pct": 9.52,
+          "share_increase_pct": 7.1
+        },
+        {
+          "ticker": "CMCSA",
+          "cusip": "20030N101",
+          "name": "COMCAST CORP NEW",
+          "buy_price": 21.11,
+          "sell_price": 22.29,
+          "return_pct": 5.6,
+          "share_increase_pct": 31.35
+        },
+        {
+          "ticker": "AEE",
+          "cusip": "023608102",
+          "name": "AMEREN CORP",
+          "buy_price": 33.75,
+          "sell_price": 35.35,
+          "return_pct": 4.76,
+          "share_increase_pct": 7.1
+        },
+        {
+          "ticker": "AME",
+          "cusip": "031100100",
+          "name": "AMETEK INC NEW",
+          "buy_price": 42.92,
+          "sell_price": 44.03,
+          "return_pct": 2.58,
+          "share_increase_pct": 7.1
+        },
+        {
+          "ticker": "NKE",
+          "cusip": "654106103",
+          "name": "NIKE INC",
+          "buy_price": 50.53,
+          "sell_price": 50.06,
+          "return_pct": -0.94,
+          "share_increase_pct": 111.94
+        }
+      ]
+    },
+    {
+      "quarter": "2016-03-31",
+      "file_date": "2016-05-16",
+      "buy_date": "2016-05-17",
+      "sell_date": "2016-08-12",
+      "top20_selected": 20,
+      "mapped_count": 5,
+      "traded_count": 5,
+      "portfolio_return_pct": 2.81,
+      "spy_return_pct": 7.2,
+      "cumulative_return": 1.2955,
+      "spy_cumulative": 1.1216,
+      "stocks": [
+        {
+          "ticker": "TSN",
+          "cusip": "902494103",
+          "name": "TYSON FOODS INC",
+          "buy_price": 51.9,
+          "sell_price": 58.95,
+          "return_pct": 13.6,
+          "share_increase_pct": 4.74
+        },
+        {
+          "ticker": "BBY",
+          "cusip": "086516101",
+          "name": "BEST BUY INC",
+          "buy_price": 22.67,
+          "sell_price": 25.02,
+          "return_pct": 10.37,
+          "share_increase_pct": 4.66
+        },
+        {
+          "ticker": "IVV",
+          "cusip": "464287200",
+          "name": "ISHARES TR",
+          "buy_price": 173.91,
+          "sell_price": 186.37,
+          "return_pct": 7.16,
+          "share_increase_pct": 4.89
+        },
+        {
+          "ticker": "EWP",
+          "cusip": "464286764",
+          "name": "ISHARES",
+          "buy_price": 19.66,
+          "sell_price": 19.5,
+          "return_pct": -0.78,
+          "share_increase_pct": 23.04
+        },
+        {
+          "ticker": "DAL",
+          "cusip": "247361702",
+          "name": "DELTA AIR LINES INC DEL",
+          "buy_price": 38.75,
+          "sell_price": 32.43,
+          "return_pct": -16.3,
+          "share_increase_pct": 5.03
+        }
+      ]
+    },
+    {
+      "quarter": "2016-06-30",
+      "file_date": "2016-08-11",
+      "buy_date": "2016-08-12",
+      "sell_date": "2016-10-17",
+      "top20_selected": 20,
+      "mapped_count": 11,
+      "traded_count": 11,
+      "portfolio_return_pct": -3.27,
+      "spy_return_pct": -2.29,
+      "cumulative_return": 1.2532,
+      "spy_cumulative": 1.0959,
+      "stocks": [
+        {
+          "ticker": "KLAC",
+          "cusip": "482480100",
+          "name": "KLA-TENCOR CORP",
+          "buy_price": 58.43,
+          "sell_price": 61.6,
+          "return_pct": 5.43,
+          "share_increase_pct": 56861.03
+        },
+        {
+          "ticker": "DVN",
+          "cusip": "25179M103",
+          "name": "DEVON ENERGY CORP NEW",
+          "buy_price": 29.18,
+          "sell_price": 29.29,
+          "return_pct": 0.38,
+          "share_increase_pct": 46.24
+        },
+        {
+          "ticker": "CINF",
+          "cusip": "172062101",
+          "name": "CINCINNATI FINL CORP",
+          "buy_price": 58.84,
+          "sell_price": 59.04,
+          "return_pct": 0.34,
+          "share_increase_pct": 67459.68
+        },
+        {
+          "ticker": "WY",
+          "cusip": "962166104",
+          "name": "WEYERHAEUSER CO",
+          "buy_price": 21.85,
+          "sell_price": 21.89,
+          "return_pct": 0.18,
+          "share_increase_pct": 62.39
+        },
+        {
+          "ticker": "MKL",
+          "cusip": "570535104",
+          "name": "MARKEL CORP",
+          "buy_price": 923.98,
+          "sell_price": 921.54,
+          "return_pct": -0.26,
+          "share_increase_pct": 174616.67
+        },
+        {
+          "ticker": "BALL",
+          "cusip": "058498106",
+          "name": "BALL CORP",
+          "buy_price": 36.19,
+          "sell_price": 35.9,
+          "return_pct": -0.81,
+          "share_increase_pct": 82708.8
+        },
+        {
+          "ticker": "IFF",
+          "cusip": "459506101",
+          "name": "INTERNATIONAL FLAVORS&FRAGRA",
+          "buy_price": 106.68,
+          "sell_price": 102.04,
+          "return_pct": -4.35,
+          "share_increase_pct": 74022.09
+        },
+        {
+          "ticker": "SYF",
+          "cusip": "87165B103",
+          "name": "SYNCHRONY FINL",
+          "buy_price": 22.1,
+          "sell_price": 21.1,
+          "return_pct": -4.55,
+          "share_increase_pct": 68589.95
+        },
+        {
+          "ticker": "EXR",
+          "cusip": "30225T102",
+          "name": "EXTRA SPACE STORAGE INC",
+          "buy_price": 57.72,
+          "sell_price": 53.3,
+          "return_pct": -7.65,
+          "share_increase_pct": 39116.6
+        },
+        {
+          "ticker": "VRSN",
+          "cusip": "92343E102",
+          "name": "VERISIGN INC",
+          "buy_price": 82.22,
+          "sell_price": 74.27,
+          "return_pct": -9.67,
+          "share_increase_pct": 48415.91
+        },
+        {
+          "ticker": "CNC",
+          "cusip": "15135B101",
+          "name": "CENTENE CORP DEL",
+          "buy_price": 35.12,
+          "sell_price": 29.86,
+          "return_pct": -14.96,
+          "share_increase_pct": 48007.53
+        }
+      ]
+    },
+    {
+      "quarter": "2016-09-30",
+      "file_date": "2016-10-14",
+      "buy_date": "2016-10-17",
+      "sell_date": "2017-01-19",
+      "top20_selected": 20,
+      "mapped_count": 5,
+      "traded_count": 5,
+      "portfolio_return_pct": 8.72,
+      "spy_return_pct": 7.0,
+      "cumulative_return": 1.3624,
+      "spy_cumulative": 1.1726,
+      "stocks": [
+        {
+          "ticker": "MAR",
+          "cusip": "571903202",
+          "name": "MARRIOTT INTL INC NEW",
+          "buy_price": 61.47,
+          "sell_price": 77.95,
+          "return_pct": 26.81,
+          "share_increase_pct": 80.59
+        },
+        {
+          "ticker": "CBRE",
+          "cusip": "12504L109",
+          "name": "CBRE GROUP INC",
+          "buy_price": 26.4,
+          "sell_price": 30.25,
+          "return_pct": 14.58,
+          "share_increase_pct": 162.63
+        },
+        {
+          "ticker": "GPN",
+          "cusip": "37940X102",
+          "name": "GLOBAL PMTS INC",
+          "buy_price": 69.21,
+          "sell_price": 75.27,
+          "return_pct": 8.75,
+          "share_increase_pct": 38.97
+        },
+        {
+          "ticker": "XYL",
+          "cusip": "98419M100",
+          "name": "XYLEM INC",
+          "buy_price": 43.84,
+          "sell_price": 43.85,
+          "return_pct": 0.02,
+          "share_increase_pct": 104.92
+        },
+        {
+          "ticker": "CHD",
+          "cusip": "171340102",
+          "name": "CHURCH & DWIGHT INC",
+          "buy_price": 42.69,
+          "sell_price": 39.89,
+          "return_pct": -6.56,
+          "share_increase_pct": 118.63
+        }
+      ]
+    },
+    {
+      "quarter": "2016-12-31",
+      "file_date": "2017-01-18",
+      "buy_date": "2017-01-19",
+      "sell_date": "2017-04-12",
+      "top20_selected": 20,
+      "mapped_count": 10,
+      "traded_count": 10,
+      "portfolio_return_pct": 8.62,
+      "spy_return_pct": 4.05,
+      "cumulative_return": 1.4799,
+      "spy_cumulative": 1.22,
+      "stocks": [
+        {
+          "ticker": "MSCI",
+          "cusip": "55354G100",
+          "name": "MSCI INC",
+          "buy_price": 73.44,
+          "sell_price": 88.32,
+          "return_pct": 20.26,
+          "share_increase_pct": 79.33
+        },
+        {
+          "ticker": "LEN",
+          "cusip": "526057104",
+          "name": "LENNAR CORP",
+          "buy_price": 37.83,
+          "sell_price": 44.41,
+          "return_pct": 17.39,
+          "share_increase_pct": 277.4
+        },
+        {
+          "ticker": "NTAP",
+          "cusip": "64110D104",
+          "name": "NETAPP INC",
+          "buy_price": 28.54,
+          "sell_price": 31.73,
+          "return_pct": 11.17,
+          "share_increase_pct": 124.85
+        },
+        {
+          "ticker": "CBRE",
+          "cusip": "12504L109",
+          "name": "CBRE GROUP INC",
+          "buy_price": 30.25,
+          "sell_price": 33.36,
+          "return_pct": 10.28,
+          "share_increase_pct": 283.37
+        },
+        {
+          "ticker": "NI",
+          "cusip": "65473P105",
+          "name": "NISOURCE INC",
+          "buy_price": 16.58,
+          "sell_price": 17.91,
+          "return_pct": 8.02,
+          "share_increase_pct": 97.69
+        },
+        {
+          "ticker": "LNT",
+          "cusip": "018802108",
+          "name": "ALLIANT ENERGY CORP",
+          "buy_price": 27.85,
+          "sell_price": 30.06,
+          "return_pct": 7.92,
+          "share_increase_pct": 192.67
+        },
+        {
+          "ticker": "ICE",
+          "cusip": "45866F104",
+          "name": "INTERCONTINENTAL EXCHANGE IN",
+          "buy_price": 50.63,
+          "sell_price": 53.36,
+          "return_pct": 5.39,
+          "share_increase_pct": 441.12
+        },
+        {
+          "ticker": "MNST",
+          "cusip": "61174X109",
+          "name": "MONSTER BEVERAGE CORP NEW",
+          "buy_price": 21.67,
+          "sell_price": 22.7,
+          "return_pct": 4.73,
+          "share_increase_pct": 220.85
+        },
+        {
+          "ticker": "XYL",
+          "cusip": "98419M100",
+          "name": "XYLEM INC",
+          "buy_price": 43.85,
+          "sell_price": 44.31,
+          "return_pct": 1.05,
+          "share_increase_pct": 149.2
+        },
+        {
+          "ticker": "OKE",
+          "cusip": "682680103",
+          "name": "ONEOK INC NEW",
+          "buy_price": 31.72,
+          "sell_price": 31.72,
+          "return_pct": -0.02,
+          "share_increase_pct": 76.14
+        }
+      ]
+    },
+    {
+      "quarter": "2017-03-31",
+      "file_date": "2017-04-11",
+      "buy_date": "2017-04-12",
+      "sell_date": "2017-07-14",
+      "top20_selected": 20,
+      "mapped_count": 13,
+      "traded_count": 12,
+      "portfolio_return_pct": 5.77,
+      "spy_return_pct": 5.44,
+      "cumulative_return": 1.5653,
+      "spy_cumulative": 1.2864,
+      "stocks": [
+        {
+          "ticker": "GPN",
+          "cusip": "37940X102",
+          "name": "GLOBAL PMTS INC",
+          "buy_price": 73.5,
+          "sell_price": 87.12,
+          "return_pct": 18.53,
+          "share_increase_pct": 87070.35
+        },
+        {
+          "ticker": "CBRE",
+          "cusip": "12504L109",
+          "name": "CBRE GROUP INC",
+          "buy_price": 33.36,
+          "sell_price": 37.16,
+          "return_pct": 11.39,
+          "share_increase_pct": 16165.97
+        },
+        {
+          "ticker": "NTAP",
+          "cusip": "64110D104",
+          "name": "NETAPP INC",
+          "buy_price": 31.73,
+          "sell_price": 35.1,
+          "return_pct": 10.62,
+          "share_increase_pct": 24106.35
+        },
+        {
+          "ticker": "IDXX",
+          "cusip": "45168D104",
+          "name": "IDEXX LABS INC",
+          "buy_price": 154.2,
+          "sell_price": 166.5,
+          "return_pct": 7.98,
+          "share_increase_pct": 50650.96
+        },
+        {
+          "ticker": "HOLX",
+          "cusip": "436440101",
+          "name": "HOLOGIC INC",
+          "buy_price": 42.5,
+          "sell_price": 45.17,
+          "return_pct": 6.28,
+          "share_increase_pct": 55168.1
+        },
+        {
+          "ticker": "SNPS",
+          "cusip": "871607107",
+          "name": "SYNOPSYS INC",
+          "buy_price": 70.97,
+          "sell_price": 75.27,
+          "return_pct": 6.06,
+          "share_increase_pct": 46912.54
+        },
+        {
+          "ticker": "CMCSA",
+          "cusip": "20030N101",
+          "name": "COMCAST CORP NEW",
+          "buy_price": 27.97,
+          "sell_price": 29.52,
+          "return_pct": 5.55,
+          "share_increase_pct": 105.35
+        },
+        {
+          "ticker": "LEN",
+          "cusip": "526057104",
+          "name": "LENNAR CORP",
+          "buy_price": 44.41,
+          "sell_price": 46.86,
+          "return_pct": 5.5,
+          "share_increase_pct": 27239.36
+        },
+        {
+          "ticker": "AJG",
+          "cusip": "363576109",
+          "name": "GALLAGHER ARTHUR J & CO",
+          "buy_price": 48.72,
+          "sell_price": 50.66,
+          "return_pct": 3.97,
+          "share_increase_pct": 57724.44
+        },
+        {
+          "ticker": "CNP",
+          "cusip": "15189T107",
+          "name": "CENTERPOINT ENERGY INC",
+          "buy_price": 21.24,
+          "sell_price": 21.13,
+          "return_pct": -0.53,
+          "share_increase_pct": 34046.58
+        },
+        {
+          "ticker": "OKE",
+          "cusip": "682680103",
+          "name": "ONEOK INC NEW",
+          "buy_price": 31.72,
+          "sell_price": 30.82,
+          "return_pct": -2.83,
+          "share_increase_pct": 16329.91
+        },
+        {
+          "ticker": "URI",
+          "cusip": "911363109",
+          "name": "UNITED RENTALS INC",
+          "buy_price": 117.05,
+          "sell_price": 113.26,
+          "return_pct": -3.24,
+          "share_increase_pct": 5827.85
+        }
+      ]
+    },
+    {
+      "quarter": "2017-06-30",
+      "file_date": "2017-07-13",
+      "buy_date": "2017-07-14",
+      "sell_date": "2017-10-17",
+      "top20_selected": 20,
+      "mapped_count": 7,
+      "traded_count": 7,
+      "portfolio_return_pct": 5.22,
+      "spy_return_pct": 4.55,
+      "cumulative_return": 1.647,
+      "spy_cumulative": 1.3449,
+      "stocks": [
+        {
+          "ticker": "IRM",
+          "cusip": "46284V101",
+          "name": "IRON MTN INC NEW",
+          "buy_price": 21.56,
+          "sell_price": 25.21,
+          "return_pct": 16.94,
+          "share_increase_pct": 164.49
+        },
+        {
+          "ticker": "WCN",
+          "cusip": "94106B101",
+          "name": "WASTE CONNECTIONS INC",
+          "buy_price": 60.75,
+          "sell_price": 66.17,
+          "return_pct": 8.92,
+          "share_increase_pct": 64.84
+        },
+        {
+          "ticker": "CDW",
+          "cusip": "12514G108",
+          "name": "CDW CORP",
+          "buy_price": 57.16,
+          "sell_price": 61.8,
+          "return_pct": 8.12,
+          "share_increase_pct": 144.43
+        },
+        {
+          "ticker": "PKG",
+          "cusip": "695156109",
+          "name": "PACKAGING CORP AMER",
+          "buy_price": 87.57,
+          "sell_price": 90.88,
+          "return_pct": 3.78,
+          "share_increase_pct": 84.89
+        },
+        {
+          "ticker": "RJF",
+          "cusip": "754730109",
+          "name": "RAYMOND JAMES FINANCIAL INC",
+          "buy_price": 48.32,
+          "sell_price": 49.51,
+          "return_pct": 2.47,
+          "share_increase_pct": 343.75
+        },
+        {
+          "ticker": "BALL",
+          "cusip": "058498106",
+          "name": "BALL CORP",
+          "buy_price": 38.24,
+          "sell_price": 38.23,
+          "return_pct": -0.03,
+          "share_increase_pct": 116.06
+        },
+        {
+          "ticker": "DAL",
+          "cusip": "247361702",
+          "name": "DELTA AIR LINES INC DEL",
+          "buy_price": 49.82,
+          "sell_price": 47.98,
+          "return_pct": -3.68,
+          "share_increase_pct": 202.17
+        }
+      ]
+    },
+    {
+      "quarter": "2017-09-30",
+      "file_date": "2017-10-16",
+      "buy_date": "2017-10-17",
+      "sell_date": "2018-01-18",
+      "top20_selected": 20,
+      "mapped_count": 2,
+      "traded_count": 2,
+      "portfolio_return_pct": 13.03,
+      "spy_return_pct": 9.82,
+      "cumulative_return": 1.8616,
+      "spy_cumulative": 1.477,
+      "stocks": [
+        {
+          "ticker": "FFIV",
+          "cusip": "315616102",
+          "name": "F5 Networks Inc",
+          "buy_price": 116.28,
+          "sell_price": 138.0,
+          "return_pct": 18.68,
+          "share_increase_pct": 24.29
+        },
+        {
+          "ticker": "TRMB",
+          "cusip": "896239100",
+          "name": "TRIMBLE NAVIGATION LTD",
+          "buy_price": 41.05,
+          "sell_price": 44.08,
+          "return_pct": 7.38,
+          "share_increase_pct": 24.24
+        }
+      ]
+    },
+    {
+      "quarter": "2017-12-31",
+      "file_date": "2018-01-17",
+      "buy_date": "2018-01-18",
+      "sell_date": "2018-04-16",
+      "top20_selected": 20,
+      "mapped_count": 7,
+      "traded_count": 7,
+      "portfolio_return_pct": -6.07,
+      "spy_return_pct": -3.85,
+      "cumulative_return": 1.7486,
+      "spy_cumulative": 1.4202,
+      "stocks": [
+        {
+          "ticker": "OKE",
+          "cusip": "682680103",
+          "name": "ONEOK INC NEW",
+          "buy_price": 34.65,
+          "sell_price": 36.07,
+          "return_pct": 4.09,
+          "share_increase_pct": 52.95
+        },
+        {
+          "ticker": "BDX",
+          "cusip": "075887109",
+          "name": "BECTON DICKINSON & CO",
+          "buy_price": 157.04,
+          "sell_price": 155.85,
+          "return_pct": -0.76,
+          "share_increase_pct": 31.58
+        },
+        {
+          "ticker": "ISRG",
+          "cusip": "46120E602",
+          "name": "INTUITIVE SURGICAL INC",
+          "buy_price": 144.02,
+          "sell_price": 139.46,
+          "return_pct": -3.17,
+          "share_increase_pct": 186.91
+        },
+        {
+          "ticker": "DRI",
+          "cusip": "237194105",
+          "name": "DARDEN RESTAURANTS INC",
+          "buy_price": 77.72,
+          "sell_price": 71.53,
+          "return_pct": -7.97,
+          "share_increase_pct": 96.43
+        },
+        {
+          "ticker": "RJF",
+          "cusip": "754730109",
+          "name": "RAYMOND JAMES FINANCIAL INC",
+          "buy_price": 56.32,
+          "sell_price": 51.24,
+          "return_pct": -9.02,
+          "share_increase_pct": 13389.88
+        },
+        {
+          "ticker": "PKG",
+          "cusip": "695156109",
+          "name": "PACKAGING CORP AMER",
+          "buy_price": 98.68,
+          "sell_price": 89.61,
+          "return_pct": -9.19,
+          "share_increase_pct": 17026.65
+        },
+        {
+          "ticker": "CDNS",
+          "cusip": "127387108",
+          "name": "CADENCE DESIGN SYSTEM INC",
+          "buy_price": 44.94,
+          "sell_price": 37.54,
+          "return_pct": -16.47,
+          "share_increase_pct": 43079.16
+        }
+      ]
+    },
+    {
+      "quarter": "2018-03-31",
+      "file_date": "2018-04-13",
+      "buy_date": "2018-04-16",
+      "sell_date": "2018-08-15",
+      "top20_selected": 20,
+      "mapped_count": 13,
+      "traded_count": 13,
+      "portfolio_return_pct": 1.9,
+      "spy_return_pct": 5.88,
+      "cumulative_return": 1.7818,
+      "spy_cumulative": 1.5037,
+      "stocks": [
+        {
+          "ticker": "DRI",
+          "cusip": "237194105",
+          "name": "DARDEN RESTAURANTS INC",
+          "buy_price": 71.53,
+          "sell_price": 90.95,
+          "return_pct": 27.15,
+          "share_increase_pct": 25967.77
+        },
+        {
+          "ticker": "CDW",
+          "cusip": "12514G108",
+          "name": "CDW CORP",
+          "buy_price": 64.1,
+          "sell_price": 77.53,
+          "return_pct": 20.95,
+          "share_increase_pct": 16370.71
+        },
+        {
+          "ticker": "FISV",
+          "cusip": "337738108",
+          "name": "FISERV INC",
+          "buy_price": 71.59,
+          "sell_price": 78.69,
+          "return_pct": 9.92,
+          "share_increase_pct": 94.13
+        },
+        {
+          "ticker": "LDOS",
+          "cusip": "525327102",
+          "name": "LEIDOS HLDGS INC",
+          "buy_price": 58.81,
+          "sell_price": 63.33,
+          "return_pct": 7.69,
+          "share_increase_pct": 45.11
+        },
+        {
+          "ticker": "AFL",
+          "cusip": "001055102",
+          "name": "AFLAC INC",
+          "buy_price": 37.14,
+          "sell_price": 38.62,
+          "return_pct": 3.99,
+          "share_increase_pct": 109.59
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 26.49,
+          "sell_price": 27.14,
+          "return_pct": 2.46,
+          "share_increase_pct": 126.82
+        },
+        {
+          "ticker": "HOLX",
+          "cusip": "436440101",
+          "name": "HOLOGIC INC",
+          "buy_price": 37.69,
+          "sell_price": 38.41,
+          "return_pct": 1.91,
+          "share_increase_pct": 53.92
+        },
+        {
+          "ticker": "AFG",
+          "cusip": "025932104",
+          "name": "AMERICAN FINL GROUP INC OHIO",
+          "buy_price": 58.14,
+          "sell_price": 58.74,
+          "return_pct": 1.03,
+          "share_increase_pct": 57.79
+        },
+        {
+          "ticker": "EQT",
+          "cusip": "26884L109",
+          "name": "EQT CORP",
+          "buy_price": 24.57,
+          "sell_price": 24.72,
+          "return_pct": 0.59,
+          "share_increase_pct": 43.51
+        },
+        {
+          "ticker": "STLD",
+          "cusip": "858119100",
+          "name": "STEEL DYNAMICS INC",
+          "buy_price": 38.28,
+          "sell_price": 36.33,
+          "return_pct": -5.08,
+          "share_increase_pct": 28.83
+        },
+        {
+          "ticker": "NVR",
+          "cusip": "62944T105",
+          "name": "NVR INC",
+          "buy_price": 2999.99,
+          "sell_price": 2670.25,
+          "return_pct": -10.99,
+          "share_increase_pct": 56.25
+        },
+        {
+          "ticker": "LEN",
+          "cusip": "526057104",
+          "name": "LENNAR CORP",
+          "buy_price": 50.45,
+          "sell_price": 44.42,
+          "return_pct": -11.95,
+          "share_increase_pct": 27.06
+        },
+        {
+          "ticker": "NEM",
+          "cusip": "651639106",
+          "name": "NEWMONT MINING CORP",
+          "buy_price": 32.91,
+          "sell_price": 25.36,
+          "return_pct": -22.95,
+          "share_increase_pct": 22.97
+        }
+      ]
+    },
+    {
+      "quarter": "2018-06-30",
+      "file_date": "2018-08-14",
+      "buy_date": "2018-08-15",
+      "sell_date": "2018-11-16",
+      "top20_selected": 20,
+      "mapped_count": 12,
+      "traded_count": 12,
+      "portfolio_return_pct": -1.54,
+      "spy_return_pct": -2.42,
+      "cumulative_return": 1.7544,
+      "spy_cumulative": 1.4673,
+      "stocks": [
+        {
+          "ticker": "HOLX",
+          "cusip": "436440101",
+          "name": "HOLOGIC INC",
+          "buy_price": 38.41,
+          "sell_price": 42.11,
+          "return_pct": 9.63,
+          "share_increase_pct": 17044.44
+        },
+        {
+          "ticker": "DE",
+          "cusip": "244199105",
+          "name": "DEERE & CO",
+          "buy_price": 121.52,
+          "sell_price": 133.02,
+          "return_pct": 9.46,
+          "share_increase_pct": 19.27
+        },
+        {
+          "ticker": "EXR",
+          "cusip": "30225T102",
+          "name": "EXTRA SPACE STORAGE INC",
+          "buy_price": 69.54,
+          "sell_price": 71.72,
+          "return_pct": 3.12,
+          "share_increase_pct": 30665.17
+        },
+        {
+          "ticker": "CCL",
+          "cusip": "143658300",
+          "name": "CARNIVAL CORP",
+          "buy_price": 55.02,
+          "sell_price": 56.18,
+          "return_pct": 2.11,
+          "share_increase_pct": 25.35
+        },
+        {
+          "ticker": "VRSN",
+          "cusip": "92343E102",
+          "name": "VERISIGN INC",
+          "buy_price": 151.57,
+          "sell_price": 153.83,
+          "return_pct": 1.49,
+          "share_increase_pct": 30582.45
+        },
+        {
+          "ticker": "CNP",
+          "cusip": "15189T107",
+          "name": "CENTERPOINT ENERGY INC",
+          "buy_price": 22.47,
+          "sell_price": 22.51,
+          "return_pct": 0.2,
+          "share_increase_pct": 13640.53
+        },
+        {
+          "ticker": "IQV",
+          "cusip": "46266C105",
+          "name": "IQVIA HLDGS INC",
+          "buy_price": 120.2,
+          "sell_price": 119.39,
+          "return_pct": -0.67,
+          "share_increase_pct": 18.6
+        },
+        {
+          "ticker": "HLT",
+          "cusip": "43300A203",
+          "name": "HILTON WORLDWIDE HLDGS INC",
+          "buy_price": 74.48,
+          "sell_price": 71.52,
+          "return_pct": -3.97,
+          "share_increase_pct": 35.37
+        },
+        {
+          "ticker": "T",
+          "cusip": "00206R102",
+          "name": "AT&T INC",
+          "buy_price": 14.34,
+          "sell_price": 13.65,
+          "return_pct": -4.87,
+          "share_increase_pct": 27.11
+        },
+        {
+          "ticker": "STLD",
+          "cusip": "858119100",
+          "name": "STEEL DYNAMICS INC",
+          "buy_price": 36.33,
+          "sell_price": 34.04,
+          "return_pct": -6.31,
+          "share_increase_pct": 6851.12
+        },
+        {
+          "ticker": "SSNC",
+          "cusip": "78467J100",
+          "name": "SS&C TECHNOLOGIES HLDGS INC",
+          "buy_price": 50.02,
+          "sell_price": 43.57,
+          "return_pct": -12.89,
+          "share_increase_pct": 22685.3
+        },
+        {
+          "ticker": "TRU",
+          "cusip": "89400J107",
+          "name": "TRANSUNION",
+          "buy_price": 71.52,
+          "sell_price": 60.26,
+          "return_pct": -15.74,
+          "share_increase_pct": 15891.35
+        }
+      ]
+    },
+    {
+      "quarter": "2018-09-30",
+      "file_date": "2018-11-15",
+      "buy_date": "2018-11-16",
+      "sell_date": "2019-02-18",
+      "top20_selected": 20,
+      "mapped_count": 10,
+      "traded_count": 10,
+      "portfolio_return_pct": 2.39,
+      "spy_return_pct": 2.1,
+      "cumulative_return": 1.7963,
+      "spy_cumulative": 1.4981,
+      "stocks": [
+        {
+          "ticker": "HLT",
+          "cusip": "43300A203",
+          "name": "HILTON WORLDWIDE HLDGS INC",
+          "buy_price": 71.52,
+          "sell_price": 79.7,
+          "return_pct": 11.43,
+          "share_increase_pct": 22.84
+        },
+        {
+          "ticker": "PAYX",
+          "cusip": "704326107",
+          "name": "PAYCHEX INC",
+          "buy_price": 55.55,
+          "sell_price": 61.1,
+          "return_pct": 9.99,
+          "share_increase_pct": 21.94
+        },
+        {
+          "ticker": "NVR",
+          "cusip": "62944T105",
+          "name": "NVR INC",
+          "buy_price": 2401.28,
+          "sell_price": 2622.7,
+          "return_pct": 9.22,
+          "share_increase_pct": 28.57
+        },
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 100.05,
+          "sell_price": 106.66,
+          "return_pct": 6.6,
+          "share_increase_pct": 37.24
+        },
+        {
+          "ticker": "IDXX",
+          "cusip": "45168D104",
+          "name": "IDEXX LABS INC",
+          "buy_price": 201.37,
+          "sell_price": 211.32,
+          "return_pct": 4.94,
+          "share_increase_pct": 19.02
+        },
+        {
+          "ticker": "IVV",
+          "cusip": "464287200",
+          "name": "ISHARES TR",
+          "buy_price": 244.18,
+          "sell_price": 249.25,
+          "return_pct": 2.07,
+          "share_increase_pct": 95.73
+        },
+        {
+          "ticker": "UHS",
+          "cusip": "913903100",
+          "name": "UNIVERSAL HLTH SVCS INC",
+          "buy_price": 128.56,
+          "sell_price": 130.85,
+          "return_pct": 1.78,
+          "share_increase_pct": 190.63
+        },
+        {
+          "ticker": "EWP",
+          "cusip": "464286764",
+          "name": "ISHARES INC",
+          "buy_price": 22.65,
+          "sell_price": 22.96,
+          "return_pct": 1.33,
+          "share_increase_pct": 491.15
+        },
+        {
+          "ticker": "FFIV",
+          "cusip": "315616102",
+          "name": "F5 NETWORKS INC",
+          "buy_price": 177.77,
+          "sell_price": 169.81,
+          "return_pct": -4.48,
+          "share_increase_pct": 51.53
+        },
+        {
+          "ticker": "TEVA",
+          "cusip": "881624209",
+          "name": "TEVA PHARMACEUTICAL INDS LTD",
+          "buy_price": 22.25,
+          "sell_price": 18.02,
+          "return_pct": -19.01,
+          "share_increase_pct": 27.05
+        }
+      ]
+    },
+    {
+      "quarter": "2018-12-31",
+      "file_date": "2019-02-15",
+      "buy_date": "2019-02-18",
+      "sell_date": "2019-05-16",
+      "top20_selected": 20,
+      "mapped_count": 6,
+      "traded_count": 6,
+      "portfolio_return_pct": -1.6,
+      "spy_return_pct": 4.0,
+      "cumulative_return": 1.7676,
+      "spy_cumulative": 1.5581,
+      "stocks": [
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 24.38,
+          "sell_price": 27.95,
+          "return_pct": 14.65,
+          "share_increase_pct": 223.72
+        },
+        {
+          "ticker": "DAL",
+          "cusip": "247361702",
+          "name": "DELTA AIR LINES INC DEL",
+          "buy_price": 48.61,
+          "sell_price": 52.63,
+          "return_pct": 8.27,
+          "share_increase_pct": 223.56
+        },
+        {
+          "ticker": "CF",
+          "cusip": "125269100",
+          "name": "CF INDS HLDGS INC",
+          "buy_price": 35.36,
+          "sell_price": 36.24,
+          "return_pct": 2.51,
+          "share_increase_pct": 223.54
+        },
+        {
+          "ticker": "VST",
+          "cusip": "92840M102",
+          "name": "VISTRA ENERGY CORP",
+          "buy_price": 22.71,
+          "sell_price": 21.17,
+          "return_pct": -6.81,
+          "share_increase_pct": 223.61
+        },
+        {
+          "ticker": "ON",
+          "cusip": "682189105",
+          "name": "ON SEMICONDUCTOR CORP",
+          "buy_price": 22.78,
+          "sell_price": 19.75,
+          "return_pct": -13.3,
+          "share_increase_pct": 223.6
+        },
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 106.66,
+          "sell_price": 90.74,
+          "return_pct": -14.92,
+          "share_increase_pct": 223.44
+        }
+      ]
+    },
+    {
+      "quarter": "2019-03-31",
+      "file_date": "2019-05-15",
+      "buy_date": "2019-05-16",
+      "sell_date": "2019-08-15",
+      "top20_selected": 20,
+      "mapped_count": 12,
+      "traded_count": 11,
+      "portfolio_return_pct": 3.68,
+      "spy_return_pct": -0.58,
+      "cumulative_return": 1.8326,
+      "spy_cumulative": 1.5491,
+      "stocks": [
+        {
+          "ticker": "BALL",
+          "cusip": "058498106",
+          "name": "BALL CORP",
+          "buy_price": 57.78,
+          "sell_price": 72.2,
+          "return_pct": 24.97,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "CBOE",
+          "cusip": "12503M108",
+          "name": "CBOE GLOBAL MARKETS INC",
+          "buy_price": 96.07,
+          "sell_price": 111.56,
+          "return_pct": 16.13,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "CMG",
+          "cusip": "169656105",
+          "name": "CHIPOTLE MEXICAN GRILL INC",
+          "buy_price": 14.18,
+          "sell_price": 16.2,
+          "return_pct": 14.24,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "CMS",
+          "cusip": "125896100",
+          "name": "CMS ENERGY CORP",
+          "buy_price": 46.04,
+          "sell_price": 50.51,
+          "return_pct": 9.7,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "BR",
+          "cusip": "11133T103",
+          "name": "BROADRIDGE FINL SOLUTIONS IN",
+          "buy_price": 108.63,
+          "sell_price": 112.81,
+          "return_pct": 3.85,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "AEE",
+          "cusip": "023608102",
+          "name": "AMEREN CORP",
+          "buy_price": 60.9,
+          "sell_price": 62.58,
+          "return_pct": 2.76,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "DIS",
+          "cusip": "254687106",
+          "name": "DISNEY WALT CO",
+          "buy_price": 130.78,
+          "sell_price": 129.56,
+          "return_pct": -0.93,
+          "share_increase_pct": 30.61
+        },
+        {
+          "ticker": "CDNS",
+          "cusip": "127387108",
+          "name": "CADENCE DESIGN SYSTEM INC",
+          "buy_price": 69.85,
+          "sell_price": 68.14,
+          "return_pct": -2.45,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "BXP",
+          "cusip": "101121101",
+          "name": "BOSTON PROPERTIES INC",
+          "buy_price": 97.81,
+          "sell_price": 92.97,
+          "return_pct": -4.95,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "BKR",
+          "cusip": "05722G100",
+          "name": "BAKER HUGHES A GE CO",
+          "buy_price": 18.86,
+          "sell_price": 17.27,
+          "return_pct": -8.47,
+          "share_increase_pct": 4.3
+        },
+        {
+          "ticker": "CNC",
+          "cusip": "15135B101",
+          "name": "CENTENE CORP DEL",
+          "buy_price": 55.57,
+          "sell_price": 47.56,
+          "return_pct": -14.41,
+          "share_increase_pct": 107.57
+        }
+      ]
+    },
+    {
+      "quarter": "2019-06-30",
+      "file_date": "2019-08-14",
+      "buy_date": "2019-08-15",
+      "sell_date": "2019-11-18",
+      "top20_selected": 20,
+      "mapped_count": 13,
+      "traded_count": 10,
+      "portfolio_return_pct": 9.16,
+      "spy_return_pct": 10.12,
+      "cumulative_return": 2.0004,
+      "spy_cumulative": 1.7058,
+      "stocks": [
+        {
+          "ticker": "FTNT",
+          "cusip": "34959E109",
+          "name": "FORTINET INC",
+          "buy_price": 16.02,
+          "sell_price": 20.77,
+          "return_pct": 29.64,
+          "share_increase_pct": 138.3
+        },
+        {
+          "ticker": "FAST",
+          "cusip": "311900104",
+          "name": "FASTENAL CO",
+          "buy_price": 12.41,
+          "sell_price": 15.29,
+          "return_pct": 23.19,
+          "share_increase_pct": 110.06
+        },
+        {
+          "ticker": "PPL",
+          "cusip": "69351T106",
+          "name": "PPL CORP",
+          "buy_price": 22.04,
+          "sell_price": 25.74,
+          "return_pct": 16.78,
+          "share_increase_pct": 30.26
+        },
+        {
+          "ticker": "SNA",
+          "cusip": "833034101",
+          "name": "SNAP ON INC",
+          "buy_price": 120.6,
+          "sell_price": 136.58,
+          "return_pct": 13.25,
+          "share_increase_pct": 144.94
+        },
+        {
+          "ticker": "AZO",
+          "cusip": "053332102",
+          "name": "AUTOZONE INC",
+          "buy_price": 1083.54,
+          "sell_price": 1187.65,
+          "return_pct": 9.61,
+          "share_increase_pct": 24.01
+        },
+        {
+          "ticker": "ES",
+          "cusip": "30040W108",
+          "name": "EVERSOURCE ENERGY",
+          "buy_price": 61.9,
+          "sell_price": 64.94,
+          "return_pct": 4.91,
+          "share_increase_pct": 19.29
+        },
+        {
+          "ticker": "TSN",
+          "cusip": "902494103",
+          "name": "TYSON FOODS INC",
+          "buy_price": 72.34,
+          "sell_price": 74.39,
+          "return_pct": 2.84,
+          "share_increase_pct": 22.4
+        },
+        {
+          "ticker": "NEM",
+          "cusip": "651639106",
+          "name": "NEWMONT GOLDCORP CORPORATION",
+          "buy_price": 32.02,
+          "sell_price": 31.76,
+          "return_pct": -0.83,
+          "share_increase_pct": 95.58
+        },
+        {
+          "ticker": "TSCO",
+          "cusip": "892356106",
+          "name": "TRACTOR SUPPLY CO",
+          "buy_price": 17.88,
+          "sell_price": 17.66,
+          "return_pct": -1.23,
+          "share_increase_pct": 50.99
+        },
+        {
+          "ticker": "IQV",
+          "cusip": "46266C105",
+          "name": "IQVIA HLDGS INC",
+          "buy_price": 152.15,
+          "sell_price": 142.12,
+          "return_pct": -6.59,
+          "share_increase_pct": 23.11
+        }
+      ]
+    },
+    {
+      "quarter": "2019-09-30",
+      "file_date": "2019-11-15",
+      "buy_date": "2019-11-18",
+      "sell_date": "2020-02-24",
+      "top20_selected": 20,
+      "mapped_count": 13,
+      "traded_count": 13,
+      "portfolio_return_pct": 3.96,
+      "spy_return_pct": 3.84,
+      "cumulative_return": 2.0796,
+      "spy_cumulative": 1.7714,
+      "stocks": [
+        {
+          "ticker": "CRM",
+          "cusip": "79466L302",
+          "name": "SALESFORCE COM INC",
+          "buy_price": 160.82,
+          "sell_price": 183.71,
+          "return_pct": 14.23,
+          "share_increase_pct": 5.56
+        },
+        {
+          "ticker": "CMS",
+          "cusip": "125896100",
+          "name": "CMS ENERGY CORP",
+          "buy_price": 50.74,
+          "sell_price": 56.94,
+          "return_pct": 12.21,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "EFX",
+          "cusip": "294429105",
+          "name": "EQUIFAX INC",
+          "buy_price": 132.53,
+          "sell_price": 148.34,
+          "return_pct": 11.93,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "ETR",
+          "cusip": "29364G103",
+          "name": "ENTERGY CORP NEW",
+          "buy_price": 46.64,
+          "sell_price": 52.14,
+          "return_pct": 11.78,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "GPN",
+          "cusip": "37940X102",
+          "name": "GLOBAL PMTS INC",
+          "buy_price": 170.49,
+          "sell_price": 190.43,
+          "return_pct": 11.7,
+          "share_increase_pct": 92.01
+        },
+        {
+          "ticker": "FIS",
+          "cusip": "31620M106",
+          "name": "FIDELITY NATL INFORMATION SV",
+          "buy_price": 120.1,
+          "sell_price": 132.43,
+          "return_pct": 10.27,
+          "share_increase_pct": 97.96
+        },
+        {
+          "ticker": "ARE",
+          "cusip": "015271109",
+          "name": "ALEXANDRIA REAL ESTATE EQ IN",
+          "buy_price": 125.56,
+          "sell_price": 132.11,
+          "return_pct": 5.22,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "OXY",
+          "cusip": "674599105",
+          "name": "OCCIDENTAL PETE CORP",
+          "buy_price": 34.98,
+          "sell_price": 35.86,
+          "return_pct": 2.53,
+          "share_increase_pct": 28.37
+        },
+        {
+          "ticker": "FISV",
+          "cusip": "337738108",
+          "name": "FISERV INC",
+          "buy_price": 114.5,
+          "sell_price": 116.59,
+          "return_pct": 1.83,
+          "share_increase_pct": 6.81
+        },
+        {
+          "ticker": "CBOE",
+          "cusip": "12503M108",
+          "name": "CBOE GLOBAL MARKETS INC",
+          "buy_price": 110.61,
+          "sell_price": 112.33,
+          "return_pct": 1.56,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "FANG",
+          "cusip": "25278X109",
+          "name": "DIAMONDBACK ENERGY INC",
+          "buy_price": 58.83,
+          "sell_price": 55.21,
+          "return_pct": -6.14,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "BKR",
+          "cusip": "05722G100",
+          "name": "BAKER HUGHES A GE CO",
+          "buy_price": 18.64,
+          "sell_price": 16.51,
+          "return_pct": -11.42,
+          "share_increase_pct": 5.51
+        },
+        {
+          "ticker": "LNG",
+          "cusip": "16411R208",
+          "name": "CHENIERE ENERGY INC",
+          "buy_price": 57.82,
+          "sell_price": 49.61,
+          "return_pct": -14.2,
+          "share_increase_pct": 5.56
+        }
+      ]
+    },
+    {
+      "quarter": "2019-12-31",
+      "file_date": "2020-02-21",
+      "buy_date": "2020-02-24",
+      "sell_date": "2020-05-28",
+      "top20_selected": 20,
+      "mapped_count": 11,
+      "traded_count": 10,
+      "portfolio_return_pct": -8.22,
+      "spy_return_pct": -5.48,
+      "cumulative_return": 1.9086,
+      "spy_cumulative": 1.6743,
+      "stocks": [
+        {
+          "ticker": "VEEV",
+          "cusip": "922475108",
+          "name": "VEEVA SYS INC",
+          "buy_price": 154.02,
+          "sell_price": 204.2,
+          "return_pct": 32.58,
+          "share_increase_pct": 2500.88
+        },
+        {
+          "ticker": "FTNT",
+          "cusip": "34959E109",
+          "name": "FORTINET INC",
+          "buy_price": 21.74,
+          "sell_price": 26.93,
+          "return_pct": 23.89,
+          "share_increase_pct": 3801.63
+        },
+        {
+          "ticker": "TSCO",
+          "cusip": "892356106",
+          "name": "TRACTOR SUPPLY CO",
+          "buy_price": 17.54,
+          "sell_price": 21.71,
+          "return_pct": 23.74,
+          "share_increase_pct": 4012.52
+        },
+        {
+          "ticker": "LDOS",
+          "cusip": "525327102",
+          "name": "LEIDOS HLDGS INC",
+          "buy_price": 104.85,
+          "sell_price": 96.51,
+          "return_pct": -7.95,
+          "share_increase_pct": 10498.89
+        },
+        {
+          "ticker": "KKR",
+          "cusip": "48251W104",
+          "name": "KKR & CO INC",
+          "buy_price": 29.83,
+          "sell_price": 26.8,
+          "return_pct": -10.13,
+          "share_increase_pct": 21237.96
+        },
+        {
+          "ticker": "NVR",
+          "cusip": "62944T105",
+          "name": "NVR INC",
+          "buy_price": 3988.41,
+          "sell_price": 3220.41,
+          "return_pct": -19.26,
+          "share_increase_pct": 5394.34
+        },
+        {
+          "ticker": "UHS",
+          "cusip": "913903100",
+          "name": "UNIVERSAL HLTH SVCS INC",
+          "buy_price": 137.21,
+          "sell_price": 104.36,
+          "return_pct": -23.94,
+          "share_increase_pct": 4859.51
+        },
+        {
+          "ticker": "WPC",
+          "cusip": "92936U109",
+          "name": "W P CAREY INC",
+          "buy_price": 60.71,
+          "sell_price": 43.58,
+          "return_pct": -28.21,
+          "share_increase_pct": 1740.81
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 31.56,
+          "sell_price": 22.17,
+          "return_pct": -29.76,
+          "share_increase_pct": 10335.3
+        },
+        {
+          "ticker": "CINF",
+          "cusip": "172062101",
+          "name": "CINCINNATI FINL CORP",
+          "buy_price": 91.93,
+          "sell_price": 52.21,
+          "return_pct": -43.21,
+          "share_increase_pct": 3540.82
+        }
+      ]
+    },
+    {
+      "quarter": "2020-03-31",
+      "file_date": "2020-05-27",
+      "buy_date": "2020-05-28",
+      "sell_date": "2020-08-12",
+      "top20_selected": 20,
+      "mapped_count": 17,
+      "traded_count": 16,
+      "portfolio_return_pct": 8.11,
+      "spy_return_pct": 11.87,
+      "cumulative_return": 2.0634,
+      "spy_cumulative": 1.873,
+      "stocks": [
+        {
+          "ticker": "LULU",
+          "cusip": "550021109",
+          "name": "LULULEMON ATHLETICA INC",
+          "buy_price": 284.42,
+          "sell_price": 345.33,
+          "return_pct": 21.42,
+          "share_increase_pct": 2.23
+        },
+        {
+          "ticker": "KLAC",
+          "cusip": "482480100",
+          "name": "KLA CORPORATION",
+          "buy_price": 163.89,
+          "sell_price": 195.23,
+          "return_pct": 19.12,
+          "share_increase_pct": 2.1
+        },
+        {
+          "ticker": "ODFL",
+          "cusip": "679580100",
+          "name": "OLD DOMINION FREIGHT LINE IN",
+          "buy_price": 80.63,
+          "sell_price": 93.64,
+          "return_pct": 16.13,
+          "share_increase_pct": 50.0
+        },
+        {
+          "ticker": "APH",
+          "cusip": "032095101",
+          "name": "AMPHENOL CORP NEW",
+          "buy_price": 22.6,
+          "sell_price": 26.09,
+          "return_pct": 15.45,
+          "share_increase_pct": 2.35
+        },
+        {
+          "ticker": "STT",
+          "cusip": "857477103",
+          "name": "STATE STR CORP",
+          "buy_price": 51.99,
+          "sell_price": 59.75,
+          "return_pct": 14.93,
+          "share_increase_pct": 2.17
+        },
+        {
+          "ticker": "SHW",
+          "cusip": "824348106",
+          "name": "SHERWIN WILLIAMS CO",
+          "buy_price": 186.97,
+          "sell_price": 212.92,
+          "return_pct": 13.88,
+          "share_increase_pct": 2.13
+        },
+        {
+          "ticker": "DTE",
+          "cusip": "233331107",
+          "name": "DTE ENERGY CO",
+          "buy_price": 75.11,
+          "sell_price": 83.62,
+          "return_pct": 11.33,
+          "share_increase_pct": 2.25
+        },
+        {
+          "ticker": "AME",
+          "cusip": "031100100",
+          "name": "AMETEK INC",
+          "buy_price": 88.32,
+          "sell_price": 97.5,
+          "return_pct": 10.39,
+          "share_increase_pct": 2.18
+        },
+        {
+          "ticker": "ROK",
+          "cusip": "773903109",
+          "name": "ROCKWELL AUTOMATION INC",
+          "buy_price": 196.17,
+          "sell_price": 214.05,
+          "return_pct": 9.11,
+          "share_increase_pct": 2.09
+        },
+        {
+          "ticker": "NTRS",
+          "cusip": "665859104",
+          "name": "NORTHERN TR CORP",
+          "buy_price": 66.62,
+          "sell_price": 70.64,
+          "return_pct": 6.04,
+          "share_increase_pct": 2.12
+        },
+        {
+          "ticker": "REGN",
+          "cusip": "75886F107",
+          "name": "REGENERON PHARMACEUTICALS",
+          "buy_price": 574.33,
+          "sell_price": 608.24,
+          "return_pct": 5.9,
+          "share_increase_pct": 2.16
+        },
+        {
+          "ticker": "GIS",
+          "cusip": "370334104",
+          "name": "GENERAL MLS INC",
+          "buy_price": 50.54,
+          "sell_price": 51.88,
+          "return_pct": 2.66,
+          "share_increase_pct": 2.2
+        },
+        {
+          "ticker": "CNC",
+          "cusip": "15135B101",
+          "name": "CENTENE CORP DEL",
+          "buy_price": 66.9,
+          "sell_price": 65.05,
+          "return_pct": -2.77,
+          "share_increase_pct": 43.63
+        },
+        {
+          "ticker": "AVB",
+          "cusip": "053484101",
+          "name": "AVALONBAY CMNTYS INC",
+          "buy_price": 130.26,
+          "sell_price": 126.58,
+          "return_pct": -2.83,
+          "share_increase_pct": 2.83
+        },
+        {
+          "ticker": "EIX",
+          "cusip": "281020107",
+          "name": "EDISON INTL",
+          "buy_price": 44.27,
+          "sell_price": 42.12,
+          "return_pct": -4.87,
+          "share_increase_pct": 2.12
+        },
+        {
+          "ticker": "BX",
+          "cusip": "09260D107",
+          "name": "BLACKSTONE GROUP INC",
+          "buy_price": 46.37,
+          "sell_price": 43.55,
+          "return_pct": -6.07,
+          "share_increase_pct": 16.14
+        }
+      ]
+    },
+    {
+      "quarter": "2020-06-30",
+      "file_date": "2020-08-11",
+      "buy_date": "2020-08-12",
+      "sell_date": "2020-11-16",
+      "top20_selected": 20,
+      "mapped_count": 11,
+      "traded_count": 9,
+      "portfolio_return_pct": 16.58,
+      "spy_return_pct": 7.88,
+      "cumulative_return": 2.4055,
+      "spy_cumulative": 2.0205,
+      "stocks": [
+        {
+          "ticker": "PAYC",
+          "cusip": "70432V102",
+          "name": "PAYCOM SOFTWARE INC",
+          "buy_price": 281.22,
+          "sell_price": 370.79,
+          "return_pct": 31.85,
+          "share_increase_pct": 9352.53
+        },
+        {
+          "ticker": "AVY",
+          "cusip": "053611109",
+          "name": "AVERY DENNISON CORP",
+          "buy_price": 109.26,
+          "sell_price": 139.11,
+          "return_pct": 27.32,
+          "share_increase_pct": 69.54
+        },
+        {
+          "ticker": "IR",
+          "cusip": "45687V106",
+          "name": "INGERSOLL RAND INC",
+          "buy_price": 35.42,
+          "sell_price": 44.75,
+          "return_pct": 26.34,
+          "share_increase_pct": 93.93
+        },
+        {
+          "ticker": "URI",
+          "cusip": "911363109",
+          "name": "UNITED RENTALS INC",
+          "buy_price": 172.59,
+          "sell_price": 210.49,
+          "return_pct": 21.97,
+          "share_increase_pct": 2118.29
+        },
+        {
+          "ticker": "FFIV",
+          "cusip": "315616102",
+          "name": "F5 NETWORKS INC",
+          "buy_price": 138.29,
+          "sell_price": 162.99,
+          "return_pct": 17.86,
+          "share_increase_pct": 687.23
+        },
+        {
+          "ticker": "CCL",
+          "cusip": "143658300",
+          "name": "CARNIVAL CORP",
+          "buy_price": 15.12,
+          "sell_price": 17.49,
+          "return_pct": 15.67,
+          "share_increase_pct": 33.78
+        },
+        {
+          "ticker": "BX",
+          "cusip": "09260D107",
+          "name": "BLACKSTONE GROUP INC",
+          "buy_price": 43.55,
+          "sell_price": 47.49,
+          "return_pct": 9.03,
+          "share_increase_pct": 1841.1
+        },
+        {
+          "ticker": "EW",
+          "cusip": "28176E108",
+          "name": "EDWARDS LIFESCIENCES CORP",
+          "buy_price": 78.58,
+          "sell_price": 82.17,
+          "return_pct": 4.57,
+          "share_increase_pct": 196.59
+        },
+        {
+          "ticker": "PHM",
+          "cusip": "745867101",
+          "name": "PULTE GROUP INC",
+          "buy_price": 42.93,
+          "sell_price": 40.61,
+          "return_pct": -5.41,
+          "share_increase_pct": 55.87
+        }
+      ]
+    },
+    {
+      "quarter": "2020-09-30",
+      "file_date": "2020-11-13",
+      "buy_date": "2020-11-16",
+      "sell_date": "2021-02-22",
+      "top20_selected": 2,
+      "mapped_count": 2,
+      "traded_count": 2,
+      "portfolio_return_pct": 39.98,
+      "spy_return_pct": 7.2,
+      "cumulative_return": 3.3673,
+      "spy_cumulative": 2.166,
+      "stocks": [
+        {
+          "ticker": "TSLA",
+          "cusip": "88160R101",
+          "name": "TESLA INC",
+          "buy_price": 136.03,
+          "sell_price": 238.17,
+          "return_pct": 75.08,
+          "share_increase_pct": 400.0
+        },
+        {
+          "ticker": "AAPL",
+          "cusip": "037833100",
+          "name": "APPLE INC",
+          "buy_price": 117.0,
+          "sell_price": 122.72,
+          "return_pct": 4.89,
+          "share_increase_pct": 300.0
+        }
+      ]
+    },
+    {
+      "quarter": "2020-12-31",
+      "file_date": "2021-02-19",
+      "buy_date": "2021-02-22",
+      "sell_date": "2021-05-17",
+      "top20_selected": 20,
+      "mapped_count": 14,
+      "traded_count": 13,
+      "portfolio_return_pct": 11.09,
+      "spy_return_pct": 7.71,
+      "cumulative_return": 3.7408,
+      "spy_cumulative": 2.3331,
+      "stocks": [
+        {
+          "ticker": "CINF",
+          "cusip": "172062101",
+          "name": "CINCINNATI FINL CORP",
+          "buy_price": 85.71,
+          "sell_price": 106.85,
+          "return_pct": 24.66,
+          "share_increase_pct": 48.27
+        },
+        {
+          "ticker": "UHS",
+          "cusip": "913903100",
+          "name": "UNIVERSAL HLTH SVCS INC",
+          "buy_price": 128.23,
+          "sell_price": 156.51,
+          "return_pct": 22.05,
+          "share_increase_pct": 48.28
+        },
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 139.0,
+          "sell_price": 168.44,
+          "return_pct": 21.18,
+          "share_increase_pct": 48.27
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 48.53,
+          "sell_price": 57.4,
+          "return_pct": 18.28,
+          "share_increase_pct": 48.29
+        },
+        {
+          "ticker": "RPM",
+          "cusip": "749685103",
+          "name": "RPM INTL INC",
+          "buy_price": 75.38,
+          "sell_price": 88.49,
+          "return_pct": 17.39,
+          "share_increase_pct": 48.31
+        },
+        {
+          "ticker": "PKG",
+          "cusip": "695156109",
+          "name": "PACKAGING CORP AMER",
+          "buy_price": 115.04,
+          "sell_price": 133.81,
+          "return_pct": 16.32,
+          "share_increase_pct": 2750.27
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 30.69,
+          "sell_price": 35.58,
+          "return_pct": 15.94,
+          "share_increase_pct": 48.27
+        },
+        {
+          "ticker": "RJF",
+          "cusip": "754730109",
+          "name": "RAYMOND JAMES FINL INC",
+          "buy_price": 74.24,
+          "sell_price": 83.46,
+          "return_pct": 12.41,
+          "share_increase_pct": 48.39
+        },
+        {
+          "ticker": "VICI",
+          "cusip": "925652109",
+          "name": "VICI PPTYS INC",
+          "buy_price": 21.54,
+          "sell_price": 23.93,
+          "return_pct": 11.1,
+          "share_increase_pct": 1228.85
+        },
+        {
+          "ticker": "NTAP",
+          "cusip": "64110D104",
+          "name": "NETAPP INC",
+          "buy_price": 63.14,
+          "sell_price": 70.15,
+          "return_pct": 11.09,
+          "share_increase_pct": 1835.01
+        },
+        {
+          "ticker": "NEE",
+          "cusip": "65339F101",
+          "name": "NEXTERA ENERGY INC",
+          "buy_price": 65.64,
+          "sell_price": 63.17,
+          "return_pct": -3.76,
+          "share_increase_pct": 307.34
+        },
+        {
+          "ticker": "FFIV",
+          "cusip": "315616102",
+          "name": "F5 NETWORKS INC",
+          "buy_price": 192.79,
+          "sell_price": 180.65,
+          "return_pct": -6.3,
+          "share_increase_pct": 48.28
+        },
+        {
+          "ticker": "NBIX",
+          "cusip": "64125C109",
+          "name": "NEUROCRINE BIOSCIENCES INC",
+          "buy_price": 111.04,
+          "sell_price": 93.08,
+          "return_pct": -16.17,
+          "share_increase_pct": 48.54
+        }
+      ]
+    },
+    {
+      "quarter": "2021-03-31",
+      "file_date": "2021-05-14",
+      "buy_date": "2021-05-17",
+      "sell_date": "2021-08-18",
+      "top20_selected": 20,
+      "mapped_count": 14,
+      "traded_count": 14,
+      "portfolio_return_pct": -1.61,
+      "spy_return_pct": 6.04,
+      "cumulative_return": 3.6805,
+      "spy_cumulative": 2.474,
+      "stocks": [
+        {
+          "ticker": "APH",
+          "cusip": "032095101",
+          "name": "AMPHENOL CORP NEW",
+          "buy_price": 31.82,
+          "sell_price": 35.45,
+          "return_pct": 11.39,
+          "share_increase_pct": 112.89
+        },
+        {
+          "ticker": "FFIV",
+          "cusip": "315616102",
+          "name": "F5 NETWORKS INC",
+          "buy_price": 180.65,
+          "sell_price": 198.12,
+          "return_pct": 9.67,
+          "share_increase_pct": 100.21
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 35.58,
+          "sell_price": 37.38,
+          "return_pct": 5.06,
+          "share_increase_pct": 260.59
+        },
+        {
+          "ticker": "CINF",
+          "cusip": "172062101",
+          "name": "CINCINNATI FINL CORP",
+          "buy_price": 106.85,
+          "sell_price": 108.23,
+          "return_pct": 1.3,
+          "share_increase_pct": 7424.94
+        },
+        {
+          "ticker": "RJF",
+          "cusip": "754730109",
+          "name": "RAYMOND JAMES FINL INC",
+          "buy_price": 83.46,
+          "sell_price": 84.35,
+          "return_pct": 1.06,
+          "share_increase_pct": 20310.18
+        },
+        {
+          "ticker": "FOXA",
+          "cusip": "35137L105",
+          "name": "FOX CORP",
+          "buy_price": 34.47,
+          "sell_price": 34.28,
+          "return_pct": -0.57,
+          "share_increase_pct": 2931.13
+        },
+        {
+          "ticker": "GEN",
+          "cusip": "668771108",
+          "name": "NORTONLIFELOCK INC",
+          "buy_price": 23.54,
+          "sell_price": 23.28,
+          "return_pct": -1.1,
+          "share_increase_pct": 72.44
+        },
+        {
+          "ticker": "DHI",
+          "cusip": "23331A109",
+          "name": "D R HORTON INC",
+          "buy_price": 91.15,
+          "sell_price": 89.23,
+          "return_pct": -2.1,
+          "share_increase_pct": 38.01
+        },
+        {
+          "ticker": "AVY",
+          "cusip": "053611109",
+          "name": "AVERY DENNISON CORP",
+          "buy_price": 202.97,
+          "sell_price": 198.68,
+          "return_pct": -2.11,
+          "share_increase_pct": 3380.95
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 57.4,
+          "sell_price": 53.84,
+          "return_pct": -6.21,
+          "share_increase_pct": 61.88
+        },
+        {
+          "ticker": "UHS",
+          "cusip": "913903100",
+          "name": "UNIVERSAL HLTH SVCS INC",
+          "buy_price": 156.51,
+          "sell_price": 145.07,
+          "return_pct": -7.31,
+          "share_increase_pct": 136.77
+        },
+        {
+          "ticker": "PHM",
+          "cusip": "745867101",
+          "name": "PULTE GROUP INC",
+          "buy_price": 55.27,
+          "sell_price": 50.02,
+          "return_pct": -9.5,
+          "share_increase_pct": 108.79
+        },
+        {
+          "ticker": "CHRW",
+          "cusip": "12541W209",
+          "name": "C H ROBINSON WORLDWIDE INC",
+          "buy_price": 88.13,
+          "sell_price": 79.43,
+          "return_pct": -9.88,
+          "share_increase_pct": 1396.63
+        },
+        {
+          "ticker": "TEVA",
+          "cusip": "881624209",
+          "name": "TEVA PHARMACEUTICAL INDS LTD",
+          "buy_price": 10.76,
+          "sell_price": 9.44,
+          "return_pct": -12.27,
+          "share_increase_pct": 134.06
+        }
+      ]
+    },
+    {
+      "quarter": "2021-06-30",
+      "file_date": "2021-08-17",
+      "buy_date": "2021-08-18",
+      "sell_date": "2021-11-19",
+      "top20_selected": 20,
+      "mapped_count": 13,
+      "traded_count": 12,
+      "portfolio_return_pct": 4.74,
+      "spy_return_pct": 7.11,
+      "cumulative_return": 3.855,
+      "spy_cumulative": 2.6498,
+      "stocks": [
+        {
+          "ticker": "TTD",
+          "cusip": "88339J105",
+          "name": "THE TRADE DESK INC",
+          "buy_price": 76.9,
+          "sell_price": 107.79,
+          "return_pct": 40.17,
+          "share_increase_pct": 909.3
+        },
+        {
+          "ticker": "RPM",
+          "cusip": "749685103",
+          "name": "RPM INTL INC",
+          "buy_price": 77.57,
+          "sell_price": 87.58,
+          "return_pct": 12.9,
+          "share_increase_pct": 13.95
+        },
+        {
+          "ticker": "SHW",
+          "cusip": "824348106",
+          "name": "SHERWIN WILLIAMS CO",
+          "buy_price": 288.64,
+          "sell_price": 319.6,
+          "return_pct": 10.73,
+          "share_increase_pct": 203.15
+        },
+        {
+          "ticker": "CSX",
+          "cusip": "126408103",
+          "name": "CSX CORP",
+          "buy_price": 31.64,
+          "sell_price": 33.91,
+          "return_pct": 7.17,
+          "share_increase_pct": 204.75
+        },
+        {
+          "ticker": "ELS",
+          "cusip": "29472R108",
+          "name": "EQUITY LIFESTYLE PPTYS INC",
+          "buy_price": 72.91,
+          "sell_price": 75.4,
+          "return_pct": 3.42,
+          "share_increase_pct": 13.82
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 53.84,
+          "sell_price": 54.76,
+          "return_pct": 1.7,
+          "share_increase_pct": 13.58
+        },
+        {
+          "ticker": "CSGP",
+          "cusip": "22160N109",
+          "name": "COSTAR GROUP INC",
+          "buy_price": 80.97,
+          "sell_price": 81.57,
+          "return_pct": 0.74,
+          "share_increase_pct": 900.04
+        },
+        {
+          "ticker": "NI",
+          "cusip": "65473P105",
+          "name": "NISOURCE INC",
+          "buy_price": 21.93,
+          "sell_price": 21.91,
+          "return_pct": -0.1,
+          "share_increase_pct": 13.89
+        },
+        {
+          "ticker": "EVRG",
+          "cusip": "30034W106",
+          "name": "EVERGY INC",
+          "buy_price": 56.94,
+          "sell_price": 55.15,
+          "return_pct": -3.14,
+          "share_increase_pct": 13.58
+        },
+        {
+          "ticker": "ATO",
+          "cusip": "049560105",
+          "name": "ATMOS ENERGY CORP",
+          "buy_price": 87.94,
+          "sell_price": 84.84,
+          "return_pct": -3.52,
+          "share_increase_pct": 25.0
+        },
+        {
+          "ticker": "NBIX",
+          "cusip": "64125C109",
+          "name": "NEUROCRINE BIOSCIENCES INC",
+          "buy_price": 91.8,
+          "sell_price": 86.02,
+          "return_pct": -6.3,
+          "share_increase_pct": 25.0
+        },
+        {
+          "ticker": "LNT",
+          "cusip": "018802108",
+          "name": "ALLIANT ENERGY CORP",
+          "buy_price": 52.97,
+          "sell_price": 49.32,
+          "return_pct": -6.88,
+          "share_increase_pct": 14.58
+        }
+      ]
+    },
+    {
+      "quarter": "2021-09-30",
+      "file_date": "2021-11-18",
+      "buy_date": "2021-11-19",
+      "sell_date": "2022-02-16",
+      "top20_selected": 20,
+      "mapped_count": 18,
+      "traded_count": 17,
+      "portfolio_return_pct": 4.07,
+      "spy_return_pct": -4.42,
+      "cumulative_return": 4.0121,
+      "spy_cumulative": 2.5327,
+      "stocks": [
+        {
+          "ticker": "OXY",
+          "cusip": "674599105",
+          "name": "OCCIDENTAL PETE CORP",
+          "buy_price": 27.34,
+          "sell_price": 37.24,
+          "return_pct": 36.2,
+          "share_increase_pct": 24.6
+        },
+        {
+          "ticker": "DVN",
+          "cusip": "25179M103",
+          "name": "DEVON ENERGY CORP NEW",
+          "buy_price": 32.48,
+          "sell_price": 43.9,
+          "return_pct": 35.16,
+          "share_increase_pct": 30.05
+        },
+        {
+          "ticker": "TSN",
+          "cusip": "902494103",
+          "name": "TYSON FOODS INC",
+          "buy_price": 70.75,
+          "sell_price": 82.45,
+          "return_pct": 16.53,
+          "share_increase_pct": 17.03
+        },
+        {
+          "ticker": "RJF",
+          "cusip": "754730109",
+          "name": "RAYMOND JAMES FINL INC",
+          "buy_price": 92.27,
+          "sell_price": 106.41,
+          "return_pct": 15.32,
+          "share_increase_pct": 51.99
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 54.76,
+          "sell_price": 61.15,
+          "return_pct": 11.68,
+          "share_increase_pct": 73.75
+        },
+        {
+          "ticker": "UHS",
+          "cusip": "913903100",
+          "name": "UNIVERSAL HLTH SVCS INC",
+          "buy_price": 121.13,
+          "sell_price": 134.87,
+          "return_pct": 11.34,
+          "share_increase_pct": 74.2
+        },
+        {
+          "ticker": "CNP",
+          "cusip": "15189T107",
+          "name": "CENTERPOINT ENERGY INC",
+          "buy_price": 23.82,
+          "sell_price": 24.27,
+          "return_pct": 1.89,
+          "share_increase_pct": 70.05
+        },
+        {
+          "ticker": "EQR",
+          "cusip": "29476L107",
+          "name": "EQUITY RESIDENTIAL",
+          "buy_price": 72.84,
+          "sell_price": 73.49,
+          "return_pct": 0.89,
+          "share_increase_pct": 16.7
+        },
+        {
+          "ticker": "WDC",
+          "cusip": "958102105",
+          "name": "WESTERN DIGITAL CORP.",
+          "buy_price": 42.16,
+          "sell_price": 42.44,
+          "return_pct": 0.66,
+          "share_increase_pct": 22.69
+        },
+        {
+          "ticker": "LNT",
+          "cusip": "018802108",
+          "name": "ALLIANT ENERGY CORP",
+          "buy_price": 49.32,
+          "sell_price": 49.28,
+          "return_pct": -0.08,
+          "share_increase_pct": 1844.85
+        },
+        {
+          "ticker": "ON",
+          "cusip": "682189105",
+          "name": "ON SEMICONDUCTOR CORP",
+          "buy_price": 63.34,
+          "sell_price": 63.11,
+          "return_pct": -0.36,
+          "share_increase_pct": 29.47
+        },
+        {
+          "ticker": "PCG",
+          "cusip": "69331C108",
+          "name": "PG&E CORP",
+          "buy_price": 12.24,
+          "sell_price": 11.61,
+          "return_pct": -5.17,
+          "share_increase_pct": 25.58
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 40.4,
+          "sell_price": 38.0,
+          "return_pct": -5.95,
+          "share_increase_pct": 55.65
+        },
+        {
+          "ticker": "EVRG",
+          "cusip": "30034W106",
+          "name": "EVERGY INC",
+          "buy_price": 55.15,
+          "sell_price": 51.45,
+          "return_pct": -6.71,
+          "share_increase_pct": 139.4
+        },
+        {
+          "ticker": "ADI",
+          "cusip": "032654105",
+          "name": "ANALOG DEVICES INC",
+          "buy_price": 174.68,
+          "sell_price": 156.34,
+          "return_pct": -10.5,
+          "share_increase_pct": 44.93
+        },
+        {
+          "ticker": "FFIV",
+          "cusip": "315616102",
+          "name": "F5 NETWORKS INC",
+          "buy_price": 231.94,
+          "sell_price": 204.07,
+          "return_pct": -12.02,
+          "share_increase_pct": 21.96
+        },
+        {
+          "ticker": "NVDA",
+          "cusip": "67066G104",
+          "name": "NVIDIA CORPORATION",
+          "buy_price": 32.92,
+          "sell_price": 26.46,
+          "return_pct": -19.62,
+          "share_increase_pct": 297.32
+        }
+      ]
+    },
+    {
+      "quarter": "2021-12-31",
+      "file_date": "2022-02-15",
+      "buy_date": "2022-02-16",
+      "sell_date": "2022-05-16",
+      "top20_selected": 20,
+      "mapped_count": 6,
+      "traded_count": 6,
+      "portfolio_return_pct": -12.97,
+      "spy_return_pct": -10.14,
+      "cumulative_return": 3.4916,
+      "spy_cumulative": 2.276,
+      "stocks": [
+        {
+          "ticker": "CNP",
+          "cusip": "15189T107",
+          "name": "CENTERPOINT ENERGY INC",
+          "buy_price": 24.27,
+          "sell_price": 27.96,
+          "return_pct": 15.22,
+          "share_increase_pct": 615.55
+        },
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 183.71,
+          "sell_price": 167.25,
+          "return_pct": -8.96,
+          "share_increase_pct": 1544.56
+        },
+        {
+          "ticker": "WAB",
+          "cusip": "929740108",
+          "name": "WABTEC",
+          "buy_price": 93.23,
+          "sell_price": 84.37,
+          "return_pct": -9.5,
+          "share_increase_pct": 3057.23
+        },
+        {
+          "ticker": "UDR",
+          "cusip": "902653104",
+          "name": "UDR INC",
+          "buy_price": 46.73,
+          "sell_price": 41.18,
+          "return_pct": -11.87,
+          "share_increase_pct": 2168.31
+        },
+        {
+          "ticker": "TXT",
+          "cusip": "883203101",
+          "name": "TEXTRON INC",
+          "buy_price": 71.88,
+          "sell_price": 62.83,
+          "return_pct": -12.59,
+          "share_increase_pct": 729.83
+        },
+        {
+          "ticker": "ZS",
+          "cusip": "98980G102",
+          "name": "ZSCALER INC",
+          "buy_price": 280.87,
+          "sell_price": 140.08,
+          "return_pct": -50.13,
+          "share_increase_pct": 522681.82
+        }
+      ]
+    },
+    {
+      "quarter": "2022-03-31",
+      "file_date": "2022-05-13",
+      "buy_date": "2022-05-16",
+      "sell_date": "2022-08-18",
+      "top20_selected": 20,
+      "mapped_count": 17,
+      "traded_count": 17,
+      "portfolio_return_pct": 4.58,
+      "spy_return_pct": 7.41,
+      "cumulative_return": 3.6514,
+      "spy_cumulative": 2.4447,
+      "stocks": [
+        {
+          "ticker": "CAH",
+          "cusip": "14149Y108",
+          "name": "CARDINAL HEALTH INC",
+          "buy_price": 51.99,
+          "sell_price": 64.31,
+          "return_pct": 23.69,
+          "share_increase_pct": 392.63
+        },
+        {
+          "ticker": "BRO",
+          "cusip": "115236101",
+          "name": "BROWN & BROWN INC",
+          "buy_price": 56.01,
+          "sell_price": 66.21,
+          "return_pct": 18.2,
+          "share_increase_pct": 1482265.38
+        },
+        {
+          "ticker": "STLD",
+          "cusip": "858119100",
+          "name": "STEEL DYNAMICS INC",
+          "buy_price": 70.91,
+          "sell_price": 80.12,
+          "return_pct": 12.98,
+          "share_increase_pct": 345.17
+        },
+        {
+          "ticker": "LNT",
+          "cusip": "018802108",
+          "name": "ALLIANT ENERGY CORP",
+          "buy_price": 51.86,
+          "sell_price": 56.95,
+          "return_pct": 9.82,
+          "share_increase_pct": 11488.75
+        },
+        {
+          "ticker": "WPC",
+          "cusip": "92936U109",
+          "name": "WP CAREY INC",
+          "buy_price": 63.82,
+          "sell_price": 69.77,
+          "return_pct": 9.33,
+          "share_increase_pct": 757822.22
+        },
+        {
+          "ticker": "EVRG",
+          "cusip": "30034W106",
+          "name": "EVERGY INC",
+          "buy_price": 57.28,
+          "sell_price": 61.2,
+          "return_pct": 6.83,
+          "share_increase_pct": 1539.68
+        },
+        {
+          "ticker": "FAST",
+          "cusip": "311900104",
+          "name": "FASTENAL CO",
+          "buy_price": 24.0,
+          "sell_price": 25.57,
+          "return_pct": 6.55,
+          "share_increase_pct": 42.84
+        },
+        {
+          "ticker": "ABNB",
+          "cusip": "009066101",
+          "name": "AIRBNB INC",
+          "buy_price": 114.44,
+          "sell_price": 121.27,
+          "return_pct": 5.97,
+          "share_increase_pct": 124.57
+        },
+        {
+          "ticker": "IRM",
+          "cusip": "46284V101",
+          "name": "IRON MTN INC NEW",
+          "buy_price": 45.65,
+          "sell_price": 48.0,
+          "return_pct": 5.15,
+          "share_increase_pct": 522.84
+        },
+        {
+          "ticker": "XYZ",
+          "cusip": "852234103",
+          "name": "BLOCK INC",
+          "buy_price": 79.7,
+          "sell_price": 79.72,
+          "return_pct": 0.03,
+          "share_increase_pct": 40.87
+        },
+        {
+          "ticker": "GEN",
+          "cusip": "668771108",
+          "name": "NORTONLIFELOCK INC",
+          "buy_price": 21.99,
+          "sell_price": 21.95,
+          "return_pct": -0.16,
+          "share_increase_pct": 601.73
+        },
+        {
+          "ticker": "SE",
+          "cusip": "81141R100",
+          "name": "SEA LTD",
+          "buy_price": 70.33,
+          "sell_price": 70.0,
+          "return_pct": -0.47,
+          "share_increase_pct": 349.21
+        },
+        {
+          "ticker": "LDOS",
+          "cusip": "525327102",
+          "name": "LEIDOS HOLDINGS INC",
+          "buy_price": 98.2,
+          "sell_price": 97.02,
+          "return_pct": -1.2,
+          "share_increase_pct": 2971.48
+        },
+        {
+          "ticker": "SJM",
+          "cusip": "832696405",
+          "name": "SMUCKER J M CO",
+          "buy_price": 126.53,
+          "sell_price": 123.12,
+          "return_pct": -2.7,
+          "share_increase_pct": 1012.15
+        },
+        {
+          "ticker": "OMC",
+          "cusip": "681919106",
+          "name": "OMNICOM GROUP INC",
+          "buy_price": 67.03,
+          "sell_price": 64.37,
+          "return_pct": -3.97,
+          "share_increase_pct": 644.11
+        },
+        {
+          "ticker": "PKG",
+          "cusip": "695156109",
+          "name": "PACKAGING CORP AMER",
+          "buy_price": 137.94,
+          "sell_price": 129.85,
+          "return_pct": -5.87,
+          "share_increase_pct": 7172.31
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 62.24,
+          "sell_price": 58.27,
+          "return_pct": -6.38,
+          "share_increase_pct": 2042.06
+        }
+      ]
+    },
+    {
+      "quarter": "2022-06-30",
+      "file_date": "2022-08-17",
+      "buy_date": "2022-08-18",
+      "sell_date": "2022-11-21",
+      "top20_selected": 20,
+      "mapped_count": 8,
+      "traded_count": 7,
+      "portfolio_return_pct": 10.95,
+      "spy_return_pct": -7.4,
+      "cumulative_return": 4.0514,
+      "spy_cumulative": 2.2637,
+      "stocks": [
+        {
+          "ticker": "PDD",
+          "cusip": "722304102",
+          "name": "PINDUODUO INC",
+          "buy_price": 46.83,
+          "sell_price": 67.62,
+          "return_pct": 44.39,
+          "share_increase_pct": 1046.83
+        },
+        {
+          "ticker": "TME",
+          "cusip": "88034P109",
+          "name": "TENCENT MUSIC ENTMT GROUP",
+          "buy_price": 4.5,
+          "sell_price": 5.44,
+          "return_pct": 20.87,
+          "share_increase_pct": 1051.96
+        },
+        {
+          "ticker": "SCCO",
+          "cusip": "84265V105",
+          "name": "SOUTHERN COPPER CORP",
+          "buy_price": 41.95,
+          "sell_price": 49.06,
+          "return_pct": 16.95,
+          "share_increase_pct": 948.27
+        },
+        {
+          "ticker": "YUMC",
+          "cusip": "98850P109",
+          "name": "YUM CHINA HLDGS INC",
+          "buy_price": 44.75,
+          "sell_price": 50.05,
+          "return_pct": 11.83,
+          "share_increase_pct": 1065.14
+        },
+        {
+          "ticker": "FTNT",
+          "cusip": "34959E109",
+          "name": "FORTINET INC",
+          "buy_price": 52.27,
+          "sell_price": 52.32,
+          "return_pct": 0.1,
+          "share_increase_pct": 461.71
+        },
+        {
+          "ticker": "VIPS",
+          "cusip": "92763W103",
+          "name": "VIPSHOP HOLDINGS LIMITED",
+          "buy_price": 9.04,
+          "sell_price": 8.36,
+          "return_pct": -7.48,
+          "share_increase_pct": 1050.29
+        },
+        {
+          "ticker": "HTHT",
+          "cusip": "44332N106",
+          "name": "HUAZHU GROUP LTD",
+          "buy_price": 35.63,
+          "sell_price": 32.07,
+          "return_pct": -9.98,
+          "share_increase_pct": 1054.44
+        }
+      ]
+    },
+    {
+      "quarter": "2022-09-30",
+      "file_date": "2022-11-18",
+      "buy_date": "2022-11-21",
+      "sell_date": "2023-02-27",
+      "top20_selected": 20,
+      "mapped_count": 12,
+      "traded_count": 12,
+      "portfolio_return_pct": 7.55,
+      "spy_return_pct": 1.26,
+      "cumulative_return": 4.3571,
+      "spy_cumulative": 2.2922,
+      "stocks": [
+        {
+          "ticker": "WBD",
+          "cusip": "934423104",
+          "name": "WARNER BROS DISCOVERY INC",
+          "buy_price": 10.56,
+          "sell_price": 15.94,
+          "return_pct": 50.95,
+          "share_increase_pct": 47.78
+        },
+        {
+          "ticker": "TSLA",
+          "cusip": "88160R101",
+          "name": "TESLA INC",
+          "buy_price": 167.87,
+          "sell_price": 207.63,
+          "return_pct": 23.69,
+          "share_increase_pct": 214.23
+        },
+        {
+          "ticker": "HWM",
+          "cusip": "443201108",
+          "name": "HOWMET AEROSPACE INC",
+          "buy_price": 36.9,
+          "sell_price": 41.94,
+          "return_pct": 13.66,
+          "share_increase_pct": 311.69
+        },
+        {
+          "ticker": "TTWO",
+          "cusip": "874054109",
+          "name": "TAKE-TWO INTERACTIVE SOFTWAR",
+          "buy_price": 97.43,
+          "sell_price": 110.08,
+          "return_pct": 12.98,
+          "share_increase_pct": 23.92
+        },
+        {
+          "ticker": "PANW",
+          "cusip": "697435105",
+          "name": "PALO ALTO NETWORKS INC",
+          "buy_price": 85.31,
+          "sell_price": 94.25,
+          "return_pct": 10.49,
+          "share_increase_pct": 206.18
+        },
+        {
+          "ticker": "MAS",
+          "cusip": "574599106",
+          "name": "MASCO CORP",
+          "buy_price": 46.72,
+          "sell_price": 49.69,
+          "return_pct": 6.34,
+          "share_increase_pct": 1068.99
+        },
+        {
+          "ticker": "CHRW",
+          "cusip": "12541W209",
+          "name": "C H ROBINSON WORLDWIDE INC",
+          "buy_price": 89.62,
+          "sell_price": 93.3,
+          "return_pct": 4.11,
+          "share_increase_pct": 282512.86
+        },
+        {
+          "ticker": "PTC",
+          "cusip": "69370C100",
+          "name": "PTC INC",
+          "buy_price": 123.21,
+          "sell_price": 126.3,
+          "return_pct": 2.51,
+          "share_increase_pct": 1870.04
+        },
+        {
+          "ticker": "GOOG",
+          "cusip": "02079K107",
+          "name": "ALPHABET INC",
+          "buy_price": 95.05,
+          "sell_price": 89.37,
+          "return_pct": -5.98,
+          "share_increase_pct": 1933.04
+        },
+        {
+          "ticker": "GOOGL",
+          "cusip": "02079K305",
+          "name": "ALPHABET INC",
+          "buy_price": 94.82,
+          "sell_price": 89.13,
+          "return_pct": -5.99,
+          "share_increase_pct": 1941.95
+        },
+        {
+          "ticker": "MTB",
+          "cusip": "55261F104",
+          "name": "M & T BK CORP",
+          "buy_price": 150.98,
+          "sell_price": 139.09,
+          "return_pct": -7.88,
+          "share_increase_pct": 23.23
+        },
+        {
+          "ticker": "NDAQ",
+          "cusip": "631103108",
+          "name": "NASDAQ INC",
+          "buy_price": 62.82,
+          "sell_price": 53.82,
+          "return_pct": -14.32,
+          "share_increase_pct": 182.53
+        }
+      ]
+    },
+    {
+      "quarter": "2022-12-31",
+      "file_date": "2023-02-24",
+      "buy_date": "2023-02-27",
+      "sell_date": "2023-05-15",
+      "top20_selected": 20,
+      "mapped_count": 14,
+      "traded_count": 14,
+      "portfolio_return_pct": 2.85,
+      "spy_return_pct": 4.24,
+      "cumulative_return": 4.4813,
+      "spy_cumulative": 2.3893,
+      "stocks": [
+        {
+          "ticker": "MDB",
+          "cusip": "60937P106",
+          "name": "MONGODB INC",
+          "buy_price": 206.87,
+          "sell_price": 276.17,
+          "return_pct": 33.5,
+          "share_increase_pct": 24.4
+        },
+        {
+          "ticker": "DASH",
+          "cusip": "25809K105",
+          "name": "DOORDASH INC",
+          "buy_price": 54.19,
+          "sell_price": 66.2,
+          "return_pct": 22.16,
+          "share_increase_pct": 19.2
+        },
+        {
+          "ticker": "CPRT",
+          "cusip": "217204106",
+          "name": "COPART INC",
+          "buy_price": 34.98,
+          "sell_price": 40.81,
+          "return_pct": 16.67,
+          "share_increase_pct": 106.85
+        },
+        {
+          "ticker": "TTD",
+          "cusip": "88339J105",
+          "name": "THE TRADE DESK INC",
+          "buy_price": 55.08,
+          "sell_price": 63.98,
+          "return_pct": 16.16,
+          "share_increase_pct": 15.22
+        },
+        {
+          "ticker": "DDOG",
+          "cusip": "23804L103",
+          "name": "DATADOG INC",
+          "buy_price": 77.6,
+          "sell_price": 88.5,
+          "return_pct": 14.05,
+          "share_increase_pct": 17.79
+        },
+        {
+          "ticker": "FICO",
+          "cusip": "303250104",
+          "name": "FAIR ISAAC CORP",
+          "buy_price": 670.41,
+          "sell_price": 756.14,
+          "return_pct": 12.79,
+          "share_increase_pct": 4482.19
+        },
+        {
+          "ticker": "PLD",
+          "cusip": "74340W103",
+          "name": "PROLOGIS INC.",
+          "buy_price": 110.9,
+          "sell_price": 113.86,
+          "return_pct": 2.67,
+          "share_increase_pct": 22.45
+        },
+        {
+          "ticker": "BAH",
+          "cusip": "099502106",
+          "name": "BOOZ ALLEN HAMILTON HLDG COR",
+          "buy_price": 90.26,
+          "sell_price": 87.86,
+          "return_pct": -2.66,
+          "share_increase_pct": 731593.1
+        },
+        {
+          "ticker": "ESS",
+          "cusip": "297178105",
+          "name": "ESSEX PPTY TR INC",
+          "buy_price": 202.85,
+          "sell_price": 192.97,
+          "return_pct": -4.87,
+          "share_increase_pct": 14.87
+        },
+        {
+          "ticker": "ZM",
+          "cusip": "98980L101",
+          "name": "ZOOM VIDEO COMMUNICATIONS IN",
+          "buy_price": 73.72,
+          "sell_price": 66.03,
+          "return_pct": -10.43,
+          "share_increase_pct": 16.66
+        },
+        {
+          "ticker": "PINS",
+          "cusip": "72352L106",
+          "name": "PINTEREST INC",
+          "buy_price": 24.99,
+          "sell_price": 22.05,
+          "return_pct": -11.76,
+          "share_increase_pct": 2416.78
+        },
+        {
+          "ticker": "ABNB",
+          "cusip": "009066101",
+          "name": "AIRBNB INC",
+          "buy_price": 123.53,
+          "sell_price": 105.78,
+          "return_pct": -14.37,
+          "share_increase_pct": 14.47
+        },
+        {
+          "ticker": "NET",
+          "cusip": "18915M107",
+          "name": "CLOUDFLARE INC",
+          "buy_price": 60.26,
+          "sell_price": 51.21,
+          "return_pct": -15.02,
+          "share_increase_pct": 17.41
+        },
+        {
+          "ticker": "BURL",
+          "cusip": "122017106",
+          "name": "BURLINGTON STORES INC",
+          "buy_price": 217.11,
+          "sell_price": 175.88,
+          "return_pct": -18.99,
+          "share_increase_pct": 4763.24
+        }
+      ]
+    },
+    {
+      "quarter": "2023-03-31",
+      "file_date": "2023-05-12",
+      "buy_date": "2023-05-15",
+      "sell_date": "2023-08-17",
+      "top20_selected": 20,
+      "mapped_count": 17,
+      "traded_count": 16,
+      "portfolio_return_pct": 7.51,
+      "spy_return_pct": 6.03,
+      "cumulative_return": 4.818,
+      "spy_cumulative": 2.5334,
+      "stocks": [
+        {
+          "ticker": "HAL",
+          "cusip": "406216101",
+          "name": "HALLIBURTON CO",
+          "buy_price": 27.17,
+          "sell_price": 36.85,
+          "return_pct": 35.64,
+          "share_increase_pct": 60.2
+        },
+        {
+          "ticker": "BXP",
+          "cusip": "101121101",
+          "name": "BOSTON PROPERTIES INC",
+          "buy_price": 42.09,
+          "sell_price": 55.0,
+          "return_pct": 30.66,
+          "share_increase_pct": 351.01
+        },
+        {
+          "ticker": "DELL",
+          "cusip": "24703L202",
+          "name": "DELL TECHNOLOGIES INC",
+          "buy_price": 42.73,
+          "sell_price": 52.53,
+          "return_pct": 22.95,
+          "share_increase_pct": 198.68
+        },
+        {
+          "ticker": "PDD",
+          "cusip": "722304102",
+          "name": "PDD HOLDINGS INC",
+          "buy_price": 66.07,
+          "sell_price": 79.66,
+          "return_pct": 20.57,
+          "share_increase_pct": 46.82
+        },
+        {
+          "ticker": "TEVA",
+          "cusip": "881624209",
+          "name": "TEVA PHARMACEUTICAL INDS LTD",
+          "buy_price": 8.07,
+          "sell_price": 9.51,
+          "return_pct": 17.84,
+          "share_increase_pct": 58455.54
+        },
+        {
+          "ticker": "PCAR",
+          "cusip": "693718108",
+          "name": "PACCAR INC",
+          "buy_price": 65.17,
+          "sell_price": 75.47,
+          "return_pct": 15.81,
+          "share_increase_pct": 150.93
+        },
+        {
+          "ticker": "LNG",
+          "cusip": "16411R208",
+          "name": "CHENIERE ENERGY INC",
+          "buy_price": 145.78,
+          "sell_price": 159.39,
+          "return_pct": 9.34,
+          "share_increase_pct": 53.1
+        },
+        {
+          "ticker": "ROST",
+          "cusip": "778296103",
+          "name": "ROSS STORES INC",
+          "buy_price": 101.15,
+          "sell_price": 109.9,
+          "return_pct": 8.66,
+          "share_increase_pct": 59.15
+        },
+        {
+          "ticker": "AME",
+          "cusip": "031100100",
+          "name": "AMETEK INC",
+          "buy_price": 143.52,
+          "sell_price": 150.28,
+          "return_pct": 4.71,
+          "share_increase_pct": 64.18
+        },
+        {
+          "ticker": "CSGP",
+          "cusip": "22160N109",
+          "name": "COSTAR GROUP INC",
+          "buy_price": 75.98,
+          "sell_price": 77.88,
+          "return_pct": 2.5,
+          "share_increase_pct": 76.18
+        },
+        {
+          "ticker": "SSNC",
+          "cusip": "78467J100",
+          "name": "SS&C TECHNOLOGIES HLDGS INC",
+          "buy_price": 53.0,
+          "sell_price": 52.59,
+          "return_pct": -0.78,
+          "share_increase_pct": 71.67
+        },
+        {
+          "ticker": "MNST",
+          "cusip": "61174X109",
+          "name": "MONSTER BEVERAGE CORP NEW",
+          "buy_price": 59.72,
+          "sell_price": 57.25,
+          "return_pct": -4.14,
+          "share_increase_pct": 201.75
+        },
+        {
+          "ticker": "VICI",
+          "cusip": "925652109",
+          "name": "VICI PPTYS INC",
+          "buy_price": 26.89,
+          "sell_price": 25.39,
+          "return_pct": -5.6,
+          "share_increase_pct": 52.02
+        },
+        {
+          "ticker": "CHRW",
+          "cusip": "12541W209",
+          "name": "C H ROBINSON WORLDWIDE INC",
+          "buy_price": 93.01,
+          "sell_price": 87.35,
+          "return_pct": -6.08,
+          "share_increase_pct": 4050.0
+        },
+        {
+          "ticker": "MTD",
+          "cusip": "592688105",
+          "name": "METTLER TOLEDO INTERNATIONAL",
+          "buy_price": 1386.0,
+          "sell_price": 1205.1,
+          "return_pct": -13.05,
+          "share_increase_pct": 46.86
+        },
+        {
+          "ticker": "HSY",
+          "cusip": "427866108",
+          "name": "HERSHEY CO",
+          "buy_price": 248.89,
+          "sell_price": 202.05,
+          "return_pct": -18.82,
+          "share_increase_pct": 72.4
+        }
+      ]
+    },
+    {
+      "quarter": "2023-06-30",
+      "file_date": "2023-08-16",
+      "buy_date": "2023-08-17",
+      "sell_date": "2023-11-16",
+      "top20_selected": 20,
+      "mapped_count": 16,
+      "traded_count": 14,
+      "portfolio_return_pct": 4.09,
+      "spy_return_pct": 3.56,
+      "cumulative_return": 5.0151,
+      "spy_cumulative": 2.6236,
+      "stocks": [
+        {
+          "ticker": "UBER",
+          "cusip": "90353T100",
+          "name": "UBER TECHNOLOGIES INC",
+          "buy_price": 43.97,
+          "sell_price": 54.42,
+          "return_pct": 23.77,
+          "share_increase_pct": 41.0
+        },
+        {
+          "ticker": "WDC",
+          "cusip": "958102105",
+          "name": "WESTERN DIGITAL CORP.",
+          "buy_price": 30.32,
+          "sell_price": 34.63,
+          "return_pct": 14.2,
+          "share_increase_pct": 556.69
+        },
+        {
+          "ticker": "AIG",
+          "cusip": "026874784",
+          "name": "AMERICAN INTL GROUP INC",
+          "buy_price": 54.7,
+          "sell_price": 60.77,
+          "return_pct": 11.1,
+          "share_increase_pct": 42.83
+        },
+        {
+          "ticker": "PHM",
+          "cusip": "745867101",
+          "name": "PULTE GROUP INC",
+          "buy_price": 77.16,
+          "sell_price": 85.35,
+          "return_pct": 10.61,
+          "share_increase_pct": 262.27
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 61.15,
+          "sell_price": 66.56,
+          "return_pct": 8.85,
+          "share_increase_pct": 54.12
+        },
+        {
+          "ticker": "AFL",
+          "cusip": "001055102",
+          "name": "AFLAC INC",
+          "buy_price": 71.26,
+          "sell_price": 77.28,
+          "return_pct": 8.44,
+          "share_increase_pct": 37.81
+        },
+        {
+          "ticker": "MAS",
+          "cusip": "574599106",
+          "name": "MASCO CORP",
+          "buy_price": 54.05,
+          "sell_price": 57.14,
+          "return_pct": 5.71,
+          "share_increase_pct": 2194.17
+        },
+        {
+          "ticker": "GEHC",
+          "cusip": "36266G107",
+          "name": "GE HEALTHCARE TECHNOLOGIES I",
+          "buy_price": 68.11,
+          "sell_price": 71.66,
+          "return_pct": 5.21,
+          "share_increase_pct": 49.84
+        },
+        {
+          "ticker": "SNA",
+          "cusip": "833034101",
+          "name": "SNAP ON INC",
+          "buy_price": 248.66,
+          "sell_price": 257.08,
+          "return_pct": 3.39,
+          "share_increase_pct": 440.09
+        },
+        {
+          "ticker": "ECL",
+          "cusip": "278865100",
+          "name": "ECOLAB INC",
+          "buy_price": 175.9,
+          "sell_price": 180.46,
+          "return_pct": 2.59,
+          "share_increase_pct": 53.87
+        },
+        {
+          "ticker": "SSNC",
+          "cusip": "78467J100",
+          "name": "SS&C TECHNOLOGIES HLDGS INC",
+          "buy_price": 52.59,
+          "sell_price": 52.92,
+          "return_pct": 0.62,
+          "share_increase_pct": 377.53
+        },
+        {
+          "ticker": "EQT",
+          "cusip": "26884L109",
+          "name": "EQT CORP",
+          "buy_price": 41.38,
+          "sell_price": 38.77,
+          "return_pct": -6.32,
+          "share_increase_pct": 238.13
+        },
+        {
+          "ticker": "EMR",
+          "cusip": "291011104",
+          "name": "EMERSON ELEC CO",
+          "buy_price": 91.48,
+          "sell_price": 84.12,
+          "return_pct": -8.05,
+          "share_increase_pct": 39.08
+        },
+        {
+          "ticker": "ON",
+          "cusip": "682189105",
+          "name": "ON SEMICONDUCTOR CORP",
+          "buy_price": 90.03,
+          "sell_price": 69.46,
+          "return_pct": -22.85,
+          "share_increase_pct": 79.76
+        }
+      ]
+    },
+    {
+      "quarter": "2023-09-30",
+      "file_date": "2023-11-15",
+      "buy_date": "2023-11-16",
+      "sell_date": "2024-02-08",
+      "top20_selected": 20,
+      "mapped_count": 14,
+      "traded_count": 13,
+      "portfolio_return_pct": 11.17,
+      "spy_return_pct": 11.13,
+      "cumulative_return": 5.5753,
+      "spy_cumulative": 2.9156,
+      "stocks": [
+        {
+          "ticker": "ILMN",
+          "cusip": "452327109",
+          "name": "ILLUMINA INC",
+          "buy_price": 92.61,
+          "sell_price": 139.43,
+          "return_pct": 50.56,
+          "share_increase_pct": 9.64
+        },
+        {
+          "ticker": "DELL",
+          "cusip": "24703L202",
+          "name": "DELL TECHNOLOGIES INC",
+          "buy_price": 69.85,
+          "sell_price": 82.02,
+          "return_pct": 17.42,
+          "share_increase_pct": 193.07
+        },
+        {
+          "ticker": "DG",
+          "cusip": "256677105",
+          "name": "DOLLAR GEN CORP NEW",
+          "buy_price": 112.15,
+          "sell_price": 129.7,
+          "return_pct": 15.65,
+          "share_increase_pct": 7.47
+        },
+        {
+          "ticker": "WRB",
+          "cusip": "084423102",
+          "name": "BERKLEY W R CORP",
+          "buy_price": 43.78,
+          "sell_price": 50.55,
+          "return_pct": 15.48,
+          "share_increase_pct": 86274.63
+        },
+        {
+          "ticker": "SE",
+          "cusip": "81141R100",
+          "name": "SEA LTD",
+          "buy_price": 37.9,
+          "sell_price": 43.34,
+          "return_pct": 14.35,
+          "share_increase_pct": 12.22
+        },
+        {
+          "ticker": "PBUS",
+          "cusip": "46138E461",
+          "name": "INVESCO EXCH TRADED FD TR II",
+          "buy_price": 43.71,
+          "sell_price": 48.77,
+          "return_pct": 11.57,
+          "share_increase_pct": 35.0
+        },
+        {
+          "ticker": "EXR",
+          "cusip": "30225T102",
+          "name": "EXTRA SPACE STORAGE INC",
+          "buy_price": 116.69,
+          "sell_price": 130.13,
+          "return_pct": 11.51,
+          "share_increase_pct": 39.9
+        },
+        {
+          "ticker": "IVV",
+          "cusip": "464287200",
+          "name": "ISHARES TR",
+          "buy_price": 437.61,
+          "sell_price": 486.44,
+          "return_pct": 11.16,
+          "share_increase_pct": 35.0
+        },
+        {
+          "ticker": "PKG",
+          "cusip": "695156109",
+          "name": "PACKAGING CORP AMER",
+          "buy_price": 145.94,
+          "sell_price": 157.8,
+          "return_pct": 8.13,
+          "share_increase_pct": 312504.35
+        },
+        {
+          "ticker": "CPRT",
+          "cusip": "217204106",
+          "name": "COPART INC",
+          "buy_price": 49.31,
+          "sell_price": 50.96,
+          "return_pct": 3.35,
+          "share_increase_pct": 103.91
+        },
+        {
+          "ticker": "EWP",
+          "cusip": "464286764",
+          "name": "ISHARES INC",
+          "buy_price": 27.04,
+          "sell_price": 27.18,
+          "return_pct": 0.52,
+          "share_increase_pct": 35.0
+        },
+        {
+          "ticker": "SRE",
+          "cusip": "816851109",
+          "name": "SEMPRA",
+          "buy_price": 66.73,
+          "sell_price": 65.09,
+          "return_pct": -2.46,
+          "share_increase_pct": 109.74
+        },
+        {
+          "ticker": "BZ",
+          "cusip": "48553T106",
+          "name": "KANZHUN LIMITED",
+          "buy_price": 16.14,
+          "sell_price": 14.2,
+          "return_pct": -12.04,
+          "share_increase_pct": 21.51
+        }
+      ]
+    },
+    {
+      "quarter": "2023-12-31",
+      "file_date": "2024-02-07",
+      "buy_date": "2024-02-08",
+      "sell_date": "2024-05-15",
+      "top20_selected": 20,
+      "mapped_count": 20,
+      "traded_count": 20,
+      "portfolio_return_pct": 6.98,
+      "spy_return_pct": 6.64,
+      "cumulative_return": 5.9644,
+      "spy_cumulative": 3.1092,
+      "stocks": [
+        {
+          "ticker": "AEP",
+          "cusip": "025537101",
+          "name": "AMERICAN ELEC PWR CO INC",
+          "buy_price": 70.76,
+          "sell_price": 86.54,
+          "return_pct": 22.3,
+          "share_increase_pct": 3.56
+        },
+        {
+          "ticker": "D",
+          "cusip": "25746U109",
+          "name": "DOMINION ENERGY INC",
+          "buy_price": 39.7,
+          "sell_price": 48.5,
+          "return_pct": 22.15,
+          "share_increase_pct": 3.56
+        },
+        {
+          "ticker": "EWP",
+          "cusip": "464286764",
+          "name": "ISHARES INC",
+          "buy_price": 27.18,
+          "sell_price": 31.6,
+          "return_pct": 16.25,
+          "share_increase_pct": 15.78
+        },
+        {
+          "ticker": "AIG",
+          "cusip": "026874784",
+          "name": "AMERICAN INTL GROUP INC",
+          "buy_price": 65.19,
+          "sell_price": 75.54,
+          "return_pct": 15.88,
+          "share_increase_pct": 3.5
+        },
+        {
+          "ticker": "ECL",
+          "cusip": "278865100",
+          "name": "ECOLAB INC",
+          "buy_price": 198.35,
+          "sell_price": 228.31,
+          "return_pct": 15.11,
+          "share_increase_pct": 3.59
+        },
+        {
+          "ticker": "AVGO",
+          "cusip": "11135F101",
+          "name": "BROADCOM INC",
+          "buy_price": 124.66,
+          "sell_price": 141.04,
+          "return_pct": 13.14,
+          "share_increase_pct": 8.88
+        },
+        {
+          "ticker": "EMR",
+          "cusip": "291011104",
+          "name": "EMERSON ELEC CO",
+          "buy_price": 98.42,
+          "sell_price": 110.93,
+          "return_pct": 12.71,
+          "share_increase_pct": 3.27
+        },
+        {
+          "ticker": "AFL",
+          "cusip": "001055102",
+          "name": "AFLAC INC",
+          "buy_price": 74.42,
+          "sell_price": 83.88,
+          "return_pct": 12.71,
+          "share_increase_pct": 3.25
+        },
+        {
+          "ticker": "DHI",
+          "cusip": "23331A109",
+          "name": "D R HORTON INC",
+          "buy_price": 141.6,
+          "sell_price": 154.66,
+          "return_pct": 9.22,
+          "share_increase_pct": 3.38
+        },
+        {
+          "ticker": "CTVA",
+          "cusip": "22052L104",
+          "name": "CORTEVA INC",
+          "buy_price": 51.98,
+          "sell_price": 55.94,
+          "return_pct": 7.62,
+          "share_increase_pct": 3.65
+        },
+        {
+          "ticker": "OTIS",
+          "cusip": "68902V107",
+          "name": "OTIS WORLDWIDE CORP",
+          "buy_price": 87.46,
+          "sell_price": 93.98,
+          "return_pct": 7.45,
+          "share_increase_pct": 3.18
+        },
+        {
+          "ticker": "IVV",
+          "cusip": "464287200",
+          "name": "ISHARES TR",
+          "buy_price": 486.44,
+          "sell_price": 518.91,
+          "return_pct": 6.68,
+          "share_increase_pct": 15.78
+        },
+        {
+          "ticker": "PBUS",
+          "cusip": "46138E461",
+          "name": "INVESCO EXCH TRADED FD TR II",
+          "buy_price": 48.77,
+          "sell_price": 51.97,
+          "return_pct": 6.56,
+          "share_increase_pct": 15.78
+        },
+        {
+          "ticker": "HSY",
+          "cusip": "427866108",
+          "name": "HERSHEY CO",
+          "buy_price": 189.07,
+          "sell_price": 193.34,
+          "return_pct": 2.26,
+          "share_increase_pct": 3.25
+        },
+        {
+          "ticker": "AME",
+          "cusip": "031100100",
+          "name": "AMETEK INC",
+          "buy_price": 163.89,
+          "sell_price": 167.43,
+          "return_pct": 2.16,
+          "share_increase_pct": 3.25
+        },
+        {
+          "ticker": "TRV",
+          "cusip": "89417E109",
+          "name": "TRAVELERS COMPANIES INC",
+          "buy_price": 205.87,
+          "sell_price": 207.33,
+          "return_pct": 0.71,
+          "share_increase_pct": 3.25
+        },
+        {
+          "ticker": "EQIX",
+          "cusip": "29444U700",
+          "name": "EQUINIX INC",
+          "buy_price": 815.06,
+          "sell_price": 775.33,
+          "return_pct": -4.88,
+          "share_increase_pct": 3.26
+        },
+        {
+          "ticker": "MAR",
+          "cusip": "571903202",
+          "name": "MARRIOTT INTL INC NEW",
+          "buy_price": 244.26,
+          "sell_price": 231.46,
+          "return_pct": -5.24,
+          "share_increase_pct": 3.29
+        },
+        {
+          "ticker": "ON",
+          "cusip": "682189105",
+          "name": "ON SEMICONDUCTOR CORP",
+          "buy_price": 80.71,
+          "sell_price": 74.74,
+          "return_pct": -7.4,
+          "share_increase_pct": 3.6
+        },
+        {
+          "ticker": "ADSK",
+          "cusip": "052769106",
+          "name": "AUTODESK INC",
+          "buy_price": 261.51,
+          "sell_price": 220.24,
+          "return_pct": -15.78,
+          "share_increase_pct": 3.26
+        }
+      ]
+    },
+    {
+      "quarter": "2024-03-31",
+      "file_date": "2024-05-14",
+      "buy_date": "2024-05-15",
+      "sell_date": "2024-08-14",
+      "top20_selected": 20,
+      "mapped_count": 16,
+      "traded_count": 16,
+      "portfolio_return_pct": 6.98,
+      "spy_return_pct": 2.97,
+      "cumulative_return": 6.381,
+      "spy_cumulative": 3.2015,
+      "stocks": [
+        {
+          "ticker": "GDDY",
+          "cusip": "380237107",
+          "name": "GODADDY INC",
+          "buy_price": 136.45,
+          "sell_price": 160.83,
+          "return_pct": 17.87,
+          "share_increase_pct": 676.43
+        },
+        {
+          "ticker": "WMT",
+          "cusip": "931142103",
+          "name": "WALMART INC",
+          "buy_price": 58.84,
+          "sell_price": 67.53,
+          "return_pct": 14.76,
+          "share_increase_pct": 205.19
+        },
+        {
+          "ticker": "NEM",
+          "cusip": "651639106",
+          "name": "NEWMONT CORP",
+          "buy_price": 41.68,
+          "sell_price": 47.71,
+          "return_pct": 14.46,
+          "share_increase_pct": 26.44
+        },
+        {
+          "ticker": "SSNC",
+          "cusip": "78467J100",
+          "name": "SS&C TECHNOLOGIES HLDGS INC",
+          "buy_price": 61.93,
+          "sell_price": 69.83,
+          "return_pct": 12.75,
+          "share_increase_pct": 329.5
+        },
+        {
+          "ticker": "VLTO",
+          "cusip": "92338C103",
+          "name": "VERALTO CORP",
+          "buy_price": 98.17,
+          "sell_price": 107.81,
+          "return_pct": 9.82,
+          "share_increase_pct": 34.03
+        },
+        {
+          "ticker": "TEVA",
+          "cusip": "881624209",
+          "name": "TEVA PHARMACEUTICAL INDS LTD",
+          "buy_price": 16.78,
+          "sell_price": 18.01,
+          "return_pct": 7.33,
+          "share_increase_pct": 15318.91
+        },
+        {
+          "ticker": "OKE",
+          "cusip": "682680103",
+          "name": "ONEOK INC NEW",
+          "buy_price": 74.8,
+          "sell_price": 80.09,
+          "return_pct": 7.07,
+          "share_increase_pct": 22.07
+        },
+        {
+          "ticker": "PODD",
+          "cusip": "45784P101",
+          "name": "INSULET CORP",
+          "buy_price": 180.56,
+          "sell_price": 191.54,
+          "return_pct": 6.08,
+          "share_increase_pct": 5181.77
+        },
+        {
+          "ticker": "MAS",
+          "cusip": "574599106",
+          "name": "MASCO CORP",
+          "buy_price": 69.76,
+          "sell_price": 73.52,
+          "return_pct": 5.4,
+          "share_increase_pct": 971.41
+        },
+        {
+          "ticker": "ODFL",
+          "cusip": "679580100",
+          "name": "OLD DOMINION FREIGHT LINE IN",
+          "buy_price": 181.62,
+          "sell_price": 190.87,
+          "return_pct": 5.1,
+          "share_increase_pct": 99.15
+        },
+        {
+          "ticker": "KDP",
+          "cusip": "49271V100",
+          "name": "KEURIG DR PEPPER INC",
+          "buy_price": 32.14,
+          "sell_price": 33.78,
+          "return_pct": 5.1,
+          "share_increase_pct": 14.49
+        },
+        {
+          "ticker": "KVUE",
+          "cusip": "49177J102",
+          "name": "KENVUE INC",
+          "buy_price": 19.14,
+          "sell_price": 19.93,
+          "return_pct": 4.12,
+          "share_increase_pct": 13.67
+        },
+        {
+          "ticker": "NBIX",
+          "cusip": "64125C109",
+          "name": "NEUROCRINE BIOSCIENCES INC",
+          "buy_price": 142.0,
+          "sell_price": 146.69,
+          "return_pct": 3.3,
+          "share_increase_pct": 96750.0
+        },
+        {
+          "ticker": "L",
+          "cusip": "540424108",
+          "name": "LOEWS CORP",
+          "buy_price": 76.19,
+          "sell_price": 77.29,
+          "return_pct": 1.44,
+          "share_increase_pct": 2794.47
+        },
+        {
+          "ticker": "LDOS",
+          "cusip": "525327102",
+          "name": "LEIDOS HOLDINGS INC",
+          "buy_price": 144.28,
+          "sell_price": 144.75,
+          "return_pct": 0.33,
+          "share_increase_pct": 67331.15
+        },
+        {
+          "ticker": "GGG",
+          "cusip": "384109104",
+          "name": "GRACO INC",
+          "buy_price": 81.61,
+          "sell_price": 79.01,
+          "return_pct": -3.18,
+          "share_increase_pct": 3443.21
+        }
+      ]
+    },
+    {
+      "quarter": "2024-06-30",
+      "file_date": "2024-08-13",
+      "buy_date": "2024-08-14",
+      "sell_date": "2024-10-31",
+      "top20_selected": 20,
+      "mapped_count": 17,
+      "traded_count": 16,
+      "portfolio_return_pct": 6.79,
+      "spy_return_pct": 4.9,
+      "cumulative_return": 6.8141,
+      "spy_cumulative": 3.3584,
+      "stocks": [
+        {
+          "ticker": "IP",
+          "cusip": "460146103",
+          "name": "INTERNATIONAL PAPER CO",
+          "buy_price": 43.08,
+          "sell_price": 52.41,
+          "return_pct": 21.65,
+          "share_increase_pct": 308581.4
+        },
+        {
+          "ticker": "ILMN",
+          "cusip": "452327109",
+          "name": "ILLUMINA INC",
+          "buy_price": 122.28,
+          "sell_price": 144.14,
+          "return_pct": 17.88,
+          "share_increase_pct": 15.67
+        },
+        {
+          "ticker": "GEN",
+          "cusip": "668771108",
+          "name": "GEN DIGITAL INC",
+          "buy_price": 24.15,
+          "sell_price": 28.33,
+          "return_pct": 17.3,
+          "share_increase_pct": 45538.97
+        },
+        {
+          "ticker": "WBD",
+          "cusip": "934423104",
+          "name": "WARNER BROS DISCOVERY INC",
+          "buy_price": 6.96,
+          "sell_price": 8.13,
+          "return_pct": 16.81,
+          "share_increase_pct": 17.99
+        },
+        {
+          "ticker": "EQT",
+          "cusip": "26884L109",
+          "name": "EQT CORP",
+          "buy_price": 30.89,
+          "sell_price": 35.85,
+          "return_pct": 16.07,
+          "share_increase_pct": 50735.71
+        },
+        {
+          "ticker": "ZBRA",
+          "cusip": "989207105",
+          "name": "ZEBRA TECHNOLOGIES CORPORATI",
+          "buy_price": 333.24,
+          "sell_price": 381.97,
+          "return_pct": 14.62,
+          "share_increase_pct": 1945.55
+        },
+        {
+          "ticker": "NVDA",
+          "cusip": "67066G104",
+          "name": "NVIDIA CORPORATION",
+          "buy_price": 118.02,
+          "sell_price": 132.71,
+          "return_pct": 12.44,
+          "share_increase_pct": 926.05
+        },
+        {
+          "ticker": "MDB",
+          "cusip": "60937P106",
+          "name": "MONGODB INC",
+          "buy_price": 243.44,
+          "sell_price": 270.4,
+          "return_pct": 11.07,
+          "share_increase_pct": 32.77
+        },
+        {
+          "ticker": "KVUE",
+          "cusip": "49177J102",
+          "name": "KENVUE INC",
+          "buy_price": 19.93,
+          "sell_price": 21.58,
+          "return_pct": 8.26,
+          "share_increase_pct": 16.93
+        },
+        {
+          "ticker": "CMG",
+          "cusip": "169656105",
+          "name": "CHIPOTLE MEXICAN GRILL INC",
+          "buy_price": 51.65,
+          "sell_price": 55.77,
+          "return_pct": 7.98,
+          "share_increase_pct": 4887.63
+        },
+        {
+          "ticker": "APH",
+          "cusip": "032095101",
+          "name": "AMPHENOL CORP NEW",
+          "buy_price": 64.01,
+          "sell_price": 66.36,
+          "return_pct": 3.68,
+          "share_increase_pct": 100.56
+        },
+        {
+          "ticker": "FWONK",
+          "cusip": "531229755",
+          "name": "LIBERTY MEDIA CORP DEL",
+          "buy_price": 77.21,
+          "sell_price": 79.84,
+          "return_pct": 3.41,
+          "share_increase_pct": 107709.5
+        },
+        {
+          "ticker": "XOM",
+          "cusip": "30231G102",
+          "name": "EXXON MOBIL CORP",
+          "buy_price": 112.15,
+          "sell_price": 110.99,
+          "return_pct": -1.03,
+          "share_increase_pct": 14.92
+        },
+        {
+          "ticker": "ZS",
+          "cusip": "98980G102",
+          "name": "ZSCALER INC",
+          "buy_price": 183.98,
+          "sell_price": 180.79,
+          "return_pct": -1.73,
+          "share_increase_pct": 17.28
+        },
+        {
+          "ticker": "SNOW",
+          "cusip": "833445109",
+          "name": "SNOWFLAKE INC",
+          "buy_price": 127.3,
+          "sell_price": 114.82,
+          "return_pct": -9.8,
+          "share_increase_pct": 17.46
+        },
+        {
+          "ticker": "DLTR",
+          "cusip": "256746108",
+          "name": "DOLLAR TREE INC",
+          "buy_price": 92.37,
+          "sell_price": 64.64,
+          "return_pct": -30.02,
+          "share_increase_pct": 14.69
+        }
+      ]
+    },
+    {
+      "quarter": "2024-09-30",
+      "file_date": "2024-10-30",
+      "buy_date": "2024-10-31",
+      "sell_date": "2025-02-06",
+      "top20_selected": 20,
+      "mapped_count": 17,
+      "traded_count": 14,
+      "portfolio_return_pct": 22.46,
+      "spy_return_pct": 6.99,
+      "cumulative_return": 8.3446,
+      "spy_cumulative": 3.5929,
+      "stocks": [
+        {
+          "ticker": "APP",
+          "cusip": "03831W108",
+          "name": "APPLOVINCORP",
+          "buy_price": 169.39,
+          "sell_price": 380.63,
+          "return_pct": 124.71,
+          "share_increase_pct": 45.49
+        },
+        {
+          "ticker": "WSM",
+          "cusip": "969904101",
+          "name": "WILLIAMSSONOMAINC",
+          "buy_price": 131.71,
+          "sell_price": 207.78,
+          "return_pct": 57.76,
+          "share_increase_pct": 212.4
+        },
+        {
+          "ticker": "AVGO",
+          "cusip": "11135F101",
+          "name": "BROADCOMINC",
+          "buy_price": 167.8,
+          "sell_price": 229.29,
+          "return_pct": 36.64,
+          "share_increase_pct": 1045.42
+        },
+        {
+          "ticker": "VST",
+          "cusip": "92840M102",
+          "name": "VISTRACORP",
+          "buy_price": 123.91,
+          "sell_price": 168.72,
+          "return_pct": 36.17,
+          "share_increase_pct": 64.4
+        },
+        {
+          "ticker": "CCL",
+          "cusip": "143658300",
+          "name": "CARNIVALCORP",
+          "buy_price": 21.9,
+          "sell_price": 27.31,
+          "return_pct": 24.73,
+          "share_increase_pct": 50.75
+        },
+        {
+          "ticker": "TRMB",
+          "cusip": "896239100",
+          "name": "TRIMBLEINC",
+          "buy_price": 60.5,
+          "sell_price": 75.37,
+          "return_pct": 24.58,
+          "share_increase_pct": 13597.71
+        },
+        {
+          "ticker": "EQH",
+          "cusip": "29452E101",
+          "name": "EQUITABLEHLDGSINC",
+          "buy_price": 43.87,
+          "sell_price": 50.82,
+          "return_pct": 15.83,
+          "share_increase_pct": 23851.6
+        },
+        {
+          "ticker": "WRB",
+          "cusip": "084423102",
+          "name": "BERKLEYWRCORP",
+          "buy_price": 55.08,
+          "sell_price": 59.8,
+          "return_pct": 8.58,
+          "share_increase_pct": 71.94
+        },
+        {
+          "ticker": "DECK",
+          "cusip": "243537107",
+          "name": "DECKERSOUTDOORCORP",
+          "buy_price": 160.89,
+          "sell_price": 172.19,
+          "return_pct": 7.02,
+          "share_increase_pct": 604.75
+        },
+        {
+          "ticker": "WDC",
+          "cusip": "958102105",
+          "name": "WESTERNDIGITALCORP.",
+          "buy_price": 49.15,
+          "sell_price": 48.53,
+          "return_pct": -1.27,
+          "share_increase_pct": 70.8
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITYNATIONALFINANCIAL",
+          "buy_price": 54.98,
+          "sell_price": 53.87,
+          "return_pct": -2.01,
+          "share_increase_pct": 2211500.0
+        },
+        {
+          "ticker": "GEN",
+          "cusip": "668771108",
+          "name": "GENDIGITALINC",
+          "buy_price": 28.33,
+          "sell_price": 27.09,
+          "return_pct": -4.37,
+          "share_increase_pct": 57.95
+        },
+        {
+          "ticker": "TEVA",
+          "cusip": "881624209",
+          "name": "TEVAPHARMACEUTICALINDSLTD",
+          "buy_price": 18.44,
+          "sell_price": 17.29,
+          "return_pct": -6.24,
+          "share_increase_pct": 107.27
+        },
+        {
+          "ticker": "UHS",
+          "cusip": "913903100",
+          "name": "UNIVERSALHLTHSVCSINC",
+          "buy_price": 203.07,
+          "sell_price": 187.47,
+          "return_pct": -7.68,
+          "share_increase_pct": 3477100.0
+        }
+      ]
+    },
+    {
+      "quarter": "2024-12-31",
+      "file_date": "2025-02-05",
+      "buy_date": "2025-02-06",
+      "sell_date": "2025-05-14",
+      "top20_selected": 20,
+      "mapped_count": 15,
+      "traded_count": 13,
+      "portfolio_return_pct": -2.63,
+      "spy_return_pct": -2.8,
+      "cumulative_return": 8.1251,
+      "spy_cumulative": 3.4924,
+      "stocks": [
+        {
+          "ticker": "PLTR",
+          "cusip": "69608A108",
+          "name": "PALANTIR TECHNOLOGIES INC",
+          "buy_price": 111.28,
+          "sell_price": 130.18,
+          "return_pct": 16.98,
+          "share_increase_pct": 64.78
+        },
+        {
+          "ticker": "FICO",
+          "cusip": "303250104",
+          "name": "FAIR ISAAC CORP",
+          "buy_price": 1887.3,
+          "sell_price": 2125.9,
+          "return_pct": 12.64,
+          "share_increase_pct": 104.91
+        },
+        {
+          "ticker": "CF",
+          "cusip": "125269100",
+          "name": "CF INDS HLDGS INC",
+          "buy_price": 81.7,
+          "sell_price": 84.02,
+          "return_pct": 2.83,
+          "share_increase_pct": 2848.36
+        },
+        {
+          "ticker": "PANW",
+          "cusip": "697435105",
+          "name": "PALO ALTO NETWORKS INC",
+          "buy_price": 187.37,
+          "sell_price": 190.9,
+          "return_pct": 1.88,
+          "share_increase_pct": 82.11
+        },
+        {
+          "ticker": "ETR",
+          "cusip": "29364G103",
+          "name": "ENTERGY CORP NEW",
+          "buy_price": 79.99,
+          "sell_price": 78.93,
+          "return_pct": -1.33,
+          "share_increase_pct": 82.36
+        },
+        {
+          "ticker": "FNF",
+          "cusip": "31620R303",
+          "name": "FIDELITY NATIONAL FINANCIAL",
+          "buy_price": 53.87,
+          "sell_price": 52.78,
+          "return_pct": -2.03,
+          "share_increase_pct": 648.48
+        },
+        {
+          "ticker": "TSCO",
+          "cusip": "892356106",
+          "name": "TRACTOR SUPPLY CO",
+          "buy_price": 51.95,
+          "sell_price": 50.51,
+          "return_pct": -2.77,
+          "share_increase_pct": 375.24
+        },
+        {
+          "ticker": "URI",
+          "cusip": "911363109",
+          "name": "UNITED RENTALS INC",
+          "buy_price": 741.12,
+          "sell_price": 708.87,
+          "return_pct": -4.35,
+          "share_increase_pct": 79.8
+        },
+        {
+          "ticker": "KIM",
+          "cusip": "49446R109",
+          "name": "KIMCO RLTY CORP",
+          "buy_price": 21.13,
+          "sell_price": 20.13,
+          "return_pct": -4.74,
+          "share_increase_pct": 4342.78
+        },
+        {
+          "ticker": "KEY",
+          "cusip": "493267108",
+          "name": "KEYCORP",
+          "buy_price": 16.96,
+          "sell_price": 15.86,
+          "return_pct": -6.45,
+          "share_increase_pct": 1124.85
+        },
+        {
+          "ticker": "CEG",
+          "cusip": "21037T109",
+          "name": "CONSTELLATION ENERGY CORP",
+          "buy_price": 309.65,
+          "sell_price": 286.7,
+          "return_pct": -7.41,
+          "share_increase_pct": 91.21
+        },
+        {
+          "ticker": "OKE",
+          "cusip": "682680103",
+          "name": "ONEOK INC NEW",
+          "buy_price": 90.76,
+          "sell_price": 83.07,
+          "return_pct": -8.47,
+          "share_increase_pct": 65.32
+        },
+        {
+          "ticker": "TTD",
+          "cusip": "88339J105",
+          "name": "THE TRADE DESK INC",
+          "buy_price": 114.65,
+          "sell_price": 79.14,
+          "return_pct": -30.97,
+          "share_increase_pct": 104.11
+        }
+      ]
+    },
+    {
+      "quarter": "2025-03-31",
+      "file_date": "2025-05-13",
+      "buy_date": "2025-05-14",
+      "sell_date": "2025-08-11",
+      "top20_selected": 20,
+      "mapped_count": 15,
+      "traded_count": 15,
+      "portfolio_return_pct": 4.71,
+      "spy_return_pct": 8.55,
+      "cumulative_return": 8.5082,
+      "spy_cumulative": 3.7909,
+      "stocks": [
+        {
+          "ticker": "CG",
+          "cusip": "14316J108",
+          "name": "CARLYLE GROUP INC",
+          "buy_price": 45.84,
+          "sell_price": 61.25,
+          "return_pct": 33.61,
+          "share_increase_pct": 74.85
+        },
+        {
+          "ticker": "WBD",
+          "cusip": "934423104",
+          "name": "WARNER BROS DISCOVERY INC",
+          "buy_price": 9.21,
+          "sell_price": 10.78,
+          "return_pct": 17.05,
+          "share_increase_pct": 32624300.0
+        },
+        {
+          "ticker": "Z",
+          "cusip": "98954M200",
+          "name": "ZILLOW GROUP INC",
+          "buy_price": 68.26,
+          "sell_price": 79.4,
+          "return_pct": 16.32,
+          "share_increase_pct": 74.85
+        },
+        {
+          "ticker": "HEI",
+          "cusip": "422806109",
+          "name": "HEICO CORP NEW",
+          "buy_price": 269.33,
+          "sell_price": 312.36,
+          "return_pct": 15.97,
+          "share_increase_pct": 75.27
+        },
+        {
+          "ticker": "ACM",
+          "cusip": "00766T100",
+          "name": "AECOM",
+          "buy_price": 106.28,
+          "sell_price": 118.63,
+          "return_pct": 11.62,
+          "share_increase_pct": 75.0
+        },
+        {
+          "ticker": "TAL",
+          "cusip": "874080104",
+          "name": "TAL EDUCATION GROUP",
+          "buy_price": 10.18,
+          "sell_price": 11.08,
+          "return_pct": 8.84,
+          "share_increase_pct": 1079730.0
+        },
+        {
+          "ticker": "ROL",
+          "cusip": "775711104",
+          "name": "ROLLINS INC",
+          "buy_price": 54.47,
+          "sell_price": 58.05,
+          "return_pct": 6.58,
+          "share_increase_pct": 75.0
+        },
+        {
+          "ticker": "SJM",
+          "cusip": "832696405",
+          "name": "SMUCKER J M CO",
+          "buy_price": 105.99,
+          "sell_price": 107.66,
+          "return_pct": 1.58,
+          "share_increase_pct": 74.89
+        },
+        {
+          "ticker": "REG",
+          "cusip": "758849103",
+          "name": "REGENCY CTRS CORP",
+          "buy_price": 69.34,
+          "sell_price": 69.37,
+          "return_pct": 0.06,
+          "share_increase_pct": 75.2
+        },
+        {
+          "ticker": "ELS",
+          "cusip": "29472R108",
+          "name": "EQUITY LIFESTYLE PPTYS INC",
+          "buy_price": 60.86,
+          "sell_price": 58.85,
+          "return_pct": -3.31,
+          "share_increase_pct": 75.0
+        },
+        {
+          "ticker": "BXP",
+          "cusip": "101121101",
+          "name": "BXP INC",
+          "buy_price": 63.91,
+          "sell_price": 60.91,
+          "return_pct": -4.69,
+          "share_increase_pct": 75.0
+        },
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 146.75,
+          "sell_price": 137.15,
+          "return_pct": -6.54,
+          "share_increase_pct": 74.86
+        },
+        {
+          "ticker": "AMH",
+          "cusip": "02665T306",
+          "name": "AMERICAN HOMES 4 RENT",
+          "buy_price": 36.02,
+          "sell_price": 33.2,
+          "return_pct": -7.82,
+          "share_increase_pct": 75.0
+        },
+        {
+          "ticker": "UDR",
+          "cusip": "902653104",
+          "name": "UDR INC",
+          "buy_price": 39.78,
+          "sell_price": 36.62,
+          "return_pct": -7.94,
+          "share_increase_pct": 2553.49
+        },
+        {
+          "ticker": "JKHY",
+          "cusip": "426281101",
+          "name": "HENRY JACK & ASSOC INC",
+          "buy_price": 175.48,
+          "sell_price": 156.86,
+          "return_pct": -10.61,
+          "share_increase_pct": 75.16
+        }
+      ]
+    },
+    {
+      "quarter": "2025-06-30",
+      "file_date": "2025-08-08",
+      "buy_date": "2025-08-11",
+      "sell_date": "2025-11-05",
+      "top20_selected": 20,
+      "mapped_count": 19,
+      "traded_count": 19,
+      "portfolio_return_pct": 2.1,
+      "spy_return_pct": 6.85,
+      "cumulative_return": 8.6871,
+      "spy_cumulative": 4.0504,
+      "stocks": [
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 137.15,
+          "sell_price": 169.47,
+          "return_pct": 23.57,
+          "share_increase_pct": 340.52
+        },
+        {
+          "ticker": "WST",
+          "cusip": "955306105",
+          "name": "WEST PHARMACEUTICAL SVSC INC",
+          "buy_price": 239.92,
+          "sell_price": 283.06,
+          "return_pct": 17.98,
+          "share_increase_pct": 340.44
+        },
+        {
+          "ticker": "BXP",
+          "cusip": "101121101",
+          "name": "BXP INC",
+          "buy_price": 60.91,
+          "sell_price": 68.67,
+          "return_pct": 12.74,
+          "share_increase_pct": 340.45
+        },
+        {
+          "ticker": "ACM",
+          "cusip": "00766T100",
+          "name": "AECOM",
+          "buy_price": 118.63,
+          "sell_price": 131.8,
+          "return_pct": 11.1,
+          "share_increase_pct": 340.38
+        },
+        {
+          "ticker": "DOC",
+          "cusip": "42250P103",
+          "name": "HEALTHPEAK PROPERTIES INC",
+          "buy_price": 16.0,
+          "sell_price": 17.34,
+          "return_pct": 8.38,
+          "share_increase_pct": 340.37
+        },
+        {
+          "ticker": "IEX",
+          "cusip": "45167R104",
+          "name": "IDEX CORP",
+          "buy_price": 156.29,
+          "sell_price": 167.66,
+          "return_pct": 7.28,
+          "share_increase_pct": 340.5
+        },
+        {
+          "ticker": "EVRG",
+          "cusip": "30034W106",
+          "name": "EVERGY INC",
+          "buy_price": 70.5,
+          "sell_price": 75.43,
+          "return_pct": 6.99,
+          "share_increase_pct": 340.36
+        },
+        {
+          "ticker": "LNT",
+          "cusip": "018802108",
+          "name": "ALLIANT ENERGY CORP",
+          "buy_price": 64.31,
+          "sell_price": 66.31,
+          "return_pct": 3.11,
+          "share_increase_pct": 340.34
+        },
+        {
+          "ticker": "WPC",
+          "cusip": "92936U109",
+          "name": "WP CAREY INC",
+          "buy_price": 63.81,
+          "sell_price": 65.55,
+          "return_pct": 2.73,
+          "share_increase_pct": 340.39
+        },
+        {
+          "ticker": "EL",
+          "cusip": "518439104",
+          "name": "LAUDER ESTEE COS INC",
+          "buy_price": 88.19,
+          "sell_price": 90.47,
+          "return_pct": 2.58,
+          "share_increase_pct": 340.4
+        },
+        {
+          "ticker": "ROL",
+          "cusip": "775711104",
+          "name": "ROLLINS INC",
+          "buy_price": 58.05,
+          "sell_price": 59.3,
+          "return_pct": 2.16,
+          "share_increase_pct": 340.45
+        },
+        {
+          "ticker": "HEI",
+          "cusip": "422806109",
+          "name": "HEICO CORP NEW",
+          "buy_price": 312.36,
+          "sell_price": 318.23,
+          "return_pct": 1.88,
+          "share_increase_pct": 340.49
+        },
+        {
+          "ticker": "SUI",
+          "cusip": "866674104",
+          "name": "SUN CMNTYS INC",
+          "buy_price": 123.18,
+          "sell_price": 124.01,
+          "return_pct": 0.68,
+          "share_increase_pct": 340.62
+        },
+        {
+          "ticker": "GGG",
+          "cusip": "384109104",
+          "name": "GRACO INC",
+          "buy_price": 82.6,
+          "sell_price": 81.94,
+          "return_pct": -0.8,
+          "share_increase_pct": 340.34
+        },
+        {
+          "ticker": "AMH",
+          "cusip": "02665T306",
+          "name": "AMERICAN HOMES 4 RENT",
+          "buy_price": 33.2,
+          "sell_price": 31.4,
+          "return_pct": -5.42,
+          "share_increase_pct": 340.36
+        },
+        {
+          "ticker": "Z",
+          "cusip": "98954M200",
+          "name": "ZILLOW GROUP INC",
+          "buy_price": 79.4,
+          "sell_price": 73.03,
+          "return_pct": -8.02,
+          "share_increase_pct": 340.38
+        },
+        {
+          "ticker": "ORLY",
+          "cusip": "67103H107",
+          "name": "OREILLY AUTOMOTIVE INC",
+          "buy_price": 103.6,
+          "sell_price": 94.94,
+          "return_pct": -8.36,
+          "share_increase_pct": 1434.42
+        },
+        {
+          "ticker": "CG",
+          "cusip": "14316J108",
+          "name": "CARLYLE GROUP INC",
+          "buy_price": 61.25,
+          "sell_price": 51.37,
+          "return_pct": -16.13,
+          "share_increase_pct": 340.51
+        },
+        {
+          "ticker": "TW",
+          "cusip": "892672106",
+          "name": "TRADEWEB MKTS INC",
+          "buy_price": 134.42,
+          "sell_price": 104.18,
+          "return_pct": -22.5,
+          "share_increase_pct": 340.42
+        }
+      ]
+    },
+    {
+      "quarter": "2025-09-30",
+      "file_date": "2025-11-04",
+      "buy_date": "2025-11-05",
+      "sell_date": "2026-02-11",
+      "top20_selected": 20,
+      "mapped_count": 18,
+      "traded_count": 18,
+      "portfolio_return_pct": 7.95,
+      "spy_return_pct": 2.42,
+      "cumulative_return": 9.378,
+      "spy_cumulative": 4.1486,
+      "stocks": [
+        {
+          "ticker": "DG",
+          "cusip": "256677105",
+          "name": "DOLLAR GEN CORP NEW",
+          "buy_price": 100.18,
+          "sell_price": 147.16,
+          "return_pct": 46.89,
+          "share_increase_pct": 323.55
+        },
+        {
+          "ticker": "JBHT",
+          "cusip": "445658107",
+          "name": "HUNT J B TRANS SVCS INC",
+          "buy_price": 169.47,
+          "sell_price": 230.38,
+          "return_pct": 35.94,
+          "share_increase_pct": 120.4
+        },
+        {
+          "ticker": "CHRW",
+          "cusip": "12541W209",
+          "name": "C H ROBINSON WORLDWIDE INC",
+          "buy_price": 152.0,
+          "sell_price": 195.66,
+          "return_pct": 28.72,
+          "share_increase_pct": 440.06
+        },
+        {
+          "ticker": "WSO",
+          "cusip": "942622200",
+          "name": "WATSCO INC",
+          "buy_price": 355.07,
+          "sell_price": 427.58,
+          "return_pct": 20.42,
+          "share_increase_pct": 140.65
+        },
+        {
+          "ticker": "DLTR",
+          "cusip": "256746108",
+          "name": "DOLLAR TREE INC",
+          "buy_price": 104.92,
+          "sell_price": 125.0,
+          "return_pct": 19.14,
+          "share_increase_pct": 206.67
+        },
+        {
+          "ticker": "CF",
+          "cusip": "125269100",
+          "name": "CF INDS HLDGS INC",
+          "buy_price": 84.1,
+          "sell_price": 96.42,
+          "return_pct": 14.65,
+          "share_increase_pct": 198.01
+        },
+        {
+          "ticker": "LII",
+          "cusip": "526107107",
+          "name": "LENNOX INTL INC",
+          "buy_price": 488.7,
+          "sell_price": 557.51,
+          "return_pct": 14.08,
+          "share_increase_pct": 127.08
+        },
+        {
+          "ticker": "ROL",
+          "cusip": "775711104",
+          "name": "ROLLINS INC",
+          "buy_price": 59.3,
+          "sell_price": 65.4,
+          "return_pct": 10.28,
+          "share_increase_pct": 353.22
+        },
+        {
+          "ticker": "TW",
+          "cusip": "892672106",
+          "name": "TRADEWEB MKTS INC",
+          "buy_price": 104.18,
+          "sell_price": 114.89,
+          "return_pct": 10.28,
+          "share_increase_pct": 143.02
+        },
+        {
+          "ticker": "SJM",
+          "cusip": "832696405",
+          "name": "SMUCKER J M CO",
+          "buy_price": 103.18,
+          "sell_price": 109.96,
+          "return_pct": 6.57,
+          "share_increase_pct": 315.6
+        },
+        {
+          "ticker": "MDB",
+          "cusip": "60937P106",
+          "name": "MONGODB INC",
+          "buy_price": 350.28,
+          "sell_price": 364.46,
+          "return_pct": 4.05,
+          "share_increase_pct": 112.96
+        },
+        {
+          "ticker": "INFO",
+          "cusip": "41151J745",
+          "name": "HARBOR ETF TRUST",
+          "buy_price": 24.36,
+          "sell_price": 24.82,
+          "return_pct": 1.92,
+          "share_increase_pct": 918.34
+        },
+        {
+          "ticker": "ARE",
+          "cusip": "015271109",
+          "name": "ALEXANDRIA REAL ESTATE EQ IN",
+          "buy_price": 53.68,
+          "sell_price": 53.76,
+          "return_pct": 0.15,
+          "share_increase_pct": 176.47
+        },
+        {
+          "ticker": "DOC",
+          "cusip": "42250P103",
+          "name": "HEALTHPEAK PROPERTIES INC",
+          "buy_price": 17.34,
+          "sell_price": 16.75,
+          "return_pct": -3.38,
+          "share_increase_pct": 170.58
+        },
+        {
+          "ticker": "TGRW",
+          "cusip": "87283Q305",
+          "name": "T ROWE PRICE ETF INC",
+          "buy_price": 46.66,
+          "sell_price": 43.86,
+          "return_pct": -6.01,
+          "share_increase_pct": 272.48
+        },
+        {
+          "ticker": "BXP",
+          "cusip": "101121101",
+          "name": "BXP INC",
+          "buy_price": 68.67,
+          "sell_price": 61.78,
+          "return_pct": -10.03,
+          "share_increase_pct": 199.54
+        },
+        {
+          "ticker": "WST",
+          "cusip": "955306105",
+          "name": "WEST PHARMACEUTICAL SVSC INC",
+          "buy_price": 283.06,
+          "sell_price": 246.16,
+          "return_pct": -13.03,
+          "share_increase_pct": 232.22
+        },
+        {
+          "ticker": "Z",
+          "cusip": "98954M200",
+          "name": "ZILLOW GROUP INC",
+          "buy_price": 73.03,
+          "sell_price": 45.66,
+          "return_pct": -37.48,
+          "share_increase_pct": 160.76
+        }
+      ]
+    }
+  ]
+}

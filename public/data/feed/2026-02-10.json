@@ -1,0 +1,163 @@
+{
+  "date": "2026-02-10",
+  "generated_at": "2026-04-05T00:28:06.080783",
+  "count": 1,
+  "summary": {
+    "신규": 1
+  },
+  "highlights": [
+    "영원무역"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "영원무역",
+      "stock_code": "111770",
+      "change_type": "신규",
+      "stake_pct": "10.02",
+      "stake_change": "10.02",
+      "stake_prev_pct": null,
+      "ref_price": 97200,
+      "ref_date": "20260210",
+      "per": 7.17,
+      "pbr": 0.83,
+      "eps": 11109.0,
+      "bps": 96154.0,
+      "roe": 12.66,
+      "debt_ratio": 39.25,
+      "revenue_growth": 15.51,
+      "op_profit_growth": 63.01,
+      "fin_period": "202512",
+      "ev_ebitda": 4.22,
+      "ebitda": 6278.0,
+      "sector": "유통",
+      "financial_ratio_history": [
+        {
+          "period": "202512",
+          "eps": 11109.0,
+          "bps": 96154.0,
+          "roe": 12.66,
+          "debt_ratio": 39.25,
+          "revenue_growth": 15.51,
+          "op_profit_growth": 63.01
+        },
+        {
+          "period": "202509",
+          "eps": 8432.0,
+          "bps": 89053.0,
+          "roe": 12.47,
+          "debt_ratio": 39.03,
+          "revenue_growth": 14.35,
+          "op_profit_growth": 19.65
+        },
+        {
+          "period": "202506",
+          "eps": 4700.0,
+          "bps": 84634.0,
+          "roe": 10.57,
+          "debt_ratio": 43.53,
+          "revenue_growth": 15.42,
+          "op_profit_growth": -3.98
+        },
+        {
+          "period": "202503",
+          "eps": 2008.0,
+          "bps": 86367.0,
+          "roe": 12.37,
+          "debt_ratio": 39.08,
+          "revenue_growth": 14.32,
+          "op_profit_growth": 15.88
+        },
+        {
+          "period": "202412",
+          "eps": 9637.0,
+          "bps": 86238.0,
+          "roe": 12.32,
+          "debt_ratio": 38.35,
+          "revenue_growth": -2.4,
+          "op_profit_growth": -50.47
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202512",
+          "ebitda": 6278.0,
+          "ev_ebitda": 4.22,
+          "eva": 1939.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4232.0,
+          "ev_ebitda": 2.54,
+          "eva": -743.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 7354.0,
+          "ev_ebitda": 2.27,
+          "eva": 3902.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 9161.0,
+          "ev_ebitda": 1.97,
+          "eva": 5420.0
+        },
+        {
+          "period": "202112",
+          "ebitda": 5291.0,
+          "ev_ebitda": 3.2,
+          "eva": 2007.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Youngone Corporation",
+      "ceo": "성기학",
+      "homepage": "-",
+      "established": "20090702",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260205",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 4426300,
+          "shares_after": 4426300,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260205",
+          "stock_type": "1",
+          "shares_before": 4426300,
+          "shares_change": 14423,
+          "shares_after": 4440723,
+          "unit_price": 88926,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260205",
+          "stock_type": "1",
+          "shares_before": 4440723,
+          "shares_change": -849,
+          "shares_after": 4439874,
+          "unit_price": 88501,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 1282579698,
+      "total_sell_amount": 75137349,
+      "net_amount": 1207442349,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260210000759",
+      "obligation_date": "20260205"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/nps-tracker/_next/static/chunks/01xlw8hd842-c.js","/nps-tracker/_next/static/chunks/09vq3315hyovj.js","/nps-tracker/_next/static/chunks/0n4z.7yu76je-.js"],"ViewportBoundary"]
+3:I[97367,["/nps-tracker/_next/static/chunks/01xlw8hd842-c.js","/nps-tracker/_next/static/chunks/09vq3315hyovj.js","/nps-tracker/_next/static/chunks/0n4z.7yu76je-.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"진성티이씨 (036890) — NPS 지분율 이력"}],["$","meta","1",{"name":"description","content":"국민연금의 진성티이씨 지분 변동 이력. 현재 8.19%, 총 5건 공시."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Dp73qvSuamRRjd8oEG1JT"}
