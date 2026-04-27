@@ -31,7 +31,7 @@ export default function MiniHeatmap({
     }).sum((d: any) => d.value || 0);
 
     const layout = treemap<any>()
-      .size([100, 100])
+      .size([100, 55])
       .padding(0.5)
       .tile(treemapSquarify.ratio(1.2));
 
@@ -40,7 +40,7 @@ export default function MiniHeatmap({
   }, [top]);
 
   return (
-    <div className="relative w-full" style={{ paddingBottom: "100%" }}>
+    <div className="relative w-full" style={{ paddingBottom: "55%" }}>
       <div className="absolute inset-0">
         {nodes.map((node: any) => {
           const d = node.data;
