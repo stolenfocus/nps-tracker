@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-21T19:00:42.046532",
+  "last_updated": "2026-04-27T19:00:52.963081",
   "dates": [
+    {
+      "date": "2026-04-27",
+      "count": 3,
+      "summary": {
+        "신규": 3
+      },
+      "highlights": [
+        "비에이치",
+        "LG이노텍",
+        "코오롱인더"
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "count": 0,
+      "summary": {},
+      "highlights": []
+    },
+    {
+      "date": "2026-04-25",
+      "count": 0,
+      "summary": {},
+      "highlights": []
+    },
+    {
+      "date": "2026-04-24",
+      "count": 0,
+      "summary": {},
+      "highlights": []
+    },
+    {
+      "date": "2026-04-23",
+      "count": 0,
+      "summary": {},
+      "highlights": []
+    },
+    {
+      "date": "2026-04-22",
+      "count": 0,
+      "summary": {},
+      "highlights": []
+    },
     {
       "date": "2026-04-21",
       "count": 0,
