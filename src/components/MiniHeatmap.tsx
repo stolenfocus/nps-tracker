@@ -1,6 +1,8 @@
 "use client";
 
+import { useMemo } from "react";
 import Link from "next/link";
+import { treemap, hierarchy, treemapSquarify } from "d3-hierarchy";
 
 interface Holding {
   ticker: string;
@@ -22,38 +24,66 @@ export default function MiniHeatmap({
 }) {
   const isKo = lang === "ko";
   const top = holdings.slice(0, count);
-  const maxPct = Math.max(...top.map((h) => h.pct_of_total));
+
+  const nodes = useMemo(() => {
+    const root = hierarchy({
+      children: top.map((h) => ({ ...h, value: h.value_usd })),
+    }).sum((d: any) => d.value || 0);
+
+    const layout = treemap<any>()
+      .size([100, 100])
+      .padding(0.5)
+      .tile(treemapSquarify.ratio(1.2));
+
+    layout(root);
+    return root.leaves();
+  }, [top]);
 
   return (
-    <div className="space-y-0.5">
-      {top.map((h) => {
-        const width = Math.max(15, (h.pct_of_total / maxPct) * 100);
-        const isKR = h.country === "KR";
-        return (
-          <Link
-            key={h.ticker}
-            href={`/${lang}/company/${isKR ? h.ticker : h.ticker}`}
-            className="flex items-center gap-1 group"
-          >
-            <span className="text-[9px] text-slate-500 w-10 shrink-0 text-right font-mono">
-              {h.ticker}
-            </span>
-            <div className="flex-1 h-4 relative">
-              <div
-                className="absolute inset-y-0 left-0 bg-accent/30 group-hover:bg-accent/50 rounded-sm transition-colors flex items-center px-1"
-                style={{ width: `${width}%` }}
-              >
-                <span className="text-[8px] text-slate-400 truncate">
-                  {isKo ? h.name_kr || h.name : h.name}
-                </span>
+    <div className="relative w-full" style={{ paddingBottom: "100%" }}>
+      <div className="absolute inset-0">
+        {nodes.map((node: any) => {
+          const d = node.data;
+          const x = node.x0;
+          const y = node.y0;
+          const w = node.x1 - node.x0;
+          const h = node.y1 - node.y0;
+          const isKR = d.country === "KR";
+          const bg = isKR ? "rgba(220, 38, 38, 0.6)" : "rgba(37, 99, 235, 0.6)";
+          const showTicker = w > 8 && h > 6;
+          const showPct = w > 12 && h > 10;
+
+          return (
+            <Link
+              key={d.ticker}
+              href={`/${lang}/company/${isKR ? d.ticker : d.ticker}`}
+              className="absolute overflow-hidden hover:brightness-125 transition-all cursor-pointer"
+              style={{
+                left: `${x}%`,
+                top: `${y}%`,
+                width: `${w}%`,
+                height: `${h}%`,
+                backgroundColor: bg,
+                borderRadius: "2px",
+              }}
+              title={`${d.ticker} ${isKo ? d.name_kr || d.name : d.name} (${d.pct_of_total.toFixed(1)}%)`}
+            >
+              <div className="p-0.5 flex flex-col items-center justify-center h-full">
+                {showTicker && (
+                  <span className="text-white font-bold text-[8px] leading-tight truncate">
+                    {d.ticker}
+                  </span>
+                )}
+                {showPct && (
+                  <span className="text-white/70 text-[7px] leading-tight">
+                    {d.pct_of_total.toFixed(1)}%
+                  </span>
+                )}
               </div>
-            </div>
-            <span className="text-[9px] text-slate-500 w-10 shrink-0 text-right font-mono">
-              {h.pct_of_total.toFixed(1)}%
-            </span>
-          </Link>
-        );
-      })}
+            </Link>
+          );
+        })}
+      </div>
     </div>
   );
 }
