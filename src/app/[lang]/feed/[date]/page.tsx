@@ -23,12 +23,11 @@ export async function generateMetadata({
   };
 }
 
-const typeBadge: Record<string, { label: string; color: string; order: number }> = {
-  신규: { label: "NEW", color: "bg-blue-500/20 text-blue-400", order: 0 },
-  증가: { label: "UP", color: "bg-emerald-500/20 text-emerald-400", order: 1 },
-  감소: { label: "DOWN", color: "bg-red-500/20 text-red-400", order: 2 },
-  전량처분: { label: "EXIT", color: "bg-red-700/30 text-red-300", order: 3 },
-  확인필요: { label: "?", color: "bg-yellow-500/20 text-yellow-400", order: 4 },
+const typeBadge: Record<string, { label: string; color: string }> = {
+  신규: { label: "NEW", color: "bg-blue-500/20 text-blue-400" },
+  증가: { label: "UP", color: "bg-emerald-500/20 text-emerald-400" },
+  감소: { label: "DOWN", color: "bg-red-500/20 text-red-400" },
+  확인필요: { label: "?", color: "bg-yellow-500/20 text-yellow-400" },
 };
 
 export default async function FeedDatePage({
@@ -74,13 +73,10 @@ export default async function FeedDatePage({
       <div className="mt-4 mb-5 flex items-center gap-3 flex-wrap">
         <h1 className="text-2xl font-bold text-white">{feed.date}</h1>
         <span className="text-slate-400 text-sm">{feed.count} {dict.feed.disclosures}</span>
-        {Object.entries(feed.summary)
-          .sort(([a], [b]) => (typeBadge[a]?.order ?? 99) - (typeBadge[b]?.order ?? 99))
-          .map(([type, count]) => {
+        {Object.entries(feed.summary).map(([type, count]) => {
           const badge = typeBadge[type] || {
             label: type,
             color: "bg-gray-500/20 text-gray-400",
-            order: 99,
           };
           return (
             <span

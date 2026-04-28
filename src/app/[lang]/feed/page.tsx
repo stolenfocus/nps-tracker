@@ -1,6 +1,12 @@
-import { getFeedIndex, getFeedDay } from "@/lib/feed-data";
+import Link from "next/link";
+import { getFeedIndex } from "@/lib/feed-data";
 import { getDictionary, type Locale } from "../dictionaries";
-import FeedList from "@/components/FeedSearch";
+
+const typeBadge: Record<string, { label: string; color: string }> = {
+  신규: { label: "NEW", color: "bg-blue-500/20 text-blue-400" },
+  증가: { label: "UP", color: "bg-emerald-500/20 text-emerald-400" },
+  감소: { label: "DOWN", color: "bg-red-500/20 text-red-400" },
+};
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;
@@ -18,34 +24,7 @@ export default async function FeedIndexPage({
 }) {
   const { lang } = await params;
   const dict = await getDictionary(lang as Locale);
-  const isKo = lang === "ko";
   const index = getFeedIndex();
-
-  // Build highlights + search data from feed files
-  const highlightsMap: Record<string, string[]> = {};
-  const searchItems: { date: string; stock_name: string; name_eng: string; stock_code: string; change_type: string; stake_pct: string; stake_change: string }[] = [];
-
-  for (const entry of index.dates) {
-    if (entry.count === 0) continue;
-    const feed = getFeedDay(entry.date);
-    if (!feed || !feed.disclosures.length) continue;
-
-    highlightsMap[entry.date] = feed.disclosures
-      .slice(0, 3)
-      .map((d) => (isKo || !d.name_eng) ? d.stock_name : d.name_eng.split(" CO")[0].split(" Co")[0]);
-
-    for (const d of feed.disclosures) {
-      searchItems.push({
-        date: entry.date,
-        stock_name: d.stock_name,
-        name_eng: d.name_eng || "",
-        stock_code: d.stock_code,
-        change_type: d.change_type,
-        stake_pct: String(d.stake_pct),
-        stake_change: String(d.stake_change ?? ""),
-      });
-    }
-  }
 
   return (
     <main className="max-w-[1400px] mx-auto px-4 py-6">
@@ -63,14 +42,47 @@ export default async function FeedIndexPage({
           {dict.feed.noData}
         </div>
       ) : (
-        <FeedList
-          entries={index.dates}
-          searchItems={searchItems}
-          highlightsMap={highlightsMap}
-          lang={lang}
-          placeholder={isKo ? "종목명, 영문명, 종목코드 검색..." : "Search by name, English name, or stock code..."}
-          disclosuresLabel={dict.feed.disclosures}
-        />
+        <div className="space-y-2">
+          {index.dates.filter((entry) => entry.count > 0).map((entry) => (
+            <Link
+              key={entry.date}
+              href={`/${lang}/feed/${entry.date}`}
+              className="block bg-navy-light border border-navy-lighter rounded-lg p-4 hover:border-slate-600 transition-colors"
+            >
+              <div className="flex items-center justify-between">
+                <div>
+                  <span className="text-white font-semibold text-sm">
+                    {entry.date}
+                  </span>
+                  <span className="ml-3 text-slate-400 text-xs">
+                    {entry.count} {dict.feed.disclosures}
+                  </span>
+                </div>
+                <div className="flex gap-2">
+                  {Object.entries(entry.summary).map(([type, count]) => {
+                    const badge = typeBadge[type] || {
+                      label: type,
+                      color: "bg-gray-500/20 text-gray-400",
+                    };
+                    return (
+                      <span
+                        key={type}
+                        className={`px-2 py-0.5 rounded text-[10px] font-medium ${badge.color}`}
+                      >
+                        {badge.label} {count}
+                      </span>
+                    );
+                  })}
+                </div>
+              </div>
+              {entry.highlights.length > 0 && (
+                <div className="mt-1.5 text-xs text-slate-500">
+                  {entry.highlights.join(", ")}
+                </div>
+              )}
+            </Link>
+          ))}
+        </div>
       )}
     </main>
   );
