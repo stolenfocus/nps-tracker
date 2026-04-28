@@ -41,8 +41,8 @@ export default async function FeedIndexPage({
         name_eng: d.name_eng || "",
         stock_code: d.stock_code,
         change_type: d.change_type,
-        stake_pct: d.stake_pct,
-        stake_change: d.stake_change,
+        stake_pct: String(d.stake_pct),
+        stake_change: String(d.stake_change ?? ""),
       });
     }
   }

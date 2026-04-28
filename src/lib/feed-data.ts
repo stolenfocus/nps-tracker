@@ -7,10 +7,33 @@ interface FeedDisclosure {
   stock_name: string;
   stock_code: string;
   change_type: string;
-  stake_pct: string;
-  stake_change: string;
+  stake_pct: number | string;
+  stake_change: number | string | null;
+  stake_prev_pct: number | string | null;
   fin_period?: string;
   name_eng?: string;
+  sector?: string;
+  ref_price?: number;
+  ref_price_usd?: number;
+  per?: number;
+  pbr?: number;
+  roe?: number;
+  ev_ebitda?: number;
+  debt_ratio?: number;
+  net_amount?: number;
+  net_amount_usd?: number;
+  obligation_date?: string;
+  dart_link?: string;
+  trades?: Array<{
+    date: string;
+    reason: string;
+    shares_before: number;
+    shares_change: number;
+    shares_after: number;
+    unit_price: number;
+    estimated: boolean;
+  }>;
+  [key: string]: unknown;
 }
 
 interface FeedDay {
