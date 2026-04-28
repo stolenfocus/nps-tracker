@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getFeedIndex } from "@/lib/feed-data";
+import { getFeedIndex, getFeedDay } from "@/lib/feed-data";
 import { getDictionary, type Locale } from "../dictionaries";
 
 const typeBadge: Record<string, { label: string; color: string }> = {
@@ -25,6 +25,19 @@ export default async function FeedIndexPage({
   const { lang } = await params;
   const dict = await getDictionary(lang as Locale);
   const index = getFeedIndex();
+  const isKo = lang === "ko";
+
+  const nameMap: Record<string, string> = {};
+  if (!isKo) {
+    for (const entry of index.dates) {
+      const day = getFeedDay(entry.date);
+      if (day) {
+        for (const d of day.disclosures) {
+          if (d.name_eng) nameMap[d.stock_name] = d.name_eng;
+        }
+      }
+    }
+  }
 
   return (
     <main className="max-w-[1400px] mx-auto px-4 py-6">
@@ -77,7 +90,9 @@ export default async function FeedIndexPage({
               </div>
               {entry.highlights.length > 0 && (
                 <div className="mt-1.5 text-xs text-slate-500">
-                  {entry.highlights.join(", ")}
+                  {isKo
+                    ? entry.highlights.join(", ")
+                    : entry.highlights.map((h) => nameMap[h] || h).join(", ")}
                 </div>
               )}
             </Link>
