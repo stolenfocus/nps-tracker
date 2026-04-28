@@ -132,6 +132,64 @@ export default async function CompanyPage({
         </div>
       </div>
 
+      {/* Financials */}
+      {(c.latest_per || c.latest_pbr || c.latest_roe) && (
+        <div className="bg-navy-light border border-navy-lighter rounded-lg p-4 mb-5">
+          <div className="text-slate-400 text-xs mb-3 font-medium">
+            {ko ? "재무 지표" : "Financials"}
+            {c.fin_period && (
+              <span className="text-slate-600 ml-2">
+                ({c.fin_period.slice(0, 4)}.{c.fin_period.slice(4)})
+              </span>
+            )}
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+            {!!c.latest_ref_price && (
+              <div>
+                <div className="text-slate-500 text-[10px] uppercase tracking-wide">
+                  {ko ? "주가" : "Price"}
+                </div>
+                <div className="text-white font-bold">₩{c.latest_ref_price.toLocaleString()}</div>
+              </div>
+            )}
+            {!!c.latest_per && (
+              <div>
+                <div className="text-slate-500 text-[10px] uppercase tracking-wide">PER</div>
+                <div className="text-white font-bold">{c.latest_per.toFixed(1)}</div>
+              </div>
+            )}
+            {!!c.latest_pbr && (
+              <div>
+                <div className="text-slate-500 text-[10px] uppercase tracking-wide">PBR</div>
+                <div className="text-white font-bold">{c.latest_pbr.toFixed(2)}</div>
+              </div>
+            )}
+            {!!c.latest_per && !!c.latest_ref_price && (
+              <div>
+                <div className="text-slate-500 text-[10px] uppercase tracking-wide">EPS</div>
+                <div className="text-white font-bold">
+                  ₩{Math.round(c.latest_ref_price / c.latest_per).toLocaleString()}
+                </div>
+              </div>
+            )}
+            {!!c.latest_roe && (
+              <div>
+                <div className="text-slate-500 text-[10px] uppercase tracking-wide">ROE</div>
+                <div className="text-white font-bold">{c.latest_roe.toFixed(1)}%</div>
+              </div>
+            )}
+            {!!c.latest_debt_ratio && (
+              <div>
+                <div className="text-slate-500 text-[10px] uppercase tracking-wide">
+                  {ko ? "부채비율" : "Debt Ratio"}
+                </div>
+                <div className="text-white font-bold">{c.latest_debt_ratio.toFixed(1)}%</div>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
       {/* Chart */}
       <div className="bg-navy-light border border-navy-lighter rounded-lg p-4 mb-5">
         <div className="text-slate-400 text-xs mb-2 font-medium">
