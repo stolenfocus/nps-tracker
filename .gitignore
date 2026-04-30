@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Build output (deployed via gh-pages branch)
+_next/
+en/
+ko/
+en.html
+en.txt
+ko.html
+ko.txt
+404.html
+_not-found*
+sitemap.xml
