@@ -37,7 +37,8 @@ const sectorMap: Record<string, string> = {
 };
 
 function fmt(n: number | undefined): string {
-  if (!n || n === 0) return "-";
+  if (n === undefined || n === null) return "-";
+  if (n === 0) return "N/A";
   return n.toLocaleString();
 }
 
@@ -93,17 +94,26 @@ function DetailPanel({ d, isKo }: { d: Disclosure; isKo: boolean }) {
             EPS <span className="text-slate-600 font-normal">{isKo ? "(주당순이익)" : "(Earnings Per Share)"}</span>
           </h4>
           <div className="space-y-2">
-            {[...ratios].reverse().map((r) => (
-              <div key={r.period} className="flex items-center gap-2">
-                <span className="text-[11px] text-slate-500 w-14 shrink-0">{fmtPeriod(r.period)}</span>
-                <div className="flex-1">
-                  <HBar value={r.eps} max={maxEps} color={r.eps >= 0 ? "bg-emerald-500/70" : "bg-red-500/70"} />
+            {[...ratios].reverse().map((r) => {
+              const noData = r.eps === 0 && r.bps === 0 && r.roe === 0;
+              return (
+                <div key={r.period} className="flex items-center gap-2">
+                  <span className="text-[11px] text-slate-500 w-14 shrink-0">{fmtPeriod(r.period)}</span>
+                  {noData ? (
+                    <span className="text-[10px] text-slate-600 italic" title={isKo ? "데이터 미제공 (기업 구조 변경 등)" : "Data not available (corporate restructuring, etc.)"}>N/A</span>
+                  ) : (
+                    <>
+                      <div className="flex-1">
+                        <HBar value={r.eps} max={maxEps} color={r.eps >= 0 ? "bg-emerald-500/70" : "bg-red-500/70"} />
+                      </div>
+                      <span className={`text-xs font-mono w-16 text-right ${r.eps >= 0 ? "text-slate-200" : "text-red-400"}`}>
+                        {fmt(Math.round(r.eps))}
+                      </span>
+                    </>
+                  )}
                 </div>
-                <span className={`text-xs font-mono w-16 text-right ${r.eps >= 0 ? "text-slate-200" : "text-red-400"}`}>
-                  {fmt(Math.round(r.eps))}
-                </span>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
 
@@ -113,17 +123,26 @@ function DetailPanel({ d, isKo }: { d: Disclosure; isKo: boolean }) {
             ROE <span className="text-slate-600 font-normal">{isKo ? "(자기자본이익률)" : "(Return on Equity)"}</span>
           </h4>
           <div className="space-y-2">
-            {[...ratios].reverse().map((r) => (
-              <div key={r.period} className="flex items-center gap-2">
-                <span className="text-[11px] text-slate-500 w-14 shrink-0">{fmtPeriod(r.period)}</span>
-                <div className="flex-1">
-                  <HBar value={r.roe} max={maxRoe} color={r.roe >= 10 ? "bg-emerald-500/70" : r.roe >= 0 ? "bg-blue-500/50" : "bg-red-500/70"} />
+            {[...ratios].reverse().map((r) => {
+              const noData = r.eps === 0 && r.bps === 0 && r.roe === 0;
+              return (
+                <div key={r.period} className="flex items-center gap-2">
+                  <span className="text-[11px] text-slate-500 w-14 shrink-0">{fmtPeriod(r.period)}</span>
+                  {noData ? (
+                    <span className="text-[10px] text-slate-600 italic" title={isKo ? "데이터 미제공 (기업 구조 변경 등)" : "Data not available (corporate restructuring, etc.)"}>N/A</span>
+                  ) : (
+                    <>
+                      <div className="flex-1">
+                        <HBar value={r.roe} max={maxRoe} color={r.roe >= 10 ? "bg-emerald-500/70" : r.roe >= 0 ? "bg-blue-500/50" : "bg-red-500/70"} />
+                      </div>
+                      <span className={`text-xs font-mono w-14 text-right ${r.roe >= 10 ? "text-emerald-400" : r.roe >= 0 ? "text-slate-300" : "text-red-400"}`}>
+                        {r.roe.toFixed(1)}%
+                      </span>
+                    </>
+                  )}
                 </div>
-                <span className={`text-xs font-mono w-14 text-right ${r.roe >= 10 ? "text-emerald-400" : r.roe >= 0 ? "text-slate-300" : "text-red-400"}`}>
-                  {r.roe.toFixed(1)}%
-                </span>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
 
@@ -158,17 +177,26 @@ function DetailPanel({ d, isKo }: { d: Disclosure; isKo: boolean }) {
               </tr>
             </thead>
             <tbody>
-              {[...ratios].reverse().map((r) => (
-                <tr key={r.period} className="border-t border-navy-lighter">
-                  <td className="py-1 text-slate-500">{fmtPeriod(r.period)}</td>
-                  <td className={`py-1 text-right font-mono ${r.revenue_growth >= 0 ? "text-emerald-400" : "text-red-400"}`}>
-                    {r.revenue_growth > 0 ? "+" : ""}{r.revenue_growth.toFixed(1)}%
-                  </td>
-                  <td className={`py-1 text-right font-mono ${r.op_profit_growth >= 0 ? "text-emerald-400" : "text-red-400"}`}>
-                    {r.op_profit_growth > 0 ? "+" : ""}{r.op_profit_growth.toFixed(1)}%
-                  </td>
-                </tr>
-              ))}
+              {[...ratios].reverse().map((r) => {
+                const noData = r.eps === 0 && r.bps === 0 && r.roe === 0;
+                return (
+                  <tr key={r.period} className="border-t border-navy-lighter">
+                    <td className="py-1 text-slate-500">{fmtPeriod(r.period)}</td>
+                    {noData ? (
+                      <td colSpan={2} className="py-1 text-center text-[10px] text-slate-600 italic">N/A</td>
+                    ) : (
+                      <>
+                        <td className={`py-1 text-right font-mono ${r.revenue_growth >= 0 ? "text-emerald-400" : "text-red-400"}`}>
+                          {r.revenue_growth > 0 ? "+" : ""}{r.revenue_growth.toFixed(1)}%
+                        </td>
+                        <td className={`py-1 text-right font-mono ${r.op_profit_growth >= 0 ? "text-emerald-400" : "text-red-400"}`}>
+                          {r.op_profit_growth > 0 ? "+" : ""}{r.op_profit_growth.toFixed(1)}%
+                        </td>
+                      </>
+                    )}
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>
