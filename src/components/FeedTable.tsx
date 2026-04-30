@@ -150,15 +150,24 @@ function DetailPanel({ d, isKo }: { d: Disclosure; isKo: boolean }) {
         <div className="bg-navy-light rounded-lg p-4">
           <h4 className="text-xs font-semibold text-slate-400 mb-3 tracking-wide">EBITDA</h4>
           <div className="space-y-2">
-            {[...ebitdas].reverse().map((e) => (
-              <div key={e.period} className="flex items-center gap-2">
-                <span className="text-[11px] text-slate-500 w-14 shrink-0">{fmtPeriod(e.period)}</span>
-                <div className="flex-1">
-                  <HBar value={e.ebitda} max={maxEbitda} color={e.ebitda >= 0 ? "bg-cyan-500/60" : "bg-red-500/70"} />
+            {[...ebitdas].reverse().map((e) => {
+              const noData = e.ebitda === 0 && e.ev_ebitda === 0;
+              return (
+                <div key={e.period} className="flex items-center gap-2">
+                  <span className="text-[11px] text-slate-500 w-14 shrink-0">{fmtPeriod(e.period)}</span>
+                  {noData ? (
+                    <span className="text-[10px] text-slate-600 italic">N/A</span>
+                  ) : (
+                    <>
+                      <div className="flex-1">
+                        <HBar value={e.ebitda} max={maxEbitda} color={e.ebitda >= 0 ? "bg-cyan-500/60" : "bg-red-500/70"} />
+                      </div>
+                      <span className="text-xs font-mono w-16 text-right text-slate-200">{fmt(Math.round(e.ebitda))}</span>
+                    </>
+                  )}
                 </div>
-                <span className="text-xs font-mono w-16 text-right text-slate-200">{fmt(Math.round(e.ebitda))}</span>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </div>
