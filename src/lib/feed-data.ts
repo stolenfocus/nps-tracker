@@ -110,3 +110,49 @@ export function getAllFeedDates(): string[] {
   const index = getFeedIndex();
   return index.dates.map((d) => d.date);
 }
+
+export interface FeedSearchItem {
+  date: string;
+  stock_name: string;
+  name_eng: string;
+  stock_code: string;
+  change_type: string;
+  stake_pct: string;
+  stake_change: string;
+}
+
+export function getAllSearchItems(): FeedSearchItem[] {
+  const dates = getAllFeedDates();
+  const items: FeedSearchItem[] = [];
+  for (const date of dates) {
+    const day = getFeedDay(date);
+    if (!day) continue;
+    for (const d of day.disclosures) {
+      items.push({
+        date,
+        stock_name: d.stock_name,
+        name_eng: d.name_eng || "",
+        stock_code: d.stock_code,
+        change_type: d.change_type,
+        stake_pct: d.stake_pct,
+        stake_change: d.stake_change,
+      });
+    }
+  }
+  return items;
+}
+
+export function getHighlightsMap(lang: string): Record<string, string[]> {
+  const dates = getAllFeedDates();
+  const map: Record<string, string[]> = {};
+  for (const date of dates) {
+    const day = getFeedDay(date);
+    if (!day) continue;
+    const isKo = lang === "ko";
+    const names = day.disclosures.slice(0, 3).map((d) =>
+      isKo ? d.stock_name : (d.name_eng || d.stock_name)
+    );
+    map[date] = names;
+  }
+  return map;
+}
