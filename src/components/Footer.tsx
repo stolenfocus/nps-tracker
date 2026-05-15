@@ -39,6 +39,7 @@ export default function Footer({
     { path: "/feed", label: n.feed },
     { path: "/about", label: n.about },
     { path: "/privacy", label: "Privacy" },
+    { path: "/contact", label: "Contact" },
   ];
 
   return (
