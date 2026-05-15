@@ -49,21 +49,21 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
 
         <section className="bg-navy-light border border-navy-lighter rounded-xl p-6">
           <h2 className="text-lg font-semibold text-white mb-3">
-            {isKo ? "📩 이메일" : "📩 Email"}
+            {isKo ? "💬 비공개 문의" : "💬 Private Inquiries"}
           </h2>
           <p className="mb-3">
             {isKo
-              ? "공개적으로 논의하기 어려운 사안 (사적 데이터, 광고 문의 등)은 이메일로 부탁드립니다."
-              : "For inquiries that cannot be discussed publicly (private data, advertising, etc.), please reach out by email."}
+              ? "공개적으로 논의하기 어려운 사안은 GitHub에서 직접 메시지를 보내거나, GitHub Issue를 비공개 모드로 등록하실 수 있습니다."
+              : "For inquiries that cannot be discussed publicly, you can reach out via GitHub messaging or open a private Issue."}
           </p>
-          <p>
-            <a
-              href="mailto:stolenfocus.contact@gmail.com"
-              className="text-accent-light hover:underline font-mono"
-            >
-              stolenfocus.contact@gmail.com
-            </a>
-          </p>
+          <a
+            href="https://github.com/stolenfocus"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-accent/20 hover:bg-accent/30 border border-accent-light/30 text-accent-light px-4 py-2 rounded-lg text-sm font-medium transition-colors"
+          >
+            github.com/stolenfocus →
+          </a>
         </section>
 
         <section className="bg-navy-light border border-navy-lighter rounded-xl p-6">
