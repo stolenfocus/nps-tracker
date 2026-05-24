@@ -19,7 +19,10 @@ export async function generateMetadata({
     description: isKo
       ? "국민연금이 분기 연속으로 주식수를 늘리고 있는 종목 (주식분할 보정)"
       : "Stocks where NPS has been increasing shares for consecutive quarters (split-adjusted)",
-    robots: { index: false, follow: false },
+    alternates: {
+      canonical: `/${lang}/streak/`,
+      languages: { ko: `/ko/streak/`, en: `/en/streak/` },
+    },
   };
 }
 
