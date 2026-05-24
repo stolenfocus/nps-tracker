@@ -1,0 +1,17 @@
+{
+  "/[lang]/about/page": "app/[lang]/about/page.js",
+  "/[lang]/company/[code]/page": "app/[lang]/company/[code]/page.js",
+  "/[lang]/compare/page": "app/[lang]/compare/page.js",
+  "/[lang]/contact/page": "app/[lang]/contact/page.js",
+  "/[lang]/feed/[date]/page": "app/[lang]/feed/[date]/page.js",
+  "/[lang]/feed/page": "app/[lang]/feed/page.js",
+  "/[lang]/global/page": "app/[lang]/global/page.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/portfolio-v2/page": "app/[lang]/portfolio-v2/page.js",
+  "/[lang]/portfolio/page": "app/[lang]/portfolio/page.js",
+  "/[lang]/privacy/page": "app/[lang]/privacy/page.js",
+  "/[lang]/streak/page": "app/[lang]/streak/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+}

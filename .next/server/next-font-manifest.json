@@ -1,0 +1,59 @@
+{
+  "app": {
+    "[project]/src/app/[lang]/about/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/company/[code]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/compare/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/contact/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/feed/[date]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/feed/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/global/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/portfolio-v2/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/portfolio/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/privacy/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/[lang]/streak/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ],
+    "[project]/src/app/_not-found/page": [
+      "static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+      "static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

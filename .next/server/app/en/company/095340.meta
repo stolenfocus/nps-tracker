@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/[lang]/layout,_N_T_/[lang]/company/layout,_N_T_/[lang]/company/[code]/layout,_N_T_/[lang]/company/[code]/page,_N_T_/en/company/095340"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/$d$lang/company/$d$code/__PAGE__",
+    "/$d$lang/company/$d$code",
+    "/$d$lang/company",
+    "/$d$lang",
+    "/_index",
+    "/_head"
+  ]
+}

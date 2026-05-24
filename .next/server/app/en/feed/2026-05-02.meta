@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/[lang]/layout,_N_T_/[lang]/feed/layout,_N_T_/[lang]/feed/[date]/layout,_N_T_/[lang]/feed/[date]/page,_N_T_/en/feed/2026-05-02"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/$d$lang/feed/$d$date/__PAGE__",
+    "/$d$lang/feed/$d$date",
+    "/$d$lang/feed",
+    "/$d$lang",
+    "/_index",
+    "/_head"
+  ]
+}

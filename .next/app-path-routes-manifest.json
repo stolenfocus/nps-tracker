@@ -1,0 +1,17 @@
+{
+  "/[lang]/about/page": "/[lang]/about",
+  "/[lang]/company/[code]/page": "/[lang]/company/[code]",
+  "/[lang]/compare/page": "/[lang]/compare",
+  "/[lang]/contact/page": "/[lang]/contact",
+  "/[lang]/feed/[date]/page": "/[lang]/feed/[date]",
+  "/[lang]/feed/page": "/[lang]/feed",
+  "/[lang]/global/page": "/[lang]/global",
+  "/[lang]/page": "/[lang]",
+  "/[lang]/portfolio-v2/page": "/[lang]/portfolio-v2",
+  "/[lang]/portfolio/page": "/[lang]/portfolio",
+  "/[lang]/privacy/page": "/[lang]/privacy",
+  "/[lang]/streak/page": "/[lang]/streak",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/sitemap.xml/route": "/sitemap.xml"
+}
