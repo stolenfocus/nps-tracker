@@ -1,8 +1,628 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T19:00:01.494157",
-  "count": 0,
-  "summary": {},
-  "disclosures": [],
-  "message": "오늘은 국민연금 공시가 없습니다."
+  "generated_at": "2026-08-23T11:57:51.630178",
+  "count": 4,
+  "summary": {
+    "감소": 2,
+    "신규": 2
+  },
+  "highlights": [
+    "대웅제약",
+    "GS리테일",
+    "코리아써키트"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "대웅제약",
+      "stock_code": "069620",
+      "change_type": "신규",
+      "stake_pct": "10.10",
+      "stake_change": "10.10",
+      "stake_prev_pct": null,
+      "ref_price": 134500,
+      "ref_date": "20260707",
+      "per": 7.07,
+      "pbr": 1.37,
+      "eps": 5115.0,
+      "bps": 92465.0,
+      "roe": 20.62,
+      "debt_ratio": 112.98,
+      "revenue_growth": 8.44,
+      "op_profit_growth": -6.5,
+      "fin_period": "202606",
+      "ev_ebitda": 8.52,
+      "ebitda": 1313.0,
+      "sector": "제약",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 5115.0,
+          "bps": 92465.0,
+          "roe": 20.62,
+          "debt_ratio": 112.98,
+          "revenue_growth": 8.44,
+          "op_profit_growth": -6.5
+        },
+        {
+          "period": "202603",
+          "eps": 2235.0,
+          "bps": 89169.0,
+          "roe": 21.84,
+          "debt_ratio": 112.3,
+          "revenue_growth": 5.98,
+          "op_profit_growth": -42.61
+        },
+        {
+          "period": "202512",
+          "eps": 16904.0,
+          "bps": 87439.0,
+          "roe": 21.75,
+          "debt_ratio": 108.24,
+          "revenue_growth": 10.42,
+          "op_profit_growth": 33.01
+        },
+        {
+          "period": "202509",
+          "eps": 9150.0,
+          "bps": 76467.0,
+          "roe": 10.98,
+          "debt_ratio": 125.12,
+          "revenue_growth": 11.28,
+          "op_profit_growth": 40.45
+        },
+        {
+          "period": "202506",
+          "eps": 5148.0,
+          "bps": 72277.0,
+          "roe": 9.36,
+          "debt_ratio": 120.96,
+          "revenue_growth": 9.42,
+          "op_profit_growth": 34.15
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 1313.0,
+          "ev_ebitda": 8.52,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 2479.0,
+          "ev_ebitda": 11.22,
+          "eva": 1111.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1969.0,
+          "ev_ebitda": 10.99,
+          "eva": -227.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1664.0,
+          "ev_ebitda": 11.0,
+          "eva": 316.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1355.0,
+          "ev_ebitda": 16.8,
+          "eva": 214.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "DAEWOONG PHARMA",
+      "ceo": "이창재, 박성수",
+      "homepage": "www.daewoong.co.kr",
+      "established": "20021001",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260706",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 1153635,
+          "shares_after": 1153635,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260706",
+          "stock_type": "1",
+          "shares_before": 1153635,
+          "shares_change": 16881,
+          "shares_after": 1170516,
+          "unit_price": 125470,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        }
+      ],
+      "total_buy_amount": 2118059070,
+      "total_sell_amount": 0,
+      "net_amount": 2118059070,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000328",
+      "obligation_date": "20260706"
+    },
+    {
+      "stock_name": "GS리테일",
+      "stock_code": "007070",
+      "change_type": "신규",
+      "stake_pct": "10.02",
+      "stake_change": "10.02",
+      "stake_prev_pct": null,
+      "ref_price": 25800,
+      "ref_date": "20260707",
+      "per": 49.71,
+      "pbr": 0.66,
+      "eps": 1295.0,
+      "bps": 40141.0,
+      "roe": 3.96,
+      "debt_ratio": 120.56,
+      "revenue_growth": 5.31,
+      "op_profit_growth": 31.36,
+      "fin_period": "202606",
+      "ev_ebitda": 3.68,
+      "ebitda": 5282.0,
+      "sector": "유통",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 1295.0,
+          "bps": 40141.0,
+          "roe": 3.96,
+          "debt_ratio": 120.56,
+          "revenue_growth": 5.31,
+          "op_profit_growth": 31.36
+        },
+        {
+          "period": "202603",
+          "eps": 515.0,
+          "bps": 39232.0,
+          "roe": 2.48,
+          "debt_ratio": 125.8,
+          "revenue_growth": 3.82,
+          "op_profit_growth": 39.37
+        },
+        {
+          "period": "202512",
+          "eps": 519.0,
+          "bps": 39303.0,
+          "roe": 1.34,
+          "debt_ratio": 128.42,
+          "revenue_growth": 3.26,
+          "op_profit_growth": 14.05
+        },
+        {
+          "period": "202509",
+          "eps": 1394.0,
+          "bps": 39246.0,
+          "roe": 2.31,
+          "debt_ratio": 138.84,
+          "revenue_growth": 3.17,
+          "op_profit_growth": 6.38
+        },
+        {
+          "period": "202506",
+          "eps": 263.0,
+          "bps": 38207.0,
+          "roe": -1.94,
+          "debt_ratio": 136.1,
+          "revenue_growth": 1.82,
+          "op_profit_growth": -5.75
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 5282.0,
+          "ev_ebitda": 3.68,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 10273.0,
+          "ev_ebitda": 3.74,
+          "eva": 773.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 10171.0,
+          "ev_ebitda": 3.95,
+          "eva": -3440.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 10135.0,
+          "ev_ebitda": 5.33,
+          "eva": -938.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 10559.0,
+          "ev_ebitda": 5.77,
+          "eva": 912.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "GS Retail Co.,Ltd",
+      "ceo": "허서홍",
+      "homepage": "www.gsretail.com",
+      "established": "19710213",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260706",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 8288025,
+          "shares_after": 8288025,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260706",
+          "stock_type": "1",
+          "shares_before": 8288025,
+          "shares_change": 103309,
+          "shares_after": 8391334,
+          "unit_price": 25180,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260706",
+          "stock_type": "1",
+          "shares_before": 8391334,
+          "shares_change": -13964,
+          "shares_after": 8377370,
+          "unit_price": 25059,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 2601320620,
+      "total_sell_amount": 349923876,
+      "net_amount": 2251396744,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000318",
+      "obligation_date": "20260706"
+    },
+    {
+      "stock_name": "코리아써키트",
+      "stock_code": "007810",
+      "change_type": "감소",
+      "stake_pct": "8.60",
+      "stake_change": "-0.49",
+      "stake_prev_pct": 9.09,
+      "ref_price": 68900,
+      "ref_date": "20260707",
+      "per": 31.63,
+      "pbr": 3.4,
+      "eps": 1661.0,
+      "bps": 17816.0,
+      "roe": 20.32,
+      "debt_ratio": 81.62,
+      "revenue_growth": 20.58,
+      "op_profit_growth": 918.71,
+      "fin_period": "202606",
+      "ev_ebitda": 18.13,
+      "ebitda": 772.0,
+      "sector": "전기·전자",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 1661.0,
+          "bps": 17816.0,
+          "roe": 20.32,
+          "debt_ratio": 81.62,
+          "revenue_growth": 20.58,
+          "op_profit_growth": 918.71
+        },
+        {
+          "period": "202603",
+          "eps": 915.0,
+          "bps": 17829.0,
+          "roe": 16.92,
+          "debt_ratio": 72.69,
+          "revenue_growth": 18.42,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202512",
+          "eps": 1726.0,
+          "bps": 16070.0,
+          "roe": 11.54,
+          "debt_ratio": 76.14,
+          "revenue_growth": 7.3,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 721.0,
+          "bps": 13486.0,
+          "roe": -20.98,
+          "debt_ratio": 83.36,
+          "revenue_growth": -0.94,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": 296.0,
+          "bps": 12521.0,
+          "roe": -26.98,
+          "debt_ratio": 81.31,
+          "revenue_growth": -6.08,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 772.0,
+          "ev_ebitda": 18.13,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1191.0,
+          "ev_ebitda": 14.0,
+          "eva": -241.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 788.0,
+          "ev_ebitda": 7.97,
+          "eva": -1369.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 625.0,
+          "ev_ebitda": 13.98,
+          "eva": -1525.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1533.0,
+          "ev_ebitda": 4.21,
+          "eva": -275.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "KOREA CIRCUIT CO.,LTD",
+      "ceo": "장세준",
+      "homepage": "www.kcg.co.kr",
+      "established": "19720411",
+      "trades": [
+        {
+          "reason": "02",
+          "trade_date": "20260701",
+          "stock_type": "1",
+          "shares_before": 2521629,
+          "shares_change": -113075,
+          "shares_after": 2408554,
+          "unit_price": 85753,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260702",
+          "stock_type": "1",
+          "shares_before": 2408554,
+          "shares_change": 5274,
+          "shares_after": 2413828,
+          "unit_price": 95515,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260702",
+          "stock_type": "1",
+          "shares_before": 2413828,
+          "shares_change": -30000,
+          "shares_after": 2383828,
+          "unit_price": 91880,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 503746110,
+      "total_sell_amount": 12452920475,
+      "net_amount": -11949174365,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000347",
+      "obligation_date": "20260702"
+    },
+    {
+      "stock_name": "동아쏘시오홀딩스",
+      "stock_code": "000640",
+      "change_type": "감소",
+      "stake_pct": "9.97",
+      "stake_change": "-0.19",
+      "stake_prev_pct": 10.16,
+      "ref_price": 85600,
+      "ref_date": "20260707",
+      "per": 6.66,
+      "pbr": 0.53,
+      "eps": 3065.0,
+      "bps": 173176.0,
+      "roe": 8.41,
+      "debt_ratio": 79.26,
+      "revenue_growth": 6.88,
+      "op_profit_growth": -5.96,
+      "fin_period": "202603",
+      "ev_ebitda": 5.9,
+      "ebitda": 191.0,
+      "sector": "금융",
+      "financial_ratio_history": [
+        {
+          "period": "202603",
+          "eps": 3065.0,
+          "bps": 173176.0,
+          "roe": 8.41,
+          "debt_ratio": 79.26,
+          "revenue_growth": 6.88,
+          "op_profit_growth": -5.96
+        },
+        {
+          "period": "202512",
+          "eps": 13508.0,
+          "bps": 171401.0,
+          "roe": 8.32,
+          "debt_ratio": 80.57,
+          "revenue_growth": 7.24,
+          "op_profit_growth": 19.1
+        },
+        {
+          "period": "202509",
+          "eps": 15212.0,
+          "bps": 172143.0,
+          "roe": 9.8,
+          "debt_ratio": 84.23,
+          "revenue_growth": 7.26,
+          "op_profit_growth": 35.45
+        },
+        {
+          "period": "202506",
+          "eps": 8233.0,
+          "bps": 165602.0,
+          "roe": 8.3,
+          "debt_ratio": 84.16,
+          "revenue_growth": 7.29,
+          "op_profit_growth": 28.13
+        },
+        {
+          "period": "202503",
+          "eps": 2655.0,
+          "bps": 160206.0,
+          "roe": 6.56,
+          "debt_ratio": 91.15,
+          "revenue_growth": 7.7,
+          "op_profit_growth": 30.88
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 191.0,
+          "ev_ebitda": 5.9,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1931.0,
+          "ev_ebitda": 6.46,
+          "eva": 937.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1713.0,
+          "ev_ebitda": 7.75,
+          "eva": 162.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1511.0,
+          "ev_ebitda": 7.9,
+          "eva": 222.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1086.0,
+          "ev_ebitda": 10.25,
+          "eva": -378.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Dong-A Socio Holdings Co.,Ltd",
+      "ceo": "김민영",
+      "homepage": "www.donga.co.kr",
+      "established": "19490809",
+      "trades": [
+        {
+          "reason": "02",
+          "trade_date": "20260701",
+          "stock_type": "1",
+          "shares_before": 683899,
+          "shares_change": -1964,
+          "shares_after": 681935,
+          "unit_price": 77758,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260702",
+          "stock_type": "1",
+          "shares_before": 681935,
+          "shares_change": -3855,
+          "shares_after": 678080,
+          "unit_price": 80582,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260703",
+          "stock_type": "1",
+          "shares_before": 678080,
+          "shares_change": 339,
+          "shares_after": 678419,
+          "unit_price": 81314,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260703",
+          "stock_type": "1",
+          "shares_before": 678419,
+          "shares_change": -2990,
+          "shares_after": 675429,
+          "unit_price": 81038,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260706",
+          "stock_type": "1",
+          "shares_before": 675429,
+          "shares_change": -4001,
+          "shares_after": 671428,
+          "unit_price": 83085,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 27565446,
+      "total_sell_amount": 1038087027,
+      "net_amount": -1010521581,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000340",
+      "obligation_date": "20260706"
+    }
+  ]
 }

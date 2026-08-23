@@ -1,8 +1,395 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T19:00:01.160625",
-  "count": 0,
-  "summary": {},
-  "disclosures": [],
-  "message": "오늘은 국민연금 공시가 없습니다."
+  "generated_at": "2026-08-23T12:00:08.902682",
+  "count": 3,
+  "summary": {
+    "신규": 3
+  },
+  "highlights": [
+    "현대해상",
+    "한섬",
+    "롯데관광개발"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "현대해상",
+      "stock_code": "001450",
+      "change_type": "신규",
+      "stake_pct": "10.15",
+      "stake_change": "10.15",
+      "stake_prev_pct": null,
+      "ref_price": 38550,
+      "ref_date": "20260713",
+      "per": 4.36,
+      "pbr": 0.76,
+      "eps": 11407,
+      "bps": 65772,
+      "roe": 0,
+      "debt_ratio": 0,
+      "revenue_growth": 0,
+      "op_profit_growth": 0,
+      "fin_period": "",
+      "ev_ebitda": 3.09,
+      "ebitda": 3554.0,
+      "sector": "보험",
+      "financial_ratio_history": [],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 3554.0,
+          "ev_ebitda": 3.09,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 13845.0,
+          "ev_ebitda": 3.07,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 13663.0,
+          "ev_ebitda": 2.09,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 8596.0,
+          "ev_ebitda": 2.81,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 19114.0,
+          "ev_ebitda": 1.25,
+          "eva": 0.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "HYUNDAIMARINE&FIREINSURANCECO.,LTD.",
+      "ceo": "이석현",
+      "homepage": "www.hi.co.kr",
+      "established": "19550305",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260709",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 8440973,
+          "shares_after": 8440973,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260709",
+          "stock_type": "1",
+          "shares_before": 8440973,
+          "shares_change": 207556,
+          "shares_after": 8648529,
+          "unit_price": 37195,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        }
+      ],
+      "total_buy_amount": 7720045420,
+      "total_sell_amount": 0,
+      "net_amount": 7720045420,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000335",
+      "obligation_date": "20260709"
+    },
+    {
+      "stock_name": "한섬",
+      "stock_code": "020000",
+      "change_type": "신규",
+      "stake_pct": "10.09",
+      "stake_change": "10.09",
+      "stake_prev_pct": null,
+      "ref_price": 22550,
+      "ref_date": "20260713",
+      "per": 7.45,
+      "pbr": 0.23,
+      "eps": 1219.0,
+      "bps": 67420.0,
+      "roe": 3.87,
+      "debt_ratio": 18.75,
+      "revenue_growth": 7.9,
+      "op_profit_growth": 67.7,
+      "fin_period": "202603",
+      "ev_ebitda": 3.74,
+      "ebitda": 542.0,
+      "sector": "섬유·의류",
+      "financial_ratio_history": [
+        {
+          "period": "202603",
+          "eps": 1219.0,
+          "bps": 67420.0,
+          "roe": 3.87,
+          "debt_ratio": 18.75,
+          "revenue_growth": 7.9,
+          "op_profit_growth": 67.7
+        },
+        {
+          "period": "202512",
+          "eps": 2061.0,
+          "bps": 66913.0,
+          "roe": 3.25,
+          "debt_ratio": 20.72,
+          "revenue_growth": 0.44,
+          "op_profit_growth": -17.79
+        },
+        {
+          "period": "202509",
+          "eps": 1008.0,
+          "bps": 65796.0,
+          "roe": 2.54,
+          "debt_ratio": 23.41,
+          "revenue_growth": -2.05,
+          "op_profit_growth": -41.29
+        },
+        {
+          "period": "202506",
+          "eps": 927.0,
+          "bps": 65713.0,
+          "roe": 2.76,
+          "debt_ratio": 19.53,
+          "revenue_growth": -2.3,
+          "op_profit_growth": -38.37
+        },
+        {
+          "period": "202503",
+          "eps": 817.0,
+          "bps": 65591.0,
+          "roe": 2.76,
+          "debt_ratio": 23.81,
+          "revenue_growth": -3.37,
+          "op_profit_growth": -32.88
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 542.0,
+          "ev_ebitda": 3.74,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1224.0,
+          "ev_ebitda": 3.06,
+          "eva": -573.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1348.0,
+          "ev_ebitda": 2.63,
+          "eva": -728.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1675.0,
+          "ev_ebitda": 2.66,
+          "eva": -585.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2265.0,
+          "ev_ebitda": 1.7,
+          "eva": -225.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "HANDSOME CORPORATION",
+      "ceo": "김민덕",
+      "homepage": "www.handsome.co.kr",
+      "established": "19870525",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260708",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 2143999,
+          "shares_after": 2143999,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260708",
+          "stock_type": "1",
+          "shares_before": 2143999,
+          "shares_change": 35594,
+          "shares_after": 2179593,
+          "unit_price": 22911,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260708",
+          "stock_type": "1",
+          "shares_before": 2179593,
+          "shares_change": -12316,
+          "shares_after": 2167277,
+          "unit_price": 22612,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 815494134,
+      "total_sell_amount": 278489392,
+      "net_amount": 537004742,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000332",
+      "obligation_date": "20260708"
+    },
+    {
+      "stock_name": "롯데관광개발",
+      "stock_code": "032350",
+      "change_type": "신규",
+      "stake_pct": "10.01",
+      "stake_change": "10.01",
+      "stake_prev_pct": null,
+      "ref_price": 14480,
+      "ref_date": "20260713",
+      "per": 35.81,
+      "pbr": 2.73,
+      "eps": 91.0,
+      "bps": 4727.0,
+      "roe": 14.76,
+      "debt_ratio": 484.44,
+      "revenue_growth": 28.55,
+      "op_profit_growth": 74.94,
+      "fin_period": "202606",
+      "ev_ebitda": 8.72,
+      "ebitda": 1248.0,
+      "sector": "일반서비스",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 91.0,
+          "bps": 4727.0,
+          "roe": 14.76,
+          "debt_ratio": 484.44,
+          "revenue_growth": 28.55,
+          "op_profit_growth": 74.94
+        },
+        {
+          "period": "202603",
+          "eps": -93.0,
+          "bps": 4547.0,
+          "roe": 13.41,
+          "debt_ratio": 500.12,
+          "revenue_growth": 28.07,
+          "op_profit_growth": 121.0
+        },
+        {
+          "period": "202512",
+          "eps": 356.0,
+          "bps": 4677.0,
+          "roe": 8.06,
+          "debt_ratio": 488.68,
+          "revenue_growth": 38.6,
+          "op_profit_growth": 267.45
+        },
+        {
+          "period": "202509",
+          "eps": -144.0,
+          "bps": 4379.0,
+          "roe": -16.18,
+          "debt_ratio": 528.62,
+          "revenue_growth": 29.01,
+          "op_profit_growth": 168.98
+        },
+        {
+          "period": "202506",
+          "eps": -231.0,
+          "bps": 4259.0,
+          "roe": -25.4,
+          "debt_ratio": 554.6,
+          "revenue_growth": 25.79,
+          "op_profit_growth": 214.35
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 1248.0,
+          "ev_ebitda": 8.72,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 2318.0,
+          "ev_ebitda": 13.1,
+          "eva": -1133.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1240.0,
+          "ev_ebitda": 14.61,
+          "eva": -353.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 261.0,
+          "ev_ebitda": 75.63,
+          "eva": -1714.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -358.0,
+          "ev_ebitda": 0.0,
+          "eva": -1271.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "LOTTE TOUR DEVELOPMENT CO.,LTD",
+      "ceo": "김기병, 백현, 김한준",
+      "homepage": "lottetour.com",
+      "established": "19710524",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260709",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 7966505,
+          "shares_after": 7966505,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260709",
+          "stock_type": "1",
+          "shares_before": 7966505,
+          "shares_change": 17174,
+          "shares_after": 7983679,
+          "unit_price": 16130,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        }
+      ],
+      "total_buy_amount": 277016620,
+      "total_sell_amount": 0,
+      "net_amount": 277016620,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000338",
+      "obligation_date": "20260709"
+    }
+  ]
 }

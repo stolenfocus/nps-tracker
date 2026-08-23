@@ -1,8 +1,682 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T19:00:01.471932",
-  "count": 0,
-  "summary": {},
-  "disclosures": [],
-  "message": "오늘은 국민연금 공시가 없습니다."
+  "generated_at": "2026-08-23T11:40:34.810215",
+  "count": 5,
+  "summary": {
+    "신규": 2,
+    "증가": 3
+  },
+  "highlights": [
+    "진성티이씨",
+    "코리아써키트",
+    "CJ제일제당"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "진성티이씨",
+      "stock_code": "036890",
+      "change_type": "신규",
+      "stake_pct": "10.12",
+      "stake_change": "10.12",
+      "stake_prev_pct": null,
+      "ref_price": 13220,
+      "ref_date": "20260623",
+      "per": 8.15,
+      "pbr": 0.8,
+      "eps": 631.0,
+      "bps": 15399.0,
+      "roe": 13.84,
+      "debt_ratio": 75.42,
+      "revenue_growth": 27.98,
+      "op_profit_growth": 42.83,
+      "fin_period": "202603",
+      "ev_ebitda": 5.41,
+      "ebitda": 165.0,
+      "sector": "기계·장비",
+      "financial_ratio_history": [
+        {
+          "period": "202603",
+          "eps": 631.0,
+          "bps": 15399.0,
+          "roe": 13.84,
+          "debt_ratio": 75.42,
+          "revenue_growth": 27.98,
+          "op_profit_growth": 42.83
+        },
+        {
+          "period": "202512",
+          "eps": 1461.0,
+          "bps": 14795.0,
+          "roe": 11.66,
+          "debt_ratio": 72.81,
+          "revenue_growth": 18.77,
+          "op_profit_growth": 96.15
+        },
+        {
+          "period": "202509",
+          "eps": 1065.0,
+          "bps": 14165.0,
+          "roe": 13.02,
+          "debt_ratio": 77.09,
+          "revenue_growth": 13.51,
+          "op_profit_growth": 127.7
+        },
+        {
+          "period": "202506",
+          "eps": 579.0,
+          "bps": 13268.0,
+          "roe": 9.38,
+          "debt_ratio": 72.76,
+          "revenue_growth": 7.71,
+          "op_profit_growth": 99.65
+        },
+        {
+          "period": "202503",
+          "eps": 294.0,
+          "bps": 13264.0,
+          "roe": 9.01,
+          "debt_ratio": 82.68,
+          "revenue_growth": -0.4,
+          "op_profit_growth": 59.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 165.0,
+          "ev_ebitda": 5.41,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 607.0,
+          "ev_ebitda": 5.1,
+          "eva": 64.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 343.0,
+          "ev_ebitda": 4.91,
+          "eva": -106.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 512.0,
+          "ev_ebitda": 4.32,
+          "eva": -3.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 791.0,
+          "ev_ebitda": 4.4,
+          "eva": 184.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "JINSUNG T.E.C",
+      "ceo": "윤성수, 윤준수(공동대표이사)",
+      "homepage": "www.jinsungtec.com",
+      "established": "19820428",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260618",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 2196177,
+          "shares_after": 2196177,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260618",
+          "stock_type": "1",
+          "shares_before": 2196177,
+          "shares_change": 32846,
+          "shares_after": 2229023,
+          "unit_price": 15960,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        }
+      ],
+      "total_buy_amount": 524222160,
+      "total_sell_amount": 0,
+      "net_amount": 524222160,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623000346",
+      "obligation_date": "20260618"
+    },
+    {
+      "stock_name": "코리아써키트",
+      "stock_code": "007810",
+      "change_type": "신규",
+      "stake_pct": "8.72",
+      "stake_change": "8.72",
+      "stake_prev_pct": null,
+      "ref_price": 101400,
+      "ref_date": "20260623",
+      "per": 31.63,
+      "pbr": 3.4,
+      "eps": 1661.0,
+      "bps": 17816.0,
+      "roe": 20.32,
+      "debt_ratio": 81.62,
+      "revenue_growth": 20.58,
+      "op_profit_growth": 918.71,
+      "fin_period": "202606",
+      "ev_ebitda": 18.13,
+      "ebitda": 772.0,
+      "sector": "전기·전자",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 1661.0,
+          "bps": 17816.0,
+          "roe": 20.32,
+          "debt_ratio": 81.62,
+          "revenue_growth": 20.58,
+          "op_profit_growth": 918.71
+        },
+        {
+          "period": "202603",
+          "eps": 915.0,
+          "bps": 17829.0,
+          "roe": 16.92,
+          "debt_ratio": 72.69,
+          "revenue_growth": 18.42,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202512",
+          "eps": 1726.0,
+          "bps": 16070.0,
+          "roe": 11.54,
+          "debt_ratio": 76.14,
+          "revenue_growth": 7.3,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202509",
+          "eps": 721.0,
+          "bps": 13486.0,
+          "roe": -20.98,
+          "debt_ratio": 83.36,
+          "revenue_growth": -0.94,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": 296.0,
+          "bps": 12521.0,
+          "roe": -26.98,
+          "debt_ratio": 81.31,
+          "revenue_growth": -6.08,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 772.0,
+          "ev_ebitda": 18.13,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1191.0,
+          "ev_ebitda": 14.0,
+          "eva": -241.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 788.0,
+          "ev_ebitda": 7.97,
+          "eva": -1369.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 625.0,
+          "ev_ebitda": 13.98,
+          "eva": -1525.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1533.0,
+          "ev_ebitda": 4.21,
+          "eva": -275.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "KOREA CIRCUIT CO.,LTD",
+      "ceo": "장세준",
+      "homepage": "www.kcg.co.kr",
+      "established": "19720411",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260619",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 2352583,
+          "shares_after": 2352583,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260619",
+          "stock_type": "1",
+          "shares_before": 2352583,
+          "shares_change": 67729,
+          "shares_after": 2420312,
+          "unit_price": 139642,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260619",
+          "stock_type": "1",
+          "shares_before": 2420312,
+          "shares_change": -1122,
+          "shares_after": 2419190,
+          "unit_price": 137309,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 9457813018,
+      "total_sell_amount": 154060698,
+      "net_amount": 9303752320,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623000350",
+      "obligation_date": "20260619"
+    },
+    {
+      "stock_name": "CJ제일제당",
+      "stock_code": "097950",
+      "change_type": "증가",
+      "stake_pct": "8.14",
+      "stake_change": "0.33",
+      "stake_prev_pct": 7.81,
+      "ref_price": 185800,
+      "ref_date": "20260623",
+      "per": -5.27,
+      "pbr": 0.42,
+      "eps": 4995.0,
+      "bps": 462867.0,
+      "roe": -6.6,
+      "debt_ratio": 157.98,
+      "revenue_growth": 6.04,
+      "op_profit_growth": -17.21,
+      "fin_period": "202603",
+      "ev_ebitda": 6.85,
+      "ebitda": 6331.0,
+      "sector": "음식료·담배",
+      "financial_ratio_history": [
+        {
+          "period": "202603",
+          "eps": 4995.0,
+          "bps": 462867.0,
+          "roe": -6.6,
+          "debt_ratio": 157.98,
+          "revenue_growth": 6.04,
+          "op_profit_growth": -17.21
+        },
+        {
+          "period": "202512",
+          "eps": -34884.0,
+          "bps": 440524.0,
+          "roe": -7.67,
+          "debt_ratio": 157.5,
+          "revenue_growth": 0.38,
+          "op_profit_growth": -15.05
+        },
+        {
+          "period": "202509",
+          "eps": 15210.0,
+          "bps": 485601.0,
+          "roe": 0.57,
+          "debt_ratio": 150.81,
+          "revenue_growth": 0.07,
+          "op_profit_growth": -11.61
+        },
+        {
+          "period": "202506",
+          "eps": 10758.0,
+          "bps": 468627.0,
+          "roe": 1.66,
+          "debt_ratio": 150.71,
+          "revenue_growth": -0.06,
+          "op_profit_growth": -9.27
+        },
+        {
+          "period": "202503",
+          "eps": 833.0,
+          "bps": 489068.0,
+          "roe": 0.75,
+          "debt_ratio": 147.11,
+          "revenue_growth": -7.07,
+          "op_profit_growth": -23.49
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 6331.0,
+          "ev_ebitda": 6.85,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 28657.0,
+          "ev_ebitda": 6.39,
+          "eva": -30967.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 30102.0,
+          "ev_ebitda": 6.2,
+          "eva": -7416.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 28337.0,
+          "ev_ebitda": 6.65,
+          "eva": -1950.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 30680.0,
+          "ev_ebitda": 6.57,
+          "eva": 1344.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "CJ CHEILJEDANG CORP.",
+      "ceo": "손경식,윤석환(각자 대표이사)",
+      "homepage": "www.cj.co.kr",
+      "established": "20070904",
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260618",
+          "stock_type": "11",
+          "shares_before": 1176321,
+          "shares_change": 48382,
+          "shares_after": 1224703,
+          "unit_price": 192900,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 9332887800,
+      "total_sell_amount": 0,
+      "net_amount": 9332887800,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623000341",
+      "obligation_date": "20260618"
+    },
+    {
+      "stock_name": "한화오션",
+      "stock_code": "042660",
+      "change_type": "증가",
+      "stake_pct": "6.66",
+      "stake_change": "0.19",
+      "stake_prev_pct": 6.47,
+      "ref_price": 104500,
+      "ref_date": "20260623",
+      "per": 20.71,
+      "pbr": 4.18,
+      "eps": 3892.0,
+      "bps": 24558.0,
+      "roe": 32.55,
+      "debt_ratio": 167.61,
+      "revenue_growth": 34.42,
+      "op_profit_growth": 86.76,
+      "fin_period": "202606",
+      "ev_ebitda": 17.95,
+      "ebitda": 13131.0,
+      "sector": "운송장비·부품",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 3892.0,
+          "bps": 24558.0,
+          "roe": 32.55,
+          "debt_ratio": 167.61,
+          "revenue_growth": 34.42,
+          "op_profit_growth": 86.76
+        },
+        {
+          "period": "202603",
+          "eps": 1632.0,
+          "bps": 22265.0,
+          "roe": 25.71,
+          "debt_ratio": 204.67,
+          "revenue_growth": 2.13,
+          "op_profit_growth": 70.55
+        },
+        {
+          "period": "202512",
+          "eps": 4066.0,
+          "bps": 20138.0,
+          "roe": 22.59,
+          "debt_ratio": 226.17,
+          "revenue_growth": 18.63,
+          "op_profit_growth": 390.84
+        },
+        {
+          "period": "202509",
+          "eps": 2067.0,
+          "bps": 17857.0,
+          "roe": 25.15,
+          "debt_ratio": 238.45,
+          "revenue_growth": 25.76,
+          "op_profit_growth": 1236.17
+        },
+        {
+          "period": "202506",
+          "eps": 1188.0,
+          "bps": 17040.0,
+          "roe": 18.19,
+          "debt_ratio": 250.26,
+          "revenue_growth": 33.56,
+          "op_profit_growth": 1356.44
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 13131.0,
+          "ev_ebitda": 17.95,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 14005.0,
+          "ev_ebitda": 28.42,
+          "eva": 5830.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4175.0,
+          "ev_ebitda": 38.82,
+          "eva": -9545.0
+        },
+        {
+          "period": "202312",
+          "ebitda": -505.0,
+          "ev_ebitda": -159.14,
+          "eva": -6362.0
+        },
+        {
+          "period": "202212",
+          "ebitda": -14831.0,
+          "ev_ebitda": 0.0,
+          "eva": -21038.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "Hanwha Ocean Co., Ltd.",
+      "ceo": "김희철",
+      "homepage": "www.hanwhaocean.com/pub/main/index.do",
+      "established": "20001023",
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Buy",
+          "trade_date": "20260618",
+          "stock_type": "11",
+          "shares_before": 19834812,
+          "shares_change": 578412,
+          "shares_after": 20413224,
+          "unit_price": 125100,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 72359341200,
+      "total_sell_amount": 0,
+      "net_amount": 72359341200,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623000338",
+      "obligation_date": "20260618"
+    },
+    {
+      "stock_name": "POSCO홀딩스",
+      "stock_code": "005490",
+      "change_type": "증가",
+      "stake_pct": "8.30",
+      "stake_change": "0.01",
+      "stake_prev_pct": 8.29,
+      "ref_price": 322000,
+      "ref_date": "20260623",
+      "per": 38.34,
+      "pbr": 0.42,
+      "eps": 5774.0,
+      "bps": 751025.0,
+      "roe": 1.46,
+      "debt_ratio": 70.91,
+      "revenue_growth": 2.52,
+      "op_profit_growth": 24.35,
+      "fin_period": "202603",
+      "ev_ebitda": 8.28,
+      "ebitda": 17607.0,
+      "sector": "금속",
+      "financial_ratio_history": [
+        {
+          "period": "202603",
+          "eps": 5774.0,
+          "bps": 751025.0,
+          "roe": 1.46,
+          "debt_ratio": 70.91,
+          "revenue_growth": 2.52,
+          "op_profit_growth": 24.35
+        },
+        {
+          "period": "202512",
+          "eps": 8085.0,
+          "bps": 736969.0,
+          "roe": 1.18,
+          "debt_ratio": 68.64,
+          "revenue_growth": -4.94,
+          "op_profit_growth": -15.94
+        },
+        {
+          "period": "202509",
+          "eps": 10837.0,
+          "bps": 735502.0,
+          "roe": 0.82,
+          "debt_ratio": 65.33,
+          "revenue_growth": -4.79,
+          "op_profit_growth": -12.69
+        },
+        {
+          "period": "202506",
+          "eps": 5652.0,
+          "bps": 722905.0,
+          "roe": 0.88,
+          "debt_ratio": 66.95,
+          "revenue_growth": -4.29,
+          "op_profit_growth": -11.94
+        },
+        {
+          "period": "202503",
+          "eps": 3660.0,
+          "bps": 734941.0,
+          "roe": 1.55,
+          "debt_ratio": 65.59,
+          "revenue_growth": -3.41,
+          "op_profit_growth": -2.5
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 17607.0,
+          "ev_ebitda": 8.28,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 59863.0,
+          "ev_ebitda": 7.77,
+          "eva": -54803.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 61580.0,
+          "ev_ebitda": 6.41,
+          "eva": -73240.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 73761.0,
+          "ev_ebitda": 7.73,
+          "eva": -83109.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 85436.0,
+          "ev_ebitda": 4.17,
+          "eva": -17120.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "POSCO Holdings Inc.",
+      "ceo": "대표이사 회장  장인화, 대표이사 사장  이주태",
+      "homepage": "www.posco-inc.com",
+      "established": "19680401",
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260618",
+          "stock_type": "11",
+          "shares_before": 6847357,
+          "shares_change": -270696,
+          "shares_after": 6576661,
+          "unit_price": 367000,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 0,
+      "total_sell_amount": 99345432000,
+      "net_amount": -99345432000,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260623000336",
+      "obligation_date": "20260618"
+    }
+  ]
 }
