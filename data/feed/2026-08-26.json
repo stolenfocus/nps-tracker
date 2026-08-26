@@ -1,0 +1,724 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T19:01:08.899064",
+  "count": 4,
+  "summary": {
+    "감소": 3,
+    "신규": 1
+  },
+  "highlights": [
+    "S-Oil",
+    "진성티이씨",
+    "HDC"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "S-Oil",
+      "stock_code": "010950",
+      "change_type": "신규",
+      "stake_pct": "9.70",
+      "stake_change": "9.70",
+      "stake_prev_pct": null,
+      "ref_price": 141000,
+      "ref_date": "20260826",
+      "per": 92.89,
+      "pbr": 1.85,
+      "eps": 10596.0,
+      "bps": 86631.0,
+      "roe": 16.33,
+      "debt_ratio": 199.86,
+      "revenue_growth": 19.06,
+      "op_profit_growth": 0.0,
+      "fin_period": "202606",
+      "ev_ebitda": 5.44,
+      "ebitda": 26198.0,
+      "sector": "화학",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 10596.0,
+          "bps": 86631.0,
+          "roe": 16.33,
+          "debt_ratio": 199.86,
+          "revenue_growth": 19.06,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202603",
+          "eps": 6183.0,
+          "bps": 82186.0,
+          "roe": 10.35,
+          "debt_ratio": 201.65,
+          "revenue_growth": -0.53,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202512",
+          "eps": 1518.0,
+          "bps": 76339.0,
+          "roe": 2.01,
+          "debt_ratio": 198.82,
+          "revenue_growth": -6.52,
+          "op_profit_growth": -44.19
+        },
+        {
+          "period": "202509",
+          "eps": -413.0,
+          "bps": 74265.0,
+          "roe": -2.06,
+          "debt_ratio": 189.02,
+          "revenue_growth": -8.17,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": -955.0,
+          "bps": 73706.0,
+          "roe": -5.11,
+          "debt_ratio": 186.39,
+          "revenue_growth": -9.75,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 26198.0,
+          "ev_ebitda": 5.44,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 10426.0,
+          "ev_ebitda": 14.97,
+          "eva": -6960.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 11741.0,
+          "ev_ebitda": 10.53,
+          "eva": -7979.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 20737.0,
+          "ev_ebitda": 5.74,
+          "eva": 1146.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 40550.0,
+          "ev_ebitda": 3.3,
+          "eva": 18289.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "S-Oil Corporation",
+      "ceo": "Anwar A. Al-Hejazi (안와르 에이 알-히즈아지)",
+      "homepage": "www.s-oil.com",
+      "established": "19760106",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20260821",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 11211829,
+          "shares_after": 11211829,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "33",
+          "trade_date": "20260821",
+          "stock_type": "2",
+          "shares_before": 0,
+          "shares_change": 27438,
+          "shares_after": 27438,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20260821",
+          "stock_type": "1",
+          "shares_before": 11211829,
+          "shares_change": 76348,
+          "shares_after": 11288177,
+          "unit_price": 154858,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        }
+      ],
+      "total_buy_amount": 11823098584,
+      "total_sell_amount": 0,
+      "net_amount": 11823098584,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000209",
+      "obligation_date": "20260821"
+    },
+    {
+      "stock_name": "진성티이씨",
+      "stock_code": "036890",
+      "change_type": "감소",
+      "stake_pct": "9.99",
+      "stake_change": "-0.30",
+      "stake_prev_pct": 10.29,
+      "ref_price": 13050,
+      "ref_date": "20260826",
+      "per": 8.93,
+      "pbr": 0.88,
+      "eps": 631.0,
+      "bps": 15399.0,
+      "roe": 13.84,
+      "debt_ratio": 75.42,
+      "revenue_growth": 27.98,
+      "op_profit_growth": 42.83,
+      "fin_period": "202603",
+      "ev_ebitda": 5.41,
+      "ebitda": 165.0,
+      "sector": "기계·장비",
+      "financial_ratio_history": [
+        {
+          "period": "202603",
+          "eps": 631.0,
+          "bps": 15399.0,
+          "roe": 13.84,
+          "debt_ratio": 75.42,
+          "revenue_growth": 27.98,
+          "op_profit_growth": 42.83
+        },
+        {
+          "period": "202512",
+          "eps": 1461.0,
+          "bps": 14795.0,
+          "roe": 11.66,
+          "debt_ratio": 72.81,
+          "revenue_growth": 18.77,
+          "op_profit_growth": 96.15
+        },
+        {
+          "period": "202509",
+          "eps": 1065.0,
+          "bps": 14165.0,
+          "roe": 13.02,
+          "debt_ratio": 77.09,
+          "revenue_growth": 13.51,
+          "op_profit_growth": 127.7
+        },
+        {
+          "period": "202506",
+          "eps": 579.0,
+          "bps": 13268.0,
+          "roe": 9.38,
+          "debt_ratio": 72.76,
+          "revenue_growth": 7.71,
+          "op_profit_growth": 99.65
+        },
+        {
+          "period": "202503",
+          "eps": 294.0,
+          "bps": 13264.0,
+          "roe": 9.01,
+          "debt_ratio": 82.68,
+          "revenue_growth": -0.4,
+          "op_profit_growth": 59.87
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202603",
+          "ebitda": 165.0,
+          "ev_ebitda": 5.41,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 607.0,
+          "ev_ebitda": 5.1,
+          "eva": 64.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 343.0,
+          "ev_ebitda": 4.91,
+          "eva": -106.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 512.0,
+          "ev_ebitda": 4.32,
+          "eva": -3.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 791.0,
+          "ev_ebitda": 4.4,
+          "eva": 184.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "JINSUNG T.E.C",
+      "ceo": "윤성수, 윤준수(공동대표이사)",
+      "homepage": "www.jinsungtec.com",
+      "established": "19820428",
+      "trades": [
+        {
+          "reason": "01",
+          "trade_date": "20260701",
+          "stock_type": "1",
+          "shares_before": 2266594,
+          "shares_change": 34383,
+          "shares_after": 2300977,
+          "unit_price": 13999,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260810",
+          "stock_type": "1",
+          "shares_before": 2300977,
+          "shares_change": 2431,
+          "shares_after": 2303408,
+          "unit_price": 14271,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260810",
+          "stock_type": "1",
+          "shares_before": 2303408,
+          "shares_change": -11288,
+          "shares_after": 2292120,
+          "unit_price": 14220,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260811",
+          "stock_type": "1",
+          "shares_before": 2292120,
+          "shares_change": 2323,
+          "shares_after": 2294443,
+          "unit_price": 13945,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260811",
+          "stock_type": "1",
+          "shares_before": 2294443,
+          "shares_change": -5964,
+          "shares_after": 2288479,
+          "unit_price": 13941,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260812",
+          "stock_type": "1",
+          "shares_before": 2288479,
+          "shares_change": -6966,
+          "shares_after": 2281513,
+          "unit_price": 14415,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260814",
+          "stock_type": "1",
+          "shares_before": 2281513,
+          "shares_change": 2021,
+          "shares_after": 2283534,
+          "unit_price": 14588,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260818",
+          "stock_type": "1",
+          "shares_before": 2283534,
+          "shares_change": -10000,
+          "shares_after": 2273534,
+          "unit_price": 14300,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260819",
+          "stock_type": "1",
+          "shares_before": 2273534,
+          "shares_change": -12000,
+          "shares_after": 2261534,
+          "unit_price": 14458,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260820",
+          "stock_type": "1",
+          "shares_before": 2261534,
+          "shares_change": 1582,
+          "shares_after": 2263116,
+          "unit_price": 12831,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260820",
+          "stock_type": "1",
+          "shares_before": 2263116,
+          "shares_change": -6000,
+          "shares_after": 2257116,
+          "unit_price": 12805,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "01",
+          "trade_date": "20260821",
+          "stock_type": "1",
+          "shares_before": 2257116,
+          "shares_change": 1169,
+          "shares_after": 2258285,
+          "unit_price": 12495,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260821",
+          "stock_type": "1",
+          "shares_before": 2258285,
+          "shares_change": -10000,
+          "shares_after": 2248285,
+          "unit_price": 12474,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260824",
+          "stock_type": "1",
+          "shares_before": 2248285,
+          "shares_change": -23951,
+          "shares_after": 2224334,
+          "unit_price": 12322,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260825",
+          "stock_type": "1",
+          "shares_before": 2224334,
+          "shares_change": -23381,
+          "shares_after": 2200953,
+          "unit_price": 11857,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 612802298,
+      "total_sell_amount": 1434493113,
+      "net_amount": -821690815,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000212",
+      "obligation_date": "20260825"
+    },
+    {
+      "stock_name": "HDC",
+      "stock_code": "012630",
+      "change_type": "감소",
+      "stake_pct": "5.80",
+      "stake_change": "-0.28",
+      "stake_prev_pct": 6.08,
+      "ref_price": 23000,
+      "ref_date": "20260826",
+      "per": 4.57,
+      "pbr": 0.39,
+      "eps": 4534.0,
+      "bps": 64552.0,
+      "roe": 14.82,
+      "debt_ratio": 120.5,
+      "revenue_growth": -17.95,
+      "op_profit_growth": 27.23,
+      "fin_period": "202606",
+      "ev_ebitda": 7.03,
+      "ebitda": 4857.0,
+      "sector": "금융",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 4534.0,
+          "bps": 64552.0,
+          "roe": 14.82,
+          "debt_ratio": 120.5,
+          "revenue_growth": -17.95,
+          "op_profit_growth": 27.23
+        },
+        {
+          "period": "202603",
+          "eps": 1149.0,
+          "bps": 60098.0,
+          "roe": 10.55,
+          "debt_ratio": 125.96,
+          "revenue_growth": -19.69,
+          "op_profit_growth": 16.47
+        },
+        {
+          "period": "202512",
+          "eps": 5038.0,
+          "bps": 59006.0,
+          "roe": 10.82,
+          "debt_ratio": 133.68,
+          "revenue_growth": 6.2,
+          "op_profit_growth": 88.24
+        },
+        {
+          "period": "202509",
+          "eps": 3424.0,
+          "bps": 57072.0,
+          "roe": 9.19,
+          "debt_ratio": 145.25,
+          "revenue_growth": 16.21,
+          "op_profit_growth": 104.77
+        },
+        {
+          "period": "202506",
+          "eps": 2194.0,
+          "bps": 55613.0,
+          "roe": 8.26,
+          "debt_ratio": 145.33,
+          "revenue_growth": 16.26,
+          "op_profit_growth": 101.02
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 4857.0,
+          "ev_ebitda": 7.03,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 7998.0,
+          "ev_ebitda": 7.89,
+          "eva": 1522.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 4723.0,
+          "ev_ebitda": 12.75,
+          "eva": -1629.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 4367.0,
+          "ev_ebitda": 12.49,
+          "eva": -876.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 2607.0,
+          "ev_ebitda": 21.36,
+          "eva": -3330.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "HDC HOLDINGS CO.,Ltd",
+      "ceo": "정몽규, 도기탁 (각자 대표이사)",
+      "homepage": "www.hdc-holdings.com",
+      "established": "19771014",
+      "trades": [
+        {
+          "reason": "",
+          "reason_text": "Sell",
+          "trade_date": "20260825",
+          "stock_type": "11",
+          "shares_before": 3630775,
+          "shares_change": -164773,
+          "shares_after": 3466002,
+          "unit_price": 21550,
+          "estimated": true,
+          "note": "-"
+        }
+      ],
+      "total_buy_amount": 0,
+      "total_sell_amount": 3550858150,
+      "net_amount": -3550858150,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000408",
+      "obligation_date": "20260825"
+    },
+    {
+      "stock_name": "S-Oil",
+      "stock_code": "010950",
+      "change_type": "감소",
+      "stake_pct": "9.66",
+      "stake_change": "-0.04",
+      "stake_prev_pct": 9.7,
+      "ref_price": 141000,
+      "ref_date": "20260826",
+      "per": 92.89,
+      "pbr": 1.85,
+      "eps": 10596.0,
+      "bps": 86631.0,
+      "roe": 16.33,
+      "debt_ratio": 199.86,
+      "revenue_growth": 19.06,
+      "op_profit_growth": 0.0,
+      "fin_period": "202606",
+      "ev_ebitda": 5.44,
+      "ebitda": 26198.0,
+      "sector": "화학",
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 10596.0,
+          "bps": 86631.0,
+          "roe": 16.33,
+          "debt_ratio": 199.86,
+          "revenue_growth": 19.06,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202603",
+          "eps": 6183.0,
+          "bps": 82186.0,
+          "roe": 10.35,
+          "debt_ratio": 201.65,
+          "revenue_growth": -0.53,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202512",
+          "eps": 1518.0,
+          "bps": 76339.0,
+          "roe": 2.01,
+          "debt_ratio": 198.82,
+          "revenue_growth": -6.52,
+          "op_profit_growth": -44.19
+        },
+        {
+          "period": "202509",
+          "eps": -413.0,
+          "bps": 74265.0,
+          "roe": -2.06,
+          "debt_ratio": 189.02,
+          "revenue_growth": -8.17,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202506",
+          "eps": -955.0,
+          "bps": 73706.0,
+          "roe": -5.11,
+          "debt_ratio": 186.39,
+          "revenue_growth": -9.75,
+          "op_profit_growth": 0.0
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 26198.0,
+          "ev_ebitda": 5.44,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 10426.0,
+          "ev_ebitda": 14.97,
+          "eva": -6960.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 11741.0,
+          "ev_ebitda": 10.53,
+          "eva": -7979.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 20737.0,
+          "ev_ebitda": 5.74,
+          "eva": 1146.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 40550.0,
+          "ev_ebitda": 3.3,
+          "eva": 18289.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "S-Oil Corporation",
+      "ceo": "Anwar A. Al-Hejazi (안와르 에이 알-히즈아지)",
+      "homepage": "www.s-oil.com",
+      "established": "19760106",
+      "trades": [
+        {
+          "reason": "01",
+          "trade_date": "20260824",
+          "stock_type": "1",
+          "shares_before": 11288177,
+          "shares_change": 7609,
+          "shares_after": 11295786,
+          "unit_price": 145217,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매수(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20260824",
+          "stock_type": "1",
+          "shares_before": 11295786,
+          "shares_change": -54256,
+          "shares_after": 11241530,
+          "unit_price": 143674,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 1104956153,
+      "total_sell_amount": 7795176544,
+      "net_amount": -6690220391,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260826000210",
+      "obligation_date": "20260824"
+    }
+  ]
+}
