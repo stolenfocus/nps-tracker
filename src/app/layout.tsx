@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "Track Korea's National Pension Service (NPS) stock holdings: 1,200+ Korean companies via DART, 561 US stocks via SEC 13F, backtested momentum strategies, global superinvestor cross-reference.",
 };
 
-const GA_MEASUREMENT_ID = "G-ZBJWSM69SL";
+const GA_MEASUREMENT_ID = "G-50W8Y3Z5H7";
 
 const siteJsonLd = {
   "@context": "https://schema.org",
