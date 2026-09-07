@@ -30,7 +30,7 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
       <div className="space-y-6 text-sm text-slate-300 leading-relaxed">
         <section className="bg-navy-light border border-navy-lighter rounded-xl p-6">
           <h2 className="text-lg font-semibold text-white mb-3">
-            {isKo ? "🐛 GitHub Issues (권장)" : "🐛 GitHub Issues (preferred)"}
+            {isKo ? "🐛 GitHub Issues" : "🐛 GitHub Issues"}
           </h2>
           <p className="mb-3">
             {isKo
