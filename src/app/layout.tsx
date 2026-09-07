@@ -18,6 +18,8 @@ export const metadata: Metadata = {
     "Track Korea's National Pension Service (NPS) stock holdings: 1,200+ Korean companies via DART, 561 US stocks via SEC 13F, backtested momentum strategies, global superinvestor cross-reference.",
 };
 
+const GA_MEASUREMENT_ID = "G-ZBJWSM69SL";
+
 const siteJsonLd = {
   "@context": "https://schema.org",
   "@graph": [
@@ -51,6 +53,18 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }}
+        />
+        <script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${GA_MEASUREMENT_ID}');`,
+          }}
         />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
