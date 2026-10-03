@@ -1,163 +1,168 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T19:00:18.837169",
-  "count": 1,
-  "summary": {
-    "신규": 1
-  },
-  "highlights": [
-    "한미약품"
-  ],
-  "disclosures": [
+ "date": "2026-09-29",
+ "generated_at": "2026-09-29T19:00:18.837169",
+ "count": 1,
+ "summary": {
+  "신규": 1
+ },
+ "highlights": [
+  "한미약품"
+ ],
+ "disclosures": [
+  {
+   "stock_name": "한미약품",
+   "stock_code": "128940",
+   "change_type": "신규",
+   "stake_pct": "10.04",
+   "stake_change": "10.04",
+   "stake_prev_pct": null,
+   "ref_price": 501000,
+   "ref_date": "20260929",
+   "per": 37.74,
+   "pbr": 5.07,
+   "eps": 10054.0,
+   "bps": 110632.0,
+   "roe": 17.14,
+   "debt_ratio": 46.86,
+   "revenue_growth": 14.35,
+   "op_profit_growth": 54.65,
+   "fin_period": "202606",
+   "ev_ebitda": 12.51,
+   "ebitda": 2345.0,
+   "sector": "제약",
+   "financial_ratio_history": [
     {
-      "stock_name": "한미약품",
-      "stock_code": "128940",
-      "change_type": "신규",
-      "stake_pct": "10.04",
-      "stake_change": "10.04",
-      "stake_prev_pct": null,
-      "ref_price": 501000,
-      "ref_date": "20260929",
-      "per": 37.74,
-      "pbr": 5.07,
-      "eps": 10054.0,
-      "bps": 110632.0,
-      "roe": 17.14,
-      "debt_ratio": 46.86,
-      "revenue_growth": 14.35,
-      "op_profit_growth": 54.65,
-      "fin_period": "202606",
-      "ev_ebitda": 12.51,
-      "ebitda": 2345.0,
-      "sector": "제약",
-      "financial_ratio_history": [
-        {
-          "period": "202606",
-          "eps": 10054.0,
-          "bps": 110632.0,
-          "roe": 17.14,
-          "debt_ratio": 46.86,
-          "revenue_growth": 14.35,
-          "op_profit_growth": 54.65
-        },
-        {
-          "period": "202603",
-          "eps": 3551.0,
-          "bps": 102445.0,
-          "roe": 14.29,
-          "debt_ratio": 50.54,
-          "revenue_growth": 0.51,
-          "op_profit_growth": -9.1
-        },
-        {
-          "period": "202512",
-          "eps": 13235.0,
-          "bps": 98560.0,
-          "roe": 14.53,
-          "debt_ratio": 50.23,
-          "revenue_growth": 3.48,
-          "op_profit_growth": 19.25
-        },
-        {
-          "period": "202509",
-          "eps": 9479.0,
-          "bps": 93381.0,
-          "roe": 10.29,
-          "debt_ratio": 51.63,
-          "revenue_growth": -2.56,
-          "op_profit_growth": -6.03
-        },
-        {
-          "period": "202506",
-          "eps": 6347.0,
-          "bps": 89001.0,
-          "roe": 9.83,
-          "debt_ratio": 53.4,
-          "revenue_growth": -3.79,
-          "op_profit_growth": -11.35
-        }
-      ],
-      "ebitda_history": [
-        {
-          "period": "202606",
-          "ebitda": 2345.0,
-          "ev_ebitda": 12.51,
-          "eva": 0.0
-        },
-        {
-          "period": "202512",
-          "ebitda": 3566.0,
-          "ev_ebitda": 17.38,
-          "eva": 953.0
-        },
-        {
-          "period": "202412",
-          "ebitda": 3135.0,
-          "ev_ebitda": 12.93,
-          "eva": 317.0
-        },
-        {
-          "period": "202312",
-          "ebitda": 3191.0,
-          "ev_ebitda": 15.6,
-          "eva": 454.0
-        },
-        {
-          "period": "202212",
-          "ebitda": 2549.0,
-          "ev_ebitda": 16.96,
-          "eva": 205.0
-        }
-      ],
-      "sector_detail": "",
-      "nxt_available": false,
-      "name_eng": "Hanmi Pharm. Co., Ltd.",
-      "ceo": "황상연",
-      "homepage": "-",
-      "established": "20100705",
-      "trades": [
-        {
-          "reason": "33",
-          "trade_date": "20260921",
-          "stock_type": "1",
-          "shares_before": 0,
-          "shares_change": 1275890,
-          "shares_after": 1275890,
-          "unit_price": 0,
-          "estimated": false,
-          "note": "기존보유",
-          "reason_text": "신규보고(+)"
-        },
-        {
-          "reason": "32",
-          "trade_date": "20260921",
-          "stock_type": "1",
-          "shares_before": 1275890,
-          "shares_change": 10750,
-          "shares_after": 1286640,
-          "unit_price": 519699,
-          "estimated": false,
-          "note": "장내매수(+) 10%이상",
-          "reason_text": "신규주요주주(+)"
-        },
-        {
-          "reason": "02",
-          "trade_date": "20260921",
-          "stock_type": "1",
-          "shares_before": 1286640,
-          "shares_change": -498,
-          "shares_after": 1286142,
-          "unit_price": 516933,
-          "estimated": false,
-          "note": "-",
-          "reason_text": "장내매도(-)"
-        }
-      ],
-      "total_buy_amount": 5586764250,
-      "total_sell_amount": 257432634,
-      "net_amount": 5329331616,
-      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000085",
-      "obligation_date": "20260921"
+     "period": "202606",
+     "eps": 10054.0,
+     "bps": 110632.0,
+     "roe": 17.14,
+     "debt_ratio": 46.86,
+     "revenue_growth": 14.35,
+     "op_profit_growth": 54.65
+    },
+    {
+     "period": "202603",
+     "eps": 3551.0,
+     "bps": 102445.0,
+     "roe": 14.29,
+     "debt_ratio": 50.54,
+     "revenue_growth": 0.51,
+     "op_profit_growth": -9.1
+    },
+    {
+     "period": "202512",
+     "eps": 13235.0,
+     "bps": 98560.0,
+     "roe": 14.53,
+     "debt_ratio": 50.23,
+     "revenue_growth": 3.48,
+     "op_profit_growth": 19.25
+    },
+    {
+     "period": "202509",
+     "eps": 9479.0,
+     "bps": 93381.0,
+     "roe": 10.29,
+     "debt_ratio": 51.63,
+     "revenue_growth": -2.56,
+     "op_profit_growth": -6.03
+    },
+    {
+     "period": "202506",
+     "eps": 6347.0,
+     "bps": 89001.0,
+     "roe": 9.83,
+     "debt_ratio": 53.4,
+     "revenue_growth": -3.79,
+     "op_profit_growth": -11.35
     }
-  ]
+   ],
+   "ebitda_history": [
+    {
+     "period": "202606",
+     "ebitda": 2345.0,
+     "ev_ebitda": 12.51,
+     "eva": 0.0
+    },
+    {
+     "period": "202512",
+     "ebitda": 3566.0,
+     "ev_ebitda": 17.38,
+     "eva": 953.0
+    },
+    {
+     "period": "202412",
+     "ebitda": 3135.0,
+     "ev_ebitda": 12.93,
+     "eva": 317.0
+    },
+    {
+     "period": "202312",
+     "ebitda": 3191.0,
+     "ev_ebitda": 15.6,
+     "eva": 454.0
+    },
+    {
+     "period": "202212",
+     "ebitda": 2549.0,
+     "ev_ebitda": 16.96,
+     "eva": 205.0
+    }
+   ],
+   "sector_detail": "",
+   "nxt_available": false,
+   "name_eng": "Hanmi Pharm. Co., Ltd.",
+   "ceo": "황상연",
+   "homepage": "-",
+   "established": "20100705",
+   "trades": [
+    {
+     "reason": "33",
+     "trade_date": "20260921",
+     "stock_type": "1",
+     "shares_before": 0,
+     "shares_change": 1275890,
+     "shares_after": 1275890,
+     "unit_price": 0,
+     "estimated": false,
+     "note": "기존보유",
+     "reason_text": "신규보고(+)"
+    },
+    {
+     "reason": "32",
+     "trade_date": "20260921",
+     "stock_type": "1",
+     "shares_before": 1275890,
+     "shares_change": 10750,
+     "shares_after": 1286640,
+     "unit_price": 519699,
+     "estimated": false,
+     "note": "장내매수(+) 10%이상",
+     "reason_text": "신규주요주주(+)"
+    },
+    {
+     "reason": "02",
+     "trade_date": "20260921",
+     "stock_type": "1",
+     "shares_before": 1286640,
+     "shares_change": -498,
+     "shares_after": 1286142,
+     "unit_price": 516933,
+     "estimated": false,
+     "note": "-",
+     "reason_text": "장내매도(-)"
+    }
+   ],
+   "total_buy_amount": 668449064856,
+   "total_sell_amount": 0,
+   "net_amount": 668449064856,
+   "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929000085",
+   "obligation_date": "20260921",
+   "net_amount_detail": 5329331616,
+   "net_amount_basis": "stake",
+   "listed_shares": 12810991,
+   "total_buy_amount_detail": 5586764250,
+   "total_sell_amount_detail": 257432634
+  }
+ ]
 }

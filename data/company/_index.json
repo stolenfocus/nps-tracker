@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-23T12:49:29",
-  "count": 599,
+  "generated_at": "2026-10-03T15:36:56",
+  "count": 604,
   "companies": {
     "294870": {
       "stock_name": "IPARK현대산업개발",
       "name_eng": "IPARK HYUNDAI DEVELOPMENT COMPANY",
       "sector": "건설",
-      "filing_count": 63,
-      "latest_stake_pct": 10.13,
+      "filing_count": 64,
+      "latest_stake_pct": 11.44,
       "first_seen": "20180612",
-      "last_seen": "20260630"
+      "last_seen": "20260820"
     },
     "032350": {
       "stock_name": "롯데관광개발",
       "name_eng": "LOTTE TOUR DEVELOPMENT CO.,LTD",
       "sector": "일반서비스",
-      "filing_count": 38,
-      "latest_stake_pct": 8.89,
+      "filing_count": 39,
+      "latest_stake_pct": 7.8,
       "first_seen": "20190918",
-      "last_seen": "20260720"
+      "last_seen": "20260723"
     },
     "111770": {
       "stock_name": "영원무역",
@@ -51,19 +51,19 @@
       "stock_name": "엘앤에프",
       "name_eng": "L&F CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 11,
-      "latest_stake_pct": 8.63,
+      "filing_count": 12,
+      "latest_stake_pct": 8.58,
       "first_seen": "20210715",
-      "last_seen": "20260622"
+      "last_seen": "20260827"
     },
     "195870": {
       "stock_name": "해성디에스",
       "name_eng": "HAESUNG DS Co.,Ltd.",
       "sector": "전기·전자",
-      "filing_count": 31,
-      "latest_stake_pct": 5.94,
+      "filing_count": 32,
+      "latest_stake_pct": 3.83,
       "first_seen": "20180827",
-      "last_seen": "20260623"
+      "last_seen": "20260909"
     },
     "204320": {
       "stock_name": "HL만도",
@@ -78,46 +78,46 @@
       "stock_name": "테스",
       "name_eng": "TESCO.,LTD.",
       "sector": "기계·장비",
-      "filing_count": 16,
-      "latest_stake_pct": 9.96,
+      "filing_count": 17,
+      "latest_stake_pct": 8.42,
       "first_seen": "20180806",
-      "last_seen": "20260311"
+      "last_seen": "20260902"
     },
     "036890": {
       "stock_name": "진성티이씨",
       "name_eng": "JINSUNG T.E.C",
       "sector": "기계·장비",
-      "filing_count": 8,
-      "latest_stake_pct": 10.29,
+      "filing_count": 9,
+      "latest_stake_pct": 9.99,
       "first_seen": "20171103",
-      "last_seen": "20260630"
+      "last_seen": "20260825"
     },
     "011210": {
       "stock_name": "현대위아",
       "name_eng": "HYUNDAI WIA",
       "sector": "운송장비·부품",
-      "filing_count": 55,
-      "latest_stake_pct": 7.31,
+      "filing_count": 56,
+      "latest_stake_pct": 6.26,
       "first_seen": "20171010",
-      "last_seen": "20260608"
+      "last_seen": "20260716"
     },
     "060980": {
       "stock_name": "HL홀딩스",
       "name_eng": "HL Holdings Corporation",
       "sector": "금융",
-      "filing_count": 24,
-      "latest_stake_pct": 7.39,
+      "filing_count": 25,
+      "latest_stake_pct": 6.37,
       "first_seen": "20171010",
-      "last_seen": "20260529"
+      "last_seen": "20260922"
     },
     "023160": {
       "stock_name": "태광",
       "name_eng": "T. K. CORPORATION",
       "sector": "금속",
-      "filing_count": 19,
-      "latest_stake_pct": 6.57,
+      "filing_count": 20,
+      "latest_stake_pct": 5.53,
       "first_seen": "20180130",
-      "last_seen": "20260403"
+      "last_seen": "20260709"
     },
     "077970": {
       "stock_name": "STX엔진",
@@ -159,73 +159,73 @@
       "stock_name": "파라다이스",
       "name_eng": "PARADISE.Co.,Ltd.",
       "sector": "오락·문화",
-      "filing_count": 8,
-      "latest_stake_pct": 9.58,
+      "filing_count": 9,
+      "latest_stake_pct": 8.39,
       "first_seen": "20171031",
-      "last_seen": "20260721"
+      "last_seen": "20260811"
     },
     "006650": {
       "stock_name": "대한유화",
       "name_eng": "KOREA PETRO CHEMICAL IND CO.,LTD",
       "sector": "화학",
-      "filing_count": 65,
-      "latest_stake_pct": 9.89,
+      "filing_count": 67,
+      "latest_stake_pct": 10.93,
       "first_seen": "20171010",
-      "last_seen": "20260806"
+      "last_seen": "20260915"
     },
     "499790": {
       "stock_name": "GS피앤엘",
       "name_eng": "GS P&L Co., Ltd.",
       "sector": "금융",
-      "filing_count": 5,
-      "latest_stake_pct": 6.06,
+      "filing_count": 6,
+      "latest_stake_pct": 7.13,
       "first_seen": "20241223",
-      "last_seen": "20251202"
+      "last_seen": "20260703"
     },
     "319660": {
       "stock_name": "피에스케이",
       "name_eng": "PSK INC.",
       "sector": "기계·장비",
-      "filing_count": 18,
-      "latest_stake_pct": 7.12,
+      "filing_count": 19,
+      "latest_stake_pct": 6.04,
       "first_seen": "20191112",
-      "last_seen": "20260427"
+      "last_seen": "20260724"
     },
     "120110": {
       "stock_name": "코오롱인더",
       "name_eng": "KOLON INDUSTRIES, INC.",
       "sector": "화학",
-      "filing_count": 33,
-      "latest_stake_pct": 10.05,
+      "filing_count": 34,
+      "latest_stake_pct": 12.92,
       "first_seen": "20171010",
-      "last_seen": "20260630"
+      "last_seen": "20260923"
     },
     "105630": {
       "stock_name": "한세실업",
       "name_eng": "HANSAE CO.,LTD.",
       "sector": "섬유·의류",
-      "filing_count": 74,
-      "latest_stake_pct": 4.76,
+      "filing_count": 75,
+      "latest_stake_pct": 5.02,
       "first_seen": "20171010",
-      "last_seen": "20260520"
+      "last_seen": "20260713"
     },
     "011070": {
       "stock_name": "LG이노텍",
       "name_eng": "LG INNOTEK CO., LTD.",
       "sector": "전기·전자",
-      "filing_count": 90,
-      "latest_stake_pct": 9.97,
+      "filing_count": 91,
+      "latest_stake_pct": 7.44,
       "first_seen": "20171010",
-      "last_seen": "20260626"
+      "last_seen": "20260917"
     },
     "194370": {
       "stock_name": "제이에스코퍼레이션",
       "name_eng": "JS Corporation",
       "sector": "섬유·의류",
-      "filing_count": 4,
-      "latest_stake_pct": 6.08,
+      "filing_count": 5,
+      "latest_stake_pct": 7.12,
       "first_seen": "20240626",
-      "last_seen": "20251216"
+      "last_seen": "20260803"
     },
     "218410": {
       "stock_name": "RFHIC",
@@ -258,19 +258,19 @@
       "stock_name": "현대엘리베이터",
       "name_eng": "HYUNDAI ELEVATOR CO.,LTD",
       "sector": "기계·장비",
-      "filing_count": 36,
-      "latest_stake_pct": 9.97,
+      "filing_count": 37,
+      "latest_stake_pct": 9.27,
       "first_seen": "20180104",
-      "last_seen": "20260630"
+      "last_seen": "20260811"
     },
     "010950": {
       "stock_name": "S-Oil",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 13,
-      "latest_stake_pct": 9.35,
+      "name_eng": "S-Oil Corporation",
+      "sector": "화학",
+      "filing_count": 16,
+      "latest_stake_pct": 9.7,
       "first_seen": "20200201",
-      "last_seen": "20260211"
+      "last_seen": "20260908"
     },
     "009150": {
       "stock_name": "삼성전기",
@@ -294,10 +294,10 @@
       "stock_name": "두산테스나",
       "name_eng": "DOOSAN TESNA Inc.",
       "sector": "일반서비스",
-      "filing_count": 41,
-      "latest_stake_pct": 4.95,
+      "filing_count": 42,
+      "latest_stake_pct": 5.1,
       "first_seen": "20190514",
-      "last_seen": "20260320"
+      "last_seen": "20260918"
     },
     "018880": {
       "stock_name": "한온시스템",
@@ -321,55 +321,55 @@
       "stock_name": "코리아써키트",
       "name_eng": "KOREA CIRCUIT CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 12,
-      "latest_stake_pct": 8.6,
+      "filing_count": 13,
+      "latest_stake_pct": 6.55,
       "first_seen": "20171031",
-      "last_seen": "20260702"
+      "last_seen": "20260904"
     },
     "089970": {
       "stock_name": "브이엠",
       "name_eng": "VM Inc.",
       "sector": "기계·장비",
-      "filing_count": 3,
-      "latest_stake_pct": 8.05,
+      "filing_count": 4,
+      "latest_stake_pct": 6.71,
       "first_seen": "20251223",
-      "last_seen": "20260623"
+      "last_seen": "20260922"
     },
     "017960": {
       "stock_name": "한국카본",
       "name_eng": "HANKUK CARBON CO.,LTD",
       "sector": "금속",
-      "filing_count": 42,
-      "latest_stake_pct": 9.48,
+      "filing_count": 43,
+      "latest_stake_pct": 8.48,
       "first_seen": "20180129",
-      "last_seen": "20260515"
+      "last_seen": "20260805"
     },
     "237690": {
       "stock_name": "에스티팜",
       "name_eng": "ST PHARM CO., LTD.",
       "sector": "제약",
-      "filing_count": 9,
-      "latest_stake_pct": 6.07,
+      "filing_count": 10,
+      "latest_stake_pct": 5.77,
       "first_seen": "20210819",
-      "last_seen": "20260219"
+      "last_seen": "20260907"
     },
     "483650": {
       "stock_name": "달바글로벌",
       "name_eng": "d'Alba Global Co., Ltd.",
       "sector": "화학",
-      "filing_count": 6,
-      "latest_stake_pct": 9.49,
+      "filing_count": 7,
+      "latest_stake_pct": 8.5,
       "first_seen": "20250707",
-      "last_seen": "20260602"
+      "last_seen": "20260812"
     },
     "020000": {
       "stock_name": "한섬",
       "name_eng": "HANDSOME CORPORATION",
       "sector": "섬유·의류",
-      "filing_count": 39,
-      "latest_stake_pct": 9.77,
+      "filing_count": 40,
+      "latest_stake_pct": 8.18,
       "first_seen": "20171010",
-      "last_seen": "20260812"
+      "last_seen": "20260827"
     },
     "264450": {
       "stock_name": "유비쿼스",
@@ -409,12 +409,12 @@
     },
     "018670": {
       "stock_name": "SK가스",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 10,
-      "latest_stake_pct": 6.01,
+      "name_eng": "SK GAS LTD",
+      "sector": "유통",
+      "filing_count": 11,
+      "latest_stake_pct": 7.04,
       "first_seen": "20171023",
-      "last_seen": "20260324"
+      "last_seen": "20260827"
     },
     "010620": {
       "stock_name": "에이치디현대미포",
@@ -456,10 +456,10 @@
       "stock_name": "한화비전",
       "name_eng": "Hanwha Vision CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 7,
-      "latest_stake_pct": 9.88,
+      "filing_count": 8,
+      "latest_stake_pct": 8.5,
       "first_seen": "20240927",
-      "last_seen": "20260313"
+      "last_seen": "20260708"
     },
     "139480": {
       "stock_name": "이마트",
@@ -510,10 +510,10 @@
       "stock_name": "대한항공",
       "name_eng": "KOREAN AIR LINES CO.,LTD",
       "sector": "운송·창고",
-      "filing_count": 42,
-      "latest_stake_pct": 8.1,
+      "filing_count": 43,
+      "latest_stake_pct": 9.12,
       "first_seen": "20171019",
-      "last_seen": "20260625"
+      "last_seen": "20260714"
     },
     "059090": {
       "stock_name": "미코",
@@ -528,19 +528,19 @@
       "stock_name": "NC",
       "name_eng": "NC Corporation",
       "sector": "IT 서비스",
-      "filing_count": 42,
-      "latest_stake_pct": 11.08,
+      "filing_count": 44,
+      "latest_stake_pct": 9.76,
       "first_seen": "20171010",
-      "last_seen": "20260630"
+      "last_seen": "20260914"
     },
     "003030": {
       "stock_name": "세아제강지주",
       "name_eng": "SeAH Steel Holdings Corporation",
       "sector": "금융",
-      "filing_count": 35,
-      "latest_stake_pct": 5.86,
+      "filing_count": 36,
+      "latest_stake_pct": 5.04,
       "first_seen": "20171205",
-      "last_seen": "20260623"
+      "last_seen": "20260922"
     },
     "035900": {
       "stock_name": "JYP Ent.",
@@ -564,10 +564,10 @@
       "stock_name": "비나텍",
       "name_eng": "VINA TECH CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 9,
-      "latest_stake_pct": 5.12,
+      "filing_count": 10,
+      "latest_stake_pct": 3.4,
       "first_seen": "20210914",
-      "last_seen": "20260617"
+      "last_seen": "20260720"
     },
     "241590": {
       "stock_name": "화승엔터프라이즈",
@@ -582,19 +582,19 @@
       "stock_name": "이수페타시스",
       "name_eng": "ISUPETASYS CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 44,
-      "latest_stake_pct": 9.92,
+      "filing_count": 45,
+      "latest_stake_pct": 10.02,
       "first_seen": "20180906",
-      "last_seen": "20260520"
+      "last_seen": "20260929"
     },
     "001120": {
       "stock_name": "LX인터내셔널",
       "name_eng": "LX INTERNATIONAL CORP.",
       "sector": "유통",
-      "filing_count": 43,
-      "latest_stake_pct": 9.94,
+      "filing_count": 44,
+      "latest_stake_pct": 8.72,
       "first_seen": "20171010",
-      "last_seen": "20260624"
+      "last_seen": "20260702"
     },
     "100840": {
       "stock_name": "SNT에너지",
@@ -636,10 +636,10 @@
       "stock_name": "DL이앤씨",
       "name_eng": "DL E&C CO.,LTD.",
       "sector": "건설",
-      "filing_count": 58,
-      "latest_stake_pct": 10.45,
+      "filing_count": 59,
+      "latest_stake_pct": 12.27,
       "first_seen": "20210125",
-      "last_seen": "20260630"
+      "last_seen": "20260819"
     },
     "213420": {
       "stock_name": "덕산네오룩스",
@@ -762,10 +762,10 @@
       "stock_name": "케이씨텍",
       "name_eng": "KCTECH CO., LTD",
       "sector": "의료·정밀기기",
-      "filing_count": 34,
-      "latest_stake_pct": 4.42,
+      "filing_count": 35,
+      "latest_stake_pct": 4.06,
       "first_seen": "20171205",
-      "last_seen": "20260331"
+      "last_seen": "20260819"
     },
     "170900": {
       "stock_name": "동아에스티",
@@ -787,30 +787,30 @@
     },
     "004370": {
       "stock_name": "농심",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 63,
-      "latest_stake_pct": 5.9,
+      "name_eng": "NONGSHIM CO.,LTD",
+      "sector": "음식료·담배",
+      "filing_count": 64,
+      "latest_stake_pct": 6.93,
       "first_seen": "20171010",
-      "last_seen": "20260121"
+      "last_seen": "20260831"
     },
     "000210": {
       "stock_name": "DL",
       "name_eng": "DL Holdings CO.,LTD",
       "sector": "화학",
-      "filing_count": 60,
-      "latest_stake_pct": 9.02,
+      "filing_count": 62,
+      "latest_stake_pct": 9.36,
       "first_seen": "20171010",
-      "last_seen": "20251015"
+      "last_seen": "20260827"
     },
     "112610": {
       "stock_name": "씨에스윈드",
       "name_eng": "CS Wind Corporation",
       "sector": "금속",
-      "filing_count": 50,
-      "latest_stake_pct": 10.03,
+      "filing_count": 51,
+      "latest_stake_pct": 10.95,
       "first_seen": "20190607",
-      "last_seen": "20260728"
+      "last_seen": "20260910"
     },
     "030000": {
       "stock_name": "제일기획",
@@ -861,10 +861,10 @@
       "stock_name": "LIG디펜스앤에어로스페이스",
       "name_eng": "LIG Defense&Aerospace Co., Ltd.",
       "sector": "금속",
-      "filing_count": 62,
-      "latest_stake_pct": 10.31,
+      "filing_count": 66,
+      "latest_stake_pct": 9.93,
       "first_seen": "20171113",
-      "last_seen": "20260630"
+      "last_seen": "20260929"
     },
     "052690": {
       "stock_name": "한전기술",
@@ -895,12 +895,12 @@
     },
     "010780": {
       "stock_name": "아이에스동서",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 11,
-      "latest_stake_pct": 5.18,
+      "name_eng": "IS DONGSEO CO., LTD.",
+      "sector": "비금속",
+      "filing_count": 12,
+      "latest_stake_pct": 3.99,
       "first_seen": "20180123",
-      "last_seen": "20260313"
+      "last_seen": "20260819"
     },
     "005070": {
       "stock_name": "코스모신소재",
@@ -978,19 +978,19 @@
       "stock_name": "현대건설",
       "name_eng": "HYUNDAI ENGINEERING & CONSTRUCTION CO.,LTD",
       "sector": "건설",
-      "filing_count": 56,
-      "latest_stake_pct": 9.93,
+      "filing_count": 57,
+      "latest_stake_pct": 10.2,
       "first_seen": "20171121",
-      "last_seen": "20260424"
+      "last_seen": "20260828"
     },
     "004170": {
       "stock_name": "신세계",
       "name_eng": "SHINSEGAE Inc.",
       "sector": "유통",
-      "filing_count": 47,
-      "latest_stake_pct": 12.72,
+      "filing_count": 48,
+      "latest_stake_pct": 11.52,
       "first_seen": "20171010",
-      "last_seen": "20260630"
+      "last_seen": "20260910"
     },
     "000120": {
       "stock_name": "CJ대한통운",
@@ -1005,37 +1005,37 @@
       "stock_name": "CJ",
       "name_eng": "CJ Corp.",
       "sector": "금융",
-      "filing_count": 31,
-      "latest_stake_pct": 10.91,
+      "filing_count": 32,
+      "latest_stake_pct": 11.84,
       "first_seen": "20171113",
-      "last_seen": "20260630"
+      "last_seen": "20260821"
     },
     "039490": {
       "stock_name": "키움증권",
       "name_eng": "KIWOOM Securities Co.,Ltd.",
       "sector": "증권",
-      "filing_count": 54,
-      "latest_stake_pct": 11.58,
+      "filing_count": 55,
+      "latest_stake_pct": 10.59,
       "first_seen": "20171010",
-      "last_seen": "20260630"
+      "last_seen": "20260825"
     },
     "069960": {
       "stock_name": "현대백화점",
       "name_eng": "HYUNDAI DEPARTMENT STORE CO.,LTD",
       "sector": "유통",
-      "filing_count": 69,
-      "latest_stake_pct": 13.49,
+      "filing_count": 70,
+      "latest_stake_pct": 10.92,
       "first_seen": "20171121",
-      "last_seen": "20260630"
+      "last_seen": "20260820"
     },
     "000640": {
       "stock_name": "동아쏘시오홀딩스",
       "name_eng": "Dong-A Socio Holdings Co.,Ltd",
       "sector": "금융",
-      "filing_count": 62,
-      "latest_stake_pct": 9.97,
+      "filing_count": 63,
+      "latest_stake_pct": 9.45,
       "first_seen": "20171010",
-      "last_seen": "20260706"
+      "last_seen": "20260724"
     },
     "069620": {
       "stock_name": "대웅제약",
@@ -1059,28 +1059,28 @@
       "stock_name": "한미약품",
       "name_eng": "Hanmi Pharm. Co., Ltd.",
       "sector": "제약",
-      "filing_count": 78,
-      "latest_stake_pct": 9.87,
+      "filing_count": 80,
+      "latest_stake_pct": 10.04,
       "first_seen": "20171113",
-      "last_seen": "20260731"
+      "last_seen": "20260921"
     },
     "014680": {
       "stock_name": "한솔케미칼",
       "name_eng": "Hansol Chemical Co., Ltd",
       "sector": "화학",
-      "filing_count": 58,
-      "latest_stake_pct": 11.16,
+      "filing_count": 59,
+      "latest_stake_pct": 10.86,
       "first_seen": "20171010",
-      "last_seen": "20260630"
+      "last_seen": "20260813"
     },
     "241710": {
       "stock_name": "코스메카코리아",
       "name_eng": "COSMECCA KOREA CO., LTD.",
       "sector": "화학",
-      "filing_count": 24,
-      "latest_stake_pct": 12.87,
+      "filing_count": 25,
+      "latest_stake_pct": 10.44,
       "first_seen": "20230628",
-      "last_seen": "20260630"
+      "last_seen": "20260904"
     },
     "042670": {
       "stock_name": "에이치디현대인프라코어",
@@ -1095,10 +1095,10 @@
       "stock_name": "대덕전자",
       "name_eng": "DAEDUCK ELECTRONICS CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 33,
-      "latest_stake_pct": 12.19,
+      "filing_count": 35,
+      "latest_stake_pct": 9.67,
       "first_seen": "20200521",
-      "last_seen": "20260630"
+      "last_seen": "20260909"
     },
     "298040": {
       "stock_name": "효성중공업",
@@ -1113,10 +1113,10 @@
       "stock_name": "삼성증권",
       "name_eng": "SAMSUNG SECURITIES CO.,LTD",
       "sector": "증권",
-      "filing_count": 56,
-      "latest_stake_pct": 13.35,
+      "filing_count": 57,
+      "latest_stake_pct": 12.36,
       "first_seen": "20171012",
-      "last_seen": "20260630"
+      "last_seen": "20260824"
     },
     "071050": {
       "stock_name": "한국금융지주",
@@ -1131,10 +1131,10 @@
       "stock_name": "SBS",
       "name_eng": "SEOUL BROADCASTING SYSTEM",
       "sector": "오락·문화",
-      "filing_count": 51,
-      "latest_stake_pct": 9.93,
+      "filing_count": 52,
+      "latest_stake_pct": 9.52,
       "first_seen": "20171010",
-      "last_seen": "20260429"
+      "last_seen": "20260923"
     },
     "267270": {
       "stock_name": "HD건설기계",
@@ -1158,37 +1158,37 @@
       "stock_name": "호텔신라",
       "name_eng": "HOTEL SHILLA CO.,LTD",
       "sector": "유통",
-      "filing_count": 59,
-      "latest_stake_pct": 8.03,
+      "filing_count": 60,
+      "latest_stake_pct": 7.1,
       "first_seen": "20171010",
-      "last_seen": "20260424"
+      "last_seen": "20260909"
     },
     "090430": {
       "stock_name": "아모레퍼시픽",
       "name_eng": "AMOREPACIFIC CORP.",
       "sector": "화학",
-      "filing_count": 16,
-      "latest_stake_pct": 8.42,
+      "filing_count": 18,
+      "latest_stake_pct": 10.49,
       "first_seen": "20180222",
-      "last_seen": "20260313"
+      "last_seen": "20260922"
     },
     "023530": {
       "stock_name": "롯데쇼핑",
       "name_eng": "LOTTE SHOPPING CO.,LTD.",
       "sector": "유통",
-      "filing_count": 18,
-      "latest_stake_pct": 12.88,
+      "filing_count": 19,
+      "latest_stake_pct": 11.09,
       "first_seen": "20180823",
-      "last_seen": "20260630"
+      "last_seen": "20260807"
     },
     "003230": {
       "stock_name": "삼양식품",
       "name_eng": "Samyang Foods Inc.",
       "sector": "음식료·담배",
-      "filing_count": 33,
-      "latest_stake_pct": 11.01,
+      "filing_count": 34,
+      "latest_stake_pct": 11.2,
       "first_seen": "20180306",
-      "last_seen": "20260731"
+      "last_seen": "20260831"
     },
     "053690": {
       "stock_name": "한미글로벌",
@@ -1203,37 +1203,37 @@
       "stock_name": "삼천리",
       "name_eng": "SAMCHULLY CO.,LTD",
       "sector": "전기·가스",
-      "filing_count": 4,
-      "latest_stake_pct": 6.51,
+      "filing_count": 5,
+      "latest_stake_pct": 7.56,
       "first_seen": "20190701",
-      "last_seen": "20260331"
+      "last_seen": "20260904"
     },
     "064760": {
       "stock_name": "티씨케이",
       "name_eng": "TOKAI CARBON KOREA CO., LTD",
       "sector": "비금속",
-      "filing_count": 5,
-      "latest_stake_pct": 7.26,
+      "filing_count": 6,
+      "latest_stake_pct": 6.25,
       "first_seen": "20180112",
-      "last_seen": "20260312"
+      "last_seen": "20260714"
     },
     "104830": {
       "stock_name": "원익머트리얼즈",
       "name_eng": "WONIK Materials Co.,Ltd.",
       "sector": "화학",
-      "filing_count": 29,
-      "latest_stake_pct": 9.77,
+      "filing_count": 30,
+      "latest_stake_pct": 8.76,
       "first_seen": "20180221",
-      "last_seen": "20260325"
+      "last_seen": "20260709"
     },
     "005830": {
       "stock_name": "DB손해보험",
       "name_eng": "DB INSURANCE CO.,LTD",
       "sector": "보험",
-      "filing_count": 47,
-      "latest_stake_pct": 8.33,
+      "filing_count": 48,
+      "latest_stake_pct": 9.36,
       "first_seen": "20180823",
-      "last_seen": "20260330"
+      "last_seen": "20260901"
     },
     "236200": {
       "stock_name": "슈프리마",
@@ -1257,10 +1257,10 @@
       "stock_name": "비에이치",
       "name_eng": "BHCo.,Ltd.",
       "sector": "전기·전자",
-      "filing_count": 16,
-      "latest_stake_pct": 13.35,
+      "filing_count": 17,
+      "latest_stake_pct": 10.12,
       "first_seen": "20180117",
-      "last_seen": "20260630"
+      "last_seen": "20260923"
     },
     "014620": {
       "stock_name": "성광벤드",
@@ -1284,19 +1284,19 @@
       "stock_name": "대주전자재료",
       "name_eng": "DaejooElectronicMaterialsCo.,Ltd.",
       "sector": "전기·전자",
-      "filing_count": 14,
-      "latest_stake_pct": 7.67,
+      "filing_count": 15,
+      "latest_stake_pct": 6.27,
       "first_seen": "20221125",
-      "last_seen": "20260623"
+      "last_seen": "20260708"
     },
     "298020": {
       "stock_name": "효성티앤씨",
       "name_eng": "Hyosung TNC Corporation",
       "sector": "화학",
-      "filing_count": 57,
-      "latest_stake_pct": 10.54,
+      "filing_count": 58,
+      "latest_stake_pct": 10.17,
       "first_seen": "20180713",
-      "last_seen": "20260731"
+      "last_seen": "20260831"
     },
     "082740": {
       "stock_name": "한화엔진",
@@ -1374,73 +1374,73 @@
       "stock_name": "NHN",
       "name_eng": "NHN Corporation",
       "sector": "IT 서비스",
-      "filing_count": 23,
-      "latest_stake_pct": 10.12,
+      "filing_count": 24,
+      "latest_stake_pct": 9.9,
       "first_seen": "20180305",
-      "last_seen": "20260812"
+      "last_seen": "20260827"
     },
     "064290": {
       "stock_name": "인텍플러스",
       "name_eng": "INTEKPLUS CO., LTD",
       "sector": "기계·장비",
-      "filing_count": 12,
-      "latest_stake_pct": 6.09,
+      "filing_count": 13,
+      "latest_stake_pct": 4.36,
       "first_seen": "20210318",
-      "last_seen": "20260616"
+      "last_seen": "20260921"
     },
     "204620": {
       "stock_name": "글로벌텍스프리",
       "name_eng": "Global Tax Free Co., Ltd.",
       "sector": "금융",
-      "filing_count": 1,
-      "latest_stake_pct": 6.61,
+      "filing_count": 2,
+      "latest_stake_pct": 4.29,
       "first_seen": "20260617",
-      "last_seen": "20260617"
+      "last_seen": "20260828"
     },
     "042520": {
       "stock_name": "한스바이오메드",
       "name_eng": "HANS BIOMED CORPORATION",
       "sector": "제약",
-      "filing_count": 1,
-      "latest_stake_pct": 6.18,
+      "filing_count": 2,
+      "latest_stake_pct": 4.88,
       "first_seen": "20260522",
-      "last_seen": "20260522"
+      "last_seen": "20260825"
     },
     "001820": {
       "stock_name": "삼화콘덴서공업",
       "name_eng": "SAMWHA CAPACITOR CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 18,
-      "latest_stake_pct": 6.52,
+      "filing_count": 19,
+      "latest_stake_pct": 6.16,
       "first_seen": "20171025",
-      "last_seen": "20260527"
+      "last_seen": "20260911"
     },
     "222800": {
       "stock_name": "심텍",
       "name_eng": "SIMMTECH Co., Ltd.",
       "sector": "전기·전자",
-      "filing_count": 11,
-      "latest_stake_pct": 6.09,
+      "filing_count": 12,
+      "latest_stake_pct": 7.14,
       "first_seen": "20200407",
-      "last_seen": "20260617"
+      "last_seen": "20260706"
     },
     "074600": {
       "stock_name": "원익QnC",
       "name_eng": "WONIK QnC CORPORATION",
       "sector": "비금속",
-      "filing_count": 24,
-      "latest_stake_pct": 6.47,
+      "filing_count": 25,
+      "latest_stake_pct": 5.39,
       "first_seen": "20171201",
-      "last_seen": "20260615"
+      "last_seen": "20260827"
     },
     "000990": {
       "stock_name": "DB하이텍",
       "name_eng": "DB HiTek Co.,LTD",
       "sector": "전기·전자",
-      "filing_count": 34,
-      "latest_stake_pct": 8.42,
+      "filing_count": 35,
+      "latest_stake_pct": 7.38,
       "first_seen": "20180202",
-      "last_seen": "20260526"
+      "last_seen": "20260902"
     },
     "052400": {
       "stock_name": "코나아이",
@@ -1473,19 +1473,19 @@
       "stock_name": "LG씨엔에스",
       "name_eng": "LG CNS Co., Ltd.",
       "sector": "IT 서비스",
-      "filing_count": 2,
-      "latest_stake_pct": 6.09,
+      "filing_count": 3,
+      "latest_stake_pct": 7.24,
       "first_seen": "20250513",
-      "last_seen": "20260522"
+      "last_seen": "20260812"
     },
     "028050": {
       "stock_name": "삼성E&A",
       "name_eng": "SAMSUNG E&A CO.,LTD",
       "sector": "일반서비스",
-      "filing_count": 29,
-      "latest_stake_pct": 8.34,
+      "filing_count": 30,
+      "latest_stake_pct": 9.34,
       "first_seen": "20171030",
-      "last_seen": "20260403"
+      "last_seen": "20260827"
     },
     "009970": {
       "stock_name": "영원무역홀딩스",
@@ -1518,46 +1518,46 @@
       "stock_name": "GS리테일",
       "name_eng": "GS Retail Co.,Ltd",
       "sector": "유통",
-      "filing_count": 22,
-      "latest_stake_pct": 10.27,
+      "filing_count": 23,
+      "latest_stake_pct": 9.94,
       "first_seen": "20171214",
-      "last_seen": "20260811"
+      "last_seen": "20260908"
     },
     "006360": {
       "stock_name": "GS건설",
       "name_eng": "GS Engineering & Construction Corp",
       "sector": "건설",
-      "filing_count": 63,
-      "latest_stake_pct": 10.02,
+      "filing_count": 64,
+      "latest_stake_pct": 12.25,
       "first_seen": "20171010",
-      "last_seen": "20260806"
+      "last_seen": "20260825"
     },
     "077360": {
       "stock_name": "덕산하이메탈",
       "name_eng": "DUKSANHIMETALCO.,LTD.",
       "sector": "전기·전자",
-      "filing_count": 16,
-      "latest_stake_pct": 5.0,
+      "filing_count": 17,
+      "latest_stake_pct": 3.93,
       "first_seen": "20171010",
-      "last_seen": "20260416"
+      "last_seen": "20260730"
     },
     "322000": {
       "stock_name": "HD현대에너지솔루션",
       "name_eng": "HD HYUNDAI ENERGY SOLUTIONS CO.,LTD.",
       "sector": "전기·전자",
-      "filing_count": 8,
-      "latest_stake_pct": 5.31,
+      "filing_count": 9,
+      "latest_stake_pct": 6.4,
       "first_seen": "20200630",
-      "last_seen": "20260402"
+      "last_seen": "20260804"
     },
     "093370": {
       "stock_name": "후성",
       "name_eng": "FOOSUNG CO.,LTD",
       "sector": "화학",
-      "filing_count": 17,
-      "latest_stake_pct": 5.09,
+      "filing_count": 18,
+      "latest_stake_pct": 6.22,
       "first_seen": "20171031",
-      "last_seen": "20260630"
+      "last_seen": "20260909"
     },
     "279570": {
       "stock_name": "케이뱅크",
@@ -1572,10 +1572,10 @@
       "stock_name": "세아제강",
       "name_eng": "SeAH Steel Corporation",
       "sector": "금속",
-      "filing_count": 18,
-      "latest_stake_pct": 5.11,
+      "filing_count": 19,
+      "latest_stake_pct": 6.15,
       "first_seen": "20181005",
-      "last_seen": "20260410"
+      "last_seen": "20260724"
     },
     "011790": {
       "stock_name": "SKC",
@@ -1599,10 +1599,10 @@
       "stock_name": "SK이터닉스",
       "name_eng": "SK eternix Co., Ltd.",
       "sector": "건설",
-      "filing_count": 1,
-      "latest_stake_pct": 5.11,
+      "filing_count": 2,
+      "latest_stake_pct": 7.19,
       "first_seen": "20260623",
-      "last_seen": "20260623"
+      "last_seen": "20260824"
     },
     "450080": {
       "stock_name": "에코프로머티",
@@ -1617,10 +1617,10 @@
       "stock_name": "현대지에프홀딩스",
       "name_eng": "HYUNDAI G.F. HOLDINGS CO., LTD.",
       "sector": "금융",
-      "filing_count": 22,
-      "latest_stake_pct": 5.0,
+      "filing_count": 23,
+      "latest_stake_pct": 6.02,
       "first_seen": "20171010",
-      "last_seen": "20260625"
+      "last_seen": "20260921"
     },
     "457190": {
       "stock_name": "이수스페셜티케미컬",
@@ -1644,19 +1644,19 @@
       "stock_name": "현대해상",
       "name_eng": "HYUNDAIMARINE&FIREINSURANCECO.,LTD.",
       "sector": "보험",
-      "filing_count": 42,
-      "latest_stake_pct": 10.15,
+      "filing_count": 43,
+      "latest_stake_pct": 11.71,
       "first_seen": "20180807",
-      "last_seen": "20260709"
+      "last_seen": "20260814"
     },
     "062040": {
       "stock_name": "산일전기",
       "name_eng": "SANIL ELECTRIC CO., LTD",
       "sector": "전기·전자",
-      "filing_count": 5,
-      "latest_stake_pct": 8.29,
+      "filing_count": 6,
+      "latest_stake_pct": 7.27,
       "first_seen": "20241218",
-      "last_seen": "20260609"
+      "last_seen": "20260915"
     },
     "006040": {
       "stock_name": "동원산업",
@@ -1671,10 +1671,10 @@
       "stock_name": "RF머트리얼즈",
       "name_eng": "RF Materials Co., Ltd.",
       "sector": "전기·전자",
-      "filing_count": 2,
-      "latest_stake_pct": 3.68,
+      "filing_count": 3,
+      "latest_stake_pct": 6.2,
       "first_seen": "20260102",
-      "last_seen": "20260610"
+      "last_seen": "20260930"
     },
     "058970": {
       "stock_name": "엠로",
@@ -1689,10 +1689,10 @@
       "stock_name": "세방전지",
       "name_eng": "SEBANG GLOBAL BATTERY CO.,LTD",
       "sector": "전기·전자",
-      "filing_count": 13,
-      "latest_stake_pct": 5.35,
+      "filing_count": 14,
+      "latest_stake_pct": 6.4,
       "first_seen": "20180302",
-      "last_seen": "20260626"
+      "last_seen": "20260909"
     },
     "365550": {
       "stock_name": "ESR켄달스퀘어리츠",
@@ -1707,10 +1707,10 @@
       "stock_name": "SK케미칼",
       "name_eng": "SK Chemicals Co., Ltd.",
       "sector": "화학",
-      "filing_count": 50,
-      "latest_stake_pct": 6.51,
+      "filing_count": 51,
+      "latest_stake_pct": 8.61,
       "first_seen": "20180105",
-      "last_seen": "20260521"
+      "last_seen": "20260904"
     },
     "441270": {
       "stock_name": "파인엠텍",
@@ -1779,10 +1779,10 @@
       "stock_name": "HK이노엔",
       "name_eng": "HK inno.N Corporation",
       "sector": "제약",
-      "filing_count": 8,
-      "latest_stake_pct": 4.06,
+      "filing_count": 9,
+      "latest_stake_pct": 5.03,
       "first_seen": "20230911",
-      "last_seen": "20260522"
+      "last_seen": "20260806"
     },
     "052710": {
       "stock_name": "아모텍",
@@ -1806,10 +1806,10 @@
       "stock_name": "현대제철",
       "name_eng": "HYUNDAI STEEL COMPANY",
       "sector": "금속",
-      "filing_count": 17,
-      "latest_stake_pct": 8.84,
+      "filing_count": 18,
+      "latest_stake_pct": 9.84,
       "first_seen": "20180529",
-      "last_seen": "20260626"
+      "last_seen": "20260918"
     },
     "003550": {
       "stock_name": "LG",
@@ -1860,28 +1860,28 @@
       "stock_name": "NAVER",
       "name_eng": "NAVER Corporation",
       "sector": "IT 서비스",
-      "filing_count": 41,
-      "latest_stake_pct": 8.22,
+      "filing_count": 42,
+      "latest_stake_pct": 9.49,
       "first_seen": "20171010",
-      "last_seen": "20260415"
+      "last_seen": "20260803"
     },
     "006800": {
       "stock_name": "미래에셋증권",
       "name_eng": "MIRAE ASSET SECURITIES CO.,LTD.",
       "sector": "증권",
-      "filing_count": 22,
-      "latest_stake_pct": 7.23,
+      "filing_count": 23,
+      "latest_stake_pct": 6.19,
       "first_seen": "20180119",
-      "last_seen": "20260618"
+      "last_seen": "20260911"
     },
     "103140": {
       "stock_name": "풍산",
       "name_eng": "POONGSAN CORPORATION",
       "sector": "금속",
-      "filing_count": 37,
-      "latest_stake_pct": 7.18,
+      "filing_count": 38,
+      "latest_stake_pct": 8.22,
       "first_seen": "20171010",
-      "last_seen": "20260527"
+      "last_seen": "20260904"
     },
     "185750": {
       "stock_name": "종근당",
@@ -1923,10 +1923,10 @@
       "stock_name": "OCI",
       "name_eng": "OCI Company Ltd.",
       "sector": "화학",
-      "filing_count": 6,
-      "latest_stake_pct": 4.95,
+      "filing_count": 7,
+      "latest_stake_pct": 5.09,
       "first_seen": "20230530",
-      "last_seen": "20260624"
+      "last_seen": "20260714"
     },
     "010130": {
       "stock_name": "고려아연",
@@ -2000,6 +2000,321 @@
       "first_seen": "20180424",
       "last_seen": "20260702"
     },
+    "012630": {
+      "stock_name": "HDC",
+      "name_eng": "HDC HOLDINGS CO.,Ltd",
+      "sector": "금융",
+      "filing_count": 37,
+      "latest_stake_pct": 5.8,
+      "first_seen": "20180112",
+      "last_seen": "20260825"
+    },
+    "298050": {
+      "stock_name": "HS효성첨단소재",
+      "name_eng": "HS HYOSUNG ADVANCED MATERIALS",
+      "sector": "화학",
+      "filing_count": 33,
+      "latest_stake_pct": 6.87,
+      "first_seen": "20180713",
+      "last_seen": "20260820"
+    },
+    "329180": {
+      "stock_name": "HD현대중공업",
+      "name_eng": "HD HYUNDAI HEAVY INDUSTRIES CO.,LTD.",
+      "sector": "운송장비·부품",
+      "filing_count": 5,
+      "latest_stake_pct": 8.02,
+      "first_seen": "20211115",
+      "last_seen": "20260907"
+    },
+    "005180": {
+      "stock_name": "빙그레",
+      "name_eng": "BINGGRAE CO.,LTD",
+      "sector": "음식료·담배",
+      "filing_count": 7,
+      "latest_stake_pct": 9.37,
+      "first_seen": "20171205",
+      "last_seen": "20260909"
+    },
+    "214450": {
+      "stock_name": "파마리서치",
+      "name_eng": "PharmaResearch Co., Ltd.",
+      "sector": "제약",
+      "filing_count": 20,
+      "latest_stake_pct": 7.14,
+      "first_seen": "20210825",
+      "last_seen": "20260828"
+    },
+    "317400": {
+      "stock_name": "자이에스앤디",
+      "name_eng": "Xi S&D Inc.",
+      "sector": "부동산",
+      "filing_count": 1,
+      "latest_stake_pct": 7.37,
+      "first_seen": "20261001",
+      "last_seen": "20261001"
+    },
+    "051900": {
+      "stock_name": "LG생활건강",
+      "name_eng": "LG H&H Co., Ltd.",
+      "sector": "화학",
+      "filing_count": 19,
+      "latest_stake_pct": 8.26,
+      "first_seen": "20190116",
+      "last_seen": "20260911"
+    },
+    "096770": {
+      "stock_name": "SK이노베이션",
+      "name_eng": "SK Innovation Co., Ltd.",
+      "sector": "화학",
+      "filing_count": 31,
+      "latest_stake_pct": 7.14,
+      "first_seen": "20190704",
+      "last_seen": "20260724"
+    },
+    "078930": {
+      "stock_name": "GS",
+      "name_eng": "GS Holdings",
+      "sector": "금융",
+      "filing_count": 27,
+      "latest_stake_pct": 8.51,
+      "first_seen": "20171010",
+      "last_seen": "20260814"
+    },
+    "003540": {
+      "stock_name": "대신증권",
+      "name_eng": "DAISHIN SECURITIES CO.,LTD",
+      "sector": "증권",
+      "filing_count": 7,
+      "latest_stake_pct": 7.12,
+      "first_seen": "20180115",
+      "last_seen": "20260929"
+    },
+    "088350": {
+      "stock_name": "한화생명",
+      "name_eng": "HANWHA LIFE INSURANCE CO., LTD.",
+      "sector": "보험",
+      "filing_count": 8,
+      "latest_stake_pct": 6.63,
+      "first_seen": "20171129",
+      "last_seen": "20260910"
+    },
+    "007340": {
+      "stock_name": "DN오토모티브",
+      "name_eng": "DN AUTOMOTIVE CORPORATION",
+      "sector": "전기·전자",
+      "filing_count": 3,
+      "latest_stake_pct": 7.08,
+      "first_seen": "20230718",
+      "last_seen": "20260715"
+    },
+    "030190": {
+      "stock_name": "NICE평가정보",
+      "name_eng": "NICE Information Service Co., Ltd.",
+      "sector": "IT 서비스",
+      "filing_count": 2,
+      "latest_stake_pct": 6.03,
+      "first_seen": "20260116",
+      "last_seen": "20260901"
+    },
+    "282330": {
+      "stock_name": "BGF리테일",
+      "name_eng": "BGF retail CO., LTD.",
+      "sector": "유통",
+      "filing_count": 12,
+      "latest_stake_pct": 9.31,
+      "first_seen": "20180607",
+      "last_seen": "20260708"
+    },
+    "009830": {
+      "stock_name": "한화솔루션",
+      "name_eng": "HANWHA SOLUTIONS CORPORATION",
+      "sector": "화학",
+      "filing_count": 56,
+      "latest_stake_pct": 6.34,
+      "first_seen": "20171031",
+      "last_seen": "20260731"
+    },
+    "041830": {
+      "stock_name": "인바디",
+      "name_eng": "InBody Co., Ltd.",
+      "sector": "의료·정밀기기",
+      "filing_count": 1,
+      "latest_stake_pct": 5.3,
+      "first_seen": "20260806",
+      "last_seen": "20260806"
+    },
+    "004710": {
+      "stock_name": "한솔테크닉스",
+      "name_eng": "Hansol Technics Co., Ltd",
+      "sector": "전기·전자",
+      "filing_count": 3,
+      "latest_stake_pct": 5.03,
+      "first_seen": "20171020",
+      "last_seen": "20260929"
+    },
+    "171090": {
+      "stock_name": "선익시스템",
+      "name_eng": "SUNIC SYSTEM Co., Ltd.",
+      "sector": "기계·장비",
+      "filing_count": 1,
+      "latest_stake_pct": 5.16,
+      "first_seen": "20260909",
+      "last_seen": "20260909"
+    },
+    "000370": {
+      "stock_name": "한화손해보험",
+      "name_eng": "Hanwha General Insurance Co., Ltd.",
+      "sector": "보험",
+      "filing_count": 3,
+      "latest_stake_pct": 5.05,
+      "first_seen": "20240123",
+      "last_seen": "20260902"
+    },
+    "229640": {
+      "stock_name": "LS에코에너지",
+      "name_eng": "LS Eco Energy Ltd.",
+      "sector": "금융",
+      "filing_count": 3,
+      "latest_stake_pct": 6.06,
+      "first_seen": "20241224",
+      "last_seen": "20260928"
+    },
+    "280360": {
+      "stock_name": "롯데웰푸드",
+      "name_eng": "LOTTE WELLFOOD CO.,LTD",
+      "sector": "음식료·담배",
+      "filing_count": 4,
+      "latest_stake_pct": 7.13,
+      "first_seen": "20231201",
+      "last_seen": "20260827"
+    },
+    "085620": {
+      "stock_name": "미래에셋생명",
+      "name_eng": "MIRAE ASSET Life Insurance CO., Ltd.",
+      "sector": "보험",
+      "filing_count": 1,
+      "latest_stake_pct": 5.01,
+      "first_seen": "20260813",
+      "last_seen": "20260813"
+    },
+    "183300": {
+      "stock_name": "코미코",
+      "name_eng": "KoMiCo Ltd.",
+      "sector": "기계·장비",
+      "filing_count": 7,
+      "latest_stake_pct": 3.98,
+      "first_seen": "20231219",
+      "last_seen": "20260821"
+    },
+    "047810": {
+      "stock_name": "한국항공우주",
+      "name_eng": "KOREA AEROSPACE INDUSTRIES, LTD.",
+      "sector": "운송장비·부품",
+      "filing_count": 25,
+      "latest_stake_pct": 7.08,
+      "first_seen": "20200728",
+      "last_seen": "20260902"
+    },
+    "394800": {
+      "stock_name": "쓰리빌리언",
+      "name_eng": "3billion Inc.",
+      "sector": "일반서비스",
+      "filing_count": 2,
+      "latest_stake_pct": 4.02,
+      "first_seen": "20260219",
+      "last_seen": "20260714"
+    },
+    "141080": {
+      "stock_name": "리가켐바이오",
+      "name_eng": "LigaChem Biosciences Inc.",
+      "sector": "일반서비스",
+      "filing_count": 12,
+      "latest_stake_pct": 4.99,
+      "first_seen": "20210708",
+      "last_seen": "20260831"
+    },
+    "031980": {
+      "stock_name": "피에스케이홀딩스",
+      "name_eng": "PSK HOLDINGS INC.",
+      "sector": "기계·장비",
+      "filing_count": 4,
+      "latest_stake_pct": 4.09,
+      "first_seen": "20240422",
+      "last_seen": "20260930"
+    },
+    "352820": {
+      "stock_name": "하이브",
+      "name_eng": "HYBE Co., Ltd.",
+      "sector": "오락·문화",
+      "filing_count": 9,
+      "latest_stake_pct": 6.77,
+      "first_seen": "20210126",
+      "last_seen": "20260910"
+    },
+    "272210": {
+      "stock_name": "한화시스템",
+      "name_eng": "HANWHA SYSTEMS Co., Ltd.",
+      "sector": "전기·전자",
+      "filing_count": 10,
+      "latest_stake_pct": 6.17,
+      "first_seen": "20201224",
+      "last_seen": "20260731"
+    },
+    "307950": {
+      "stock_name": "현대오토에버",
+      "name_eng": "HYUNDAI AUTOEVER CORPORATION.",
+      "sector": "IT 서비스",
+      "filing_count": 10,
+      "latest_stake_pct": 7.21,
+      "first_seen": "20200914",
+      "last_seen": "20260706"
+    },
+    "034220": {
+      "stock_name": "LG디스플레이",
+      "name_eng": "LG Display Co., Ltd.",
+      "sector": "전기·전자",
+      "filing_count": 13,
+      "latest_stake_pct": 4.03,
+      "first_seen": "20180614",
+      "last_seen": "20260702"
+    },
+    "032640": {
+      "stock_name": "LG유플러스",
+      "name_eng": "LG Uplus Corp",
+      "sector": "통신",
+      "filing_count": 42,
+      "latest_stake_pct": 6.38,
+      "first_seen": "20171213",
+      "last_seen": "20260703"
+    },
+    "005300": {
+      "stock_name": "롯데칠성음료",
+      "name_eng": "LOTTE CHILSUNG BEVERAGE CO.,LTD",
+      "sector": "음식료·담배",
+      "filing_count": 45,
+      "latest_stake_pct": 6.65,
+      "first_seen": "20171030",
+      "last_seen": "20260828"
+    },
+    "395400": {
+      "stock_name": "SK리츠",
+      "name_eng": "SK REIT Co., Ltd.",
+      "sector": "리츠",
+      "filing_count": 5,
+      "latest_stake_pct": 4.0,
+      "first_seen": "20220720",
+      "last_seen": "20260729"
+    },
+    "160980": {
+      "stock_name": "싸이맥스",
+      "name_eng": "CYMECHS Inc.",
+      "sector": "기계·장비",
+      "filing_count": 1,
+      "latest_stake_pct": 3.98,
+      "first_seen": "20260707",
+      "last_seen": "20260707"
+    },
     "180640": {
       "stock_name": "한진칼",
       "name_eng": "",
@@ -2008,15 +2323,6 @@
       "latest_stake_pct": 5.01,
       "first_seen": "20171010",
       "last_seen": "20230302"
-    },
-    "012630": {
-      "stock_name": "HDC",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 36,
-      "latest_stake_pct": 6.08,
-      "first_seen": "20180112",
-      "last_seen": "20250818"
     },
     "069260": {
       "stock_name": "티케이지휴켐스",
@@ -2207,15 +2513,6 @@
       "first_seen": "20171010",
       "last_seen": "20250214"
     },
-    "078930": {
-      "stock_name": "GS",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 26,
-      "latest_stake_pct": 7.4,
-      "first_seen": "20171010",
-      "last_seen": "20240320"
-    },
     "008560": {
       "stock_name": "메리츠증권",
       "name_eng": "",
@@ -2269,15 +2566,6 @@
       "latest_stake_pct": 8.41,
       "first_seen": "20171010",
       "last_seen": "20250131"
-    },
-    "005300": {
-      "stock_name": "롯데칠성음료",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 44,
-      "latest_stake_pct": 7.65,
-      "first_seen": "20171030",
-      "last_seen": "20260114"
     },
     "058470": {
       "stock_name": "리노공업",
@@ -2477,15 +2765,6 @@
       "first_seen": "20171213",
       "last_seen": "20210406"
     },
-    "032640": {
-      "stock_name": "LG유플러스",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 41,
-      "latest_stake_pct": 7.38,
-      "first_seen": "20171213",
-      "last_seen": "20250910"
-    },
     "019210": {
       "stock_name": "와이지-원",
       "name_eng": "",
@@ -2567,15 +2846,6 @@
       "first_seen": "20171030",
       "last_seen": "20190102"
     },
-    "009830": {
-      "stock_name": "한화솔루션",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 55,
-      "latest_stake_pct": 5.75,
-      "first_seen": "20171031",
-      "last_seen": "20250828"
-    },
     "090350": {
       "stock_name": "노루페인트",
       "name_eng": "",
@@ -2621,15 +2891,6 @@
       "first_seen": "20171030",
       "last_seen": "20260115"
     },
-    "005180": {
-      "stock_name": "빙그레",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 6,
-      "latest_stake_pct": 6.09,
-      "first_seen": "20171205",
-      "last_seen": "20250227"
-    },
     "160550": {
       "stock_name": "NEW",
       "name_eng": "",
@@ -2638,15 +2899,6 @@
       "latest_stake_pct": 3.94,
       "first_seen": "20171026",
       "last_seen": "20210423"
-    },
-    "004710": {
-      "stock_name": "한솔테크닉스",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 2,
-      "latest_stake_pct": 4.57,
-      "first_seen": "20171020",
-      "last_seen": "20180213"
     },
     "080160": {
       "stock_name": "모두투어",
@@ -2791,15 +3043,6 @@
       "latest_stake_pct": 4.41,
       "first_seen": "20171026",
       "last_seen": "20200727"
-    },
-    "088350": {
-      "stock_name": "한화생명",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 7,
-      "latest_stake_pct": 5.57,
-      "first_seen": "20171129",
-      "last_seen": "20250219"
     },
     "004380": {
       "stock_name": "삼익THK",
@@ -3062,15 +3305,6 @@
       "first_seen": "20180315",
       "last_seen": "20180315"
     },
-    "003540": {
-      "stock_name": "대신증권",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 6,
-      "latest_stake_pct": 6.05,
-      "first_seen": "20180115",
-      "last_seen": "20250828"
-    },
     "122900": {
       "stock_name": "아이마켓코리아",
       "name_eng": "",
@@ -3251,15 +3485,6 @@
       "first_seen": "20180523",
       "last_seen": "20250821"
     },
-    "298050": {
-      "stock_name": "HS효성첨단소재",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 32,
-      "latest_stake_pct": 5.86,
-      "first_seen": "20180713",
-      "last_seen": "20260115"
-    },
     "298000": {
       "stock_name": "효성화학",
       "name_eng": "",
@@ -3350,15 +3575,6 @@
       "first_seen": "20180628",
       "last_seen": "20181010"
     },
-    "034220": {
-      "stock_name": "LG디스플레이",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 12,
-      "latest_stake_pct": 5.04,
-      "first_seen": "20180614",
-      "last_seen": "20260126"
-    },
     "002310": {
       "stock_name": "아세아제지",
       "name_eng": "",
@@ -3412,15 +3628,6 @@
       "latest_stake_pct": 0.0,
       "first_seen": "20180607",
       "last_seen": "20250714"
-    },
-    "282330": {
-      "stock_name": "BGF리테일",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 11,
-      "latest_stake_pct": 8.31,
-      "first_seen": "20180607",
-      "last_seen": "20260113"
     },
     "003000": {
       "stock_name": "부광약품",
@@ -3736,24 +3943,6 @@
       "latest_stake_pct": 4.58,
       "first_seen": "20190118",
       "last_seen": "20200813"
-    },
-    "051900": {
-      "stock_name": "LG생활건강",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 18,
-      "latest_stake_pct": 5.96,
-      "first_seen": "20190116",
-      "last_seen": "20260107"
-    },
-    "096770": {
-      "stock_name": "SK이노베이션",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 30,
-      "latest_stake_pct": 6.03,
-      "first_seen": "20190704",
-      "last_seen": "20260306"
     },
     "005380": {
       "stock_name": "현대자동차",
@@ -4223,15 +4412,6 @@
       "first_seen": "20200318",
       "last_seen": "20210602"
     },
-    "047810": {
-      "stock_name": "한국항공우주",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 24,
-      "latest_stake_pct": 8.12,
-      "first_seen": "20200728",
-      "last_seen": "20250821"
-    },
     "036460": {
       "stock_name": "한국가스공사",
       "name_eng": "",
@@ -4331,15 +4511,6 @@
       "first_seen": "20200720",
       "last_seen": "20250521"
     },
-    "307950": {
-      "stock_name": "현대오토에버",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 9,
-      "latest_stake_pct": 8.22,
-      "first_seen": "20200914",
-      "last_seen": "20250609"
-    },
     "194700": {
       "stock_name": "노바렉스",
       "name_eng": "",
@@ -4412,15 +4583,6 @@
       "first_seen": "20201026",
       "last_seen": "20201026"
     },
-    "272210": {
-      "stock_name": "한화시스템",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 9,
-      "latest_stake_pct": 7.19,
-      "first_seen": "20201224",
-      "last_seen": "20250710"
-    },
     "013890": {
       "stock_name": "지누스",
       "name_eng": "",
@@ -4456,15 +4618,6 @@
       "latest_stake_pct": 5.01,
       "first_seen": "20210104",
       "last_seen": "20260303"
-    },
-    "352820": {
-      "stock_name": "하이브",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 8,
-      "latest_stake_pct": 7.8,
-      "first_seen": "20210126",
-      "last_seen": "20250321"
     },
     "058110": {
       "stock_name": "멕아이씨에스",
@@ -4601,24 +4754,6 @@
       "first_seen": "20210923",
       "last_seen": "20260115"
     },
-    "214450": {
-      "stock_name": "파마리서치",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 19,
-      "latest_stake_pct": 4.71,
-      "first_seen": "20210825",
-      "last_seen": "20241107"
-    },
-    "141080": {
-      "stock_name": "리가켐바이오",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 11,
-      "latest_stake_pct": 6.03,
-      "first_seen": "20210708",
-      "last_seen": "20250923"
-    },
     "036200": {
       "stock_name": "유니셈",
       "name_eng": "",
@@ -4645,15 +4780,6 @@
       "latest_stake_pct": 4.75,
       "first_seen": "20210928",
       "last_seen": "20221103"
-    },
-    "329180": {
-      "stock_name": "HD현대중공업",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 4,
-      "latest_stake_pct": 7.38,
-      "first_seen": "20211115",
-      "last_seen": "20250428"
     },
     "226950": {
       "stock_name": "올릭스",
@@ -4852,15 +4978,6 @@
       "latest_stake_pct": 2.98,
       "first_seen": "20220511",
       "last_seen": "20240610"
-    },
-    "395400": {
-      "stock_name": "SK리츠",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 4,
-      "latest_stake_pct": 5.0,
-      "first_seen": "20220720",
-      "last_seen": "20250313"
     },
     "381970": {
       "stock_name": "케이카",
@@ -5105,33 +5222,6 @@
       "first_seen": "20230922",
       "last_seen": "20250401"
     },
-    "007340": {
-      "stock_name": "DN오토모티브",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 2,
-      "latest_stake_pct": 6.02,
-      "first_seen": "20230718",
-      "last_seen": "20231025"
-    },
-    "280360": {
-      "stock_name": "롯데웰푸드",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 3,
-      "latest_stake_pct": 7.11,
-      "first_seen": "20231201",
-      "last_seen": "20240610"
-    },
-    "183300": {
-      "stock_name": "코미코",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 6,
-      "latest_stake_pct": 5.04,
-      "first_seen": "20231219",
-      "last_seen": "20250822"
-    },
     "336570": {
       "stock_name": "원텍",
       "name_eng": "",
@@ -5158,15 +5248,6 @@
       "latest_stake_pct": 3.4,
       "first_seen": "20231115",
       "last_seen": "20240715"
-    },
-    "000370": {
-      "stock_name": "한화손해보험",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 2,
-      "latest_stake_pct": 3.95,
-      "first_seen": "20240123",
-      "last_seen": "20240313"
     },
     "094360": {
       "stock_name": "칩스앤미디어",
@@ -5221,15 +5302,6 @@
       "latest_stake_pct": 3.94,
       "first_seen": "20240408",
       "last_seen": "20240725"
-    },
-    "031980": {
-      "stock_name": "피에스케이홀딩스",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 3,
-      "latest_stake_pct": 5.13,
-      "first_seen": "20240422",
-      "last_seen": "20260303"
     },
     "003160": {
       "stock_name": "디아이",
@@ -5294,15 +5366,6 @@
       "first_seen": "20241129",
       "last_seen": "20241129"
     },
-    "229640": {
-      "stock_name": "LS에코에너지",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 2,
-      "latest_stake_pct": 6.04,
-      "first_seen": "20241224",
-      "last_seen": "20250113"
-    },
     "053030": {
       "stock_name": "바이넥스",
       "name_eng": "",
@@ -5366,15 +5429,6 @@
       "first_seen": "20250717",
       "last_seen": "20250717"
     },
-    "394800": {
-      "stock_name": "쓰리빌리언",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 1,
-      "latest_stake_pct": 5.06,
-      "first_seen": "20260219",
-      "last_seen": "20260219"
-    },
     "439260": {
       "stock_name": "대한조선",
       "name_eng": "",
@@ -5383,15 +5437,6 @@
       "latest_stake_pct": 5.01,
       "first_seen": "20260224",
       "last_seen": "20260224"
-    },
-    "030190": {
-      "stock_name": "NICE평가정보",
-      "name_eng": "",
-      "sector": "",
-      "filing_count": 1,
-      "latest_stake_pct": 5.0,
-      "first_seen": "20260116",
-      "last_seen": "20260116"
     }
   }
 }
