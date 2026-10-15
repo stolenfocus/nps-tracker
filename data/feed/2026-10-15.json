@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T19:00:23.890716",
+  "count": 2,
+  "summary": {
+    "신규": 2
+  },
+  "highlights": [
+    "SNT모티브",
+    "대한항공"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "SNT모티브",
+      "stock_code": "064960",
+      "change_type": "신규",
+      "stake_pct": "10.02",
+      "stake_change": "10.02",
+      "stake_prev_pct": null,
+      "ref_price": 24300,
+      "ref_date": "20261015",
+      "per": 9.26,
+      "pbr": 0.57,
+      "eps": 1835.0,
+      "bps": 43296.0,
+      "roe": 8.16,
+      "debt_ratio": 26.89,
+      "revenue_growth": -2.09,
+      "op_profit_growth": -4.59,
+      "fin_period": "202606",
+      "ev_ebitda": 2.54,
+      "ebitda": 636.0,
+      "sector": "운송장비·부품",
+      "listed_shares": 26540272,
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 1835.0,
+          "bps": 43296.0,
+          "roe": 8.16,
+          "debt_ratio": 26.89,
+          "revenue_growth": -2.09,
+          "op_profit_growth": -4.59
+        },
+        {
+          "period": "202603",
+          "eps": 937.0,
+          "bps": 43345.0,
+          "roe": 7.23,
+          "debt_ratio": 23.75,
+          "revenue_growth": -4.68,
+          "op_profit_growth": -6.41
+        },
+        {
+          "period": "202512",
+          "eps": 2623.0,
+          "bps": 42534.0,
+          "roe": 6.97,
+          "debt_ratio": 25.5,
+          "revenue_growth": 3.87,
+          "op_profit_growth": 4.51
+        },
+        {
+          "period": "202509",
+          "eps": 2138.0,
+          "bps": 42302.0,
+          "roe": 9.19,
+          "debt_ratio": 26.66,
+          "revenue_growth": 4.64,
+          "op_profit_growth": 3.68
+        },
+        {
+          "period": "202506",
+          "eps": 1336.0,
+          "bps": 41923.0,
+          "roe": 8.79,
+          "debt_ratio": 27.04,
+          "revenue_growth": 4.64,
+          "op_profit_growth": 5.44
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 636.0,
+          "ev_ebitda": 2.54,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1328.0,
+          "ev_ebitda": 3.51,
+          "eva": 145.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1272.0,
+          "ev_ebitda": 0.84,
+          "eva": 302.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1471.0,
+          "ev_ebitda": 1.49,
+          "eva": 440.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1432.0,
+          "ev_ebitda": 1.8,
+          "eva": -18.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "SNT MOTIV CO.,LTD",
+      "ceo": "권형순",
+      "homepage": "www.sntdaewoo.com",
+      "established": "20020206",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20261012",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 2388296,
+          "shares_after": 2388296,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        }
+      ],
+      "total_buy_amount": 64621846682,
+      "total_sell_amount": 0,
+      "net_amount": 64621846682,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000032",
+      "obligation_date": "20261012",
+      "net_amount_detail": 0,
+      "total_buy_amount_detail": 0,
+      "total_sell_amount_detail": 0,
+      "net_amount_basis": "stake"
+    },
+    {
+      "stock_name": "대한항공",
+      "stock_code": "003490",
+      "change_type": "신규",
+      "stake_pct": "9.97",
+      "stake_change": "9.97",
+      "stake_prev_pct": null,
+      "ref_price": 29450,
+      "ref_date": "20261015",
+      "per": 13.9,
+      "pbr": 0.99,
+      "eps": -720.0,
+      "bps": 28464.0,
+      "roe": -2.39,
+      "debt_ratio": 390.69,
+      "revenue_growth": 9.33,
+      "op_profit_growth": -61.27,
+      "fin_period": "202606",
+      "ev_ebitda": 8.24,
+      "ebitda": 18204.0,
+      "sector": "운송·창고",
+      "listed_shares": 368220609,
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": -720.0,
+          "bps": 28464.0,
+          "roe": -2.39,
+          "debt_ratio": 390.69,
+          "revenue_growth": 9.33,
+          "op_profit_growth": -61.27
+        },
+        {
+          "period": "202603",
+          "eps": 330.0,
+          "bps": 29417.0,
+          "roe": 5.78,
+          "debt_ratio": 372.81,
+          "revenue_growth": 2.56,
+          "op_profit_growth": 20.03
+        },
+        {
+          "period": "202512",
+          "eps": 2111.0,
+          "bps": 29659.0,
+          "roe": 7.28,
+          "debt_ratio": 339.88,
+          "revenue_growth": 41.16,
+          "op_profit_growth": -47.23
+        },
+        {
+          "period": "202509",
+          "eps": 1761.0,
+          "bps": 29308.0,
+          "roe": 8.99,
+          "debt_ratio": 332.6,
+          "revenue_growth": 40.1,
+          "op_profit_growth": -41.76
+        },
+        {
+          "period": "202506",
+          "eps": 2084.0,
+          "bps": 29539.0,
+          "roe": 12.99,
+          "debt_ratio": 310.52,
+          "revenue_growth": 46.11,
+          "op_profit_growth": -18.29
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 18204.0,
+          "ev_ebitda": 8.24,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 39688.0,
+          "ev_ebitda": 6.54,
+          "eva": -11167.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 39062.0,
+          "ev_ebitda": 5.52,
+          "eva": -7996.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 35130.0,
+          "ev_ebitda": 3.95,
+          "eva": 1389.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 44803.0,
+          "ev_ebitda": 3.11,
+          "eva": 5807.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "KOREAN AIR LINES CO.,LTD",
+      "ceo": "조원태, 우기홍",
+      "homepage": "www.koreanair.com",
+      "established": "19620619",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20261008",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 36820948,
+          "shares_after": 36820948,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20261008",
+          "stock_type": "1",
+          "shares_before": 36820948,
+          "shares_change": 7308,
+          "shares_after": 36828256,
+          "unit_price": 30759,
+          "estimated": false,
+          "note": "장내매수(+) 10%이상",
+          "reason_text": "신규주요주주(+)"
+        }
+      ],
+      "total_buy_amount": 1129211941909,
+      "total_sell_amount": 0,
+      "net_amount": 1129211941909,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000018",
+      "obligation_date": "20261008",
+      "net_amount_detail": 224786772,
+      "total_buy_amount_detail": 224786772,
+      "total_sell_amount_detail": 0,
+      "net_amount_basis": "stake"
+    }
+  ]
+}
