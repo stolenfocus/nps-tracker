@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T19:00:19.306957",
+  "count": 1,
+  "summary": {
+    "신규": 1
+  },
+  "highlights": [
+    "현대엘리베이터"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "현대엘리베이터",
+      "stock_code": "017800",
+      "change_type": "신규",
+      "stake_pct": "10.19",
+      "stake_change": "10.19",
+      "stake_prev_pct": null,
+      "ref_price": 69500,
+      "ref_date": "20261105",
+      "per": 10.37,
+      "pbr": 1.86,
+      "eps": 4857.0,
+      "bps": 30029.0,
+      "roe": 32.43,
+      "debt_ratio": 191.18,
+      "revenue_growth": 0.55,
+      "op_profit_growth": 20.33,
+      "fin_period": "202606",
+      "ev_ebitda": 10.53,
+      "ebitda": 1621.0,
+      "sector": "기계·장비",
+      "listed_shares": 39092385,
+      "financial_ratio_history": [
+        {
+          "period": "202606",
+          "eps": 4857.0,
+          "bps": 30029.0,
+          "roe": 32.43,
+          "debt_ratio": 191.18,
+          "revenue_growth": 0.55,
+          "op_profit_growth": 20.33
+        },
+        {
+          "period": "202603",
+          "eps": 715.0,
+          "bps": 26386.0,
+          "roe": 24.3,
+          "debt_ratio": 258.81,
+          "revenue_growth": -8.17,
+          "op_profit_growth": -16.34
+        },
+        {
+          "period": "202512",
+          "eps": 6703.0,
+          "bps": 37450.0,
+          "roe": 20.11,
+          "debt_ratio": 157.77,
+          "revenue_growth": -14.48,
+          "op_profit_growth": -7.32
+        },
+        {
+          "period": "202509",
+          "eps": 5923.0,
+          "bps": 35910.0,
+          "roe": 26.04,
+          "debt_ratio": 156.68,
+          "revenue_growth": -12.66,
+          "op_profit_growth": -2.92
+        },
+        {
+          "period": "202506",
+          "eps": 2161.0,
+          "bps": 32725.0,
+          "roe": 19.97,
+          "debt_ratio": 156.39,
+          "revenue_growth": -12.06,
+          "op_profit_growth": 15.73
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 1621.0,
+          "ev_ebitda": 10.53,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 2780.0,
+          "ev_ebitda": 12.22,
+          "eva": 481.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 2911.0,
+          "ev_ebitda": 8.46,
+          "eva": 605.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1312.0,
+          "ev_ebitda": 16.51,
+          "eva": -482.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 845.0,
+          "ev_ebitda": 16.97,
+          "eva": -752.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "HYUNDAI ELEVATOR CO.,LTD",
+      "ceo": "조재천",
+      "homepage": "www.hyundaielevator.co.kr",
+      "established": "19840523",
+      "trades": [
+        {
+          "reason": "33",
+          "trade_date": "20261030",
+          "stock_type": "1",
+          "shares_before": 0,
+          "shares_change": 3763982,
+          "shares_after": 3763982,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "기존보유",
+          "reason_text": "신규보고(+)"
+        },
+        {
+          "reason": "32",
+          "trade_date": "20261030",
+          "stock_type": "1",
+          "shares_before": 3763982,
+          "shares_change": 0,
+          "shares_after": 3763982,
+          "unit_price": 0,
+          "estimated": false,
+          "note": "주식소각",
+          "reason_text": "신규주요주주(+)"
+        },
+        {
+          "reason": "02",
+          "trade_date": "20261030",
+          "stock_type": "1",
+          "shares_before": 3763982,
+          "shares_change": -32288,
+          "shares_after": 3731694,
+          "unit_price": 67617,
+          "estimated": false,
+          "note": "-",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 269353268268,
+      "total_sell_amount": 0,
+      "net_amount": 269353268268,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000158",
+      "obligation_date": "20261030",
+      "net_amount_detail": -2183217696,
+      "total_buy_amount_detail": 0,
+      "total_sell_amount_detail": 2183217696,
+      "net_amount_basis": "stake"
+    }
+  ]
+}
