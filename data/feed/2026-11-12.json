@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T19:00:17.711438",
+  "generated_at": "2026-11-18T09:03:45.500750",
   "count": 1,
   "summary": {
     "감소": 1
@@ -16,22 +16,68 @@
       "stake_pct": "9.52",
       "stake_change": "-0.13",
       "stake_prev_pct": 9.65,
-      "ref_price": 93600,
+      "ref_price": 93400,
       "ref_date": "20261112",
-      "per": 101.41,
-      "pbr": 5.38,
-      "eps": 924,
-      "bps": 17419,
-      "roe": 0,
-      "debt_ratio": 0,
-      "revenue_growth": 0,
-      "op_profit_growth": 0,
-      "fin_period": "",
+      "per": 92.75,
+      "pbr": 4.92,
+      "eps": 3188,
+      "bps": 20801,
+      "roe": 16.37,
+      "debt_ratio": 52.68,
+      "revenue_growth": 55.93,
+      "op_profit_growth": 941.38,
+      "fin_period": "202609",
       "ev_ebitda": 0,
       "ebitda": 0,
       "sector": "전기·전자",
       "listed_shares": 49416925,
-      "financial_ratio_history": [],
+      "financial_ratio_history": [
+        {
+          "period": "202609",
+          "eps": 3188,
+          "bps": 20801,
+          "roe": 16.37,
+          "debt_ratio": 52.68,
+          "revenue_growth": 55.93,
+          "op_profit_growth": 941.38
+        },
+        {
+          "period": "202606",
+          "eps": 2088,
+          "bps": 19768,
+          "roe": 11.01,
+          "debt_ratio": 40.02,
+          "revenue_growth": 62.02,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202603",
+          "eps": 921,
+          "bps": 18590,
+          "roe": 5.01,
+          "debt_ratio": 30.1,
+          "revenue_growth": 60.8,
+          "op_profit_growth": 0.0
+        },
+        {
+          "period": "202512",
+          "eps": 963,
+          "bps": 18158,
+          "roe": 5.37,
+          "debt_ratio": 31.28,
+          "revenue_growth": 19.41,
+          "op_profit_growth": 335.74
+        },
+        {
+          "period": "202509",
+          "eps": 445,
+          "bps": 17705,
+          "roe": 2.51,
+          "debt_ratio": 29.81,
+          "revenue_growth": 9.01,
+          "op_profit_growth": 16.69
+        }
+      ],
       "ebitda_history": [],
       "sector_detail": "",
       "nxt_available": false,
