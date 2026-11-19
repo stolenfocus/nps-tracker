@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-18T09:04:27.657025",
+  "generated_at": "2026-11-19T09:43:49.062152",
   "count": 3,
   "summary": {
     "감소": 2,
@@ -21,8 +21,8 @@
       "stake_prev_pct": null,
       "ref_price": 82600,
       "ref_date": "20261116",
-      "per": 92.53,
-      "pbr": 4.91,
+      "per": 87.88,
+      "pbr": 4.66,
       "eps": 3188,
       "bps": 20801,
       "roe": 16.37,
@@ -30,8 +30,8 @@
       "revenue_growth": 55.93,
       "op_profit_growth": 941.38,
       "fin_period": "202609",
-      "ev_ebitda": 0,
-      "ebitda": 0,
+      "ev_ebitda": 27.61,
+      "ebitda": 1677,
       "sector": "전기·전자",
       "listed_shares": 49416925,
       "financial_ratio_history": [
@@ -81,7 +81,38 @@
           "op_profit_growth": 16.69
         }
       ],
-      "ebitda_history": [],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 1677,
+          "ev_ebitda": 27.61,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1496,
+          "ev_ebitda": 14.52,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1287,
+          "ev_ebitda": 4.49,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1388,
+          "ev_ebitda": 8.47,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 3373,
+          "ev_ebitda": 2.4,
+          "eva": 0.0
+        }
+      ],
       "sector_detail": "",
       "nxt_available": false,
       "name_eng": "DAEDUCK ELECTRONICS CO.,LTD",
@@ -157,8 +188,8 @@
       "stake_prev_pct": 10.83,
       "ref_price": 69000,
       "ref_date": "20261116",
-      "per": 29.99,
-      "pbr": 4.08,
+      "per": 29.77,
+      "pbr": 4.05,
       "eps": 413,
       "bps": 15552,
       "roe": 2.59,
@@ -166,8 +197,8 @@
       "revenue_growth": 11.3,
       "op_profit_growth": 37.69,
       "fin_period": "202609",
-      "ev_ebitda": 0,
-      "ebitda": 0,
+      "ev_ebitda": 52.44,
+      "ebitda": 267,
       "sector": "일반서비스",
       "listed_shares": 38220000,
       "financial_ratio_history": [
@@ -217,7 +248,38 @@
           "op_profit_growth": -67.76
         }
       ],
-      "ebitda_history": [],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 267,
+          "ev_ebitda": 52.44,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 585,
+          "ev_ebitda": 56.0,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 932,
+          "ev_ebitda": 20.03,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 503,
+          "ev_ebitda": 45.16,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 370,
+          "ev_ebitda": 55.13,
+          "eva": 0.0
+        }
+      ],
       "sector_detail": "",
       "nxt_available": false,
       "name_eng": "KEPCO Engineering & Construction Company, Inc",
@@ -713,8 +775,8 @@
       "stake_prev_pct": 10.02,
       "ref_price": 75900,
       "ref_date": "20261116",
-      "per": 13.81,
-      "pbr": 0.95,
+      "per": 13.62,
+      "pbr": 0.93,
       "eps": 12760,
       "bps": 93353,
       "roe": 14.38,
@@ -722,8 +784,8 @@
       "revenue_growth": 1.12,
       "op_profit_growth": 49.89,
       "fin_period": "202609",
-      "ev_ebitda": 0,
-      "ebitda": 0,
+      "ev_ebitda": 2.36,
+      "ebitda": 1117,
       "sector": "음식료·담배",
       "listed_shares": 8841801,
       "financial_ratio_history": [
@@ -773,7 +835,38 @@
           "op_profit_growth": -24.06
         }
       ],
-      "ebitda_history": [],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 1117,
+          "ev_ebitda": 2.36,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1522,
+          "ev_ebitda": 3.69,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1940,
+          "ev_ebitda": 3.38,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1741,
+          "ev_ebitda": 2.37,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 983,
+          "ev_ebitda": 3.27,
+          "eva": 0.0
+        }
+      ],
       "sector_detail": "",
       "nxt_available": false,
       "name_eng": "BINGGRAE CO.,LTD",

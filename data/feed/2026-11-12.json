@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-18T09:03:45.500750",
+  "generated_at": "2026-11-19T09:43:15.316951",
   "count": 1,
   "summary": {
     "감소": 1
@@ -18,8 +18,8 @@
       "stake_prev_pct": 9.65,
       "ref_price": 93400,
       "ref_date": "20261112",
-      "per": 92.75,
-      "pbr": 4.92,
+      "per": 87.88,
+      "pbr": 4.66,
       "eps": 3188,
       "bps": 20801,
       "roe": 16.37,
@@ -27,8 +27,8 @@
       "revenue_growth": 55.93,
       "op_profit_growth": 941.38,
       "fin_period": "202609",
-      "ev_ebitda": 0,
-      "ebitda": 0,
+      "ev_ebitda": 27.61,
+      "ebitda": 1677,
       "sector": "전기·전자",
       "listed_shares": 49416925,
       "financial_ratio_history": [
@@ -78,7 +78,38 @@
           "op_profit_growth": 16.69
         }
       ],
-      "ebitda_history": [],
+      "ebitda_history": [
+        {
+          "period": "202606",
+          "ebitda": 1677,
+          "ev_ebitda": 27.61,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1496,
+          "ev_ebitda": 14.52,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1287,
+          "ev_ebitda": 4.49,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1388,
+          "ev_ebitda": 8.47,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 3373,
+          "ev_ebitda": 2.4,
+          "eva": 0.0
+        }
+      ],
       "sector_detail": "",
       "nxt_available": false,
       "name_eng": "DAEDUCK ELECTRONICS CO.,LTD",
