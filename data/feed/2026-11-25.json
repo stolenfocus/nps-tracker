@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T19:00:34.408621",
+  "count": 1,
+  "summary": {
+    "감소": 1
+  },
+  "highlights": [
+    "SNT모티브"
+  ],
+  "disclosures": [
+    {
+      "stock_name": "SNT모티브",
+      "stock_code": "064960",
+      "change_type": "감소",
+      "stake_pct": "9.99",
+      "stake_change": "-0.01",
+      "stake_prev_pct": 10.0,
+      "ref_price": 24950,
+      "ref_date": "20261125",
+      "per": 9.51,
+      "pbr": 0.59,
+      "eps": 2173,
+      "bps": 43295,
+      "roe": 5.05,
+      "debt_ratio": 31.3,
+      "revenue_growth": -0.96,
+      "op_profit_growth": -4.18,
+      "fin_period": "202609",
+      "ev_ebitda": 2.33,
+      "ebitda": 929,
+      "sector": "운송장비·부품",
+      "listed_shares": 23834272,
+      "financial_ratio_history": [
+        {
+          "period": "202609",
+          "eps": 2173,
+          "bps": 43295,
+          "roe": 5.05,
+          "debt_ratio": 31.3,
+          "revenue_growth": -0.96,
+          "op_profit_growth": -4.18
+        },
+        {
+          "period": "202606",
+          "eps": 2042,
+          "bps": 43548,
+          "roe": 4.73,
+          "debt_ratio": 26.89,
+          "revenue_growth": -2.09,
+          "op_profit_growth": -4.59
+        },
+        {
+          "period": "202603",
+          "eps": 1043,
+          "bps": 43594,
+          "roe": 2.42,
+          "debt_ratio": 23.75,
+          "revenue_growth": -4.68,
+          "op_profit_growth": -6.41
+        },
+        {
+          "period": "202512",
+          "eps": 2916,
+          "bps": 42770,
+          "roe": 6.94,
+          "debt_ratio": 25.5,
+          "revenue_growth": 3.87,
+          "op_profit_growth": 4.51
+        },
+        {
+          "period": "202509",
+          "eps": 2379,
+          "bps": 42536,
+          "roe": 5.67,
+          "debt_ratio": 26.66,
+          "revenue_growth": 4.64,
+          "op_profit_growth": 3.68
+        }
+      ],
+      "ebitda_history": [
+        {
+          "period": "202609",
+          "ebitda": 929,
+          "ev_ebitda": 2.33,
+          "eva": 0.0
+        },
+        {
+          "period": "202512",
+          "ebitda": 1328,
+          "ev_ebitda": 3.51,
+          "eva": 0.0
+        },
+        {
+          "period": "202412",
+          "ebitda": 1272,
+          "ev_ebitda": 0.84,
+          "eva": 0.0
+        },
+        {
+          "period": "202312",
+          "ebitda": 1471,
+          "ev_ebitda": 1.49,
+          "eva": 0.0
+        },
+        {
+          "period": "202212",
+          "ebitda": 1432,
+          "ev_ebitda": 1.8,
+          "eva": 0.0
+        }
+      ],
+      "sector_detail": "",
+      "nxt_available": false,
+      "name_eng": "SNT MOTIV CO.,LTD",
+      "ceo": "권형순",
+      "homepage": "www.sntdaewoo.com",
+      "established": "20020206",
+      "trades": [
+        {
+          "reason": "02",
+          "trade_date": "20261119",
+          "stock_type": "1",
+          "shares_before": 2384013,
+          "shares_change": -1846,
+          "shares_after": 2382167,
+          "unit_price": 25427,
+          "estimated": false,
+          "note": "10%미만",
+          "reason_text": "장내매도(-)"
+        }
+      ],
+      "total_buy_amount": 0,
+      "total_sell_amount": 60603403,
+      "net_amount": -60603403,
+      "dart_link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000255",
+      "obligation_date": "20261119",
+      "net_amount_detail": -46938242,
+      "total_buy_amount_detail": 0,
+      "total_sell_amount_detail": 46938242,
+      "net_amount_basis": "stake"
+    }
+  ]
+}
